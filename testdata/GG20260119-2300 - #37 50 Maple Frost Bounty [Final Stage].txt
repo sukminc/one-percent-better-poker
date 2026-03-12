@@ -1,0 +1,2333 @@
+Poker Hand #TM92115252: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level4(1,500/3,000) - 2026/01/19 18:34:48
+Table '29' 8-max Seat #8 is the button
+Seat 2: a07bdad8 (62,872 in chips)
+Seat 3: Hero (36,809 in chips)
+Seat 4: 85c62778 (92,438 in chips)
+Seat 5: ecc77b08 (326,810 in chips)
+Seat 6: fdd26bc6 (67,612 in chips)
+Seat 7: ada2c503 (144,394 in chips)
+Seat 8: 731867e5 (270,797 in chips)
+ecc77b08: posts the ante 350
+ada2c503: posts the ante 350
+85c62778: posts the ante 350
+731867e5: posts the ante 350
+fdd26bc6: posts the ante 350
+Hero: posts the ante 350
+a07bdad8: posts the ante 350
+a07bdad8: posts small blind 1,500
+Hero: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to a07bdad8 
+Dealt to Hero [Kd Jc]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+85c62778: folds
+ecc77b08: folds
+fdd26bc6: folds
+ada2c503: folds
+731867e5: folds
+a07bdad8: raises 59,522 to 62,522 and is all-in
+Hero: calls 33,459 and is all-in
+Uncalled bet (26,063) returned to a07bdad8
+a07bdad8: shows [As 6c]
+Hero: shows [Kd Jc]
+*** FLOP *** [Qs 7h 9h]
+*** TURN *** [Qs 7h 9h] [8s]
+*** RIVER *** [Qs 7h 9h 8s] [4h]
+*** SHOWDOWN ***
+a07bdad8 collected 75,368 from pot
+*** SUMMARY ***
+Total pot 75,368 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 7h 9h 8s 4h]
+Seat 2: a07bdad8 (small blind) showed [As 6c] and won (75,368) with Ace high
+Seat 3: Hero (big blind) showed [Kd Jc] and lost with King high
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: fdd26bc6 folded before Flop
+Seat 7: ada2c503 folded before Flop
+Seat 8: 731867e5 (button) folded before Flop
+
+
+Poker Hand #TM92115235: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level4(1,500/3,000) - 2026/01/19 18:34:04
+Table '29' 8-max Seat #7 is the button
+Seat 2: a07bdad8 (54,772 in chips)
+Seat 3: Hero (37,159 in chips)
+Seat 4: 85c62778 (95,788 in chips)
+Seat 5: ecc77b08 (327,160 in chips)
+Seat 6: fdd26bc6 (67,962 in chips)
+Seat 7: ada2c503 (144,744 in chips)
+Seat 8: 731867e5 (274,147 in chips)
+ecc77b08: posts the ante 350
+ada2c503: posts the ante 350
+85c62778: posts the ante 350
+731867e5: posts the ante 350
+fdd26bc6: posts the ante 350
+Hero: posts the ante 350
+a07bdad8: posts the ante 350
+731867e5: posts small blind 1,500
+a07bdad8: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to a07bdad8 
+Dealt to Hero [3s Ah]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+Hero: folds
+85c62778: calls 3,000
+ecc77b08: folds
+fdd26bc6: folds
+ada2c503: folds
+731867e5: calls 1,500
+a07bdad8: checks
+*** FLOP *** [7h Jc 9h]
+731867e5: checks
+a07bdad8: checks
+85c62778: checks
+*** TURN *** [7h Jc 9h] [Qc]
+731867e5: checks
+a07bdad8: checks
+85c62778: checks
+*** RIVER *** [7h Jc 9h Qc] [2s]
+731867e5: checks
+a07bdad8: checks
+85c62778: checks
+731867e5: shows [2h 8d] (a pair of Twos)
+a07bdad8: shows [9d Ad] (a pair of Nines)
+85c62778: shows [6d 6h] (a pair of Sixes)
+*** SHOWDOWN ***
+a07bdad8 collected 11,450 from pot
+*** SUMMARY ***
+Total pot 11,450 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Jc 9h Qc 2s]
+Seat 2: a07bdad8 (big blind) showed [9d Ad] and won (11,450) with a pair of Nines
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 showed [6d 6h] and lost with a pair of Sixes
+Seat 5: ecc77b08 folded before Flop
+Seat 6: fdd26bc6 folded before Flop
+Seat 7: ada2c503 (button) folded before Flop
+Seat 8: 731867e5 (small blind) showed [2h 8d] and lost with a pair of Twos
+
+
+Poker Hand #TM92115228: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level4(1,500/3,000) - 2026/01/19 18:33:33
+Table '29' 8-max Seat #6 is the button
+Seat 2: a07bdad8 (55,122 in chips)
+Seat 3: Hero (37,509 in chips)
+Seat 4: 85c62778 (80,474 in chips)
+Seat 5: ecc77b08 (327,510 in chips)
+Seat 6: fdd26bc6 (68,312 in chips)
+Seat 7: ada2c503 (148,094 in chips)
+Seat 8: 731867e5 (284,711 in chips)
+ecc77b08: posts the ante 350
+85c62778: posts the ante 350
+ada2c503: posts the ante 350
+731867e5: posts the ante 350
+fdd26bc6: posts the ante 350
+Hero: posts the ante 350
+a07bdad8: posts the ante 350
+ada2c503: posts small blind 1,500
+731867e5: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to a07bdad8 
+Dealt to Hero [6s Jh]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+a07bdad8: folds
+Hero: folds
+85c62778: calls 3,000
+ecc77b08: folds
+fdd26bc6: folds
+ada2c503: calls 1,500
+731867e5: checks
+*** FLOP *** [Tc 5c Kc]
+ada2c503: checks
+731867e5: checks
+85c62778: checks
+*** TURN *** [Tc 5c Kc] [5d]
+ada2c503: checks
+731867e5: bets 7,214
+85c62778: calls 7,214
+ada2c503: folds
+*** RIVER *** [Tc 5c Kc 5d] [4s]
+731867e5: checks
+85c62778: checks
+731867e5: shows [2d Ac] (a pair of Fives)
+85c62778: shows [9s 9c] (two pair, Nines and Fives)
+*** SHOWDOWN ***
+85c62778 collected 25,878 from pot
+*** SUMMARY ***
+Total pot 25,878 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 5c Kc 5d 4s]
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 showed [9s 9c] and won (25,878) with two pair, Nines and Fives
+Seat 5: ecc77b08 folded before Flop
+Seat 6: fdd26bc6 (button) folded before Flop
+Seat 7: ada2c503 (small blind) folded on the Turn
+Seat 8: 731867e5 (big blind) showed [2d Ac] and lost with a pair of Fives
+
+
+Poker Hand #TM92115217: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level4(1,500/3,000) - 2026/01/19 18:33:06
+Table '29' 8-max Seat #5 is the button
+Seat 1: 8dea51ef (462,641 in chips)
+Seat 2: a07bdad8 (55,472 in chips)
+Seat 3: Hero (37,859 in chips)
+Seat 4: 85c62778 (80,824 in chips)
+Seat 5: ecc77b08 (317,560 in chips)
+Seat 6: fdd26bc6 (70,162 in chips)
+Seat 7: ada2c503 (154,444 in chips)
+Seat 8: 731867e5 (285,061 in chips)
+ecc77b08: posts the ante 350
+85c62778: posts the ante 350
+ada2c503: posts the ante 350
+8dea51ef: posts the ante 350
+731867e5: posts the ante 350
+fdd26bc6: posts the ante 350
+Hero: posts the ante 350
+a07bdad8: posts the ante 350
+fdd26bc6: posts small blind 1,500
+ada2c503: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [3c 6h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+731867e5: folds
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: raises 3,000 to 6,000
+fdd26bc6: folds
+ada2c503: calls 3,000
+*** FLOP *** [4d Qd 7c]
+ada2c503: checks
+ecc77b08: bets 6,000
+ada2c503: folds
+Uncalled bet (6,000) returned to ecc77b08
+*** SHOWDOWN ***
+ecc77b08 collected 16,300 from pot
+*** SUMMARY ***
+Total pot 16,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d Qd 7c]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 (button) won (16,300)
+Seat 6: fdd26bc6 (small blind) folded before Flop
+Seat 7: ada2c503 (big blind) folded on the Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92115206: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level4(1,500/3,000) - 2026/01/19 18:32:28
+Table '29' 8-max Seat #4 is the button
+Seat 1: 8dea51ef (462,991 in chips)
+Seat 2: a07bdad8 (88,753 in chips)
+Seat 3: Hero (38,209 in chips)
+Seat 4: 85c62778 (81,174 in chips)
+Seat 5: ecc77b08 (319,410 in chips)
+Seat 6: fdd26bc6 (33,281 in chips)
+Seat 7: ada2c503 (154,794 in chips)
+Seat 8: 731867e5 (285,411 in chips)
+ecc77b08: posts the ante 350
+85c62778: posts the ante 350
+ada2c503: posts the ante 350
+8dea51ef: posts the ante 350
+731867e5: posts the ante 350
+fdd26bc6: posts the ante 350
+Hero: posts the ante 350
+a07bdad8: posts the ante 350
+ecc77b08: posts small blind 1,500
+fdd26bc6: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [8d Qs]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+ada2c503: folds
+731867e5: folds
+8dea51ef: folds
+a07bdad8: raises 3,000 to 6,000
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+fdd26bc6: raises 26,931 to 32,931 and is all-in
+a07bdad8: calls 26,931
+fdd26bc6: shows [Kh Kd]
+a07bdad8: shows [Qd Ks]
+*** FLOP *** [8h Ah 3c]
+*** TURN *** [8h Ah 3c] [2h]
+*** RIVER *** [8h Ah 3c 2h] [Ac]
+*** SHOWDOWN ***
+fdd26bc6 collected 70,162 from pot
+*** SUMMARY ***
+Total pot 70,162 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h Ah 3c 2h Ac]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 showed [Qd Ks] and lost with a pair of Aces
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 (button) folded before Flop
+Seat 5: ecc77b08 (small blind) folded before Flop
+Seat 6: fdd26bc6 (big blind) showed [Kh Kd] and won (70,162) with two pair, Aces and Kings
+Seat 7: ada2c503 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92115182: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level4(1,500/3,000) - 2026/01/19 18:31:20
+Table '29' 8-max Seat #3 is the button
+Seat 1: 8dea51ef (463,341 in chips)
+Seat 2: a07bdad8 (89,103 in chips)
+Seat 3: Hero (38,559 in chips)
+Seat 4: 85c62778 (83,024 in chips)
+Seat 5: ecc77b08 (322,760 in chips)
+Seat 6: fdd26bc6 (33,631 in chips)
+Seat 7: ada2c503 (74,097 in chips)
+Seat 8: 731867e5 (359,508 in chips)
+ecc77b08: posts the ante 350
+ada2c503: posts the ante 350
+85c62778: posts the ante 350
+8dea51ef: posts the ante 350
+731867e5: posts the ante 350
+fdd26bc6: posts the ante 350
+Hero: posts the ante 350
+a07bdad8: posts the ante 350
+85c62778: posts small blind 1,500
+ecc77b08: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [8d 9h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+fdd26bc6: folds
+ada2c503: raises 3,000 to 6,000
+731867e5: calls 6,000
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+*** FLOP *** [6s Ks As]
+ada2c503: bets 4,800
+731867e5: calls 4,800
+*** TURN *** [6s Ks As] [Kc]
+ada2c503: checks
+731867e5: bets 15,537
+ada2c503: calls 15,537
+*** RIVER *** [6s Ks As Kc] [6h]
+ada2c503: bets 47,410 and is all-in
+731867e5: calls 47,410
+ada2c503: shows [Ac Ad] (a full house, Aces full of Kings)
+731867e5: shows [Kh Jh] (a full house, Kings full of Sixes)
+*** SHOWDOWN ***
+ada2c503 collected 154,794 from pot
+*** SUMMARY ***
+Total pot 154,794 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Ks As Kc 6h]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: 85c62778 (small blind) folded before Flop
+Seat 5: ecc77b08 (big blind) folded before Flop
+Seat 6: fdd26bc6 folded before Flop
+Seat 7: ada2c503 showed [Ac Ad] and won (154,794) with a full house, Aces full of Kings
+Seat 8: 731867e5 showed [Kh Jh] and lost with a full house, Kings full of Sixes
+
+
+Poker Hand #TM92115169: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level4(1,500/3,000) - 2026/01/19 18:30:45
+Table '29' 8-max Seat #2 is the button
+Seat 1: 8dea51ef (463,691 in chips)
+Seat 2: a07bdad8 (89,453 in chips)
+Seat 3: Hero (40,409 in chips)
+Seat 4: 85c62778 (89,374 in chips)
+Seat 5: ecc77b08 (312,810 in chips)
+Seat 6: fdd26bc6 (33,981 in chips)
+Seat 7: ada2c503 (74,447 in chips)
+Seat 8: 731867e5 (359,858 in chips)
+ecc77b08: posts the ante 350
+ada2c503: posts the ante 350
+85c62778: posts the ante 350
+8dea51ef: posts the ante 350
+731867e5: posts the ante 350
+fdd26bc6: posts the ante 350
+Hero: posts the ante 350
+a07bdad8: posts the ante 350
+Hero: posts small blind 1,500
+85c62778: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Ac 4s]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+ecc77b08: raises 3,000 to 6,000
+fdd26bc6: folds
+ada2c503: folds
+731867e5: folds
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+85c62778: calls 3,000
+*** FLOP *** [3c 7d 2d]
+85c62778: checks
+ecc77b08: bets 8,150
+85c62778: folds
+Uncalled bet (8,150) returned to ecc77b08
+*** SHOWDOWN ***
+ecc77b08 collected 16,300 from pot
+*** SUMMARY ***
+Total pot 16,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 7d 2d]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: 85c62778 (big blind) folded on the Flop
+Seat 5: ecc77b08 won (16,300)
+Seat 6: fdd26bc6 folded before Flop
+Seat 7: ada2c503 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92115160: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level4(1,500/3,000) - 2026/01/19 18:30:11
+Table '29' 8-max Seat #1 is the button
+Seat 1: 8dea51ef (464,041 in chips)
+Seat 2: a07bdad8 (91,303 in chips)
+Seat 3: Hero (43,759 in chips)
+Seat 4: 85c62778 (89,724 in chips)
+Seat 5: ecc77b08 (313,160 in chips)
+Seat 6: fdd26bc6 (34,331 in chips)
+Seat 7: ada2c503 (74,797 in chips)
+Seat 8: 731867e5 (352,908 in chips)
+ecc77b08: posts the ante 350
+ada2c503: posts the ante 350
+85c62778: posts the ante 350
+8dea51ef: posts the ante 350
+731867e5: posts the ante 350
+fdd26bc6: posts the ante 350
+Hero: posts the ante 350
+a07bdad8: posts the ante 350
+a07bdad8: posts small blind 1,500
+Hero: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Jh 9s]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+85c62778: folds
+ecc77b08: folds
+fdd26bc6: folds
+ada2c503: folds
+731867e5: raises 3,000 to 6,000
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+Uncalled bet (3,000) returned to 731867e5
+*** SHOWDOWN ***
+731867e5 collected 10,300 from pot
+*** SUMMARY ***
+Total pot 10,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8dea51ef (button) folded before Flop
+Seat 2: a07bdad8 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: fdd26bc6 folded before Flop
+Seat 7: ada2c503 folded before Flop
+Seat 8: 731867e5 collected (10,300)
+
+
+Poker Hand #TM92115149: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:29:43
+Table '29' 8-max Seat #8 is the button
+Seat 1: 8dea51ef (469,341 in chips)
+Seat 2: a07bdad8 (94,103 in chips)
+Seat 3: Hero (44,059 in chips)
+Seat 4: 85c62778 (90,024 in chips)
+Seat 5: ecc77b08 (303,560 in chips)
+Seat 6: fdd26bc6 (34,631 in chips)
+Seat 7: ada2c503 (75,097 in chips)
+Seat 8: 731867e5 (353,208 in chips)
+ecc77b08: posts the ante 300
+ada2c503: posts the ante 300
+85c62778: posts the ante 300
+731867e5: posts the ante 300
+8dea51ef: posts the ante 300
+fdd26bc6: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+8dea51ef: posts small blind 1,250
+a07bdad8: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [2d 6h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+Hero: folds
+85c62778: folds
+ecc77b08: raises 2,500 to 5,000
+fdd26bc6: folds
+ada2c503: folds
+731867e5: folds
+8dea51ef: calls 3,750
+a07bdad8: folds
+*** FLOP *** [8c Qs 2h]
+8dea51ef: checks
+ecc77b08: bets 5,000
+8dea51ef: folds
+Uncalled bet (5,000) returned to ecc77b08
+*** SHOWDOWN ***
+ecc77b08 collected 14,900 from pot
+*** SUMMARY ***
+Total pot 14,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c Qs 2h]
+Seat 1: 8dea51ef (small blind) folded on the Flop
+Seat 2: a07bdad8 (big blind) folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 won (14,900)
+Seat 6: fdd26bc6 folded before Flop
+Seat 7: ada2c503 folded before Flop
+Seat 8: 731867e5 (button) folded before Flop
+
+
+Poker Hand #TM92115135: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:28:59
+Table '29' 8-max Seat #7 is the button
+Seat 1: 8dea51ef (464,741 in chips)
+Seat 2: a07bdad8 (94,403 in chips)
+Seat 3: Hero (44,359 in chips)
+Seat 4: 85c62778 (90,324 in chips)
+Seat 5: ecc77b08 (303,860 in chips)
+Seat 6: fdd26bc6 (34,931 in chips)
+Seat 7: ada2c503 (75,397 in chips)
+Seat 8: 731867e5 (356,008 in chips)
+ecc77b08: posts the ante 300
+ada2c503: posts the ante 300
+85c62778: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+fdd26bc6: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+731867e5: posts small blind 1,250
+8dea51ef: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [4c 3d]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+fdd26bc6: folds
+ada2c503: folds
+731867e5: calls 1,250
+8dea51ef: checks
+*** FLOP *** [3c 3s 8s]
+731867e5: checks
+8dea51ef: checks
+*** TURN *** [3c 3s 8s] [Ad]
+731867e5: checks
+8dea51ef: checks
+*** RIVER *** [3c 3s 8s Ad] [Kc]
+731867e5: checks
+8dea51ef: checks
+731867e5: shows [Td 9h] (a pair of Threes)
+8dea51ef: shows [Qh 6c] (a pair of Threes)
+*** SHOWDOWN ***
+8dea51ef collected 7,400 from pot
+*** SUMMARY ***
+Total pot 7,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 3s 8s Ad Kc]
+Seat 1: 8dea51ef (big blind) showed [Qh 6c] and won (7,400) with a pair of Threes
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: fdd26bc6 folded before Flop
+Seat 7: ada2c503 (button) folded before Flop
+Seat 8: 731867e5 (small blind) showed [Td 9h] and lost with a pair of Threes
+
+
+Poker Hand #TM92115112: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:28:11
+Table '29' 8-max Seat #6 is the button
+Seat 1: 8dea51ef (465,041 in chips)
+Seat 2: a07bdad8 (94,703 in chips)
+Seat 3: Hero (44,659 in chips)
+Seat 4: 85c62778 (93,124 in chips)
+Seat 5: ecc77b08 (304,160 in chips)
+Seat 6: fdd26bc6 (35,231 in chips)
+Seat 7: ada2c503 (82,947 in chips)
+Seat 8: 731867e5 (344,158 in chips)
+ecc77b08: posts the ante 300
+85c62778: posts the ante 300
+ada2c503: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+fdd26bc6: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+ada2c503: posts small blind 1,250
+731867e5: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [8h 6s]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+85c62778: calls 2,500
+ecc77b08: folds
+fdd26bc6: folds
+ada2c503: calls 1,250
+731867e5: checks
+*** FLOP *** [8s 3d 3s]
+ada2c503: checks
+731867e5: checks
+85c62778: checks
+*** TURN *** [8s 3d 3s] [Ts]
+ada2c503: bets 4,750
+731867e5: calls 4,750
+85c62778: folds
+*** RIVER *** [8s 3d 3s Ts] [9d]
+ada2c503: checks
+731867e5: checks
+ada2c503: shows [Qd Ks] (a pair of Threes)
+731867e5: shows [As 5d] (a pair of Threes)
+*** SHOWDOWN ***
+731867e5 collected 19,400 from pot
+*** SUMMARY ***
+Total pot 19,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 3d 3s Ts 9d]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded on the Turn
+Seat 5: ecc77b08 folded before Flop
+Seat 6: fdd26bc6 (button) folded before Flop
+Seat 7: ada2c503 (small blind) showed [Qd Ks] and lost with a pair of Threes
+Seat 8: 731867e5 (big blind) showed [As 5d] and won (19,400) with a pair of Threes
+
+
+Poker Hand #TM92115105: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:27:48
+Table '29' 8-max Seat #5 is the button
+Seat 1: 8dea51ef (465,341 in chips)
+Seat 2: a07bdad8 (95,003 in chips)
+Seat 3: Hero (38,809 in chips)
+Seat 4: 85c62778 (93,424 in chips)
+Seat 5: ecc77b08 (304,460 in chips)
+Seat 6: fdd26bc6 (36,781 in chips)
+Seat 7: ada2c503 (85,747 in chips)
+Seat 8: 731867e5 (344,458 in chips)
+ecc77b08: posts the ante 300
+85c62778: posts the ante 300
+ada2c503: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+fdd26bc6: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+fdd26bc6: posts small blind 1,250
+ada2c503: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Kh As]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+731867e5: folds
+8dea51ef: folds
+a07bdad8: folds
+Hero: raises 2,500 to 5,000
+85c62778: folds
+ecc77b08: folds
+fdd26bc6: folds
+ada2c503: folds
+Uncalled bet (2,500) returned to Hero
+*** SHOWDOWN ***
+Hero collected 8,650 from pot
+*** SUMMARY ***
+Total pot 8,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero collected (8,650)
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 (button) folded before Flop
+Seat 6: fdd26bc6 (small blind) folded before Flop
+Seat 7: ada2c503 (big blind) folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92115099: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:27:28
+Table '29' 8-max Seat #4 is the button
+Seat 1: 8dea51ef (465,641 in chips)
+Seat 2: a07bdad8 (95,303 in chips)
+Seat 3: Hero (39,109 in chips)
+Seat 4: 85c62778 (93,724 in chips)
+Seat 5: ecc77b08 (306,010 in chips)
+Seat 6: fdd26bc6 (39,581 in chips)
+Seat 7: ada2c503 (86,047 in chips)
+Seat 8: 731867e5 (338,608 in chips)
+ecc77b08: posts the ante 300
+85c62778: posts the ante 300
+ada2c503: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+fdd26bc6: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+ecc77b08: posts small blind 1,250
+fdd26bc6: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [5h Ks]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+ada2c503: folds
+731867e5: raises 2,500 to 5,000
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+fdd26bc6: folds
+Uncalled bet (2,500) returned to 731867e5
+*** SHOWDOWN ***
+731867e5 collected 8,650 from pot
+*** SUMMARY ***
+Total pot 8,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 (button) folded before Flop
+Seat 5: ecc77b08 (small blind) folded before Flop
+Seat 6: fdd26bc6 (big blind) folded before Flop
+Seat 7: ada2c503 folded before Flop
+Seat 8: 731867e5 collected (8,650)
+
+
+Poker Hand #TM92115090: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:27:07
+Table '29' 8-max Seat #3 is the button
+Seat 1: 8dea51ef (459,791 in chips)
+Seat 2: a07bdad8 (95,603 in chips)
+Seat 3: Hero (39,409 in chips)
+Seat 4: 85c62778 (95,274 in chips)
+Seat 5: ecc77b08 (308,810 in chips)
+Seat 6: fdd26bc6 (39,881 in chips)
+Seat 7: ada2c503 (86,347 in chips)
+Seat 8: 731867e5 (338,908 in chips)
+ecc77b08: posts the ante 300
+ada2c503: posts the ante 300
+85c62778: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+fdd26bc6: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+85c62778: posts small blind 1,250
+ecc77b08: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [9h 6s]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+fdd26bc6: folds
+ada2c503: folds
+731867e5: folds
+8dea51ef: raises 2,750 to 5,250
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+Uncalled bet (2,750) returned to 8dea51ef
+*** SHOWDOWN ***
+8dea51ef collected 8,650 from pot
+*** SUMMARY ***
+Total pot 8,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8dea51ef collected (8,650)
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: 85c62778 (small blind) folded before Flop
+Seat 5: ecc77b08 (big blind) folded before Flop
+Seat 6: fdd26bc6 folded before Flop
+Seat 7: ada2c503 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92115074: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:26:30
+Table '29' 8-max Seat #2 is the button
+Seat 1: 8dea51ef (475,091 in chips)
+Seat 2: a07bdad8 (74,753 in chips)
+Seat 3: Hero (40,959 in chips)
+Seat 4: 85c62778 (98,074 in chips)
+Seat 5: ecc77b08 (309,110 in chips)
+Seat 6: fdd26bc6 (40,181 in chips)
+Seat 7: ada2c503 (86,647 in chips)
+Seat 8: 731867e5 (339,208 in chips)
+ecc77b08: posts the ante 300
+ada2c503: posts the ante 300
+85c62778: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+fdd26bc6: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+Hero: posts small blind 1,250
+85c62778: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [4s As]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+ecc77b08: folds
+fdd26bc6: folds
+ada2c503: folds
+731867e5: folds
+8dea51ef: raises 2,500 to 5,000
+a07bdad8: raises 10,000 to 15,000
+Hero: folds
+85c62778: folds
+8dea51ef: calls 10,000
+*** FLOP *** [Qs Qh Jc]
+8dea51ef: checks
+a07bdad8: bets 10,000
+8dea51ef: folds
+Uncalled bet (10,000) returned to a07bdad8
+*** SHOWDOWN ***
+a07bdad8 collected 36,150 from pot
+*** SUMMARY ***
+Total pot 36,150 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs Qh Jc]
+Seat 1: 8dea51ef folded on the Flop
+Seat 2: a07bdad8 (button) won (36,150)
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: 85c62778 (big blind) folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: fdd26bc6 folded before Flop
+Seat 7: ada2c503 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92115065: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:26:05
+Table '29' 8-max Seat #1 is the button
+Seat 1: 8dea51ef (469,241 in chips)
+Seat 2: a07bdad8 (76,303 in chips)
+Seat 3: Hero (43,759 in chips)
+Seat 4: 85c62778 (98,374 in chips)
+Seat 5: ecc77b08 (309,410 in chips)
+Seat 6: fdd26bc6 (40,481 in chips)
+Seat 7: ada2c503 (86,947 in chips)
+Seat 8: 731867e5 (339,508 in chips)
+ecc77b08: posts the ante 300
+ada2c503: posts the ante 300
+85c62778: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+fdd26bc6: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+a07bdad8: posts small blind 1,250
+Hero: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [3h 7c]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to ada2c503 
+Dealt to 731867e5 
+85c62778: folds
+ecc77b08: folds
+fdd26bc6: folds
+ada2c503: folds
+731867e5: folds
+8dea51ef: raises 2,500 to 5,000
+a07bdad8: folds
+Hero: folds
+Uncalled bet (2,500) returned to 8dea51ef
+*** SHOWDOWN ***
+8dea51ef collected 8,650 from pot
+*** SUMMARY ***
+Total pot 8,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8dea51ef (button) collected (8,650)
+Seat 2: a07bdad8 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: fdd26bc6 folded before Flop
+Seat 7: ada2c503 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92115045: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:25:04
+Table '29' 8-max Seat #8 is the button
+Seat 1: 8dea51ef (458,691 in chips)
+Seat 2: a07bdad8 (85,353 in chips)
+Seat 3: Hero (44,059 in chips)
+Seat 4: 85c62778 (98,674 in chips)
+Seat 5: ecc77b08 (309,710 in chips)
+Seat 6: fdd26bc6 (40,781 in chips)
+Seat 8: 731867e5 (339,808 in chips)
+ecc77b08: posts the ante 300
+85c62778: posts the ante 300
+731867e5: posts the ante 300
+8dea51ef: posts the ante 300
+fdd26bc6: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+8dea51ef: posts small blind 1,250
+a07bdad8: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [8c 7c]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to fdd26bc6 
+Dealt to 731867e5 
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+fdd26bc6: folds
+731867e5: folds
+8dea51ef: raises 6,250 to 8,750
+a07bdad8: calls 6,250
+*** FLOP *** [5s 6c 3d]
+8dea51ef: checks
+a07bdad8: checks
+*** TURN *** [5s 6c 3d] [4h]
+8dea51ef: bets 6,468
+a07bdad8: folds
+Uncalled bet (6,468) returned to 8dea51ef
+*** SHOWDOWN ***
+8dea51ef collected 19,600 from pot
+*** SUMMARY ***
+Total pot 19,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 6c 3d 4h]
+Seat 1: 8dea51ef (small blind) won (19,600)
+Seat 2: a07bdad8 (big blind) folded on the Turn
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: fdd26bc6 folded before Flop
+Seat 8: 731867e5 (button) folded before Flop
+
+
+Poker Hand #TM92115031: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:24:16
+Table '29' 8-max Seat #5 is the button
+Seat 1: 8dea51ef (447,156 in chips)
+Seat 2: a07bdad8 (85,653 in chips)
+Seat 3: Hero (53,144 in chips)
+Seat 4: 85c62778 (98,974 in chips)
+Seat 5: ecc77b08 (310,010 in chips)
+Seat 8: 731867e5 (341,358 in chips)
+ecc77b08: posts the ante 300
+85c62778: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+731867e5: posts small blind 1,250
+8dea51ef: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Qc Jh]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 731867e5 
+a07bdad8: folds
+Hero: raises 2,500 to 5,000
+85c62778: folds
+ecc77b08: folds
+731867e5: folds
+8dea51ef: calls 2,500
+*** FLOP *** [4c Th 6d]
+8dea51ef: checks
+Hero: bets 3,785
+8dea51ef: calls 3,785
+*** TURN *** [4c Th 6d] [5s]
+8dea51ef: checks
+Hero: checks
+*** RIVER *** [4c Th 6d 5s] [5h]
+8dea51ef: bets 4,124
+Hero: folds
+Uncalled bet (4,124) returned to 8dea51ef
+*** SHOWDOWN ***
+8dea51ef collected 20,620 from pot
+*** SUMMARY ***
+Total pot 20,620 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Th 6d 5s 5h]
+Seat 1: 8dea51ef (big blind) won (20,620)
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded on the River
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 (button) folded before Flop
+Seat 8: 731867e5 (small blind) folded before Flop
+
+
+Poker Hand #TM92115014: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:23:36
+Table '29' 8-max Seat #4 is the button
+Seat 1: 8dea51ef (447,456 in chips)
+Seat 2: a07bdad8 (85,953 in chips)
+Seat 3: Hero (53,444 in chips)
+Seat 4: 85c62778 (99,274 in chips)
+Seat 5: ecc77b08 (277,078 in chips)
+Seat 7: 264ac9a7 (31,432 in chips)
+Seat 8: 731867e5 (341,658 in chips)
+ecc77b08: posts the ante 300
+85c62778: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+264ac9a7: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+ecc77b08: posts small blind 1,250
+264ac9a7: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [5h 2c]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+731867e5: folds
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: raises 257,500 to 260,000
+264ac9a7: calls 28,632 and is all-in
+Uncalled bet (228,868) returned to ecc77b08
+ecc77b08: shows [Jh Ts]
+264ac9a7: shows [8c 8d]
+*** FLOP *** [Kh 3h As]
+*** TURN *** [Kh 3h As] [Js]
+*** RIVER *** [Kh 3h As Js] [9s]
+*** SHOWDOWN ***
+ecc77b08 collected 64,364 from pot
+*** SUMMARY ***
+Total pot 64,364 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 3h As Js 9s]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 (button) folded before Flop
+Seat 5: ecc77b08 (small blind) showed [Jh Ts] and won (64,364) with a pair of Jacks
+Seat 7: 264ac9a7 (big blind) showed [8c 8d] and lost with a pair of Eights
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92114979: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:22:05
+Table '29' 8-max Seat #3 is the button
+Seat 1: 8dea51ef (447,756 in chips)
+Seat 2: a07bdad8 (86,253 in chips)
+Seat 3: Hero (53,744 in chips)
+Seat 4: 85c62778 (100,824 in chips)
+Seat 5: ecc77b08 (194,094 in chips)
+Seat 6: 9ab543ec (79,934 in chips)
+Seat 7: 264ac9a7 (31,732 in chips)
+Seat 8: 731867e5 (341,958 in chips)
+ecc77b08: posts the ante 300
+85c62778: posts the ante 300
+9ab543ec: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+264ac9a7: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+85c62778: posts small blind 1,250
+ecc77b08: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Qd 8h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 9ab543ec 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+9ab543ec: raises 2,750 to 5,250
+264ac9a7: folds
+731867e5: folds
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: calls 2,750
+*** FLOP *** [Jh 9s As]
+ecc77b08: checks
+9ab543ec: checks
+*** TURN *** [Jh 9s As] [8c]
+ecc77b08: bets 7,000
+9ab543ec: calls 7,000
+*** RIVER *** [Jh 9s As 8c] [3s]
+ecc77b08: bets 15,000
+9ab543ec: raises 52,384 to 67,384 and is all-in
+ecc77b08: calls 52,384
+9ab543ec: shows [Kd Ks] (a pair of Kings)
+ecc77b08: shows [Ah Js] (two pair, Aces and Jacks)
+*** SHOWDOWN ***
+ecc77b08 collected 162,918 from pot
+*** SUMMARY ***
+Total pot 162,918 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 9s As 8c 3s]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: 85c62778 (small blind) folded before Flop
+Seat 5: ecc77b08 (big blind) showed [Ah Js] and won (162,918) with two pair, Aces and Jacks
+Seat 6: 9ab543ec showed [Kd Ks] and lost with a pair of Kings
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92114957: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level3(1,250/2,500) - 2026/01/19 18:21:11
+Table '29' 8-max Seat #2 is the button
+Seat 1: 8dea51ef (448,056 in chips)
+Seat 2: a07bdad8 (86,553 in chips)
+Seat 3: Hero (93,596 in chips)
+Seat 4: 85c62778 (59,172 in chips)
+Seat 5: ecc77b08 (194,394 in chips)
+Seat 6: 9ab543ec (80,234 in chips)
+Seat 7: 264ac9a7 (32,032 in chips)
+Seat 8: 731867e5 (342,258 in chips)
+ecc77b08: posts the ante 300
+85c62778: posts the ante 300
+9ab543ec: posts the ante 300
+8dea51ef: posts the ante 300
+731867e5: posts the ante 300
+264ac9a7: posts the ante 300
+Hero: posts the ante 300
+a07bdad8: posts the ante 300
+Hero: posts small blind 1,250
+85c62778: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Jh As]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 9ab543ec 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+ecc77b08: folds
+9ab543ec: folds
+264ac9a7: folds
+731867e5: folds
+8dea51ef: folds
+a07bdad8: folds
+Hero: raises 2,500 to 5,000
+85c62778: calls 2,500
+*** FLOP *** [Ts 6s 2s]
+Hero: checks
+85c62778: checks
+*** TURN *** [Ts 6s 2s] [Jc]
+Hero: bets 6,696
+85c62778: calls 6,696
+*** RIVER *** [Ts 6s 2s Jc] [Tc]
+Hero: bets 13,928
+85c62778: raises 13,928 to 27,856
+Hero: calls 13,928
+85c62778: shows [Td 4d] (three of a kind, Tens)
+Hero: shows [Jh As] (two pair, Jacks and Tens)
+*** SHOWDOWN ***
+85c62778 collected 81,504 from pot
+*** SUMMARY ***
+Total pot 81,504 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 6s 2s Jc Tc]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 (button) folded before Flop
+Seat 3: Hero (small blind) showed [Jh As] and lost with two pair, Jacks and Tens
+Seat 4: 85c62778 (big blind) showed [Td 4d] and won (81,504) with three of a kind, Tens
+Seat 5: ecc77b08 folded before Flop
+Seat 6: 9ab543ec folded before Flop
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92114926: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:19:49
+Table '29' 8-max Seat #1 is the button
+Seat 1: 8dea51ef (433,285 in chips)
+Seat 2: a07bdad8 (97,824 in chips)
+Seat 3: Hero (95,846 in chips)
+Seat 4: 85c62778 (59,422 in chips)
+Seat 5: ecc77b08 (194,644 in chips)
+Seat 6: 9ab543ec (80,484 in chips)
+Seat 7: 264ac9a7 (32,282 in chips)
+Seat 8: 731867e5 (342,508 in chips)
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+9ab543ec: posts the ante 250
+8dea51ef: posts the ante 250
+731867e5: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+a07bdad8: posts small blind 1,000
+Hero: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [5h 3c]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 9ab543ec 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+85c62778: folds
+ecc77b08: folds
+9ab543ec: folds
+264ac9a7: folds
+731867e5: folds
+8dea51ef: raises 2,200 to 4,200
+a07bdad8: calls 3,200
+Hero: folds
+*** FLOP *** [6d Js 5d]
+a07bdad8: checks
+8dea51ef: bets 6,821
+a07bdad8: calls 6,821
+*** TURN *** [6d Js 5d] [9s]
+a07bdad8: checks
+8dea51ef: checks
+*** RIVER *** [6d Js 5d 9s] [3s]
+a07bdad8: checks
+8dea51ef: bets 31,000
+a07bdad8: folds
+Uncalled bet (31,000) returned to 8dea51ef
+*** SHOWDOWN ***
+8dea51ef collected 26,042 from pot
+*** SUMMARY ***
+Total pot 26,042 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d Js 5d 9s 3s]
+Seat 1: 8dea51ef (button) won (26,042)
+Seat 2: a07bdad8 (small blind) folded on the River
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: 9ab543ec folded before Flop
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92114915: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:19:22
+Table '29' 8-max Seat #8 is the button
+Seat 1: 8dea51ef (434,535 in chips)
+Seat 2: a07bdad8 (100,074 in chips)
+Seat 3: Hero (96,096 in chips)
+Seat 4: 85c62778 (59,672 in chips)
+Seat 5: ecc77b08 (194,894 in chips)
+Seat 7: 264ac9a7 (32,532 in chips)
+Seat 8: 731867e5 (338,008 in chips)
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+731867e5: posts the ante 250
+8dea51ef: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+8dea51ef: posts small blind 1,000
+a07bdad8: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Qd 7h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+264ac9a7: folds
+731867e5: raises 2,200 to 4,200
+8dea51ef: folds
+a07bdad8: folds
+Uncalled bet (2,200) returned to 731867e5
+*** SHOWDOWN ***
+731867e5 collected 6,750 from pot
+*** SUMMARY ***
+Total pot 6,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8dea51ef (small blind) folded before Flop
+Seat 2: a07bdad8 (big blind) folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: 731867e5 (button) collected (6,750)
+
+
+Poker Hand #TM92114896: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:18:31
+Table '29' 8-max Seat #7 is the button
+Seat 1: 8dea51ef (481,458 in chips)
+Seat 2: a07bdad8 (100,324 in chips)
+Seat 3: Hero (46,923 in chips)
+Seat 4: 85c62778 (59,922 in chips)
+Seat 5: ecc77b08 (195,144 in chips)
+Seat 7: 264ac9a7 (32,782 in chips)
+Seat 8: 731867e5 (339,258 in chips)
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+8dea51ef: posts the ante 250
+731867e5: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+731867e5: posts small blind 1,000
+8dea51ef: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Kc Kh]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+a07bdad8: folds
+Hero: raises 2,000 to 4,000
+85c62778: folds
+ecc77b08: folds
+264ac9a7: folds
+731867e5: folds
+8dea51ef: raises 477,208 to 481,208 and is all-in
+Hero: calls 42,673 and is all-in
+Uncalled bet (434,535) returned to 8dea51ef
+8dea51ef: shows [Qd Qh]
+Hero: shows [Kc Kh]
+*** FLOP *** [7h 6h 5s]
+*** TURN *** [7h 6h 5s] [8c]
+*** RIVER *** [7h 6h 5s 8c] [2c]
+*** SHOWDOWN ***
+Hero collected 96,096 from pot
+*** SUMMARY ***
+Total pot 96,096 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h 6h 5s 8c 2c]
+Seat 1: 8dea51ef (big blind) showed [Qd Qh] and lost with a pair of Queens
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero showed [Kc Kh] and won (96,096) with a pair of Kings
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 7: 264ac9a7 (button) folded before Flop
+Seat 8: 731867e5 (small blind) folded before Flop
+
+
+Poker Hand #TM92114877: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:17:40
+Table '29' 8-max Seat #5 is the button
+Seat 1: 8dea51ef (481,708 in chips)
+Seat 2: a07bdad8 (100,574 in chips)
+Seat 3: Hero (47,173 in chips)
+Seat 4: 85c62778 (60,172 in chips)
+Seat 5: ecc77b08 (202,082 in chips)
+Seat 7: 264ac9a7 (34,032 in chips)
+Seat 8: 731867e5 (330,070 in chips)
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+8dea51ef: posts the ante 250
+731867e5: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+264ac9a7: posts small blind 1,000
+731867e5: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [3d 9h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: raises 2,000 to 4,000
+264ac9a7: folds
+731867e5: calls 2,000
+*** FLOP *** [4h 7c As]
+731867e5: checks
+ecc77b08: bets 2,688
+731867e5: calls 2,688
+*** TURN *** [4h 7c As] [5c]
+731867e5: checks
+ecc77b08: checks
+*** RIVER *** [4h 7c As 5c] [Ks]
+731867e5: bets 13,708
+ecc77b08: folds
+Uncalled bet (13,708) returned to 731867e5
+*** SHOWDOWN ***
+731867e5 collected 16,126 from pot
+*** SUMMARY ***
+Total pot 16,126 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 7c As 5c Ks]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 (button) folded on the River
+Seat 7: 264ac9a7 (small blind) folded before Flop
+Seat 8: 731867e5 (big blind) won (16,126)
+
+
+Poker Hand #TM92114829: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:15:42
+Table '29' 8-max Seat #4 is the button
+Seat 1: 8dea51ef (481,958 in chips)
+Seat 2: a07bdad8 (56,106 in chips)
+Seat 3: Hero (47,423 in chips)
+Seat 4: 85c62778 (60,422 in chips)
+Seat 5: ecc77b08 (203,332 in chips)
+Seat 6: 7c204252 (41,968 in chips)
+Seat 7: 264ac9a7 (34,282 in chips)
+Seat 8: 731867e5 (330,320 in chips)
+7c204252: posts the ante 250
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+8dea51ef: posts the ante 250
+731867e5: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+ecc77b08: posts small blind 1,000
+7c204252: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Kh Js]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+264ac9a7: folds
+731867e5: folds
+8dea51ef: folds
+a07bdad8: raises 2,000 to 4,000
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+7c204252: calls 2,000
+*** FLOP *** [2c 7h 8c]
+7c204252: checks
+a07bdad8: bets 3,000
+7c204252: raises 5,610 to 8,610
+a07bdad8: calls 5,610
+*** TURN *** [2c 7h 8c] [Tc]
+7c204252: bets 9,313
+a07bdad8: calls 9,313
+*** RIVER *** [2c 7h 8c Tc] [6c]
+7c204252: bets 19,795 and is all-in
+a07bdad8: calls 19,795
+7c204252: shows [9h Jh] (a straight, Jack to Seven)
+a07bdad8: shows [Qs Jc] (a flush Jack high)
+*** SHOWDOWN ***
+a07bdad8 collected 86,436 from pot
+*** SUMMARY ***
+Total pot 86,436 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 7h 8c Tc 6c]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 showed [Qs Jc] and won (86,436) with a flush Jack high
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 (button) folded before Flop
+Seat 5: ecc77b08 (small blind) folded before Flop
+Seat 6: 7c204252 (big blind) showed [9h Jh] and lost with a straight, Jack to Seven
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92114803: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:14:28
+Table '29' 8-max Seat #3 is the button
+Seat 1: 8dea51ef (482,208 in chips)
+Seat 2: a07bdad8 (56,356 in chips)
+Seat 3: Hero (47,673 in chips)
+Seat 4: 85c62778 (61,672 in chips)
+Seat 5: ecc77b08 (223,066 in chips)
+Seat 6: 7c204252 (19,734 in chips)
+Seat 7: 264ac9a7 (34,532 in chips)
+Seat 8: 731867e5 (330,570 in chips)
+7c204252: posts the ante 250
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+8dea51ef: posts the ante 250
+731867e5: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+85c62778: posts small blind 1,000
+ecc77b08: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [7d 9d]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+7c204252: raises 16,000 to 18,000
+264ac9a7: folds
+731867e5: folds
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: raises 27,300 to 45,300
+7c204252: calls 1,484 and is all-in
+Uncalled bet (25,816) returned to ecc77b08
+ecc77b08: shows [Th 8c]
+7c204252: shows [Kc Jc]
+*** FLOP *** [6h Ks 8d]
+*** TURN *** [6h Ks 8d] [7h]
+*** RIVER *** [6h Ks 8d 7h] [As]
+*** SHOWDOWN ***
+7c204252 collected 41,968 from pot
+*** SUMMARY ***
+Total pot 41,968 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h Ks 8d 7h As]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: 85c62778 (small blind) folded before Flop
+Seat 5: ecc77b08 (big blind) showed [Th 8c] and lost with a pair of Eights
+Seat 6: 7c204252 showed [Kc Jc] and won (41,968) with a pair of Kings
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92114758: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:12:37
+Table '29' 8-max Seat #2 is the button
+Seat 1: 8dea51ef (382,458 in chips)
+Seat 2: a07bdad8 (56,606 in chips)
+Seat 3: Hero (48,923 in chips)
+Seat 4: 85c62778 (63,922 in chips)
+Seat 5: ecc77b08 (318,316 in chips)
+Seat 6: 7c204252 (19,984 in chips)
+Seat 7: 264ac9a7 (34,782 in chips)
+Seat 8: 731867e5 (330,820 in chips)
+7c204252: posts the ante 250
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+8dea51ef: posts the ante 250
+731867e5: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+Hero: posts small blind 1,000
+85c62778: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [3d 4s]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+ecc77b08: raises 2,000 to 4,000
+7c204252: folds
+264ac9a7: folds
+731867e5: folds
+8dea51ef: raises 9,000 to 13,000
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: calls 9,000
+*** FLOP *** [Tc 5d Qs]
+ecc77b08: checks
+8dea51ef: bets 15,000
+ecc77b08: calls 15,000
+*** TURN *** [Tc 5d Qs] [9h]
+ecc77b08: checks
+8dea51ef: checks
+*** RIVER *** [Tc 5d Qs 9h] [8h]
+ecc77b08: bets 10,000
+8dea51ef: raises 57,000 to 67,000
+ecc77b08: calls 57,000
+8dea51ef: shows [Qd Jh] (a straight, Queen to Eight)
+ecc77b08: shows [Kd Qh] (a pair of Queens)
+*** SHOWDOWN ***
+8dea51ef collected 195,000 from pot
+*** SUMMARY ***
+Total pot 195,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 5d Qs 9h 8h]
+Seat 1: 8dea51ef showed [Qd Jh] and won (195,000) with a straight, Queen to Eight
+Seat 2: a07bdad8 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: 85c62778 (big blind) folded before Flop
+Seat 5: ecc77b08 showed [Kd Qh] and lost with a pair of Queens
+Seat 6: 7c204252 folded before Flop
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92114749: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:12:10
+Table '29' 8-max Seat #1 is the button
+Seat 1: 8dea51ef (382,708 in chips)
+Seat 2: a07bdad8 (57,856 in chips)
+Seat 3: Hero (51,173 in chips)
+Seat 4: 85c62778 (64,172 in chips)
+Seat 5: ecc77b08 (318,566 in chips)
+Seat 6: 7c204252 (20,234 in chips)
+Seat 7: 264ac9a7 (30,032 in chips)
+Seat 8: 731867e5 (331,070 in chips)
+7c204252: posts the ante 250
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+8dea51ef: posts the ante 250
+731867e5: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+a07bdad8: posts small blind 1,000
+Hero: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [7h Kc]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+85c62778: folds
+ecc77b08: folds
+7c204252: folds
+264ac9a7: raises 27,782 to 29,782 and is all-in
+731867e5: folds
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+Uncalled bet (27,782) returned to 264ac9a7
+*** SHOWDOWN ***
+264ac9a7 collected 7,000 from pot
+*** SUMMARY ***
+Total pot 7,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8dea51ef (button) folded before Flop
+Seat 2: a07bdad8 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: 7c204252 folded before Flop
+Seat 7: 264ac9a7 collected (7,000)
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92114737: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:11:33
+Table '29' 8-max Seat #8 is the button
+Seat 1: 8dea51ef (378,958 in chips)
+Seat 2: a07bdad8 (60,106 in chips)
+Seat 3: Hero (51,423 in chips)
+Seat 4: 85c62778 (64,422 in chips)
+Seat 5: ecc77b08 (318,816 in chips)
+Seat 6: 7c204252 (20,484 in chips)
+Seat 7: 264ac9a7 (30,282 in chips)
+Seat 8: 731867e5 (331,320 in chips)
+7c204252: posts the ante 250
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+731867e5: posts the ante 250
+8dea51ef: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+8dea51ef: posts small blind 1,000
+a07bdad8: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [3s 9h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+7c204252: folds
+264ac9a7: folds
+731867e5: folds
+8dea51ef: calls 1,000
+a07bdad8: checks
+*** FLOP *** [6c Qc Kd]
+8dea51ef: bets 2,000
+a07bdad8: folds
+Uncalled bet (2,000) returned to 8dea51ef
+*** SHOWDOWN ***
+8dea51ef collected 6,000 from pot
+*** SUMMARY ***
+Total pot 6,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c Qc Kd]
+Seat 1: 8dea51ef (small blind) won (6,000)
+Seat 2: a07bdad8 (big blind) folded on the Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: 7c204252 folded before Flop
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: 731867e5 (button) folded before Flop
+
+
+Poker Hand #TM92114727: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:11:12
+Table '29' 8-max Seat #7 is the button
+Seat 1: 8dea51ef (381,208 in chips)
+Seat 2: a07bdad8 (60,356 in chips)
+Seat 3: Hero (51,673 in chips)
+Seat 4: 85c62778 (64,672 in chips)
+Seat 5: ecc77b08 (314,066 in chips)
+Seat 6: 7c204252 (20,734 in chips)
+Seat 7: 264ac9a7 (30,532 in chips)
+Seat 8: 731867e5 (332,570 in chips)
+7c204252: posts the ante 250
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+8dea51ef: posts the ante 250
+731867e5: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+731867e5: posts small blind 1,000
+8dea51ef: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [8s 7h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: raises 2,000 to 4,000
+7c204252: folds
+264ac9a7: folds
+731867e5: folds
+8dea51ef: folds
+Uncalled bet (2,000) returned to ecc77b08
+*** SHOWDOWN ***
+ecc77b08 collected 7,000 from pot
+*** SUMMARY ***
+Total pot 7,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8dea51ef (big blind) folded before Flop
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 collected (7,000)
+Seat 6: 7c204252 folded before Flop
+Seat 7: 264ac9a7 (button) folded before Flop
+Seat 8: 731867e5 (small blind) folded before Flop
+
+
+Poker Hand #TM92114715: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:10:42
+Table '29' 8-max Seat #6 is the button
+Seat 1: 8dea51ef (374,258 in chips)
+Seat 2: a07bdad8 (60,606 in chips)
+Seat 3: Hero (51,923 in chips)
+Seat 4: 85c62778 (64,922 in chips)
+Seat 5: ecc77b08 (314,316 in chips)
+Seat 6: 7c204252 (20,984 in chips)
+Seat 7: 264ac9a7 (31,782 in chips)
+Seat 8: 731867e5 (337,020 in chips)
+7c204252: posts the ante 250
+ecc77b08: posts the ante 250
+85c62778: posts the ante 250
+8dea51ef: posts the ante 250
+731867e5: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+264ac9a7: posts small blind 1,000
+731867e5: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Th 7c]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+8dea51ef: raises 2,200 to 4,200
+a07bdad8: folds
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+7c204252: folds
+264ac9a7: folds
+731867e5: calls 2,200
+*** FLOP *** [As 3c 9d]
+731867e5: checks
+8dea51ef: bets 3,762
+731867e5: folds
+Uncalled bet (3,762) returned to 8dea51ef
+*** SHOWDOWN ***
+8dea51ef collected 11,400 from pot
+*** SUMMARY ***
+Total pot 11,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As 3c 9d]
+Seat 1: 8dea51ef won (11,400)
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: 7c204252 (button) folded before Flop
+Seat 7: 264ac9a7 (small blind) folded before Flop
+Seat 8: 731867e5 (big blind) folded on the Flop
+
+
+Poker Hand #TM92114705: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level2(1,000/2,000) - 2026/01/19 18:10:21
+Table '29' 8-max Seat #5 is the button
+Seat 1: 8dea51ef (374,508 in chips)
+Seat 2: a07bdad8 (55,856 in chips)
+Seat 3: Hero (52,173 in chips)
+Seat 4: 85c62778 (65,172 in chips)
+Seat 5: ecc77b08 (314,566 in chips)
+Seat 6: 7c204252 (22,234 in chips)
+Seat 7: 264ac9a7 (34,032 in chips)
+Seat 8: 731867e5 (337,270 in chips)
+ecc77b08: posts the ante 250
+7c204252: posts the ante 250
+85c62778: posts the ante 250
+8dea51ef: posts the ante 250
+731867e5: posts the ante 250
+264ac9a7: posts the ante 250
+Hero: posts the ante 250
+a07bdad8: posts the ante 250
+7c204252: posts small blind 1,000
+264ac9a7: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [5s 3c]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+731867e5: folds
+8dea51ef: folds
+a07bdad8: raises 2,000 to 4,000
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+7c204252: folds
+264ac9a7: folds
+Uncalled bet (2,000) returned to a07bdad8
+*** SHOWDOWN ***
+a07bdad8 collected 7,000 from pot
+*** SUMMARY ***
+Total pot 7,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 collected (7,000)
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 (button) folded before Flop
+Seat 6: 7c204252 (small blind) folded before Flop
+Seat 7: 264ac9a7 (big blind) folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92114664: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level1(800/1,600) - 2026/01/19 18:08:18
+Table '29' 8-max Seat #4 is the button
+Seat 1: 8dea51ef (326,708 in chips)
+Seat 2: a07bdad8 (56,056 in chips)
+Seat 3: Hero (55,573 in chips)
+Seat 4: 85c62778 (68,572 in chips)
+Seat 5: ecc77b08 (349,966 in chips)
+Seat 6: 7c204252 (24,034 in chips)
+Seat 7: 264ac9a7 (34,232 in chips)
+Seat 8: 731867e5 (340,670 in chips)
+7c204252: posts the ante 200
+ecc77b08: posts the ante 200
+85c62778: posts the ante 200
+8dea51ef: posts the ante 200
+731867e5: posts the ante 200
+264ac9a7: posts the ante 200
+Hero: posts the ante 200
+a07bdad8: posts the ante 200
+ecc77b08: posts small blind 800
+7c204252: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [8c 8h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to 731867e5 
+264ac9a7: folds
+731867e5: raises 1,600 to 3,200
+8dea51ef: calls 3,200
+a07bdad8: folds
+Hero: calls 3,200
+85c62778: calls 3,200
+ecc77b08: raises 16,000 to 19,200
+7c204252: folds
+731867e5: folds
+8dea51ef: calls 16,000
+Hero: folds
+85c62778: folds
+*** FLOP *** [3d 6d Ts]
+ecc77b08: checks
+8dea51ef: checks
+*** TURN *** [3d 6d Ts] [9h]
+ecc77b08: bets 16,000
+8dea51ef: raises 39,200 to 55,200
+ecc77b08: folds
+Uncalled bet (39,200) returned to 8dea51ef
+*** SHOWDOWN ***
+8dea51ef collected 83,200 from pot
+*** SUMMARY ***
+Total pot 83,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d 6d Ts 9h]
+Seat 1: 8dea51ef won (83,200)
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 (button) folded before Flop
+Seat 5: ecc77b08 (small blind) folded on the Turn
+Seat 6: 7c204252 (big blind) folded before Flop
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: 731867e5 folded before Flop
+
+
+Poker Hand #TM92114627: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level1(800/1,600) - 2026/01/19 18:06:48
+Table '29' 8-max Seat #3 is the button
+Seat 1: 8dea51ef (326,908 in chips)
+Seat 2: a07bdad8 (59,456 in chips)
+Seat 3: Hero (55,773 in chips)
+Seat 4: 85c62778 (91,012 in chips)
+Seat 5: ecc77b08 (323,326 in chips)
+Seat 6: 7c204252 (24,234 in chips)
+Seat 7: 264ac9a7 (34,432 in chips)
+7c204252: posts the ante 200
+ecc77b08: posts the ante 200
+85c62778: posts the ante 200
+8dea51ef: posts the ante 200
+264ac9a7: posts the ante 200
+Hero: posts the ante 200
+a07bdad8: posts the ante 200
+85c62778: posts small blind 800
+ecc77b08: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [7c 5c]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+7c204252: folds
+264ac9a7: folds
+8dea51ef: folds
+a07bdad8: raises 1,600 to 3,200
+Hero: folds
+85c62778: calls 2,400
+ecc77b08: calls 1,600
+*** FLOP *** [3h 2d 6s]
+85c62778: checks
+ecc77b08: checks
+a07bdad8: checks
+*** TURN *** [3h 2d 6s] [6h]
+85c62778: checks
+ecc77b08: bets 4,640
+a07bdad8: folds
+85c62778: calls 4,640
+*** RIVER *** [3h 2d 6s 6h] [Th]
+85c62778: checks
+ecc77b08: bets 14,400
+85c62778: calls 14,400
+ecc77b08: shows [Jh Kh] (a flush King high)
+85c62778: shows [4s 4c] (two pair, Sixes and Fours)
+*** SHOWDOWN ***
+ecc77b08 collected 49,080 from pot
+*** SUMMARY ***
+Total pot 49,080 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 2d 6s 6h Th]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded on the Turn
+Seat 3: Hero (button) folded before Flop
+Seat 4: 85c62778 (small blind) showed [4s 4c] and lost with two pair, Sixes and Fours
+Seat 5: ecc77b08 (big blind) showed [Jh Kh] and won (49,080) with a flush King high
+Seat 6: 7c204252 folded before Flop
+Seat 7: 264ac9a7 folded before Flop
+
+
+Poker Hand #TM92114586: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level1(800/1,600) - 2026/01/19 18:05:01
+Table '29' 8-max Seat #2 is the button
+Seat 1: 8dea51ef (327,108 in chips)
+Seat 2: a07bdad8 (59,656 in chips)
+Seat 3: Hero (59,173 in chips)
+Seat 4: 85c62778 (92,812 in chips)
+Seat 5: ecc77b08 (203,065 in chips)
+Seat 6: 7c204252 (24,434 in chips)
+Seat 7: 264ac9a7 (34,632 in chips)
+Seat 8: da8e8f9a (114,261 in chips)
+7c204252: posts the ante 200
+ecc77b08: posts the ante 200
+da8e8f9a: posts the ante 200
+85c62778: posts the ante 200
+8dea51ef: posts the ante 200
+264ac9a7: posts the ante 200
+Hero: posts the ante 200
+a07bdad8: posts the ante 200
+Hero: posts small blind 800
+85c62778: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [6d 6s]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to da8e8f9a 
+ecc77b08: raises 1,600 to 3,200
+7c204252: folds
+264ac9a7: folds
+da8e8f9a: calls 3,200
+8dea51ef: folds
+a07bdad8: folds
+Hero: calls 2,400
+85c62778: folds
+*** FLOP *** [3h 7d Qd]
+Hero: checks
+ecc77b08: checks
+da8e8f9a: bets 9,600
+Hero: folds
+ecc77b08: calls 9,600
+*** TURN *** [3h 7d Qd] [Th]
+ecc77b08: checks
+da8e8f9a: bets 10,560
+ecc77b08: raises 21,440 to 32,000
+da8e8f9a: calls 21,440
+*** RIVER *** [3h 7d Qd Th] [3c]
+ecc77b08: bets 158,065 and is all-in
+da8e8f9a: calls 69,261 and is all-in
+Uncalled bet (88,804) returned to ecc77b08
+ecc77b08: shows [Ts Tc] (a full house, Tens full of Threes)
+da8e8f9a: shows [Qh 8h] (two pair, Queens and Threes)
+*** SHOWDOWN ***
+ecc77b08 collected 234,522 from pot
+*** SUMMARY ***
+Total pot 234,522 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 7d Qd Th 3c]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 (button) folded before Flop
+Seat 3: Hero (small blind) folded on the Flop
+Seat 4: 85c62778 (big blind) folded before Flop
+Seat 5: ecc77b08 showed [Ts Tc] and won (234,522) with a full house, Tens full of Threes
+Seat 6: 7c204252 folded before Flop
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: da8e8f9a showed [Qh 8h] and lost with two pair, Queens and Threes
+
+
+Poker Hand #TM92114581: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level1(800/1,600) - 2026/01/19 18:04:44
+Table '29' 8-max Seat #1 is the button
+Seat 1: 8dea51ef (327,308 in chips)
+Seat 2: a07bdad8 (60,656 in chips)
+Seat 3: Hero (60,973 in chips)
+Seat 4: 85c62778 (93,012 in chips)
+Seat 5: ecc77b08 (199,265 in chips)
+Seat 6: 7c204252 (24,634 in chips)
+Seat 7: 264ac9a7 (34,832 in chips)
+Seat 8: da8e8f9a (114,461 in chips)
+7c204252: posts the ante 200
+ecc77b08: posts the ante 200
+da8e8f9a: posts the ante 200
+85c62778: posts the ante 200
+8dea51ef: posts the ante 200
+264ac9a7: posts the ante 200
+Hero: posts the ante 200
+a07bdad8: posts the ante 200
+a07bdad8: posts small blind 800
+Hero: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Js 5d]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to da8e8f9a 
+85c62778: folds
+ecc77b08: raises 1,600 to 3,200
+7c204252: folds
+264ac9a7: folds
+da8e8f9a: folds
+8dea51ef: folds
+a07bdad8: folds
+Hero: folds
+Uncalled bet (1,600) returned to ecc77b08
+*** SHOWDOWN ***
+ecc77b08 collected 5,600 from pot
+*** SUMMARY ***
+Total pot 5,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8dea51ef (button) folded before Flop
+Seat 2: a07bdad8 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 collected (5,600)
+Seat 6: 7c204252 folded before Flop
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: da8e8f9a folded before Flop
+
+
+Poker Hand #TM92114545: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level1(800/1,600) - 2026/01/19 18:03:06
+Table '29' 8-max Seat #8 is the button
+Seat 1: 8dea51ef (328,308 in chips)
+Seat 2: a07bdad8 (51,256 in chips)
+Seat 3: Hero (61,173 in chips)
+Seat 4: 85c62778 (93,212 in chips)
+Seat 5: ecc77b08 (199,465 in chips)
+Seat 6: 7c204252 (32,034 in chips)
+Seat 7: 264ac9a7 (35,032 in chips)
+Seat 8: da8e8f9a (114,661 in chips)
+7c204252: posts the ante 200
+ecc77b08: posts the ante 200
+da8e8f9a: posts the ante 200
+85c62778: posts the ante 200
+8dea51ef: posts the ante 200
+264ac9a7: posts the ante 200
+Hero: posts the ante 200
+a07bdad8: posts the ante 200
+8dea51ef: posts small blind 800
+a07bdad8: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [4c 7h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to da8e8f9a 
+Hero: folds
+85c62778: folds
+ecc77b08: folds
+7c204252: raises 1,600 to 3,200
+264ac9a7: folds
+da8e8f9a: folds
+8dea51ef: folds
+a07bdad8: calls 1,600
+*** FLOP *** [8c 7s 4s]
+a07bdad8: checks
+7c204252: checks
+*** TURN *** [8c 7s 4s] [2h]
+a07bdad8: bets 4,000
+7c204252: calls 4,000
+*** RIVER *** [8c 7s 4s 2h] [6d]
+a07bdad8: checks
+7c204252: checks
+a07bdad8: shows [6c 5s] (a straight, Eight to Four)
+7c204252: shows [Ah Jd] (Ace high)
+*** SHOWDOWN ***
+a07bdad8 collected 16,800 from pot
+*** SUMMARY ***
+Total pot 16,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 7s 4s 2h 6d]
+Seat 1: 8dea51ef (small blind) folded before Flop
+Seat 2: a07bdad8 (big blind) showed [6c 5s] and won (16,800) with a straight, Eight to Four
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 folded before Flop
+Seat 6: 7c204252 showed [Ah Jd] and lost with Ace high
+Seat 7: 264ac9a7 folded before Flop
+Seat 8: da8e8f9a (button) folded before Flop
+
+
+Poker Hand #TM92114507: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level1(800/1,600) - 2026/01/19 18:01:36
+Table '29' 8-max Seat #7 is the button
+Seat 1: 8dea51ef (332,988 in chips)
+Seat 2: a07bdad8 (51,456 in chips)
+Seat 3: Hero (61,373 in chips)
+Seat 4: 85c62778 (73,572 in chips)
+Seat 5: ecc77b08 (208,945 in chips)
+Seat 6: 7c204252 (32,234 in chips)
+Seat 7: 264ac9a7 (35,232 in chips)
+Seat 8: da8e8f9a (119,341 in chips)
+7c204252: posts the ante 200
+ecc77b08: posts the ante 200
+da8e8f9a: posts the ante 200
+85c62778: posts the ante 200
+8dea51ef: posts the ante 200
+264ac9a7: posts the ante 200
+Hero: posts the ante 200
+a07bdad8: posts the ante 200
+da8e8f9a: posts small blind 800
+8dea51ef: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [Kh 9c]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to da8e8f9a 
+a07bdad8: folds
+Hero: folds
+85c62778: calls 1,600
+ecc77b08: raises 2,880 to 4,480
+7c204252: folds
+264ac9a7: folds
+da8e8f9a: calls 3,680
+8dea51ef: calls 2,880
+85c62778: calls 2,880
+*** FLOP *** [3s 3d 2c]
+da8e8f9a: checks
+8dea51ef: checks
+85c62778: checks
+ecc77b08: checks
+*** TURN *** [3s 3d 2c] [6s]
+da8e8f9a: checks
+8dea51ef: checks
+85c62778: bets 4,800
+ecc77b08: calls 4,800
+da8e8f9a: folds
+8dea51ef: folds
+*** RIVER *** [3s 3d 2c 6s] [2h]
+85c62778: checks
+ecc77b08: checks
+85c62778: shows [Ts Th] (two pair, Tens and Threes)
+ecc77b08: shows [4h Ah] (two pair, Threes and Twos)
+*** SHOWDOWN ***
+85c62778 collected 29,120 from pot
+*** SUMMARY ***
+Total pot 29,120 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s 3d 2c 6s 2h]
+Seat 1: 8dea51ef (big blind) folded on the Turn
+Seat 2: a07bdad8 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 85c62778 showed [Ts Th] and won (29,120) with two pair, Tens and Threes
+Seat 5: ecc77b08 showed [4h Ah] and lost with two pair, Threes and Twos
+Seat 6: 7c204252 folded before Flop
+Seat 7: 264ac9a7 (button) folded before Flop
+Seat 8: da8e8f9a (small blind) folded on the Turn
+
+
+Poker Hand #TM92114475: Tournament #5259975, #37: $50 Maple Frost Bounty [Final Stage] Hold'em No Limit - Level1(800/1,600) - 2026/01/19 18:00:02
+Table '29' 8-max Seat #6 is the button
+Seat 1: 8dea51ef (333,188 in chips)
+Seat 2: a07bdad8 (54,856 in chips)
+Seat 3: Hero (45,573 in chips)
+Seat 4: 85c62778 (73,772 in chips)
+Seat 5: ecc77b08 (216,345 in chips)
+Seat 6: 7c204252 (32,434 in chips)
+Seat 7: 264ac9a7 (36,232 in chips)
+Seat 8: da8e8f9a (122,741 in chips)
+7c204252: posts the ante 200
+ecc77b08: posts the ante 200
+da8e8f9a: posts the ante 200
+85c62778: posts the ante 200
+8dea51ef: posts the ante 200
+264ac9a7: posts the ante 200
+Hero: posts the ante 200
+a07bdad8: posts the ante 200
+264ac9a7: posts small blind 800
+da8e8f9a: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 8dea51ef 
+Dealt to a07bdad8 
+Dealt to Hero [9d 9h]
+Dealt to 85c62778 
+Dealt to ecc77b08 
+Dealt to 7c204252 
+Dealt to 264ac9a7 
+Dealt to da8e8f9a 
+8dea51ef: folds
+a07bdad8: raises 1,600 to 3,200
+Hero: calls 3,200
+85c62778: folds
+ecc77b08: calls 3,200
+7c204252: folds
+264ac9a7: folds
+da8e8f9a: calls 1,600
+*** FLOP *** [7h Qc 5h]
+da8e8f9a: checks
+a07bdad8: checks
+Hero: checks
+ecc77b08: bets 4,000
+da8e8f9a: folds
+a07bdad8: folds
+Hero: calls 4,000
+*** TURN *** [7h Qc 5h] [4d]
+Hero: checks
+ecc77b08: checks
+*** RIVER *** [7h Qc 5h 4d] [Kc]
+Hero: checks
+ecc77b08: checks
+Hero: shows [9d 9h] (a pair of Nines)
+ecc77b08: shows [7c 8c] (a pair of Sevens)
+*** SHOWDOWN ***
+Hero collected 23,200 from pot
+*** SUMMARY ***
+Total pot 23,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Qc 5h 4d Kc]
+Seat 1: 8dea51ef folded before Flop
+Seat 2: a07bdad8 folded on the Flop
+Seat 3: Hero showed [9d 9h] and won (23,200) with a pair of Nines
+Seat 4: 85c62778 folded before Flop
+Seat 5: ecc77b08 showed [7c 8c] and lost with a pair of Sevens
+Seat 6: 7c204252 (button) folded before Flop
+Seat 7: 264ac9a7 (small blind) folded before Flop
+Seat 8: da8e8f9a (big blind) folded on the Flop
+
+

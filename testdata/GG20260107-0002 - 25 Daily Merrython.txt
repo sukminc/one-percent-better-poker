@@ -1,0 +1,6329 @@
+Poker Hand #TM90759044: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:43:06
+Table '9' 8-max Seat #7 is the button
+Seat 1: a9e25908 (25,924 in chips)
+Seat 2: Hero (13,058 in chips)
+Seat 4: 3b3d206b (22,165 in chips)
+Seat 5: 7f42d542 (130,533 in chips)
+Seat 6: cfc82255 (37,806 in chips)
+Seat 7: 601e011a (57,642 in chips)
+Seat 8: 86aa3d4e (151,268 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+cfc82255: posts the ante 250
+a9e25908: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+86aa3d4e: posts small blind 1,000
+a9e25908: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [7d Ad]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+Hero: raises 10,808 to 12,808 and is all-in
+3b3d206b: folds
+7f42d542: folds
+cfc82255: folds
+601e011a: raises 44,584 to 57,392 and is all-in
+86aa3d4e: folds
+a9e25908: folds
+Uncalled bet (44,584) returned to 601e011a
+601e011a: shows [Ah Ts]
+Hero: shows [7d Ad]
+*** FLOP *** [9h Jh 2s]
+*** TURN *** [9h Jh 2s] [9c]
+*** RIVER *** [9h Jh 2s 9c] [8s]
+7f42d542: shows [Ac 7h] (a pair of Nines)
+*** SHOWDOWN ***
+601e011a collected 30,366 from pot
+*** SUMMARY ***
+Total pot 30,366 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Jh 2s 9c 8s]
+Seat 1: a9e25908 (big blind) folded before Flop
+Seat 2: Hero showed [7d Ad] and lost with a pair of Nines
+Seat 4: 3b3d206b folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 6: cfc82255 folded before Flop
+Seat 7: 601e011a (button) showed [Ah Ts] and won (30,366) with a pair of Nines
+Seat 8: 86aa3d4e (small blind) folded before Flop
+
+
+Poker Hand #TM90759033: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:42:41
+Table '9' 8-max Seat #6 is the button
+Seat 1: a9e25908 (26,174 in chips)
+Seat 2: Hero (13,308 in chips)
+Seat 4: 3b3d206b (17,665 in chips)
+Seat 5: 7f42d542 (130,783 in chips)
+Seat 6: cfc82255 (38,056 in chips)
+Seat 7: 601e011a (58,892 in chips)
+Seat 8: 86aa3d4e (153,518 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+cfc82255: posts the ante 250
+a9e25908: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+601e011a: posts small blind 1,000
+86aa3d4e: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [5d 7h]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+a9e25908: folds
+Hero: folds
+3b3d206b: raises 15,415 to 17,415 and is all-in
+7f42d542: folds
+cfc82255: folds
+601e011a: folds
+86aa3d4e: folds
+Uncalled bet (15,415) returned to 3b3d206b
+*** SHOWDOWN ***
+3b3d206b collected 6,750 from pot
+*** SUMMARY ***
+Total pot 6,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 4: 3b3d206b collected (6,750)
+Seat 5: 7f42d542 folded before Flop
+Seat 6: cfc82255 (button) folded before Flop
+Seat 7: 601e011a (small blind) folded before Flop
+Seat 8: 86aa3d4e (big blind) folded before Flop
+
+
+Poker Hand #TM90759018: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:42:02
+Table '9' 8-max Seat #5 is the button
+Seat 1: a9e25908 (26,424 in chips)
+Seat 2: Hero (13,558 in chips)
+Seat 4: 3b3d206b (17,915 in chips)
+Seat 5: 7f42d542 (129,658 in chips)
+Seat 6: cfc82255 (39,306 in chips)
+Seat 7: 601e011a (57,767 in chips)
+Seat 8: 86aa3d4e (153,768 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+a9e25908: posts the ante 250
+cfc82255: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+cfc82255: posts small blind 1,000
+601e011a: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Kd 4s]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+3b3d206b: folds
+7f42d542: calls 2,000
+cfc82255: folds
+601e011a: raises 55,517 to 57,517 and is all-in
+7f42d542: calls 55,517
+601e011a: shows [Ac Tc]
+7f42d542: shows [9h Ad]
+*** FLOP *** [5h Kh Kc]
+*** TURN *** [5h Kh Kc] [4c]
+*** RIVER *** [5h Kh Kc 4c] [5s]
+Hero: shows [Kd] (a full house, Kings full of Fives)
+*** SHOWDOWN ***
+601e011a collected 58,892 from pot
+7f42d542 collected 58,892 from pot
+*** SUMMARY ***
+Total pot 117,784 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h Kh Kc 4c 5s]
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 4: 3b3d206b folded before Flop
+Seat 5: 7f42d542 (button) showed [9h Ad] and won (58,892) with two pair, Kings and Fives
+Seat 6: cfc82255 (small blind) folded before Flop
+Seat 7: 601e011a (big blind) showed [Ac Tc] and won (58,892) with two pair, Kings and Fives
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90759000: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:41:19
+Table '9' 8-max Seat #4 is the button
+Seat 1: a9e25908 (26,674 in chips)
+Seat 2: Hero (13,808 in chips)
+Seat 4: 3b3d206b (18,165 in chips)
+Seat 5: 7f42d542 (131,908 in chips)
+Seat 6: cfc82255 (33,806 in chips)
+Seat 7: 601e011a (60,017 in chips)
+Seat 8: 86aa3d4e (154,018 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+a9e25908: posts the ante 250
+cfc82255: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+7f42d542: posts small blind 1,000
+cfc82255: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [7c 6c]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+601e011a: calls 2,000
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+3b3d206b: folds
+7f42d542: calls 1,000
+cfc82255: checks
+*** FLOP *** [Kh 3h 7s]
+7f42d542: checks
+cfc82255: checks
+601e011a: checks
+*** TURN *** [Kh 3h 7s] [5c]
+7f42d542: checks
+cfc82255: bets 2,558
+601e011a: folds
+7f42d542: folds
+Uncalled bet (2,558) returned to cfc82255
+*** SHOWDOWN ***
+cfc82255 collected 7,750 from pot
+*** SUMMARY ***
+Total pot 7,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 3h 7s 5c]
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 4: 3b3d206b (button) folded before Flop
+Seat 5: 7f42d542 (small blind) folded on the Turn
+Seat 6: cfc82255 (big blind) won (7,750)
+Seat 7: 601e011a folded on the Turn
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758987: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:40:56
+Table '9' 8-max Seat #2 is the button
+Seat 1: a9e25908 (22,174 in chips)
+Seat 2: Hero (14,058 in chips)
+Seat 4: 3b3d206b (19,415 in chips)
+Seat 5: 7f42d542 (134,158 in chips)
+Seat 6: cfc82255 (34,056 in chips)
+Seat 7: 601e011a (60,267 in chips)
+Seat 8: 86aa3d4e (154,268 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+a9e25908: posts the ante 250
+cfc82255: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+3b3d206b: posts small blind 1,000
+7f42d542: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [7h 2c]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+cfc82255: folds
+601e011a: folds
+86aa3d4e: folds
+a9e25908: raises 19,924 to 21,924 and is all-in
+Hero: folds
+3b3d206b: folds
+7f42d542: folds
+Uncalled bet (19,924) returned to a9e25908
+*** SHOWDOWN ***
+a9e25908 collected 6,750 from pot
+*** SUMMARY ***
+Total pot 6,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 collected (6,750)
+Seat 2: Hero (button) folded before Flop
+Seat 4: 3b3d206b (small blind) folded before Flop
+Seat 5: 7f42d542 (big blind) folded before Flop
+Seat 6: cfc82255 folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758970: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:40:13
+Table '9' 8-max Seat #1 is the button
+Seat 1: a9e25908 (22,424 in chips)
+Seat 2: Hero (15,308 in chips)
+Seat 4: 3b3d206b (21,665 in chips)
+Seat 5: 7f42d542 (138,408 in chips)
+Seat 6: cfc82255 (12,903 in chips)
+Seat 7: 601e011a (73,170 in chips)
+Seat 8: 86aa3d4e (154,518 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+a9e25908: posts the ante 250
+cfc82255: posts the ante 250
+601e011a: posts the ante 250
+86aa3d4e: posts the ante 250
+Hero: posts the ante 250
+Hero: posts small blind 1,000
+3b3d206b: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Ts 3c]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+7f42d542: raises 2,000 to 4,000
+cfc82255: raises 8,653 to 12,653 and is all-in
+601e011a: raises 60,267 to 72,920 and is all-in
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+3b3d206b: folds
+7f42d542: folds
+Uncalled bet (60,267) returned to 601e011a
+601e011a: shows [Qc As]
+cfc82255: shows [8d 8c]
+*** FLOP *** [7s 7d 9h]
+*** TURN *** [7s 7d 9h] [Tc]
+*** RIVER *** [7s 7d 9h Tc] [Kd]
+*** SHOWDOWN ***
+cfc82255 collected 34,056 from pot
+*** SUMMARY ***
+Total pot 34,056 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s 7d 9h Tc Kd]
+Seat 1: a9e25908 (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 4: 3b3d206b (big blind) folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 6: cfc82255 showed [8d 8c] and won (34,056) with two pair, Eights and Sevens
+Seat 7: 601e011a showed [Qc As] and lost with a pair of Sevens
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758956: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:39:45
+Table '9' 8-max Seat #8 is the button
+Seat 1: a9e25908 (23,674 in chips)
+Seat 2: Hero (17,558 in chips)
+Seat 4: 3b3d206b (17,165 in chips)
+Seat 5: 7f42d542 (138,658 in chips)
+Seat 6: cfc82255 (13,153 in chips)
+Seat 7: 601e011a (73,420 in chips)
+Seat 8: 86aa3d4e (154,768 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+cfc82255: posts the ante 250
+a9e25908: posts the ante 250
+601e011a: posts the ante 250
+86aa3d4e: posts the ante 250
+Hero: posts the ante 250
+a9e25908: posts small blind 1,000
+Hero: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [5c 2s]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+3b3d206b: raises 14,915 to 16,915 and is all-in
+7f42d542: folds
+cfc82255: folds
+601e011a: folds
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+Uncalled bet (14,915) returned to 3b3d206b
+*** SHOWDOWN ***
+3b3d206b collected 6,750 from pot
+*** SUMMARY ***
+Total pot 6,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 4: 3b3d206b collected (6,750)
+Seat 5: 7f42d542 folded before Flop
+Seat 6: cfc82255 folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e (button) folded before Flop
+
+
+Poker Hand #TM90758943: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:39:08
+Table '9' 8-max Seat #7 is the button
+Seat 1: a9e25908 (25,924 in chips)
+Seat 2: Hero (17,808 in chips)
+Seat 4: 3b3d206b (17,415 in chips)
+Seat 5: 7f42d542 (142,908 in chips)
+Seat 6: cfc82255 (13,403 in chips)
+Seat 7: 601e011a (64,920 in chips)
+Seat 8: 86aa3d4e (156,018 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+cfc82255: posts the ante 250
+a9e25908: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+86aa3d4e: posts small blind 1,000
+a9e25908: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [8s Kc]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+Hero: folds
+3b3d206b: folds
+7f42d542: raises 2,000 to 4,000
+cfc82255: folds
+601e011a: calls 4,000
+86aa3d4e: folds
+a9e25908: folds
+*** FLOP *** [Qs 9h 3d]
+7f42d542: checks
+601e011a: bets 8,000
+7f42d542: folds
+Uncalled bet (8,000) returned to 601e011a
+*** SHOWDOWN ***
+601e011a collected 12,750 from pot
+*** SUMMARY ***
+Total pot 12,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 9h 3d]
+Seat 1: a9e25908 (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 4: 3b3d206b folded before Flop
+Seat 5: 7f42d542 folded on the Flop
+Seat 6: cfc82255 folded before Flop
+Seat 7: 601e011a (button) won (12,750)
+Seat 8: 86aa3d4e (small blind) folded before Flop
+
+
+Poker Hand #TM90758908: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:37:43
+Table '9' 8-max Seat #6 is the button
+Seat 1: a9e25908 (26,174 in chips)
+Seat 2: Hero (18,058 in chips)
+Seat 4: 3b3d206b (17,665 in chips)
+Seat 5: 7f42d542 (143,158 in chips)
+Seat 6: cfc82255 (13,653 in chips)
+Seat 7: 601e011a (82,265 in chips)
+Seat 8: 86aa3d4e (137,423 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+cfc82255: posts the ante 250
+a9e25908: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+601e011a: posts small blind 1,000
+86aa3d4e: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [8d Jh]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+a9e25908: folds
+Hero: folds
+3b3d206b: folds
+7f42d542: folds
+cfc82255: folds
+601e011a: calls 1,000
+86aa3d4e: checks
+*** FLOP *** [7d Th 3h]
+601e011a: bets 4,313
+86aa3d4e: calls 4,313
+*** TURN *** [7d Th 3h] [5d]
+601e011a: bets 10,782
+86aa3d4e: calls 10,782
+*** RIVER *** [7d Th 3h 5d] [Ah]
+601e011a: checks
+86aa3d4e: bets 30,549
+601e011a: folds
+Uncalled bet (30,549) returned to 86aa3d4e
+*** SHOWDOWN ***
+86aa3d4e collected 35,940 from pot
+*** SUMMARY ***
+Total pot 35,940 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d Th 3h 5d Ah]
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 4: 3b3d206b folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 6: cfc82255 (button) folded before Flop
+Seat 7: 601e011a (small blind) folded on the River
+Seat 8: 86aa3d4e (big blind) won (35,940)
+
+
+Poker Hand #TM90758893: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:37:09
+Table '9' 8-max Seat #5 is the button
+Seat 1: a9e25908 (26,424 in chips)
+Seat 2: Hero (18,308 in chips)
+Seat 4: 3b3d206b (17,915 in chips)
+Seat 5: 7f42d542 (151,408 in chips)
+Seat 6: cfc82255 (14,903 in chips)
+Seat 7: 601e011a (71,765 in chips)
+Seat 8: 86aa3d4e (137,673 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+a9e25908: posts the ante 250
+cfc82255: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+cfc82255: posts small blind 1,000
+601e011a: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [3s Kd]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+3b3d206b: folds
+7f42d542: raises 2,000 to 4,000
+cfc82255: folds
+601e011a: calls 2,000
+*** FLOP *** [5c Ah Qs]
+601e011a: checks
+7f42d542: bets 4,000
+601e011a: raises 63,515 to 67,515 and is all-in
+7f42d542: folds
+Uncalled bet (63,515) returned to 601e011a
+*** SHOWDOWN ***
+601e011a collected 18,750 from pot
+*** SUMMARY ***
+Total pot 18,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c Ah Qs]
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 4: 3b3d206b folded before Flop
+Seat 5: 7f42d542 (button) folded on the Flop
+Seat 6: cfc82255 (small blind) folded before Flop
+Seat 7: 601e011a (big blind) won (18,750)
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758885: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:36:53
+Table '9' 8-max Seat #4 is the button
+Seat 1: a9e25908 (26,674 in chips)
+Seat 2: Hero (18,558 in chips)
+Seat 4: 3b3d206b (18,165 in chips)
+Seat 5: 7f42d542 (152,658 in chips)
+Seat 6: cfc82255 (12,403 in chips)
+Seat 7: 601e011a (72,015 in chips)
+Seat 8: 86aa3d4e (137,923 in chips)
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+a9e25908: posts the ante 250
+cfc82255: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+7f42d542: posts small blind 1,000
+cfc82255: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [5h 7h]
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+601e011a: folds
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+3b3d206b: folds
+7f42d542: folds
+Uncalled bet (1,000) returned to cfc82255
+*** SHOWDOWN ***
+cfc82255 collected 3,750 from pot
+*** SUMMARY ***
+Total pot 3,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 4: 3b3d206b (button) folded before Flop
+Seat 5: 7f42d542 (small blind) folded before Flop
+Seat 6: cfc82255 (big blind) collected (3,750)
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758863: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:36:00
+Table '9' 8-max Seat #3 is the button
+Seat 1: a9e25908 (26,924 in chips)
+Seat 2: Hero (18,808 in chips)
+Seat 3: d63dfacd (29,572 in chips)
+Seat 4: 3b3d206b (19,415 in chips)
+Seat 5: 7f42d542 (118,586 in chips)
+Seat 6: cfc82255 (12,653 in chips)
+Seat 7: 601e011a (74,265 in chips)
+Seat 8: 86aa3d4e (138,173 in chips)
+d63dfacd: posts the ante 250
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+a9e25908: posts the ante 250
+cfc82255: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+3b3d206b: posts small blind 1,000
+7f42d542: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Qs 4s]
+Dealt to d63dfacd 
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to cfc82255 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+cfc82255: folds
+601e011a: calls 2,000
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+d63dfacd: raises 27,322 to 29,322 and is all-in
+3b3d206b: folds
+7f42d542: raises 43,322 to 72,644
+601e011a: folds
+Uncalled bet (43,322) returned to 7f42d542
+7f42d542: shows [Jd Ks]
+d63dfacd: shows [3d 3c]
+*** FLOP *** [5c 9h Jh]
+*** TURN *** [5c 9h Jh] [6h]
+*** RIVER *** [5c 9h Jh 6h] [Ts]
+*** SHOWDOWN ***
+7f42d542 collected 63,644 from pot
+*** SUMMARY ***
+Total pot 63,644 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 9h Jh 6h Ts]
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: d63dfacd (button) showed [3d 3c] and lost with a pair of Threes
+Seat 4: 3b3d206b (small blind) folded before Flop
+Seat 5: 7f42d542 (big blind) showed [Jd Ks] and won (63,644) with a pair of Jacks
+Seat 6: cfc82255 folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758811: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:33:50
+Table '9' 8-max Seat #2 is the button
+Seat 1: a9e25908 (47,174 in chips)
+Seat 2: Hero (19,058 in chips)
+Seat 3: d63dfacd (31,822 in chips)
+Seat 4: 3b3d206b (21,665 in chips)
+Seat 5: 7f42d542 (93,086 in chips)
+Seat 7: 601e011a (74,515 in chips)
+Seat 8: 86aa3d4e (138,423 in chips)
+d63dfacd: posts the ante 250
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+a9e25908: posts the ante 250
+601e011a: posts the ante 250
+Hero: posts the ante 250
+86aa3d4e: posts the ante 250
+d63dfacd: posts small blind 1,000
+3b3d206b: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Ah Js]
+Dealt to d63dfacd 
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+7f42d542: calls 2,000
+601e011a: folds
+86aa3d4e: folds
+a9e25908: calls 2,000
+Hero: folds
+d63dfacd: calls 1,000
+3b3d206b: checks
+*** FLOP *** [3h Jc 8s]
+d63dfacd: checks
+3b3d206b: checks
+7f42d542: bets 2,000
+a9e25908: calls 2,000
+d63dfacd: folds
+3b3d206b: folds
+*** TURN *** [3h Jc 8s] [4s]
+7f42d542: bets 6,000
+a9e25908: calls 6,000
+*** RIVER *** [3h Jc 8s 4s] [9d]
+7f42d542: bets 10,000
+a9e25908: calls 10,000
+7f42d542: shows [As Jh] (a pair of Jacks)
+a9e25908: shows [Qs Jd] (a pair of Jacks)
+*** SHOWDOWN ***
+7f42d542 collected 45,750 from pot
+*** SUMMARY ***
+Total pot 45,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h Jc 8s 4s 9d]
+Seat 1: a9e25908 showed [Qs Jd] and lost with a pair of Jacks
+Seat 2: Hero (button) folded before Flop
+Seat 3: d63dfacd (small blind) folded on the Flop
+Seat 4: 3b3d206b (big blind) folded on the Flop
+Seat 5: 7f42d542 showed [As Jh] and won (45,750) with a pair of Jacks
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758776: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level17(1,000/2,000) - 2026/01/06 20:32:29
+Table '9' 8-max Seat #1 is the button
+Seat 1: a9e25908 (47,424 in chips)
+Seat 2: Hero (20,308 in chips)
+Seat 3: d63dfacd (38,072 in chips)
+Seat 4: 3b3d206b (21,915 in chips)
+Seat 5: 7f42d542 (84,586 in chips)
+Seat 7: 601e011a (74,765 in chips)
+Seat 8: 86aa3d4e (138,673 in chips)
+d63dfacd: posts the ante 250
+7f42d542: posts the ante 250
+3b3d206b: posts the ante 250
+a9e25908: posts the ante 250
+601e011a: posts the ante 250
+86aa3d4e: posts the ante 250
+Hero: posts the ante 250
+Hero: posts small blind 1,000
+d63dfacd: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Qc 7h]
+Dealt to d63dfacd 
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+3b3d206b: folds
+7f42d542: raises 2,000 to 4,000
+601e011a: folds
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+d63dfacd: calls 2,000
+*** FLOP *** [7c 2s Js]
+d63dfacd: checks
+7f42d542: checks
+*** TURN *** [7c 2s Js] [Kh]
+d63dfacd: checks
+7f42d542: bets 2,000
+d63dfacd: calls 2,000
+*** RIVER *** [7c 2s Js Kh] [2c]
+d63dfacd: checks
+7f42d542: bets 6,000
+d63dfacd: folds
+Uncalled bet (6,000) returned to 7f42d542
+*** SHOWDOWN ***
+7f42d542 collected 14,750 from pot
+*** SUMMARY ***
+Total pot 14,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 2s Js Kh 2c]
+Seat 1: a9e25908 (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: d63dfacd (big blind) folded on the River
+Seat 4: 3b3d206b folded before Flop
+Seat 5: 7f42d542 won (14,750)
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758755: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:31:29
+Table '9' 8-max Seat #8 is the button
+Seat 1: a9e25908 (41,424 in chips)
+Seat 2: Hero (22,108 in chips)
+Seat 3: d63dfacd (38,272 in chips)
+Seat 4: 3b3d206b (22,115 in chips)
+Seat 5: 7f42d542 (84,786 in chips)
+Seat 7: 601e011a (74,965 in chips)
+Seat 8: 86aa3d4e (142,073 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+3b3d206b: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+86aa3d4e: posts the ante 200
+Hero: posts the ante 200
+a9e25908: posts small blind 800
+Hero: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Qd 9c]
+Dealt to d63dfacd 
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+d63dfacd: folds
+3b3d206b: folds
+7f42d542: folds
+601e011a: folds
+86aa3d4e: raises 1,600 to 3,200
+a9e25908: raises 8,000 to 11,200
+Hero: folds
+86aa3d4e: folds
+Uncalled bet (8,000) returned to a9e25908
+*** SHOWDOWN ***
+a9e25908 collected 9,400 from pot
+*** SUMMARY ***
+Total pot 9,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 (small blind) collected (9,400)
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: d63dfacd folded before Flop
+Seat 4: 3b3d206b folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e (button) folded before Flop
+
+
+Poker Hand #TM90758711: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:30:06
+Table '9' 8-max Seat #7 is the button
+Seat 1: a9e25908 (43,224 in chips)
+Seat 2: Hero (18,508 in chips)
+Seat 3: d63dfacd (38,472 in chips)
+Seat 4: 3b3d206b (22,315 in chips)
+Seat 5: 7f42d542 (84,986 in chips)
+Seat 7: 601e011a (75,165 in chips)
+Seat 8: 86aa3d4e (143,073 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+3b3d206b: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+Hero: posts the ante 200
+86aa3d4e: posts the ante 200
+86aa3d4e: posts small blind 800
+a9e25908: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [6d 6c]
+Dealt to d63dfacd 
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+Hero: raises 16,708 to 18,308 and is all-in
+d63dfacd: folds
+3b3d206b: folds
+7f42d542: folds
+601e011a: folds
+86aa3d4e: folds
+a9e25908: folds
+Uncalled bet (16,708) returned to Hero
+*** SHOWDOWN ***
+Hero collected 5,400 from pot
+*** SUMMARY ***
+Total pot 5,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 (big blind) folded before Flop
+Seat 2: Hero collected (5,400)
+Seat 3: d63dfacd folded before Flop
+Seat 4: 3b3d206b folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 7: 601e011a (button) folded before Flop
+Seat 8: 86aa3d4e (small blind) folded before Flop
+
+
+Poker Hand #TM90758674: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:28:32
+Table '9' 8-max Seat #5 is the button
+Seat 1: a9e25908 (43,424 in chips)
+Seat 2: Hero (18,708 in chips)
+Seat 3: d63dfacd (38,672 in chips)
+Seat 4: 3b3d206b (22,515 in chips)
+Seat 5: 7f42d542 (74,186 in chips)
+Seat 7: 601e011a (83,365 in chips)
+Seat 8: 86aa3d4e (144,873 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+3b3d206b: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+Hero: posts the ante 200
+86aa3d4e: posts the ante 200
+601e011a: posts small blind 800
+86aa3d4e: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [6s Kh]
+Dealt to d63dfacd 
+Dealt to 3b3d206b 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+a9e25908: folds
+Hero: folds
+d63dfacd: folds
+3b3d206b: folds
+7f42d542: calls 1,600
+601e011a: calls 800
+86aa3d4e: checks
+*** FLOP *** [2c Jc Th]
+601e011a: checks
+86aa3d4e: checks
+7f42d542: bets 1,600
+601e011a: calls 1,600
+86aa3d4e: folds
+*** TURN *** [2c Jc Th] [3d]
+601e011a: checks
+7f42d542: bets 1,600
+601e011a: calls 1,600
+*** RIVER *** [2c Jc Th 3d] [Ts]
+601e011a: checks
+7f42d542: bets 3,200
+601e011a: calls 3,200
+7f42d542: shows [Qd Js] (two pair, Jacks and Tens)
+601e011a: shows [5h Jd] (two pair, Jacks and Tens)
+*** SHOWDOWN ***
+7f42d542 collected 19,000 from pot
+*** SUMMARY ***
+Total pot 19,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c Jc Th 3d Ts]
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: d63dfacd folded before Flop
+Seat 4: 3b3d206b folded before Flop
+Seat 5: 7f42d542 (button) showed [Qd Js] and won (19,000) with two pair, Jacks and Tens
+Seat 7: 601e011a (small blind) showed [5h Jd] and lost with two pair, Jacks and Tens
+Seat 8: 86aa3d4e (big blind) folded on the Flop
+
+
+Poker Hand #TM90758622: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:26:08
+Table '9' 8-max Seat #3 is the button
+Seat 1: a9e25908 (43,624 in chips)
+Seat 2: Hero (18,908 in chips)
+Seat 3: d63dfacd (38,872 in chips)
+Seat 5: 7f42d542 (75,186 in chips)
+Seat 6: e99cf761 (64,884 in chips)
+Seat 7: 601e011a (83,565 in chips)
+Seat 8: 86aa3d4e (78,189 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+Hero: posts the ante 200
+86aa3d4e: posts the ante 200
+e99cf761: posts the ante 200
+7f42d542: posts small blind 800
+e99cf761: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [6s 8c]
+Dealt to d63dfacd 
+Dealt to 7f42d542 
+Dealt to e99cf761 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+601e011a: folds
+86aa3d4e: raises 1,600 to 3,200
+a9e25908: folds
+Hero: folds
+d63dfacd: folds
+7f42d542: folds
+e99cf761: calls 1,600
+*** FLOP *** [Td Kd 9s]
+e99cf761: checks
+86aa3d4e: bets 2,838
+e99cf761: raises 8,362 to 11,200
+86aa3d4e: raises 8,362 to 19,562
+e99cf761: raises 41,922 to 61,484 and is all-in
+86aa3d4e: calls 41,922
+e99cf761: shows [Th Kc] (two pair, Kings and Tens)
+86aa3d4e: shows [Qs Jd] (a straight, King to Nine)
+*** TURN *** [Td Kd 9s] [2s]
+*** RIVER *** [Td Kd 9s 2s] [3h]
+*** SHOWDOWN ***
+86aa3d4e collected 131,568 from pot
+*** SUMMARY ***
+Total pot 131,568 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td Kd 9s 2s 3h]
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: d63dfacd (button) folded before Flop
+Seat 5: 7f42d542 (small blind) folded before Flop
+Seat 6: e99cf761 (big blind) showed [Th Kc] and lost with two pair, Kings and Tens
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e showed [Qs Jd] and won (131,568) with a straight, King to Nine
+
+
+Poker Hand #TM90758615: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:25:41
+Table '9' 8-max Seat #2 is the button
+Seat 1: a9e25908 (43,824 in chips)
+Seat 2: Hero (19,108 in chips)
+Seat 3: d63dfacd (39,872 in chips)
+Seat 5: 7f42d542 (73,186 in chips)
+Seat 6: e99cf761 (65,084 in chips)
+Seat 7: 601e011a (83,765 in chips)
+Seat 8: 86aa3d4e (78,389 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+Hero: posts the ante 200
+86aa3d4e: posts the ante 200
+e99cf761: posts the ante 200
+d63dfacd: posts small blind 800
+7f42d542: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [4s Ac]
+Dealt to d63dfacd 
+Dealt to 7f42d542 
+Dealt to e99cf761 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+e99cf761: folds
+601e011a: folds
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+d63dfacd: folds
+Uncalled bet (800) returned to 7f42d542
+*** SHOWDOWN ***
+7f42d542 collected 3,000 from pot
+*** SUMMARY ***
+Total pot 3,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: d63dfacd (small blind) folded before Flop
+Seat 5: 7f42d542 (big blind) showed [Tc Td] and collected (3,000)
+Seat 6: e99cf761 folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758581: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:24:14
+Table '9' 8-max Seat #1 is the button
+Seat 1: a9e25908 (44,024 in chips)
+Seat 2: Hero (20,108 in chips)
+Seat 3: d63dfacd (41,672 in chips)
+Seat 5: 7f42d542 (73,386 in chips)
+Seat 6: e99cf761 (58,284 in chips)
+Seat 7: 601e011a (83,965 in chips)
+Seat 8: 86aa3d4e (81,789 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+86aa3d4e: posts the ante 200
+e99cf761: posts the ante 200
+Hero: posts the ante 200
+Hero: posts small blind 800
+d63dfacd: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Kd 4d]
+Dealt to d63dfacd 
+Dealt to 7f42d542 
+Dealt to e99cf761 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+7f42d542: folds
+e99cf761: raises 1,600 to 3,200
+601e011a: folds
+86aa3d4e: calls 3,200
+a9e25908: folds
+Hero: folds
+d63dfacd: folds
+*** FLOP *** [Qd 7h Ts]
+e99cf761: checks
+86aa3d4e: checks
+*** TURN *** [Qd 7h Ts] [4h]
+e99cf761: checks
+86aa3d4e: checks
+*** RIVER *** [Qd 7h Ts 4h] [8h]
+e99cf761: bets 8,800
+86aa3d4e: folds
+Uncalled bet (8,800) returned to e99cf761
+*** SHOWDOWN ***
+e99cf761 collected 10,200 from pot
+*** SUMMARY ***
+Total pot 10,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 7h Ts 4h 8h]
+Seat 1: a9e25908 (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: d63dfacd (big blind) folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 6: e99cf761 won (10,200)
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e folded on the River
+
+
+Poker Hand #TM90758577: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:23:54
+Table '9' 8-max Seat #8 is the button
+Seat 1: a9e25908 (45,024 in chips)
+Seat 2: Hero (21,908 in chips)
+Seat 3: d63dfacd (41,872 in chips)
+Seat 5: 7f42d542 (69,786 in chips)
+Seat 6: e99cf761 (58,484 in chips)
+Seat 7: 601e011a (84,165 in chips)
+Seat 8: 86aa3d4e (81,989 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+86aa3d4e: posts the ante 200
+e99cf761: posts the ante 200
+Hero: posts the ante 200
+a9e25908: posts small blind 800
+Hero: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [9s 8d]
+Dealt to d63dfacd 
+Dealt to 7f42d542 
+Dealt to e99cf761 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+d63dfacd: folds
+7f42d542: raises 1,600 to 3,200
+e99cf761: folds
+601e011a: folds
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+Uncalled bet (1,600) returned to 7f42d542
+*** SHOWDOWN ***
+7f42d542 collected 5,400 from pot
+*** SUMMARY ***
+Total pot 5,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: d63dfacd folded before Flop
+Seat 5: 7f42d542 collected (5,400)
+Seat 6: e99cf761 folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e (button) folded before Flop
+
+
+Poker Hand #TM90758569: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:23:24
+Table '9' 8-max Seat #7 is the button
+Seat 1: a9e25908 (46,824 in chips)
+Seat 2: Hero (22,108 in chips)
+Seat 3: d63dfacd (42,072 in chips)
+Seat 5: 7f42d542 (69,986 in chips)
+Seat 6: e99cf761 (58,684 in chips)
+Seat 7: 601e011a (84,365 in chips)
+Seat 8: 86aa3d4e (79,189 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+e99cf761: posts the ante 200
+Hero: posts the ante 200
+86aa3d4e: posts the ante 200
+86aa3d4e: posts small blind 800
+a9e25908: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [4h 7h]
+Dealt to d63dfacd 
+Dealt to 7f42d542 
+Dealt to e99cf761 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+Hero: folds
+d63dfacd: folds
+7f42d542: folds
+e99cf761: folds
+601e011a: folds
+86aa3d4e: raises 4,000 to 5,600
+a9e25908: folds
+Uncalled bet (4,000) returned to 86aa3d4e
+*** SHOWDOWN ***
+86aa3d4e collected 4,600 from pot
+*** SUMMARY ***
+Total pot 4,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: d63dfacd folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 6: e99cf761 folded before Flop
+Seat 7: 601e011a (button) folded before Flop
+Seat 8: 86aa3d4e (small blind) collected (4,600)
+
+
+Poker Hand #TM90758551: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:22:47
+Table '9' 8-max Seat #6 is the button
+Seat 1: a9e25908 (47,024 in chips)
+Seat 2: Hero (22,308 in chips)
+Seat 3: d63dfacd (42,272 in chips)
+Seat 5: 7f42d542 (70,186 in chips)
+Seat 6: e99cf761 (55,084 in chips)
+Seat 7: 601e011a (85,365 in chips)
+Seat 8: 86aa3d4e (80,989 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+e99cf761: posts the ante 200
+Hero: posts the ante 200
+86aa3d4e: posts the ante 200
+601e011a: posts small blind 800
+86aa3d4e: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [4s Ts]
+Dealt to d63dfacd 
+Dealt to 7f42d542 
+Dealt to e99cf761 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+a9e25908: folds
+Hero: folds
+d63dfacd: folds
+7f42d542: folds
+e99cf761: raises 1,600 to 3,200
+601e011a: folds
+86aa3d4e: folds
+Uncalled bet (1,600) returned to e99cf761
+*** SHOWDOWN ***
+e99cf761 collected 5,400 from pot
+*** SUMMARY ***
+Total pot 5,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: d63dfacd folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 6: e99cf761 (button) collected (5,400)
+Seat 7: 601e011a (small blind) folded before Flop
+Seat 8: 86aa3d4e (big blind) folded before Flop
+
+
+Poker Hand #TM90758536: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:22:18
+Table '9' 8-max Seat #5 is the button
+Seat 1: a9e25908 (50,424 in chips)
+Seat 2: Hero (15,508 in chips)
+Seat 3: d63dfacd (42,472 in chips)
+Seat 5: 7f42d542 (70,386 in chips)
+Seat 6: e99cf761 (56,084 in chips)
+Seat 7: 601e011a (87,165 in chips)
+Seat 8: 86aa3d4e (81,189 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+Hero: posts the ante 200
+86aa3d4e: posts the ante 200
+e99cf761: posts the ante 200
+e99cf761: posts small blind 800
+601e011a: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Qh Kh]
+Dealt to d63dfacd 
+Dealt to 7f42d542 
+Dealt to e99cf761 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+86aa3d4e: folds
+a9e25908: raises 1,600 to 3,200
+Hero: raises 12,108 to 15,308 and is all-in
+d63dfacd: folds
+7f42d542: folds
+e99cf761: folds
+601e011a: folds
+a9e25908: folds
+Uncalled bet (12,108) returned to Hero
+*** SHOWDOWN ***
+Hero collected 10,200 from pot
+*** SUMMARY ***
+Total pot 10,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero collected (10,200)
+Seat 3: d63dfacd folded before Flop
+Seat 5: 7f42d542 (button) folded before Flop
+Seat 6: e99cf761 (small blind) folded before Flop
+Seat 7: 601e011a (big blind) folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758523: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:21:54
+Table '9' 8-max Seat #3 is the button
+Seat 1: a9e25908 (46,824 in chips)
+Seat 2: Hero (15,708 in chips)
+Seat 3: d63dfacd (42,672 in chips)
+Seat 5: 7f42d542 (71,386 in chips)
+Seat 6: e99cf761 (57,884 in chips)
+Seat 7: 601e011a (87,365 in chips)
+Seat 8: 86aa3d4e (81,389 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+Hero: posts the ante 200
+86aa3d4e: posts the ante 200
+e99cf761: posts the ante 200
+7f42d542: posts small blind 800
+e99cf761: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [2d 3c]
+Dealt to d63dfacd 
+Dealt to 7f42d542 
+Dealt to e99cf761 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+601e011a: folds
+86aa3d4e: folds
+a9e25908: raises 1,600 to 3,200
+Hero: folds
+d63dfacd: folds
+7f42d542: folds
+e99cf761: folds
+Uncalled bet (1,600) returned to a9e25908
+*** SHOWDOWN ***
+a9e25908 collected 5,400 from pot
+*** SUMMARY ***
+Total pot 5,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 collected (5,400)
+Seat 2: Hero folded before Flop
+Seat 3: d63dfacd (button) folded before Flop
+Seat 5: 7f42d542 (small blind) folded before Flop
+Seat 6: e99cf761 (big blind) folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758487: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:20:45
+Table '9' 8-max Seat #2 is the button
+Seat 1: a9e25908 (47,024 in chips)
+Seat 2: Hero (15,908 in chips)
+Seat 3: d63dfacd (43,672 in chips)
+Seat 4: 8ef82b01 (33,200 in chips)
+Seat 5: 7f42d542 (71,586 in chips)
+Seat 6: e99cf761 (58,084 in chips)
+Seat 7: 601e011a (52,165 in chips)
+Seat 8: 86aa3d4e (81,589 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+8ef82b01: posts the ante 200
+Hero: posts the ante 200
+86aa3d4e: posts the ante 200
+e99cf761: posts the ante 200
+d63dfacd: posts small blind 800
+8ef82b01: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [6h 4s]
+Dealt to d63dfacd 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to e99cf761 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+7f42d542: folds
+e99cf761: folds
+601e011a: raises 3,200 to 4,800
+86aa3d4e: folds
+a9e25908: folds
+Hero: folds
+d63dfacd: folds
+8ef82b01: calls 3,200
+*** FLOP *** [Kc Ah 9h]
+8ef82b01: checks
+601e011a: bets 9,000
+8ef82b01: raises 19,200 to 28,200 and is all-in
+601e011a: calls 19,200
+8ef82b01: shows [Kh Th] (a pair of Kings)
+601e011a: shows [6s Ad] (a pair of Aces)
+*** TURN *** [Kc Ah 9h] [4d]
+*** RIVER *** [Kc Ah 9h 4d] [2s]
+*** SHOWDOWN ***
+601e011a collected 68,400 from pot
+*** SUMMARY ***
+Total pot 68,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc Ah 9h 4d 2s]
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: d63dfacd (small blind) folded before Flop
+Seat 4: 8ef82b01 (big blind) showed [Kh Th] and lost with a pair of Kings
+Seat 5: 7f42d542 folded before Flop
+Seat 6: e99cf761 folded before Flop
+Seat 7: 601e011a showed [6s Ad] and won (68,400) with a pair of Aces
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758455: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:19:43
+Table '9' 8-max Seat #1 is the button
+Seat 1: a9e25908 (41,824 in chips)
+Seat 2: Hero (16,908 in chips)
+Seat 3: d63dfacd (45,472 in chips)
+Seat 4: 8ef82b01 (33,400 in chips)
+Seat 5: 7f42d542 (71,786 in chips)
+Seat 7: 601e011a (53,965 in chips)
+Seat 8: 86aa3d4e (81,789 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+8ef82b01: posts the ante 200
+86aa3d4e: posts the ante 200
+Hero: posts the ante 200
+Hero: posts small blind 800
+d63dfacd: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [7s Td]
+Dealt to d63dfacd 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+8ef82b01: folds
+7f42d542: folds
+601e011a: calls 1,600
+86aa3d4e: folds
+a9e25908: raises 3,200 to 4,800
+Hero: folds
+d63dfacd: folds
+601e011a: folds
+Uncalled bet (3,200) returned to a9e25908
+*** SHOWDOWN ***
+a9e25908 collected 7,000 from pot
+*** SUMMARY ***
+Total pot 7,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 (button) collected (7,000)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: d63dfacd (big blind) folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758437: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level16(800/1,600) - 2026/01/06 20:19:00
+Table '9' 8-max Seat #8 is the button
+Seat 1: a9e25908 (42,824 in chips)
+Seat 2: Hero (20,308 in chips)
+Seat 3: d63dfacd (45,672 in chips)
+Seat 4: 8ef82b01 (33,600 in chips)
+Seat 5: 7f42d542 (71,986 in chips)
+Seat 7: 601e011a (54,165 in chips)
+Seat 8: 86aa3d4e (76,589 in chips)
+d63dfacd: posts the ante 200
+7f42d542: posts the ante 200
+a9e25908: posts the ante 200
+601e011a: posts the ante 200
+8ef82b01: posts the ante 200
+86aa3d4e: posts the ante 200
+Hero: posts the ante 200
+a9e25908: posts small blind 800
+Hero: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Ac 8h]
+Dealt to d63dfacd 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+d63dfacd: folds
+8ef82b01: folds
+7f42d542: folds
+601e011a: folds
+86aa3d4e: raises 1,600 to 3,200
+a9e25908: folds
+Hero: calls 1,600
+*** FLOP *** [6s Td Qs]
+Hero: checks
+86aa3d4e: bets 2,400
+Hero: folds
+Uncalled bet (2,400) returned to 86aa3d4e
+*** SHOWDOWN ***
+86aa3d4e collected 8,600 from pot
+*** SUMMARY ***
+Total pot 8,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Td Qs]
+Seat 1: a9e25908 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded on the Flop
+Seat 3: d63dfacd folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e (button) won (8,600)
+
+
+Poker Hand #TM90758381: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:17:16
+Table '9' 8-max Seat #7 is the button
+Seat 1: a9e25908 (44,174 in chips)
+Seat 2: Hero (20,458 in chips)
+Seat 3: d63dfacd (45,822 in chips)
+Seat 4: 8ef82b01 (33,750 in chips)
+Seat 5: 7f42d542 (64,486 in chips)
+Seat 7: 601e011a (58,515 in chips)
+Seat 8: 86aa3d4e (77,939 in chips)
+d63dfacd: posts the ante 150
+7f42d542: posts the ante 150
+a9e25908: posts the ante 150
+601e011a: posts the ante 150
+8ef82b01: posts the ante 150
+Hero: posts the ante 150
+86aa3d4e: posts the ante 150
+86aa3d4e: posts small blind 600
+a9e25908: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [5d 9s]
+Dealt to d63dfacd 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+Hero: folds
+d63dfacd: folds
+8ef82b01: folds
+7f42d542: calls 1,200
+601e011a: calls 1,200
+86aa3d4e: calls 600
+a9e25908: checks
+*** FLOP *** [8c Qh Kh]
+86aa3d4e: checks
+a9e25908: checks
+7f42d542: checks
+601e011a: bets 3,000
+86aa3d4e: folds
+a9e25908: folds
+7f42d542: calls 3,000
+*** TURN *** [8c Qh Kh] [Ts]
+7f42d542: checks
+601e011a: checks
+*** RIVER *** [8c Qh Kh Ts] [7d]
+7f42d542: bets 4,800
+601e011a: folds
+Uncalled bet (4,800) returned to 7f42d542
+*** SHOWDOWN ***
+7f42d542 collected 11,850 from pot
+*** SUMMARY ***
+Total pot 11,850 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c Qh Kh Ts 7d]
+Seat 1: a9e25908 (big blind) folded on the Flop
+Seat 2: Hero folded before Flop
+Seat 3: d63dfacd folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 won (11,850)
+Seat 7: 601e011a (button) folded on the River
+Seat 8: 86aa3d4e (small blind) folded on the Flop
+
+
+Poker Hand #TM90758347: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:16:11
+Table '9' 8-max Seat #5 is the button
+Seat 1: a9e25908 (44,324 in chips)
+Seat 2: Hero (20,608 in chips)
+Seat 3: d63dfacd (45,972 in chips)
+Seat 4: 8ef82b01 (33,900 in chips)
+Seat 5: 7f42d542 (67,036 in chips)
+Seat 7: 601e011a (59,265 in chips)
+Seat 8: 86aa3d4e (74,039 in chips)
+d63dfacd: posts the ante 150
+7f42d542: posts the ante 150
+a9e25908: posts the ante 150
+601e011a: posts the ante 150
+8ef82b01: posts the ante 150
+Hero: posts the ante 150
+86aa3d4e: posts the ante 150
+601e011a: posts small blind 600
+86aa3d4e: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Jh Qd]
+Dealt to d63dfacd 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+a9e25908: folds
+Hero: folds
+d63dfacd: folds
+8ef82b01: folds
+7f42d542: raises 1,200 to 2,400
+601e011a: folds
+86aa3d4e: raises 71,489 to 73,889 and is all-in
+7f42d542: folds
+Uncalled bet (71,489) returned to 86aa3d4e
+*** SHOWDOWN ***
+86aa3d4e collected 6,450 from pot
+*** SUMMARY ***
+Total pot 6,450 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: d63dfacd folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 (button) folded before Flop
+Seat 7: 601e011a (small blind) folded before Flop
+Seat 8: 86aa3d4e (big blind) collected (6,450)
+
+
+Poker Hand #TM90758316: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:15:20
+Table '9' 8-max Seat #4 is the button
+Seat 1: a9e25908 (44,474 in chips)
+Seat 2: Hero (9,104 in chips)
+Seat 4: 8ef82b01 (34,050 in chips)
+Seat 5: 7f42d542 (67,786 in chips)
+Seat 7: 601e011a (60,615 in chips)
+Seat 8: 86aa3d4e (83,143 in chips)
+7f42d542: posts the ante 150
+a9e25908: posts the ante 150
+601e011a: posts the ante 150
+8ef82b01: posts the ante 150
+Hero: posts the ante 150
+86aa3d4e: posts the ante 150
+7f42d542: posts small blind 600
+601e011a: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to a9e25908 
+Dealt to Hero [Qd As]
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+86aa3d4e: raises 1,200 to 2,400
+a9e25908: folds
+Hero: raises 6,360 to 8,760
+8ef82b01: folds
+7f42d542: folds
+601e011a: folds
+86aa3d4e: raises 6,360 to 15,120
+Hero: calls 194 and is all-in
+Uncalled bet (6,166) returned to 86aa3d4e
+86aa3d4e: shows [Kd Kh]
+Hero: shows [Qd As]
+*** FLOP *** [Ad 7s Jh]
+*** TURN *** [Ad 7s Jh] [Qs]
+*** RIVER *** [Ad 7s Jh Qs] [4c]
+*** SHOWDOWN ***
+Hero collected 20,608 from pot
+*** SUMMARY ***
+Total pot 20,608 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad 7s Jh Qs 4c]
+Seat 1: a9e25908 folded before Flop
+Seat 2: Hero showed [Qd As] and won (20,608) with two pair, Aces and Queens
+Seat 4: 8ef82b01 (button) folded before Flop
+Seat 5: 7f42d542 (small blind) folded before Flop
+Seat 7: 601e011a (big blind) folded before Flop
+Seat 8: 86aa3d4e showed [Kd Kh] and lost with a pair of Kings
+
+
+Poker Hand #TM90758286: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:14:18
+Table '9' 8-max Seat #2 is the button
+Seat 2: Hero (11,654 in chips)
+Seat 3: 2d107870 (29,355 in chips)
+Seat 4: 8ef82b01 (35,400 in chips)
+Seat 5: 7f42d542 (67,936 in chips)
+Seat 7: 601e011a (60,765 in chips)
+Seat 8: 86aa3d4e (49,588 in chips)
+7f42d542: posts the ante 150
+2d107870: posts the ante 150
+601e011a: posts the ante 150
+8ef82b01: posts the ante 150
+Hero: posts the ante 150
+86aa3d4e: posts the ante 150
+2d107870: posts small blind 600
+8ef82b01: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to Hero [Kc Js]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+7f42d542: folds
+601e011a: folds
+86aa3d4e: raises 1,200 to 2,400
+Hero: calls 2,400
+2d107870: raises 26,805 to 29,205 and is all-in
+8ef82b01: folds
+86aa3d4e: calls 26,805
+Hero: folds
+2d107870: shows [Qd Ah]
+86aa3d4e: shows [Kh Ad]
+*** FLOP *** [4d 2h 5s]
+*** TURN *** [4d 2h 5s] [8s]
+*** RIVER *** [4d 2h 5s 8s] [6d]
+*** SHOWDOWN ***
+86aa3d4e collected 62,910 from pot
+*** SUMMARY ***
+Total pot 62,910 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 2h 5s 8s 6d]
+Seat 2: Hero (button) folded before Flop
+Seat 3: 2d107870 (small blind) showed [Qd Ah] and lost with Ace high
+Seat 4: 8ef82b01 (big blind) folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e showed [Kh Ad] and won (62,910) with Ace high
+
+
+Poker Hand #TM90758254: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:13:16
+Table '9' 8-max Seat #1 is the button
+Seat 1: 48d3ea72 (6,738 in chips)
+Seat 2: Hero (12,404 in chips)
+Seat 3: 2d107870 (30,705 in chips)
+Seat 4: 8ef82b01 (35,550 in chips)
+Seat 5: 7f42d542 (68,086 in chips)
+Seat 7: 601e011a (62,115 in chips)
+Seat 8: 86aa3d4e (39,100 in chips)
+7f42d542: posts the ante 150
+2d107870: posts the ante 150
+601e011a: posts the ante 150
+48d3ea72: posts the ante 150
+8ef82b01: posts the ante 150
+86aa3d4e: posts the ante 150
+Hero: posts the ante 150
+Hero: posts small blind 600
+2d107870: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 48d3ea72 
+Dealt to Hero [2s Jc]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+8ef82b01: folds
+7f42d542: folds
+601e011a: calls 1,200
+86aa3d4e: calls 1,200
+48d3ea72: raises 5,388 to 6,588 and is all-in
+Hero: folds
+2d107870: folds
+601e011a: folds
+86aa3d4e: calls 5,388
+48d3ea72: shows [7d As]
+86aa3d4e: shows [6h 6c]
+*** FLOP *** [Qs 8c 9d]
+*** TURN *** [Qs 8c 9d] [6d]
+*** RIVER *** [Qs 8c 9d 6d] [Js]
+*** SHOWDOWN ***
+86aa3d4e collected 17,226 from pot
+*** SUMMARY ***
+Total pot 17,226 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 8c 9d 6d Js]
+Seat 1: 48d3ea72 (button) showed [7d As] and lost with Ace high
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 2d107870 (big blind) folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 7: 601e011a folded before Flop
+Seat 8: 86aa3d4e showed [6h 6c] and won (17,226) with three of a kind, Sixes
+
+
+Poker Hand #TM90758242: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:12:51
+Table '9' 8-max Seat #8 is the button
+Seat 1: 48d3ea72 (7,488 in chips)
+Seat 2: Hero (13,754 in chips)
+Seat 3: 2d107870 (30,855 in chips)
+Seat 4: 8ef82b01 (35,700 in chips)
+Seat 5: 7f42d542 (68,236 in chips)
+Seat 7: 601e011a (59,415 in chips)
+Seat 8: 86aa3d4e (39,250 in chips)
+7f42d542: posts the ante 150
+2d107870: posts the ante 150
+601e011a: posts the ante 150
+8ef82b01: posts the ante 150
+48d3ea72: posts the ante 150
+86aa3d4e: posts the ante 150
+Hero: posts the ante 150
+48d3ea72: posts small blind 600
+Hero: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 48d3ea72 
+Dealt to Hero [Ts 4s]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+2d107870: folds
+8ef82b01: folds
+7f42d542: folds
+601e011a: raises 3,600 to 4,800
+86aa3d4e: folds
+48d3ea72: folds
+Hero: folds
+Uncalled bet (3,600) returned to 601e011a
+*** SHOWDOWN ***
+601e011a collected 4,050 from pot
+*** SUMMARY ***
+Total pot 4,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 48d3ea72 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 7: 601e011a collected (4,050)
+Seat 8: 86aa3d4e (button) folded before Flop
+
+
+Poker Hand #TM90758221: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:12:15
+Table '9' 8-max Seat #7 is the button
+Seat 1: 48d3ea72 (8,838 in chips)
+Seat 2: Hero (13,904 in chips)
+Seat 3: 2d107870 (36,328 in chips)
+Seat 4: 8ef82b01 (35,850 in chips)
+Seat 5: 7f42d542 (60,213 in chips)
+Seat 7: 601e011a (59,565 in chips)
+Seat 8: 86aa3d4e (40,000 in chips)
+7f42d542: posts the ante 150
+2d107870: posts the ante 150
+601e011a: posts the ante 150
+8ef82b01: posts the ante 150
+48d3ea72: posts the ante 150
+Hero: posts the ante 150
+86aa3d4e: posts the ante 150
+86aa3d4e: posts small blind 600
+48d3ea72: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 48d3ea72 
+Dealt to Hero [Qh 2h]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+Hero: folds
+2d107870: raises 1,440 to 2,640
+8ef82b01: folds
+7f42d542: calls 2,640
+601e011a: folds
+86aa3d4e: folds
+48d3ea72: folds
+*** FLOP *** [8h Ks 6c]
+2d107870: bets 2,683
+7f42d542: calls 2,683
+*** TURN *** [8h Ks 6c] [3h]
+2d107870: checks
+7f42d542: bets 2,400
+2d107870: folds
+Uncalled bet (2,400) returned to 7f42d542
+*** SHOWDOWN ***
+7f42d542 collected 13,496 from pot
+*** SUMMARY ***
+Total pot 13,496 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h Ks 6c 3h]
+Seat 1: 48d3ea72 (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded on the Turn
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 won (13,496)
+Seat 7: 601e011a (button) folded before Flop
+Seat 8: 86aa3d4e (small blind) folded before Flop
+
+
+Poker Hand #TM90758183: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:11:10
+Table '9' 8-max Seat #5 is the button
+Seat 1: 48d3ea72 (8,988 in chips)
+Seat 2: Hero (14,054 in chips)
+Seat 3: 2d107870 (36,478 in chips)
+Seat 4: 8ef82b01 (36,000 in chips)
+Seat 5: 7f42d542 (60,363 in chips)
+Seat 6: c259056d (18,555 in chips)
+Seat 7: 601e011a (40,110 in chips)
+Seat 8: 86aa3d4e (40,150 in chips)
+7f42d542: posts the ante 150
+2d107870: posts the ante 150
+601e011a: posts the ante 150
+8ef82b01: posts the ante 150
+48d3ea72: posts the ante 150
+Hero: posts the ante 150
+86aa3d4e: posts the ante 150
+c259056d: posts the ante 150
+c259056d: posts small blind 600
+601e011a: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 48d3ea72 
+Dealt to Hero [Tc 5h]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to c259056d 
+Dealt to 601e011a 
+Dealt to 86aa3d4e 
+86aa3d4e: folds
+48d3ea72: folds
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+7f42d542: folds
+c259056d: raises 1,200 to 2,400
+601e011a: calls 1,200
+*** FLOP *** [2h 4c 5c]
+c259056d: bets 4,500
+601e011a: raises 33,060 to 37,560 and is all-in
+c259056d: calls 11,505 and is all-in
+Uncalled bet (21,555) returned to 601e011a
+601e011a: shows [7c Qc] (Queen high)
+c259056d: shows [Ad Ac] (a pair of Aces)
+*** TURN *** [2h 4c 5c] [2c]
+*** RIVER *** [2h 4c 5c 2c] [Js]
+*** SHOWDOWN ***
+601e011a collected 38,010 from pot
+*** SUMMARY ***
+Total pot 38,010 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 4c 5c 2c Js]
+Seat 1: 48d3ea72 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 (button) folded before Flop
+Seat 6: c259056d (small blind) showed [Ad Ac] and lost with two pair, Aces and Twos
+Seat 7: 601e011a (big blind) showed [7c Qc] and won (38,010) with a flush Queen high
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758156: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:10:33
+Table '9' 8-max Seat #4 is the button
+Seat 1: 48d3ea72 (9,138 in chips)
+Seat 2: Hero (14,204 in chips)
+Seat 3: 2d107870 (36,628 in chips)
+Seat 4: 8ef82b01 (36,150 in chips)
+Seat 5: 7f42d542 (61,113 in chips)
+Seat 6: c259056d (21,105 in chips)
+Seat 8: 86aa3d4e (36,250 in chips)
+2d107870: posts the ante 150
+7f42d542: posts the ante 150
+8ef82b01: posts the ante 150
+48d3ea72: posts the ante 150
+Hero: posts the ante 150
+86aa3d4e: posts the ante 150
+c259056d: posts the ante 150
+7f42d542: posts small blind 600
+c259056d: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 48d3ea72 
+Dealt to Hero [7d 2d]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to c259056d 
+Dealt to 86aa3d4e 
+86aa3d4e: raises 1,200 to 2,400
+48d3ea72: folds
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+7f42d542: folds
+c259056d: calls 1,200
+*** FLOP *** [5s 4d 2s]
+c259056d: checks
+86aa3d4e: bets 5,483
+c259056d: folds
+Uncalled bet (5,483) returned to 86aa3d4e
+*** SHOWDOWN ***
+86aa3d4e collected 6,450 from pot
+*** SUMMARY ***
+Total pot 6,450 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 4d 2s]
+Seat 1: 48d3ea72 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 (button) folded before Flop
+Seat 5: 7f42d542 (small blind) folded before Flop
+Seat 6: c259056d (big blind) folded on the Flop
+Seat 8: 86aa3d4e won (6,450)
+
+
+Poker Hand #TM90758133: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:09:50
+Table '9' 8-max Seat #3 is the button
+Seat 2: Hero (14,354 in chips)
+Seat 3: 2d107870 (36,778 in chips)
+Seat 4: 8ef82b01 (36,900 in chips)
+Seat 5: 7f42d542 (78,638 in chips)
+Seat 6: c259056d (21,255 in chips)
+Seat 8: 86aa3d4e (17,525 in chips)
+2d107870: posts the ante 150
+7f42d542: posts the ante 150
+8ef82b01: posts the ante 150
+Hero: posts the ante 150
+86aa3d4e: posts the ante 150
+c259056d: posts the ante 150
+8ef82b01: posts small blind 600
+7f42d542: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to Hero [Jd 2c]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to c259056d 
+Dealt to 86aa3d4e 
+c259056d: folds
+86aa3d4e: raises 1,200 to 2,400
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+7f42d542: calls 1,200
+*** FLOP *** [Qh Tc Kc]
+7f42d542: checks
+86aa3d4e: bets 4,066
+7f42d542: calls 4,066
+*** TURN *** [Qh Tc Kc] [6d]
+7f42d542: checks
+86aa3d4e: bets 10,909 and is all-in
+7f42d542: calls 10,909
+86aa3d4e: shows [Ah Kd] (a pair of Kings)
+7f42d542: shows [Kh 7c] (a pair of Kings)
+*** RIVER *** [Qh Tc Kc 6d] [9c]
+*** SHOWDOWN ***
+86aa3d4e collected 36,250 from pot
+*** SUMMARY ***
+Total pot 36,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh Tc Kc 6d 9c]
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 (button) folded before Flop
+Seat 4: 8ef82b01 (small blind) folded before Flop
+Seat 5: 7f42d542 (big blind) showed [Kh 7c] and lost with a pair of Kings
+Seat 6: c259056d folded before Flop
+Seat 8: 86aa3d4e showed [Ah Kd] and won (36,250) with a pair of Kings
+
+
+Poker Hand #TM90758102: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:09:05
+Table '9' 8-max Seat #2 is the button
+Seat 1: e2a2948f (4,850 in chips)
+Seat 2: Hero (14,504 in chips)
+Seat 3: 2d107870 (37,528 in chips)
+Seat 4: 8ef82b01 (30,700 in chips)
+Seat 5: 7f42d542 (78,788 in chips)
+Seat 6: c259056d (21,405 in chips)
+Seat 8: 86aa3d4e (17,675 in chips)
+7f42d542: posts the ante 150
+2d107870: posts the ante 150
+8ef82b01: posts the ante 150
+e2a2948f: posts the ante 150
+Hero: posts the ante 150
+86aa3d4e: posts the ante 150
+c259056d: posts the ante 150
+2d107870: posts small blind 600
+8ef82b01: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [Kd 5s]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to c259056d 
+Dealt to 86aa3d4e 
+7f42d542: folds
+c259056d: folds
+86aa3d4e: folds
+e2a2948f: raises 3,500 to 4,700 and is all-in
+Hero: folds
+2d107870: folds
+8ef82b01: calls 3,500
+e2a2948f: shows [Tc Qc]
+8ef82b01: shows [4h 5h]
+*** FLOP *** [9s Jh 4d]
+*** TURN *** [9s Jh 4d] [Ah]
+*** RIVER *** [9s Jh 4d Ah] [Ad]
+*** SHOWDOWN ***
+8ef82b01 collected 11,050 from pot
+*** SUMMARY ***
+Total pot 11,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s Jh 4d Ah Ad]
+Seat 1: e2a2948f showed [Tc Qc] and lost with a pair of Aces
+Seat 2: Hero (button) folded before Flop
+Seat 3: 2d107870 (small blind) folded before Flop
+Seat 4: 8ef82b01 (big blind) showed [4h 5h] and won (11,050) with two pair, Aces and Fours
+Seat 5: 7f42d542 folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758091: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:08:45
+Table '9' 8-max Seat #1 is the button
+Seat 1: e2a2948f (5,000 in chips)
+Seat 2: Hero (15,254 in chips)
+Seat 3: 2d107870 (38,878 in chips)
+Seat 4: 8ef82b01 (30,850 in chips)
+Seat 5: 7f42d542 (76,088 in chips)
+Seat 6: c259056d (21,555 in chips)
+Seat 8: 86aa3d4e (17,825 in chips)
+7f42d542: posts the ante 150
+2d107870: posts the ante 150
+8ef82b01: posts the ante 150
+e2a2948f: posts the ante 150
+86aa3d4e: posts the ante 150
+c259056d: posts the ante 150
+Hero: posts the ante 150
+Hero: posts small blind 600
+2d107870: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [Kc 6s]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to c259056d 
+Dealt to 86aa3d4e 
+8ef82b01: folds
+7f42d542: raises 2,400 to 3,600
+c259056d: folds
+86aa3d4e: folds
+e2a2948f: folds
+Hero: folds
+2d107870: folds
+Uncalled bet (2,400) returned to 7f42d542
+*** SHOWDOWN ***
+7f42d542 collected 4,050 from pot
+*** SUMMARY ***
+Total pot 4,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e2a2948f (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 2d107870 (big blind) folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 collected (4,050)
+Seat 6: c259056d folded before Flop
+Seat 8: 86aa3d4e folded before Flop
+
+
+Poker Hand #TM90758063: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:07:57
+Table '9' 8-max Seat #7 is the button
+Seat 1: e2a2948f (5,750 in chips)
+Seat 2: Hero (16,604 in chips)
+Seat 3: 2d107870 (23,290 in chips)
+Seat 4: 8ef82b01 (31,000 in chips)
+Seat 5: 7f42d542 (76,238 in chips)
+Seat 6: c259056d (21,705 in chips)
+Seat 7: 981d4068 (13,038 in chips)
+7f42d542: posts the ante 150
+2d107870: posts the ante 150
+8ef82b01: posts the ante 150
+981d4068: posts the ante 150
+e2a2948f: posts the ante 150
+c259056d: posts the ante 150
+Hero: posts the ante 150
+e2a2948f: posts small blind 600
+Hero: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [4d 9s]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to c259056d 
+Dealt to 981d4068 
+2d107870: raises 1,200 to 2,400
+8ef82b01: folds
+7f42d542: folds
+c259056d: folds
+981d4068: raises 10,488 to 12,888 and is all-in
+e2a2948f: folds
+Hero: folds
+2d107870: calls 10,488
+981d4068: shows [Ah Qs]
+2d107870: shows [Ac As]
+*** FLOP *** [Kd 5h 6d]
+*** TURN *** [Kd 5h 6d] [7s]
+*** RIVER *** [Kd 5h 6d 7s] [5s]
+*** SHOWDOWN ***
+2d107870 collected 28,626 from pot
+*** SUMMARY ***
+Total pot 28,626 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd 5h 6d 7s 5s]
+Seat 1: e2a2948f (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 2d107870 showed [Ac As] and won (28,626) with two pair, Aces and Fives
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 (button) showed [Ah Qs] and lost with a pair of Fives
+
+
+Poker Hand #TM90758048: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:07:42
+Table '9' 8-max Seat #6 is the button
+Seat 1: e2a2948f (7,100 in chips)
+Seat 2: Hero (16,754 in chips)
+Seat 3: 2d107870 (23,440 in chips)
+Seat 4: 8ef82b01 (31,150 in chips)
+Seat 5: 7f42d542 (73,538 in chips)
+Seat 6: c259056d (21,855 in chips)
+Seat 7: 981d4068 (13,788 in chips)
+7f42d542: posts the ante 150
+2d107870: posts the ante 150
+8ef82b01: posts the ante 150
+981d4068: posts the ante 150
+e2a2948f: posts the ante 150
+c259056d: posts the ante 150
+Hero: posts the ante 150
+981d4068: posts small blind 600
+e2a2948f: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [6s Td]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to c259056d 
+Dealt to 981d4068 
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+7f42d542: raises 2,400 to 3,600
+c259056d: folds
+981d4068: folds
+e2a2948f: folds
+Uncalled bet (2,400) returned to 7f42d542
+*** SHOWDOWN ***
+7f42d542 collected 4,050 from pot
+*** SUMMARY ***
+Total pot 4,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e2a2948f (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 collected (4,050)
+Seat 6: c259056d (button) folded before Flop
+Seat 7: 981d4068 (small blind) folded before Flop
+
+
+Poker Hand #TM90758030: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level15(600/1,200) - 2026/01/06 20:07:10
+Table '9' 8-max Seat #5 is the button
+Seat 1: e2a2948f (7,250 in chips)
+Seat 2: Hero (16,904 in chips)
+Seat 3: 2d107870 (23,590 in chips)
+Seat 4: 8ef82b01 (31,300 in chips)
+Seat 5: 7f42d542 (73,688 in chips)
+Seat 6: c259056d (22,605 in chips)
+Seat 7: 981d4068 (15,138 in chips)
+Seat 8: 2ed90392 (12,000 in chips)
+7f42d542: posts the ante 150
+2d107870: posts the ante 150
+8ef82b01: posts the ante 150
+2ed90392: posts the ante 150
+981d4068: posts the ante 150
+e2a2948f: posts the ante 150
+Hero: posts the ante 150
+c259056d: posts the ante 150
+c259056d: posts small blind 600
+981d4068: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [2c 8h]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 2ed90392 
+2ed90392: raises 10,650 to 11,850 and is all-in
+e2a2948f: folds
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+7f42d542: folds
+c259056d: folds
+981d4068: folds
+Uncalled bet (10,650) returned to 2ed90392
+*** SHOWDOWN ***
+2ed90392 collected 4,200 from pot
+*** SUMMARY ***
+Total pot 4,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e2a2948f folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: 7f42d542 (button) folded before Flop
+Seat 6: c259056d (small blind) folded before Flop
+Seat 7: 981d4068 (big blind) folded before Flop
+Seat 8: 2ed90392 collected (4,200)
+
+
+Poker Hand #TM90757995: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 20:06:18
+Table '9' 8-max Seat #4 is the button
+Seat 1: e2a2948f (7,375 in chips)
+Seat 2: Hero (17,029 in chips)
+Seat 3: 2d107870 (38,115 in chips)
+Seat 4: 8ef82b01 (14,525 in chips)
+Seat 5: 7f42d542 (74,313 in chips)
+Seat 6: c259056d (23,730 in chips)
+Seat 7: 981d4068 (15,263 in chips)
+Seat 8: 2ed90392 (12,125 in chips)
+2d107870: posts the ante 125
+7f42d542: posts the ante 125
+8ef82b01: posts the ante 125
+2ed90392: posts the ante 125
+981d4068: posts the ante 125
+e2a2948f: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+7f42d542: posts small blind 500
+c259056d: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [9c Th]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 2ed90392 
+981d4068: folds
+2ed90392: folds
+e2a2948f: folds
+Hero: folds
+2d107870: raises 1,200 to 2,200
+8ef82b01: raises 12,200 to 14,400 and is all-in
+7f42d542: folds
+c259056d: folds
+2d107870: calls 12,200
+8ef82b01: shows [Ks Ac]
+2d107870: shows [3d 3c]
+*** FLOP *** [2c 5c 2h]
+*** TURN *** [2c 5c 2h] [As]
+*** RIVER *** [2c 5c 2h As] [9h]
+*** SHOWDOWN ***
+8ef82b01 collected 31,300 from pot
+*** SUMMARY ***
+Total pot 31,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 5c 2h As 9h]
+Seat 1: e2a2948f folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 showed [3d 3c] and lost with two pair, Threes and Twos
+Seat 4: 8ef82b01 (button) showed [Ks Ac] and won (31,300) with two pair, Aces and Twos
+Seat 5: 7f42d542 (small blind) folded before Flop
+Seat 6: c259056d (big blind) folded before Flop
+Seat 7: 981d4068 folded before Flop
+Seat 8: 2ed90392 folded before Flop
+
+
+Poker Hand #TM90757973: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 20:05:44
+Table '9' 8-max Seat #3 is the button
+Seat 1: e2a2948f (7,500 in chips)
+Seat 2: Hero (17,154 in chips)
+Seat 3: 2d107870 (38,240 in chips)
+Seat 4: 8ef82b01 (15,150 in chips)
+Seat 5: 7f42d542 (75,438 in chips)
+Seat 6: c259056d (23,855 in chips)
+Seat 7: 981d4068 (15,388 in chips)
+Seat 8: 2ed90392 (9,750 in chips)
+2d107870: posts the ante 125
+7f42d542: posts the ante 125
+8ef82b01: posts the ante 125
+2ed90392: posts the ante 125
+981d4068: posts the ante 125
+e2a2948f: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+8ef82b01: posts small blind 500
+7f42d542: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [8d As]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to 7f42d542 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 2ed90392 
+c259056d: folds
+981d4068: folds
+2ed90392: raises 8,625 to 9,625 and is all-in
+e2a2948f: folds
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+7f42d542: folds
+Uncalled bet (8,625) returned to 2ed90392
+*** SHOWDOWN ***
+2ed90392 collected 3,500 from pot
+*** SUMMARY ***
+Total pot 3,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e2a2948f folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 (button) folded before Flop
+Seat 4: 8ef82b01 (small blind) folded before Flop
+Seat 5: 7f42d542 (big blind) folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 folded before Flop
+Seat 8: 2ed90392 collected (3,500)
+
+
+Poker Hand #TM90757941: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 20:04:59
+Table '9' 8-max Seat #2 is the button
+Seat 1: e2a2948f (7,625 in chips)
+Seat 2: Hero (19,279 in chips)
+Seat 3: 2d107870 (34,490 in chips)
+Seat 4: 8ef82b01 (16,275 in chips)
+Seat 6: c259056d (23,980 in chips)
+Seat 7: 981d4068 (15,513 in chips)
+Seat 8: 2ed90392 (9,875 in chips)
+2d107870: posts the ante 125
+8ef82b01: posts the ante 125
+2ed90392: posts the ante 125
+981d4068: posts the ante 125
+e2a2948f: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+2d107870: posts small blind 500
+8ef82b01: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [3s 5s]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 2ed90392 
+c259056d: folds
+981d4068: folds
+2ed90392: folds
+e2a2948f: folds
+Hero: raises 1,000 to 2,000
+2d107870: raises 4,000 to 6,000
+8ef82b01: folds
+Hero: folds
+Uncalled bet (4,000) returned to 2d107870
+*** SHOWDOWN ***
+2d107870 collected 5,875 from pot
+*** SUMMARY ***
+Total pot 5,875 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e2a2948f folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 2d107870 (small blind) collected (5,875)
+Seat 4: 8ef82b01 (big blind) folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 folded before Flop
+Seat 8: 2ed90392 folded before Flop
+
+
+Poker Hand #TM90757927: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 20:04:40
+Table '9' 8-max Seat #1 is the button
+Seat 1: e2a2948f (7,750 in chips)
+Seat 2: Hero (19,904 in chips)
+Seat 3: 2d107870 (35,615 in chips)
+Seat 4: 8ef82b01 (13,900 in chips)
+Seat 5: e5c9f278 (63,699 in chips)
+Seat 6: c259056d (24,105 in chips)
+Seat 7: 981d4068 (15,638 in chips)
+Seat 8: 2ed90392 (10,000 in chips)
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+2ed90392: posts the ante 125
+981d4068: posts the ante 125
+e2a2948f: posts the ante 125
+c259056d: posts the ante 125
+Hero: posts the ante 125
+Hero: posts small blind 500
+2d107870: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [3c 9c]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 2ed90392 
+8ef82b01: raises 1,000 to 2,000
+e5c9f278: folds
+c259056d: folds
+981d4068: folds
+2ed90392: folds
+e2a2948f: folds
+Hero: folds
+2d107870: folds
+Uncalled bet (1,000) returned to 8ef82b01
+*** SHOWDOWN ***
+8ef82b01 collected 3,500 from pot
+*** SUMMARY ***
+Total pot 3,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e2a2948f (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 2d107870 (big blind) folded before Flop
+Seat 4: 8ef82b01 collected (3,500)
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 folded before Flop
+Seat 8: 2ed90392 folded before Flop
+
+
+Poker Hand #TM90757891: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 20:03:44
+Table '9' 8-max Seat #7 is the button
+Seat 1: e2a2948f (8,375 in chips)
+Seat 2: Hero (24,633 in chips)
+Seat 3: 2d107870 (35,740 in chips)
+Seat 4: 8ef82b01 (14,025 in chips)
+Seat 5: e5c9f278 (57,845 in chips)
+Seat 6: c259056d (24,230 in chips)
+Seat 7: 981d4068 (15,763 in chips)
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+e2a2948f: posts the ante 125
+c259056d: posts the ante 125
+Hero: posts the ante 125
+e2a2948f: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [8c Jc]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+2d107870: folds
+8ef82b01: folds
+e5c9f278: raises 1,500 to 2,500
+c259056d: folds
+981d4068: folds
+e2a2948f: folds
+Hero: calls 1,500
+*** FLOP *** [7c Ad 9d]
+Hero: checks
+e5c9f278: bets 2,104
+Hero: calls 2,104
+*** TURN *** [7c Ad 9d] [Ah]
+Hero: checks
+e5c9f278: checks
+*** RIVER *** [7c Ad 9d Ah] [As]
+Hero: checks
+e5c9f278: bets 3,493
+Hero: folds
+Uncalled bet (3,493) returned to e5c9f278
+*** SHOWDOWN ***
+e5c9f278 collected 10,583 from pot
+*** SUMMARY ***
+Total pot 10,583 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c Ad 9d Ah As]
+Seat 1: e2a2948f (small blind) folded before Flop
+Seat 2: Hero (big blind) folded on the River
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: e5c9f278 won (10,583)
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 (button) folded before Flop
+
+
+Poker Hand #TM90757860: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 20:02:58
+Table '9' 8-max Seat #6 is the button
+Seat 1: e2a2948f (9,500 in chips)
+Seat 2: Hero (23,821 in chips)
+Seat 3: 2d107870 (35,865 in chips)
+Seat 4: 8ef82b01 (14,150 in chips)
+Seat 5: e5c9f278 (57,970 in chips)
+Seat 6: c259056d (24,355 in chips)
+Seat 7: 981d4068 (14,950 in chips)
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+e2a2948f: posts the ante 125
+c259056d: posts the ante 125
+Hero: posts the ante 125
+981d4068: posts small blind 500
+e2a2948f: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [Kh Ad]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Hero: raises 1,500 to 2,500
+2d107870: folds
+8ef82b01: folds
+e5c9f278: folds
+c259056d: folds
+981d4068: raises 12,325 to 14,825 and is all-in
+e2a2948f: folds
+Hero: calls 12,325
+981d4068: shows [Ah Kd]
+Hero: shows [Kh Ad]
+*** FLOP *** [5s 9c 6c]
+*** TURN *** [5s 9c 6c] [Qc]
+*** RIVER *** [5s 9c 6c Qc] [6h]
+*** SHOWDOWN ***
+981d4068 collected 15,763 from pot
+Hero collected 15,762 from pot
+*** SUMMARY ***
+Total pot 31,525 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 9c 6c Qc 6h]
+Seat 1: e2a2948f (big blind) folded before Flop
+Seat 2: Hero showed [Kh Ad] and won (15,762) with a pair of Sixes
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d (button) folded before Flop
+Seat 7: 981d4068 (small blind) showed [Ah Kd] and won (15,763) with a pair of Sixes
+
+
+Poker Hand #TM90757818: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 20:01:39
+Table '9' 8-max Seat #5 is the button
+Seat 1: e2a2948f (9,625 in chips)
+Seat 2: Hero (23,946 in chips)
+Seat 3: 2d107870 (35,990 in chips)
+Seat 4: 8ef82b01 (14,275 in chips)
+Seat 5: e5c9f278 (58,095 in chips)
+Seat 6: c259056d (26,480 in chips)
+Seat 7: 981d4068 (12,200 in chips)
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+e2a2948f: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+c259056d: posts small blind 500
+981d4068: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [6h 5d]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+e2a2948f: folds
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+e5c9f278: folds
+c259056d: raises 1,000 to 2,000
+981d4068: calls 1,000
+*** FLOP *** [3h Qs Kc]
+c259056d: checks
+981d4068: bets 1,000
+c259056d: folds
+Uncalled bet (1,000) returned to 981d4068
+*** SHOWDOWN ***
+981d4068 collected 4,875 from pot
+*** SUMMARY ***
+Total pot 4,875 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h Qs Kc]
+Seat 1: e2a2948f folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: e5c9f278 (button) folded before Flop
+Seat 6: c259056d (small blind) folded on the Flop
+Seat 7: 981d4068 (big blind) won (4,875)
+
+
+Poker Hand #TM90757791: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 20:01:02
+Table '9' 8-max Seat #4 is the button
+Seat 1: e2a2948f (9,750 in chips)
+Seat 2: Hero (24,071 in chips)
+Seat 3: 2d107870 (36,115 in chips)
+Seat 4: 8ef82b01 (14,400 in chips)
+Seat 5: e5c9f278 (58,720 in chips)
+Seat 6: c259056d (25,105 in chips)
+Seat 7: 981d4068 (12,325 in chips)
+Seat 8: 5cb1b73c (49,051 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+e2a2948f: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+e5c9f278: posts small blind 500
+c259056d: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [4d 8s]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+981d4068: folds
+5cb1b73c: folds
+e2a2948f: folds
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+e5c9f278: folds
+Uncalled bet (500) returned to c259056d
+*** SHOWDOWN ***
+c259056d collected 2,000 from pot
+*** SUMMARY ***
+Total pot 2,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e2a2948f folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 (button) folded before Flop
+Seat 5: e5c9f278 (small blind) folded before Flop
+Seat 6: c259056d (big blind) collected (2,000)
+Seat 7: 981d4068 folded before Flop
+Seat 8: 5cb1b73c folded before Flop
+
+
+Poker Hand #TM90757771: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:54:44
+Table '9' 8-max Seat #3 is the button
+Seat 1: e2a2948f (9,875 in chips)
+Seat 2: Hero (28,696 in chips)
+Seat 3: 2d107870 (36,240 in chips)
+Seat 4: 8ef82b01 (15,025 in chips)
+Seat 5: e5c9f278 (60,845 in chips)
+Seat 6: c259056d (15,230 in chips)
+Seat 7: 981d4068 (12,450 in chips)
+Seat 8: 5cb1b73c (51,176 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+e2a2948f: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+8ef82b01: posts small blind 500
+e5c9f278: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [Ks Tc]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+c259056d: calls 1,000
+981d4068: folds
+5cb1b73c: raises 1,000 to 2,000
+e2a2948f: folds
+Hero: calls 2,000
+2d107870: folds
+8ef82b01: folds
+e5c9f278: calls 1,000
+c259056d: calls 1,000
+*** FLOP *** [8s 7c 6h]
+e5c9f278: checks
+c259056d: checks
+5cb1b73c: checks
+Hero: bets 2,500
+e5c9f278: folds
+c259056d: calls 2,500
+5cb1b73c: folds
+*** TURN *** [8s 7c 6h] [Qd]
+c259056d: checks
+Hero: checks
+*** RIVER *** [8s 7c 6h Qd] [5h]
+c259056d: bets 4,785
+Hero: folds
+Uncalled bet (4,785) returned to c259056d
+*** SHOWDOWN ***
+c259056d collected 14,500 from pot
+*** SUMMARY ***
+Total pot 14,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 7c 6h Qd 5h]
+Seat 1: e2a2948f folded before Flop
+Seat 2: Hero folded on the River
+Seat 3: 2d107870 (button) folded before Flop
+Seat 4: 8ef82b01 (small blind) folded before Flop
+Seat 5: e5c9f278 (big blind) folded on the Flop
+Seat 6: c259056d won (14,500)
+Seat 7: 981d4068 folded before Flop
+Seat 8: 5cb1b73c folded on the Flop
+
+
+Poker Hand #TM90757753: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:54:16
+Table '9' 8-max Seat #2 is the button
+Seat 1: e2a2948f (10,000 in chips)
+Seat 2: Hero (28,821 in chips)
+Seat 3: 2d107870 (36,865 in chips)
+Seat 4: 8ef82b01 (16,150 in chips)
+Seat 5: e5c9f278 (60,970 in chips)
+Seat 6: c259056d (12,855 in chips)
+Seat 7: 981d4068 (12,575 in chips)
+Seat 8: 5cb1b73c (51,301 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+e2a2948f: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+2d107870: posts small blind 500
+8ef82b01: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e2a2948f 
+Dealt to Hero [2h Qh]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+e5c9f278: folds
+c259056d: raises 3,500 to 4,500
+981d4068: folds
+5cb1b73c: folds
+e2a2948f: folds
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+Uncalled bet (3,500) returned to c259056d
+*** SHOWDOWN ***
+c259056d collected 3,500 from pot
+*** SUMMARY ***
+Total pot 3,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e2a2948f folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 2d107870 (small blind) folded before Flop
+Seat 4: 8ef82b01 (big blind) folded before Flop
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d collected (3,500)
+Seat 7: 981d4068 folded before Flop
+Seat 8: 5cb1b73c folded before Flop
+
+
+Poker Hand #TM90757741: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:54:02
+Table '9' 8-max Seat #8 is the button
+Seat 2: Hero (29,446 in chips)
+Seat 3: 2d107870 (35,615 in chips)
+Seat 4: 8ef82b01 (16,275 in chips)
+Seat 5: e5c9f278 (61,095 in chips)
+Seat 6: c259056d (12,980 in chips)
+Seat 7: 981d4068 (12,700 in chips)
+Seat 8: 5cb1b73c (51,426 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+c259056d: posts the ante 125
+Hero: posts the ante 125
+Hero: posts small blind 500
+2d107870: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [8c 3s]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+8ef82b01: folds
+e5c9f278: folds
+c259056d: folds
+981d4068: folds
+5cb1b73c: folds
+Hero: folds
+Uncalled bet (500) returned to 2d107870
+*** SHOWDOWN ***
+2d107870 collected 1,875 from pot
+*** SUMMARY ***
+Total pot 1,875 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 2d107870 (big blind) collected (1,875)
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 folded before Flop
+Seat 8: 5cb1b73c (button) folded before Flop
+
+
+Poker Hand #TM90757720: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:53:22
+Table '9' 8-max Seat #7 is the button
+Seat 2: Hero (27,696 in chips)
+Seat 3: 2d107870 (35,740 in chips)
+Seat 4: 8ef82b01 (16,400 in chips)
+Seat 5: e5c9f278 (61,220 in chips)
+Seat 6: c259056d (13,105 in chips)
+Seat 7: 981d4068 (12,825 in chips)
+Seat 8: 5cb1b73c (52,551 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+c259056d: posts the ante 125
+Hero: posts the ante 125
+5cb1b73c: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [6d 3d]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+2d107870: folds
+8ef82b01: folds
+e5c9f278: folds
+c259056d: folds
+981d4068: folds
+5cb1b73c: calls 500
+Hero: checks
+*** FLOP *** [3c Jh 6h]
+5cb1b73c: checks
+Hero: bets 1,000
+5cb1b73c: folds
+Uncalled bet (1,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,875 from pot
+*** SUMMARY ***
+Total pot 2,875 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c Jh 6h]
+Seat 2: Hero (big blind) won (2,875)
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 (button) folded before Flop
+Seat 8: 5cb1b73c (small blind) folded on the Flop
+
+
+Poker Hand #TM90757692: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:52:44
+Table '9' 8-max Seat #6 is the button
+Seat 2: Hero (27,821 in chips)
+Seat 3: 2d107870 (35,865 in chips)
+Seat 4: 8ef82b01 (16,525 in chips)
+Seat 5: e5c9f278 (61,345 in chips)
+Seat 6: c259056d (13,230 in chips)
+Seat 7: 981d4068 (13,450 in chips)
+Seat 8: 5cb1b73c (51,301 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+c259056d: posts the ante 125
+Hero: posts the ante 125
+981d4068: posts small blind 500
+5cb1b73c: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [8s 4c]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+e5c9f278: folds
+c259056d: folds
+981d4068: folds
+Uncalled bet (500) returned to 5cb1b73c
+*** SHOWDOWN ***
+5cb1b73c collected 1,875 from pot
+*** SUMMARY ***
+Total pot 1,875 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d (button) folded before Flop
+Seat 7: 981d4068 (small blind) folded before Flop
+Seat 8: 5cb1b73c (big blind) collected (1,875)
+
+
+Poker Hand #TM90757683: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:52:23
+Table '9' 8-max Seat #5 is the button
+Seat 2: Hero (27,946 in chips)
+Seat 3: 2d107870 (35,990 in chips)
+Seat 4: 8ef82b01 (16,650 in chips)
+Seat 5: e5c9f278 (59,095 in chips)
+Seat 6: c259056d (13,855 in chips)
+Seat 7: 981d4068 (14,575 in chips)
+Seat 8: 5cb1b73c (51,426 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+c259056d: posts small blind 500
+981d4068: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [2c 9s]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+5cb1b73c: folds
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+e5c9f278: raises 57,970 to 58,970 and is all-in
+c259056d: folds
+981d4068: folds
+Uncalled bet (57,970) returned to e5c9f278
+*** SHOWDOWN ***
+e5c9f278 collected 3,375 from pot
+*** SUMMARY ***
+Total pot 3,375 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: e5c9f278 (button) collected (3,375)
+Seat 6: c259056d (small blind) folded before Flop
+Seat 7: 981d4068 (big blind) folded before Flop
+Seat 8: 5cb1b73c folded before Flop
+
+
+Poker Hand #TM90757656: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:51:43
+Table '9' 8-max Seat #4 is the button
+Seat 2: Hero (30,071 in chips)
+Seat 3: 2d107870 (38,115 in chips)
+Seat 4: 8ef82b01 (10,400 in chips)
+Seat 5: e5c9f278 (59,720 in chips)
+Seat 6: c259056d (14,980 in chips)
+Seat 7: 981d4068 (14,700 in chips)
+Seat 8: 5cb1b73c (51,551 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+e5c9f278: posts small blind 500
+c259056d: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [9d Qd]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+981d4068: folds
+5cb1b73c: folds
+Hero: raises 1,000 to 2,000
+2d107870: calls 2,000
+8ef82b01: raises 8,275 to 10,275 and is all-in
+e5c9f278: folds
+c259056d: folds
+Hero: folds
+2d107870: folds
+Uncalled bet (8,275) returned to 8ef82b01
+*** SHOWDOWN ***
+8ef82b01 collected 8,375 from pot
+*** SUMMARY ***
+Total pot 8,375 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 (button) collected (8,375)
+Seat 5: e5c9f278 (small blind) folded before Flop
+Seat 6: c259056d (big blind) folded before Flop
+Seat 7: 981d4068 folded before Flop
+Seat 8: 5cb1b73c folded before Flop
+
+
+Poker Hand #TM90757634: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:51:09
+Table '9' 8-max Seat #3 is the button
+Seat 2: Hero (30,196 in chips)
+Seat 3: 2d107870 (38,240 in chips)
+Seat 4: 8ef82b01 (11,025 in chips)
+Seat 5: e5c9f278 (61,845 in chips)
+Seat 6: c259056d (15,105 in chips)
+Seat 7: 981d4068 (14,825 in chips)
+Seat 8: 5cb1b73c (48,301 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+8ef82b01: posts small blind 500
+e5c9f278: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [Ac 5h]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+c259056d: folds
+981d4068: folds
+5cb1b73c: raises 1,000 to 2,000
+Hero: folds
+2d107870: folds
+8ef82b01: folds
+e5c9f278: calls 1,000
+*** FLOP *** [5s As 4h]
+e5c9f278: checks
+5cb1b73c: bets 1,344
+e5c9f278: folds
+Uncalled bet (1,344) returned to 5cb1b73c
+*** SHOWDOWN ***
+5cb1b73c collected 5,375 from pot
+*** SUMMARY ***
+Total pot 5,375 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s As 4h]
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 (button) folded before Flop
+Seat 4: 8ef82b01 (small blind) folded before Flop
+Seat 5: e5c9f278 (big blind) folded on the Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 folded before Flop
+Seat 8: 5cb1b73c won (5,375)
+
+
+Poker Hand #TM90757599: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:50:22
+Table '9' 8-max Seat #2 is the button
+Seat 2: Hero (30,321 in chips)
+Seat 3: 2d107870 (44,980 in chips)
+Seat 4: 8ef82b01 (12,150 in chips)
+Seat 5: e5c9f278 (61,970 in chips)
+Seat 6: c259056d (6,740 in chips)
+Seat 7: 981d4068 (14,950 in chips)
+Seat 8: 5cb1b73c (48,426 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+Hero: posts the ante 125
+c259056d: posts the ante 125
+2d107870: posts small blind 500
+8ef82b01: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [4d 6d]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+e5c9f278: folds
+c259056d: raises 5,615 to 6,615 and is all-in
+981d4068: folds
+5cb1b73c: folds
+Hero: folds
+2d107870: raises 38,240 to 44,855 and is all-in
+8ef82b01: folds
+Uncalled bet (38,240) returned to 2d107870
+2d107870: shows [Js Ah]
+c259056d: shows [Th Ts]
+*** FLOP *** [Td 2s 3h]
+*** TURN *** [Td 2s 3h] [4h]
+*** RIVER *** [Td 2s 3h 4h] [Qc]
+*** SHOWDOWN ***
+c259056d collected 15,105 from pot
+*** SUMMARY ***
+Total pot 15,105 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 2s 3h 4h Qc]
+Seat 2: Hero (button) folded before Flop
+Seat 3: 2d107870 (small blind) showed [Js Ah] and lost with Ace high
+Seat 4: 8ef82b01 (big blind) folded before Flop
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d showed [Th Ts] and won (15,105) with three of a kind, Tens
+Seat 7: 981d4068 folded before Flop
+Seat 8: 5cb1b73c folded before Flop
+
+
+Poker Hand #TM90757576: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:49:37
+Table '9' 8-max Seat #8 is the button
+Seat 1: 5449b6d2 (5,127 in chips)
+Seat 2: Hero (24,444 in chips)
+Seat 3: 2d107870 (45,105 in chips)
+Seat 4: 8ef82b01 (12,275 in chips)
+Seat 5: e5c9f278 (62,095 in chips)
+Seat 6: c259056d (6,865 in chips)
+Seat 7: 981d4068 (15,075 in chips)
+Seat 8: 5cb1b73c (48,551 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+5449b6d2: posts the ante 125
+c259056d: posts the ante 125
+Hero: posts the ante 125
+5449b6d2: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [Ad Qh]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+2d107870: folds
+8ef82b01: folds
+e5c9f278: folds
+c259056d: folds
+981d4068: folds
+5cb1b73c: folds
+5449b6d2: raises 4,002 to 5,002 and is all-in
+Hero: calls 4,002
+5449b6d2: shows [Jc 6s]
+Hero: shows [Ad Qh]
+*** FLOP *** [8d 5s 7h]
+*** TURN *** [8d 5s 7h] [3c]
+*** RIVER *** [8d 5s 7h 3c] [Ah]
+*** SHOWDOWN ***
+Hero collected 11,004 from pot
+*** SUMMARY ***
+Total pot 11,004 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 5s 7h 3c Ah]
+Seat 1: 5449b6d2 (small blind) showed [Jc 6s] and lost with Ace high
+Seat 2: Hero (big blind) showed [Ad Qh] and won (11,004) with a pair of Aces
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 folded before Flop
+Seat 8: 5cb1b73c (button) folded before Flop
+
+
+Poker Hand #TM90757549: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level14(500/1,000) - 2026/01/06 19:48:52
+Table '9' 8-max Seat #7 is the button
+Seat 1: 5449b6d2 (6,252 in chips)
+Seat 2: Hero (24,569 in chips)
+Seat 3: 2d107870 (45,230 in chips)
+Seat 4: 8ef82b01 (9,900 in chips)
+Seat 5: e5c9f278 (62,220 in chips)
+Seat 6: c259056d (6,990 in chips)
+Seat 7: 981d4068 (15,200 in chips)
+Seat 8: 5cb1b73c (49,176 in chips)
+5cb1b73c: posts the ante 125
+2d107870: posts the ante 125
+e5c9f278: posts the ante 125
+8ef82b01: posts the ante 125
+981d4068: posts the ante 125
+5449b6d2: posts the ante 125
+c259056d: posts the ante 125
+Hero: posts the ante 125
+5cb1b73c: posts small blind 500
+5449b6d2: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [5h 3s]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+Hero: folds
+2d107870: folds
+8ef82b01: raises 8,775 to 9,775 and is all-in
+e5c9f278: folds
+c259056d: folds
+981d4068: folds
+5cb1b73c: folds
+5449b6d2: folds
+Uncalled bet (8,775) returned to 8ef82b01
+*** SHOWDOWN ***
+8ef82b01 collected 3,500 from pot
+*** SUMMARY ***
+Total pot 3,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5449b6d2 (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 2d107870 folded before Flop
+Seat 4: 8ef82b01 collected (3,500)
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 (button) folded before Flop
+Seat 8: 5cb1b73c (small blind) folded before Flop
+
+
+Poker Hand #TM90757517: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:48:07
+Table '9' 8-max Seat #6 is the button
+Seat 1: 5449b6d2 (6,352 in chips)
+Seat 2: Hero (21,069 in chips)
+Seat 3: 2d107870 (46,930 in chips)
+Seat 4: 8ef82b01 (10,000 in chips)
+Seat 5: e5c9f278 (62,320 in chips)
+Seat 6: c259056d (7,090 in chips)
+Seat 7: 981d4068 (15,700 in chips)
+Seat 8: 5cb1b73c (50,076 in chips)
+5cb1b73c: posts the ante 100
+2d107870: posts the ante 100
+e5c9f278: posts the ante 100
+8ef82b01: posts the ante 100
+981d4068: posts the ante 100
+5449b6d2: posts the ante 100
+c259056d: posts the ante 100
+Hero: posts the ante 100
+981d4068: posts small blind 400
+5cb1b73c: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [Qd Tc]
+Dealt to 2d107870 
+Dealt to 8ef82b01 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+5449b6d2: folds
+Hero: raises 800 to 1,600
+2d107870: calls 1,600
+8ef82b01: folds
+e5c9f278: folds
+c259056d: folds
+981d4068: folds
+5cb1b73c: folds
+*** FLOP *** [6h 3d Qh]
+Hero: bets 1,960
+2d107870: folds
+Uncalled bet (1,960) returned to Hero
+*** SHOWDOWN ***
+Hero collected 5,200 from pot
+*** SUMMARY ***
+Total pot 5,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 3d Qh]
+Seat 1: 5449b6d2 folded before Flop
+Seat 2: Hero won (5,200)
+Seat 3: 2d107870 folded on the Flop
+Seat 4: 8ef82b01 folded before Flop
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d (button) folded before Flop
+Seat 7: 981d4068 (small blind) folded before Flop
+Seat 8: 5cb1b73c (big blind) folded before Flop
+
+
+Poker Hand #TM90757475: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:47:04
+Table '9' 8-max Seat #5 is the button
+Seat 1: 5449b6d2 (6,452 in chips)
+Seat 2: Hero (21,169 in chips)
+Seat 5: e5c9f278 (64,020 in chips)
+Seat 6: c259056d (7,590 in chips)
+Seat 7: 981d4068 (11,600 in chips)
+Seat 8: 5cb1b73c (51,776 in chips)
+5cb1b73c: posts the ante 100
+e5c9f278: posts the ante 100
+981d4068: posts the ante 100
+5449b6d2: posts the ante 100
+Hero: posts the ante 100
+c259056d: posts the ante 100
+c259056d: posts small blind 400
+981d4068: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [Jc 9s]
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+5cb1b73c: raises 800 to 1,600
+5449b6d2: folds
+Hero: folds
+e5c9f278: calls 1,600
+c259056d: folds
+981d4068: calls 800
+*** FLOP *** [9h Ts 2s]
+981d4068: checks
+5cb1b73c: checks
+e5c9f278: checks
+*** TURN *** [9h Ts 2s] [5h]
+981d4068: checks
+5cb1b73c: checks
+e5c9f278: checks
+*** RIVER *** [9h Ts 2s 5h] [8d]
+981d4068: checks
+5cb1b73c: checks
+e5c9f278: checks
+981d4068: shows [8c 4c] (a pair of Eights)
+5cb1b73c: shows [Qc Ks] (King high)
+e5c9f278: shows [Qs Ah] (Ace high)
+*** SHOWDOWN ***
+981d4068 collected 5,800 from pot
+*** SUMMARY ***
+Total pot 5,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Ts 2s 5h 8d]
+Seat 1: 5449b6d2 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 5: e5c9f278 (button) showed [Qs Ah] and lost with Ace high
+Seat 6: c259056d (small blind) folded before Flop
+Seat 7: 981d4068 (big blind) showed [8c 4c] and won (5,800) with a pair of Eights
+Seat 8: 5cb1b73c showed [Qc Ks] and lost with King high
+
+
+Poker Hand #TM90757441: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:46:09
+Table '9' 8-max Seat #2 is the button
+Seat 1: 5449b6d2 (6,552 in chips)
+Seat 2: Hero (22,869 in chips)
+Seat 4: c23b21be (16,990 in chips)
+Seat 5: e5c9f278 (44,930 in chips)
+Seat 6: c259056d (7,690 in chips)
+Seat 7: 981d4068 (11,700 in chips)
+Seat 8: 5cb1b73c (51,876 in chips)
+c23b21be: posts the ante 100
+5cb1b73c: posts the ante 100
+e5c9f278: posts the ante 100
+981d4068: posts the ante 100
+5449b6d2: posts the ante 100
+Hero: posts the ante 100
+c259056d: posts the ante 100
+c23b21be: posts small blind 400
+e5c9f278: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [Ts Jc]
+Dealt to c23b21be 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+c259056d: folds
+981d4068: folds
+5cb1b73c: folds
+5449b6d2: folds
+Hero: raises 800 to 1,600
+c23b21be: raises 15,290 to 16,890 and is all-in
+e5c9f278: raises 27,940 to 44,830 and is all-in
+Hero: folds
+Uncalled bet (27,940) returned to e5c9f278
+e5c9f278: shows [Qd Ah]
+c23b21be: shows [3h 3d]
+*** FLOP *** [6c 4h Th]
+*** TURN *** [6c 4h Th] [Ac]
+*** RIVER *** [6c 4h Th Ac] [Tc]
+*** SHOWDOWN ***
+e5c9f278 collected 36,080 from pot
+*** SUMMARY ***
+Total pot 36,080 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c 4h Th Ac Tc]
+Seat 1: 5449b6d2 folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 4: c23b21be (small blind) showed [3h 3d] and lost with two pair, Tens and Threes
+Seat 5: e5c9f278 (big blind) showed [Qd Ah] and won (36,080) with two pair, Aces and Tens
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 folded before Flop
+Seat 8: 5cb1b73c folded before Flop
+
+
+Poker Hand #TM90757423: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:45:41
+Table '9' 8-max Seat #1 is the button
+Seat 1: 5449b6d2 (6,652 in chips)
+Seat 2: Hero (23,369 in chips)
+Seat 4: c23b21be (17,890 in chips)
+Seat 5: e5c9f278 (45,030 in chips)
+Seat 6: c259056d (7,790 in chips)
+Seat 7: 981d4068 (9,900 in chips)
+Seat 8: 5cb1b73c (51,976 in chips)
+c23b21be: posts the ante 100
+5cb1b73c: posts the ante 100
+e5c9f278: posts the ante 100
+981d4068: posts the ante 100
+5449b6d2: posts the ante 100
+c259056d: posts the ante 100
+Hero: posts the ante 100
+Hero: posts small blind 400
+c23b21be: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [5d Qs]
+Dealt to c23b21be 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+e5c9f278: folds
+c259056d: folds
+981d4068: raises 9,000 to 9,800 and is all-in
+5cb1b73c: folds
+5449b6d2: folds
+Hero: folds
+c23b21be: folds
+Uncalled bet (9,000) returned to 981d4068
+*** SHOWDOWN ***
+981d4068 collected 2,700 from pot
+*** SUMMARY ***
+Total pot 2,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5449b6d2 (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 4: c23b21be (big blind) folded before Flop
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 collected (2,700)
+Seat 8: 5cb1b73c folded before Flop
+
+
+Poker Hand #TM90757387: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:44:46
+Table '9' 8-max Seat #8 is the button
+Seat 1: 5449b6d2 (7,152 in chips)
+Seat 2: Hero (24,269 in chips)
+Seat 3: 7fa56d6f (10,000 in chips)
+Seat 4: c23b21be (17,990 in chips)
+Seat 5: e5c9f278 (45,130 in chips)
+Seat 6: c259056d (7,890 in chips)
+Seat 7: 981d4068 (10,000 in chips)
+Seat 8: 5cb1b73c (40,176 in chips)
+c23b21be: posts the ante 100
+5cb1b73c: posts the ante 100
+e5c9f278: posts the ante 100
+981d4068: posts the ante 100
+5449b6d2: posts the ante 100
+c259056d: posts the ante 100
+7fa56d6f: posts the ante 100
+Hero: posts the ante 100
+5449b6d2: posts small blind 400
+Hero: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [2d 2h]
+Dealt to 7fa56d6f 
+Dealt to c23b21be 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 981d4068 
+Dealt to 5cb1b73c 
+7fa56d6f: raises 800 to 1,600
+c23b21be: folds
+e5c9f278: folds
+c259056d: folds
+981d4068: folds
+5cb1b73c: raises 3,200 to 4,800
+5449b6d2: folds
+Hero: folds
+7fa56d6f: raises 5,100 to 9,900 and is all-in
+5cb1b73c: calls 5,100
+7fa56d6f: shows [6h As]
+5cb1b73c: shows [Td Tc]
+*** FLOP *** [3c 8c 5d]
+*** TURN *** [3c 8c 5d] [5c]
+*** RIVER *** [3c 8c 5d 5c] [Kd]
+*** SHOWDOWN ***
+5cb1b73c collected 21,800 from pot
+*** SUMMARY ***
+Total pot 21,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 8c 5d 5c Kd]
+Seat 1: 5449b6d2 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 7fa56d6f showed [6h As] and lost with a pair of Fives
+Seat 4: c23b21be folded before Flop
+Seat 5: e5c9f278 folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 981d4068 folded before Flop
+Seat 8: 5cb1b73c (button) showed [Td Tc] and won (21,800) with two pair, Tens and Fives
+
+
+Poker Hand #TM90757350: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:43:45
+Table '9' 8-max Seat #6 is the button
+Seat 1: 5449b6d2 (8,052 in chips)
+Seat 2: Hero (24,369 in chips)
+Seat 4: c23b21be (18,090 in chips)
+Seat 5: e5c9f278 (41,830 in chips)
+Seat 6: c259056d (9,590 in chips)
+Seat 8: 5cb1b73c (40,676 in chips)
+c23b21be: posts the ante 100
+5cb1b73c: posts the ante 100
+e5c9f278: posts the ante 100
+5449b6d2: posts the ante 100
+c259056d: posts the ante 100
+Hero: posts the ante 100
+5cb1b73c: posts small blind 400
+5449b6d2: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [6s Jc]
+Dealt to c23b21be 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 5cb1b73c 
+Hero: folds
+c23b21be: folds
+e5c9f278: raises 800 to 1,600
+c259056d: calls 1,600
+5cb1b73c: folds
+5449b6d2: folds
+*** FLOP *** [4d 7c 3s]
+e5c9f278: checks
+c259056d: checks
+*** TURN *** [4d 7c 3s] [3c]
+e5c9f278: bets 2,050
+c259056d: folds
+Uncalled bet (2,050) returned to e5c9f278
+*** SHOWDOWN ***
+e5c9f278 collected 5,000 from pot
+*** SUMMARY ***
+Total pot 5,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 7c 3s 3c]
+Seat 1: 5449b6d2 (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 4: c23b21be folded before Flop
+Seat 5: e5c9f278 won (5,000)
+Seat 6: c259056d (button) folded on the Turn
+Seat 8: 5cb1b73c (small blind) folded before Flop
+
+
+Poker Hand #TM90757311: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:42:35
+Table '9' 8-max Seat #5 is the button
+Seat 1: 5449b6d2 (8,152 in chips)
+Seat 2: Hero (13,869 in chips)
+Seat 4: c23b21be (18,190 in chips)
+Seat 5: e5c9f278 (41,930 in chips)
+Seat 6: c259056d (10,090 in chips)
+Seat 7: 8d1893aa (9,600 in chips)
+Seat 8: 5cb1b73c (40,776 in chips)
+c23b21be: posts the ante 100
+5cb1b73c: posts the ante 100
+8d1893aa: posts the ante 100
+e5c9f278: posts the ante 100
+5449b6d2: posts the ante 100
+Hero: posts the ante 100
+c259056d: posts the ante 100
+c259056d: posts small blind 400
+8d1893aa: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [Jd Jh]
+Dealt to c23b21be 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 8d1893aa 
+Dealt to 5cb1b73c 
+5cb1b73c: folds
+5449b6d2: folds
+Hero: raises 800 to 1,600
+c23b21be: folds
+e5c9f278: folds
+c259056d: folds
+8d1893aa: raises 7,900 to 9,500 and is all-in
+Hero: calls 7,900
+8d1893aa: shows [Ad 8d]
+Hero: shows [Jd Jh]
+*** FLOP *** [4h 5s 3s]
+*** TURN *** [4h 5s 3s] [7s]
+*** RIVER *** [4h 5s 3s 7s] [9h]
+c259056d: shows [2c As] (a straight, Ace to Five)
+*** SHOWDOWN ***
+Hero collected 20,100 from pot
+*** SUMMARY ***
+Total pot 20,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 5s 3s 7s 9h]
+Seat 1: 5449b6d2 folded before Flop
+Seat 2: Hero showed [Jd Jh] and won (20,100) with a pair of Jacks
+Seat 4: c23b21be folded before Flop
+Seat 5: e5c9f278 (button) folded before Flop
+Seat 6: c259056d (small blind) folded before Flop
+Seat 7: 8d1893aa (big blind) showed [Ad 8d] and lost with Ace high
+Seat 8: 5cb1b73c folded before Flop
+
+
+Poker Hand #TM90757287: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:41:52
+Table '9' 8-max Seat #4 is the button
+Seat 1: 5449b6d2 (8,252 in chips)
+Seat 2: Hero (13,969 in chips)
+Seat 3: 991ea221 (6,974 in chips)
+Seat 4: c23b21be (18,290 in chips)
+Seat 5: e5c9f278 (33,556 in chips)
+Seat 6: c259056d (10,990 in chips)
+Seat 7: 8d1893aa (9,700 in chips)
+Seat 8: 5cb1b73c (40,876 in chips)
+c23b21be: posts the ante 100
+991ea221: posts the ante 100
+5cb1b73c: posts the ante 100
+8d1893aa: posts the ante 100
+e5c9f278: posts the ante 100
+5449b6d2: posts the ante 100
+Hero: posts the ante 100
+c259056d: posts the ante 100
+e5c9f278: posts small blind 400
+c259056d: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [4h 6h]
+Dealt to 991ea221 
+Dealt to c23b21be 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 8d1893aa 
+Dealt to 5cb1b73c 
+8d1893aa: folds
+5cb1b73c: folds
+5449b6d2: folds
+Hero: folds
+991ea221: raises 6,074 to 6,874 and is all-in
+c23b21be: folds
+e5c9f278: raises 26,582 to 33,456 and is all-in
+c259056d: folds
+Uncalled bet (26,582) returned to e5c9f278
+e5c9f278: shows [Ah 8h]
+991ea221: shows [6c Ac]
+*** FLOP *** [4c Th 3c]
+*** TURN *** [4c Th 3c] [2d]
+*** RIVER *** [4c Th 3c 2d] [9s]
+*** SHOWDOWN ***
+e5c9f278 collected 15,348 from pot
+*** SUMMARY ***
+Total pot 15,348 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Th 3c 2d 9s]
+Seat 1: 5449b6d2 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 991ea221 showed [6c Ac] and lost with Ace high
+Seat 4: c23b21be (button) folded before Flop
+Seat 5: e5c9f278 (small blind) showed [Ah 8h] and won (15,348) with Ace high
+Seat 6: c259056d (big blind) folded before Flop
+Seat 7: 8d1893aa folded before Flop
+Seat 8: 5cb1b73c folded before Flop
+
+
+Poker Hand #TM90757255: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:41:10
+Table '9' 8-max Seat #3 is the button
+Seat 1: 5449b6d2 (3,226 in chips)
+Seat 2: Hero (14,069 in chips)
+Seat 3: 991ea221 (10,200 in chips)
+Seat 4: c23b21be (18,790 in chips)
+Seat 5: e5c9f278 (34,456 in chips)
+Seat 6: c259056d (11,090 in chips)
+Seat 7: 8d1893aa (9,800 in chips)
+Seat 8: 5cb1b73c (40,976 in chips)
+991ea221: posts the ante 100
+c23b21be: posts the ante 100
+5cb1b73c: posts the ante 100
+8d1893aa: posts the ante 100
+e5c9f278: posts the ante 100
+5449b6d2: posts the ante 100
+Hero: posts the ante 100
+c259056d: posts the ante 100
+c23b21be: posts small blind 400
+e5c9f278: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 5449b6d2 
+Dealt to Hero [Qc Js]
+Dealt to 991ea221 
+Dealt to c23b21be 
+Dealt to e5c9f278 
+Dealt to c259056d 
+Dealt to 8d1893aa 
+Dealt to 5cb1b73c 
+c259056d: folds
+8d1893aa: folds
+5cb1b73c: folds
+5449b6d2: raises 2,326 to 3,126 and is all-in
+Hero: folds
+991ea221: raises 6,974 to 10,100 and is all-in
+c23b21be: folds
+e5c9f278: folds
+Uncalled bet (6,974) returned to 991ea221
+991ea221: shows [As Jc]
+5449b6d2: shows [Kd 9h]
+*** FLOP *** [3c 5s 9s]
+*** TURN *** [3c 5s 9s] [8d]
+*** RIVER *** [3c 5s 9s 8d] [7s]
+*** SHOWDOWN ***
+5449b6d2 collected 8,252 from pot
+*** SUMMARY ***
+Total pot 8,252 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 5s 9s 8d 7s]
+Seat 1: 5449b6d2 showed [Kd 9h] and won (8,252) with a pair of Nines
+Seat 2: Hero folded before Flop
+Seat 3: 991ea221 (button) showed [As Jc] and lost with Ace high
+Seat 4: c23b21be (small blind) folded before Flop
+Seat 5: e5c9f278 (big blind) folded before Flop
+Seat 6: c259056d folded before Flop
+Seat 7: 8d1893aa folded before Flop
+Seat 8: 5cb1b73c folded before Flop
+
+
+Poker Hand #TM90757212: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:39:56
+Table '10' 8-max Seat #6 is the button
+Seat 1: 7b2811dd (9,595 in chips)
+Seat 2: Hero (14,169 in chips)
+Seat 3: 27ec69d (27,954 in chips)
+Seat 4: cf4405a7 (9,900 in chips)
+Seat 5: 93e2abf8 (35,800 in chips)
+Seat 6: 58d480b9 (3,860 in chips)
+Seat 7: 200d9242 (60,671 in chips)
+Seat 8: 43890fa1 (16,942 in chips)
+93e2abf8: posts the ante 100
+27ec69d: posts the ante 100
+58d480b9: posts the ante 100
+cf4405a7: posts the ante 100
+43890fa1: posts the ante 100
+7b2811dd: posts the ante 100
+200d9242: posts the ante 100
+Hero: posts the ante 100
+200d9242: posts small blind 400
+43890fa1: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 7b2811dd 
+Dealt to Hero [Ts Js]
+Dealt to 27ec69d 
+Dealt to cf4405a7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+7b2811dd: folds
+Hero: folds
+27ec69d: folds
+cf4405a7: folds
+93e2abf8: raises 800 to 1,600
+58d480b9: raises 2,160 to 3,760 and is all-in
+200d9242: folds
+43890fa1: folds
+93e2abf8: calls 2,160
+58d480b9: shows [Tc Ks]
+93e2abf8: shows [Ad 6h]
+*** FLOP *** [Jc 6s 7c]
+*** TURN *** [Jc 6s 7c] [2c]
+*** RIVER *** [Jc 6s 7c 2c] [Jh]
+*** SHOWDOWN ***
+93e2abf8 collected 9,520 from pot
+*** SUMMARY ***
+Total pot 9,520 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc 6s 7c 2c Jh]
+Seat 1: 7b2811dd folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: cf4405a7 folded before Flop
+Seat 5: 93e2abf8 showed [Ad 6h] and won (9,520) with two pair, Jacks and Sixes
+Seat 6: 58d480b9 (button) showed [Tc Ks] and lost with a pair of Jacks
+Seat 7: 200d9242 (small blind) folded before Flop
+Seat 8: 43890fa1 (big blind) folded before Flop
+
+
+Poker Hand #TM90757177: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:38:57
+Table '10' 8-max Seat #5 is the button
+Seat 1: 7b2811dd (9,695 in chips)
+Seat 2: Hero (15,869 in chips)
+Seat 3: 27ec69d (23,654 in chips)
+Seat 4: cf4405a7 (10,000 in chips)
+Seat 5: 93e2abf8 (35,900 in chips)
+Seat 6: 58d480b9 (4,360 in chips)
+Seat 7: 200d9242 (62,371 in chips)
+Seat 8: 43890fa1 (17,042 in chips)
+93e2abf8: posts the ante 100
+27ec69d: posts the ante 100
+cf4405a7: posts the ante 100
+43890fa1: posts the ante 100
+58d480b9: posts the ante 100
+7b2811dd: posts the ante 100
+200d9242: posts the ante 100
+Hero: posts the ante 100
+58d480b9: posts small blind 400
+200d9242: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 7b2811dd 
+Dealt to Hero [As 3s]
+Dealt to 27ec69d 
+Dealt to cf4405a7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+43890fa1: folds
+7b2811dd: folds
+Hero: raises 800 to 1,600
+27ec69d: calls 1,600
+cf4405a7: folds
+93e2abf8: folds
+58d480b9: folds
+200d9242: calls 800
+*** FLOP *** [2c 6c Td]
+200d9242: checks
+Hero: checks
+27ec69d: bets 3,000
+200d9242: folds
+Hero: folds
+Uncalled bet (3,000) returned to 27ec69d
+*** SHOWDOWN ***
+27ec69d collected 6,000 from pot
+*** SUMMARY ***
+Total pot 6,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 6c Td]
+Seat 1: 7b2811dd folded before Flop
+Seat 2: Hero folded on the Flop
+Seat 3: 27ec69d won (6,000)
+Seat 4: cf4405a7 folded before Flop
+Seat 5: 93e2abf8 (button) folded before Flop
+Seat 6: 58d480b9 (small blind) folded before Flop
+Seat 7: 200d9242 (big blind) folded on the Flop
+Seat 8: 43890fa1 folded before Flop
+
+
+Poker Hand #TM90757163: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:38:35
+Table '10' 8-max Seat #3 is the button
+Seat 1: 7b2811dd (7,895 in chips)
+Seat 2: Hero (15,969 in chips)
+Seat 3: 27ec69d (23,754 in chips)
+Seat 5: 93e2abf8 (36,400 in chips)
+Seat 6: 58d480b9 (5,260 in chips)
+Seat 7: 200d9242 (62,471 in chips)
+Seat 8: 43890fa1 (17,142 in chips)
+93e2abf8: posts the ante 100
+27ec69d: posts the ante 100
+43890fa1: posts the ante 100
+58d480b9: posts the ante 100
+7b2811dd: posts the ante 100
+200d9242: posts the ante 100
+Hero: posts the ante 100
+93e2abf8: posts small blind 400
+58d480b9: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 7b2811dd 
+Dealt to Hero [Qh 9s]
+Dealt to 27ec69d 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+200d9242: folds
+43890fa1: folds
+7b2811dd: raises 6,995 to 7,795 and is all-in
+Hero: folds
+27ec69d: folds
+93e2abf8: folds
+58d480b9: folds
+Uncalled bet (6,995) returned to 7b2811dd
+*** SHOWDOWN ***
+7b2811dd collected 2,700 from pot
+*** SUMMARY ***
+Total pot 2,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 7b2811dd collected (2,700)
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d (button) folded before Flop
+Seat 5: 93e2abf8 (small blind) folded before Flop
+Seat 6: 58d480b9 (big blind) folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 43890fa1 folded before Flop
+
+
+Poker Hand #TM90757127: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level13(400/800) - 2026/01/06 19:37:25
+Table '10' 8-max Seat #2 is the button
+Seat 1: 7b2811dd (7,995 in chips)
+Seat 2: Hero (16,069 in chips)
+Seat 3: 27ec69d (24,254 in chips)
+Seat 5: 93e2abf8 (38,100 in chips)
+Seat 6: 58d480b9 (5,360 in chips)
+Seat 7: 200d9242 (59,871 in chips)
+Seat 8: 43890fa1 (17,242 in chips)
+93e2abf8: posts the ante 100
+27ec69d: posts the ante 100
+43890fa1: posts the ante 100
+58d480b9: posts the ante 100
+7b2811dd: posts the ante 100
+200d9242: posts the ante 100
+Hero: posts the ante 100
+27ec69d: posts small blind 400
+93e2abf8: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 7b2811dd 
+Dealt to Hero [4s Qc]
+Dealt to 27ec69d 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+58d480b9: folds
+200d9242: raises 800 to 1,600
+43890fa1: folds
+7b2811dd: folds
+Hero: folds
+27ec69d: folds
+93e2abf8: calls 800
+*** FLOP *** [4d Ad 9s]
+93e2abf8: checks
+200d9242: bets 1,075
+93e2abf8: folds
+Uncalled bet (1,075) returned to 200d9242
+*** SHOWDOWN ***
+200d9242 collected 4,300 from pot
+*** SUMMARY ***
+Total pot 4,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d Ad 9s]
+Seat 1: 7b2811dd folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 27ec69d (small blind) folded before Flop
+Seat 5: 93e2abf8 (big blind) folded on the Flop
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 won (4,300)
+Seat 8: 43890fa1 folded before Flop
+
+
+Poker Hand #TM90757086: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:36:18
+Table '10' 8-max Seat #1 is the button
+Seat 1: 7b2811dd (8,080 in chips)
+Seat 2: Hero (16,504 in chips)
+Seat 3: 27ec69d (26,649 in chips)
+Seat 4: eb32e8f7 (8,583 in chips)
+Seat 5: 93e2abf8 (38,185 in chips)
+Seat 6: 58d480b9 (5,445 in chips)
+Seat 7: 200d9242 (59,956 in chips)
+Seat 8: 43890fa1 (5,489 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+43890fa1: posts the ante 85
+58d480b9: posts the ante 85
+7b2811dd: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+Hero: posts small blind 350
+27ec69d: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 7b2811dd 
+Dealt to Hero [9c 3c]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+eb32e8f7: raises 7,798 to 8,498 and is all-in
+93e2abf8: folds
+58d480b9: folds
+200d9242: folds
+43890fa1: calls 5,404 and is all-in
+7b2811dd: folds
+Hero: folds
+27ec69d: calls 7,798
+eb32e8f7: shows [Jd Ad]
+43890fa1: shows [8s Js]
+27ec69d: shows [6c 6s]
+*** FLOP *** [8c Qs 3h]
+*** TURN *** [8c Qs 3h] [Td]
+*** RIVER *** [8c Qs 3h Td] [3d]
+*** SHOWDOWN ***
+43890fa1 collected 17,242 from pot
+27ec69d collected 6,188 from pot
+*** SUMMARY ***
+Total pot 23,430 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c Qs 3h Td 3d]
+Seat 1: 7b2811dd (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 27ec69d (big blind) showed [6c 6s] and won (6,188) with two pair, Sixes and Threes
+Seat 4: eb32e8f7 showed [Jd Ad] and lost with a pair of Threes
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 43890fa1 showed [8s Js] and won (17,242) with two pair, Eights and Threes
+
+
+Poker Hand #TM90757049: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:35:22
+Table '10' 8-max Seat #8 is the button
+Seat 1: 7b2811dd (8,515 in chips)
+Seat 2: Hero (7,822 in chips)
+Seat 3: 27ec69d (26,734 in chips)
+Seat 4: eb32e8f7 (16,405 in chips)
+Seat 5: 93e2abf8 (38,270 in chips)
+Seat 6: 58d480b9 (5,530 in chips)
+Seat 7: 200d9242 (60,041 in chips)
+Seat 8: 43890fa1 (5,574 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+43890fa1: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+7b2811dd: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+7b2811dd: posts small blind 350
+Hero: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 7b2811dd 
+Dealt to Hero [Kd 7c]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+27ec69d: folds
+eb32e8f7: raises 700 to 1,400
+93e2abf8: folds
+58d480b9: folds
+200d9242: folds
+43890fa1: folds
+7b2811dd: folds
+Hero: calls 700
+*** FLOP *** [Th Qd 4d]
+Hero: checks
+eb32e8f7: bets 1,264
+Hero: calls 1,264
+*** TURN *** [Th Qd 4d] [7s]
+Hero: checks
+eb32e8f7: checks
+*** RIVER *** [Th Qd 4d 7s] [Ts]
+Hero: checks
+eb32e8f7: bets 13,656 and is all-in
+Hero: calls 5,073 and is all-in
+Uncalled bet (8,583) returned to eb32e8f7
+eb32e8f7: shows [5h Ah] (a pair of Tens)
+Hero: shows [Kd 7c] (two pair, Tens and Sevens)
+*** SHOWDOWN ***
+Hero collected 16,504 from pot
+*** SUMMARY ***
+Total pot 16,504 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th Qd 4d 7s Ts]
+Seat 1: 7b2811dd (small blind) folded before Flop
+Seat 2: Hero (big blind) showed [Kd 7c] and won (16,504) with two pair, Tens and Sevens
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 showed [5h Ah] and lost with a pair of Tens
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 43890fa1 (button) folded before Flop
+
+
+Poker Hand #TM90756998: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:34:02
+Table '10' 8-max Seat #7 is the button
+Seat 1: 7b2811dd (10,000 in chips)
+Seat 2: Hero (7,907 in chips)
+Seat 3: 27ec69d (26,819 in chips)
+Seat 4: eb32e8f7 (16,490 in chips)
+Seat 5: 93e2abf8 (35,925 in chips)
+Seat 6: 58d480b9 (5,615 in chips)
+Seat 7: 200d9242 (60,126 in chips)
+Seat 8: 43890fa1 (6,009 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+58d480b9: posts the ante 85
+43890fa1: posts the ante 85
+eb32e8f7: posts the ante 85
+7b2811dd: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+43890fa1: posts small blind 350
+7b2811dd: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 7b2811dd 
+Dealt to Hero [Kc 8h]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+Hero: folds
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: raises 700 to 1,400
+58d480b9: folds
+200d9242: folds
+43890fa1: folds
+7b2811dd: calls 700
+*** FLOP *** [Qh Kd Jc]
+7b2811dd: checks
+93e2abf8: checks
+*** TURN *** [Qh Kd Jc] [6d]
+7b2811dd: checks
+93e2abf8: bets 700
+7b2811dd: folds
+Uncalled bet (700) returned to 93e2abf8
+*** SHOWDOWN ***
+93e2abf8 collected 3,830 from pot
+*** SUMMARY ***
+Total pot 3,830 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh Kd Jc 6d]
+Seat 1: 7b2811dd (big blind) folded on the Turn
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 won (3,830)
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 (button) folded before Flop
+Seat 8: 43890fa1 (small blind) folded before Flop
+
+
+Poker Hand #TM90756965: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:33:18
+Table '10' 8-max Seat #6 is the button
+Seat 2: Hero (3,566 in chips)
+Seat 3: 27ec69d (26,904 in chips)
+Seat 4: eb32e8f7 (16,575 in chips)
+Seat 5: 93e2abf8 (36,010 in chips)
+Seat 6: 58d480b9 (5,700 in chips)
+Seat 7: 200d9242 (60,561 in chips)
+Seat 8: 43890fa1 (9,575 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+58d480b9: posts the ante 85
+43890fa1: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+200d9242: posts small blind 350
+43890fa1: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Hero [Kc Qh]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+Hero: raises 2,781 to 3,481 and is all-in
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: folds
+58d480b9: folds
+200d9242: folds
+43890fa1: calls 2,781
+Hero: shows [Kc Qh]
+43890fa1: shows [Ts Qc]
+*** FLOP *** [9d Jc 5c]
+*** TURN *** [9d Jc 5c] [7h]
+*** RIVER *** [9d Jc 5c 7h] [Jd]
+*** SHOWDOWN ***
+Hero collected 7,907 from pot
+*** SUMMARY ***
+Total pot 7,907 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d Jc 5c 7h Jd]
+Seat 2: Hero showed [Kc Qh] and won (7,907) with a pair of Jacks
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: 58d480b9 (button) folded before Flop
+Seat 7: 200d9242 (small blind) folded before Flop
+Seat 8: 43890fa1 (big blind) showed [Ts Qc] and lost with a pair of Jacks
+
+
+Poker Hand #TM90756916: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:32:01
+Table '10' 8-max Seat #5 is the button
+Seat 2: Hero (15,982 in chips)
+Seat 3: 27ec69d (26,989 in chips)
+Seat 4: eb32e8f7 (16,660 in chips)
+Seat 5: 93e2abf8 (36,095 in chips)
+Seat 6: 58d480b9 (6,135 in chips)
+Seat 7: 200d9242 (47,370 in chips)
+Seat 8: 43890fa1 (9,660 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+43890fa1: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+58d480b9: posts small blind 350
+200d9242: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Hero [Qs Ac]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+43890fa1: folds
+Hero: raises 1,050 to 1,750
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: folds
+58d480b9: folds
+200d9242: calls 1,050
+*** FLOP *** [6c Ks 9d]
+200d9242: checks
+Hero: bets 1,334
+200d9242: calls 1,334
+*** TURN *** [6c Ks 9d] [Kd]
+200d9242: checks
+Hero: checks
+*** RIVER *** [6c Ks 9d Kd] [7c]
+200d9242: checks
+Hero: bets 9,247
+200d9242: calls 9,247
+Hero: shows [Qs Ac] (a pair of Kings)
+200d9242: shows [Kc 8c] (three of a kind, Kings)
+*** SHOWDOWN ***
+200d9242 collected 25,607 from pot
+*** SUMMARY ***
+Total pot 25,607 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c Ks 9d Kd 7c]
+Seat 2: Hero showed [Qs Ac] and lost with a pair of Kings
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 (button) folded before Flop
+Seat 6: 58d480b9 (small blind) folded before Flop
+Seat 7: 200d9242 (big blind) showed [Kc 8c] and won (25,607) with three of a kind, Kings
+Seat 8: 43890fa1 folded before Flop
+
+
+Poker Hand #TM90756891: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:31:23
+Table '10' 8-max Seat #4 is the button
+Seat 2: Hero (16,067 in chips)
+Seat 3: 27ec69d (27,074 in chips)
+Seat 4: eb32e8f7 (16,745 in chips)
+Seat 5: 93e2abf8 (34,885 in chips)
+Seat 6: 58d480b9 (6,920 in chips)
+Seat 7: 200d9242 (47,455 in chips)
+Seat 8: 43890fa1 (9,745 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+43890fa1: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+93e2abf8: posts small blind 350
+58d480b9: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Hero [Qc 4d]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+200d9242: folds
+43890fa1: folds
+Hero: folds
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: raises 34,100 to 34,800 and is all-in
+58d480b9: folds
+Uncalled bet (34,100) returned to 93e2abf8
+*** SHOWDOWN ***
+93e2abf8 collected 1,995 from pot
+*** SUMMARY ***
+Total pot 1,995 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 (button) folded before Flop
+Seat 5: 93e2abf8 (small blind) collected (1,995)
+Seat 6: 58d480b9 (big blind) folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 43890fa1 folded before Flop
+
+
+Poker Hand #TM90756841: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:30:05
+Table '10' 8-max Seat #3 is the button
+Seat 2: Hero (32,422 in chips)
+Seat 3: 27ec69d (27,159 in chips)
+Seat 4: eb32e8f7 (18,580 in chips)
+Seat 5: 93e2abf8 (16,355 in chips)
+Seat 6: 58d480b9 (7,005 in chips)
+Seat 7: 200d9242 (47,540 in chips)
+Seat 8: 43890fa1 (9,830 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+43890fa1: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+eb32e8f7: posts small blind 350
+93e2abf8: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Hero [Ac 7c]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+58d480b9: folds
+200d9242: folds
+43890fa1: folds
+Hero: raises 1,050 to 1,750
+27ec69d: folds
+eb32e8f7: calls 1,400
+93e2abf8: calls 1,050
+*** FLOP *** [4h 7h 4c]
+eb32e8f7: checks
+93e2abf8: checks
+Hero: bets 3,215
+eb32e8f7: folds
+93e2abf8: raises 11,305 to 14,520 and is all-in
+Hero: calls 11,305
+93e2abf8: shows [8h Ah] (a pair of Fours)
+Hero: shows [Ac 7c] (two pair, Sevens and Fours)
+*** TURN *** [4h 7h 4c] [Kc]
+*** RIVER *** [4h 7h 4c Kc] [2h]
+*** SHOWDOWN ***
+93e2abf8 collected 34,885 from pot
+*** SUMMARY ***
+Total pot 34,885 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 7h 4c Kc 2h]
+Seat 2: Hero showed [Ac 7c] and lost with two pair, Sevens and Fours
+Seat 3: 27ec69d (button) folded before Flop
+Seat 4: eb32e8f7 (small blind) folded on the Flop
+Seat 5: 93e2abf8 (big blind) showed [8h Ah] and won (34,885) with a flush Ace high
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 43890fa1 folded before Flop
+
+
+Poker Hand #TM90756824: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:29:46
+Table '10' 8-max Seat #2 is the button
+Seat 2: Hero (32,507 in chips)
+Seat 3: 27ec69d (27,594 in chips)
+Seat 4: eb32e8f7 (17,720 in chips)
+Seat 5: 93e2abf8 (16,440 in chips)
+Seat 6: 58d480b9 (7,090 in chips)
+Seat 7: 200d9242 (47,625 in chips)
+Seat 8: 43890fa1 (9,915 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+43890fa1: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+27ec69d: posts small blind 350
+eb32e8f7: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Hero [4h 7d]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+93e2abf8: folds
+58d480b9: folds
+200d9242: folds
+43890fa1: folds
+Hero: folds
+27ec69d: folds
+Uncalled bet (350) returned to eb32e8f7
+*** SHOWDOWN ***
+eb32e8f7 collected 1,295 from pot
+*** SUMMARY ***
+Total pot 1,295 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (button) folded before Flop
+Seat 3: 27ec69d (small blind) folded before Flop
+Seat 4: eb32e8f7 (big blind) collected (1,295)
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 43890fa1 folded before Flop
+
+
+Poker Hand #TM90756808: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:29:24
+Table '10' 8-max Seat #1 is the button
+Seat 1: 731172b5 (12,657 in chips)
+Seat 2: Hero (32,942 in chips)
+Seat 3: 27ec69d (28,379 in chips)
+Seat 4: eb32e8f7 (17,805 in chips)
+Seat 5: 93e2abf8 (16,525 in chips)
+Seat 6: 58d480b9 (7,175 in chips)
+Seat 7: 200d9242 (47,710 in chips)
+Seat 8: 43890fa1 (10,000 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+43890fa1: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+731172b5: posts the ante 85
+Hero: posts the ante 85
+Hero: posts small blind 350
+27ec69d: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [5h 7d]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 43890fa1 
+eb32e8f7: folds
+93e2abf8: folds
+58d480b9: folds
+200d9242: folds
+43890fa1: folds
+731172b5: raises 1,400 to 2,100
+Hero: folds
+27ec69d: folds
+Uncalled bet (1,400) returned to 731172b5
+*** SHOWDOWN ***
+731172b5 collected 2,430 from pot
+*** SUMMARY ***
+Total pot 2,430 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 731172b5 (button) collected (2,430)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 27ec69d (big blind) folded before Flop
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 43890fa1 folded before Flop
+
+
+Poker Hand #TM90756766: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:28:19
+Table '10' 8-max Seat #7 is the button
+Seat 1: 731172b5 (13,442 in chips)
+Seat 2: Hero (31,732 in chips)
+Seat 3: 27ec69d (28,464 in chips)
+Seat 4: eb32e8f7 (17,890 in chips)
+Seat 5: 93e2abf8 (16,610 in chips)
+Seat 6: 58d480b9 (7,260 in chips)
+Seat 7: 200d9242 (47,795 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+731172b5: posts the ante 85
+731172b5: posts small blind 350
+Hero: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [4c 7h]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: folds
+58d480b9: folds
+200d9242: folds
+731172b5: calls 350
+Hero: checks
+*** FLOP *** [4h 4d Qs]
+731172b5: checks
+Hero: checks
+*** TURN *** [4h 4d Qs] [8d]
+731172b5: checks
+Hero: bets 1,098
+731172b5: folds
+Uncalled bet (1,098) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,995 from pot
+*** SUMMARY ***
+Total pot 1,995 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 4d Qs 8d]
+Seat 1: 731172b5 (small blind) folded on the Turn
+Seat 2: Hero (big blind) won (1,995)
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 (button) folded before Flop
+
+
+Poker Hand #TM90756741: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:27:41
+Table '10' 8-max Seat #6 is the button
+Seat 1: 731172b5 (14,227 in chips)
+Seat 2: Hero (31,817 in chips)
+Seat 3: 27ec69d (28,549 in chips)
+Seat 4: eb32e8f7 (17,975 in chips)
+Seat 5: 93e2abf8 (16,695 in chips)
+Seat 6: 58d480b9 (7,345 in chips)
+Seat 7: 200d9242 (46,585 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+731172b5: posts the ante 85
+200d9242: posts small blind 350
+731172b5: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [2h Ac]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Hero: folds
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: folds
+58d480b9: folds
+200d9242: raises 1,750 to 2,450
+731172b5: folds
+Uncalled bet (1,750) returned to 200d9242
+*** SHOWDOWN ***
+200d9242 collected 1,995 from pot
+*** SUMMARY ***
+Total pot 1,995 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 731172b5 (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: 58d480b9 (button) folded before Flop
+Seat 7: 200d9242 (small blind) showed [6d 9c] and collected (1,995)
+
+
+Poker Hand #TM90756692: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:26:31
+Table '10' 8-max Seat #5 is the button
+Seat 1: 731172b5 (14,312 in chips)
+Seat 2: Hero (31,902 in chips)
+Seat 3: 27ec69d (28,634 in chips)
+Seat 4: eb32e8f7 (18,060 in chips)
+Seat 5: 93e2abf8 (13,300 in chips)
+Seat 6: 58d480b9 (8,830 in chips)
+Seat 7: 200d9242 (48,070 in chips)
+Seat 8: 3b3d206b (14,385 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+3b3d206b: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+731172b5: posts the ante 85
+58d480b9: posts small blind 350
+200d9242: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [Jh 6d]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+3b3d206b: folds
+731172b5: folds
+Hero: folds
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: raises 700 to 1,400
+58d480b9: calls 1,050
+200d9242: calls 700
+*** FLOP *** [2c Ah 3d]
+58d480b9: checks
+200d9242: checks
+93e2abf8: checks
+*** TURN *** [2c Ah 3d] [Kd]
+58d480b9: checks
+200d9242: checks
+93e2abf8: bets 2,790
+58d480b9: folds
+200d9242: folds
+Uncalled bet (2,790) returned to 93e2abf8
+*** SHOWDOWN ***
+93e2abf8 collected 4,880 from pot
+*** SUMMARY ***
+Total pot 4,880 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c Ah 3d Kd]
+Seat 1: 731172b5 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 (button) won (4,880)
+Seat 6: 58d480b9 (small blind) folded on the Turn
+Seat 7: 200d9242 (big blind) folded on the Turn
+Seat 8: 3b3d206b folded before Flop
+
+
+Poker Hand #TM90756659: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:25:38
+Table '10' 8-max Seat #4 is the button
+Seat 1: 731172b5 (14,397 in chips)
+Seat 2: Hero (31,987 in chips)
+Seat 3: 27ec69d (28,719 in chips)
+Seat 4: eb32e8f7 (16,415 in chips)
+Seat 5: 93e2abf8 (13,735 in chips)
+Seat 6: 58d480b9 (9,615 in chips)
+Seat 7: 200d9242 (48,155 in chips)
+Seat 8: 3b3d206b (14,470 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+3b3d206b: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+731172b5: posts the ante 85
+93e2abf8: posts small blind 350
+58d480b9: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [7s 3d]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+200d9242: folds
+3b3d206b: folds
+731172b5: folds
+Hero: folds
+27ec69d: folds
+eb32e8f7: raises 700 to 1,400
+93e2abf8: folds
+58d480b9: folds
+Uncalled bet (700) returned to eb32e8f7
+*** SHOWDOWN ***
+eb32e8f7 collected 2,430 from pot
+*** SUMMARY ***
+Total pot 2,430 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 731172b5 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 (button) collected (2,430)
+Seat 5: 93e2abf8 (small blind) folded before Flop
+Seat 6: 58d480b9 (big blind) folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 3b3d206b folded before Flop
+
+
+Poker Hand #TM90756630: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level12(350/700) - 2026/01/06 19:25:05
+Table '10' 8-max Seat #3 is the button
+Seat 1: 731172b5 (14,482 in chips)
+Seat 2: Hero (32,072 in chips)
+Seat 3: 27ec69d (30,554 in chips)
+Seat 4: eb32e8f7 (16,850 in chips)
+Seat 5: 93e2abf8 (11,040 in chips)
+Seat 6: 58d480b9 (9,700 in chips)
+Seat 7: 200d9242 (48,240 in chips)
+Seat 8: 3b3d206b (14,555 in chips)
+93e2abf8: posts the ante 85
+27ec69d: posts the ante 85
+3b3d206b: posts the ante 85
+58d480b9: posts the ante 85
+eb32e8f7: posts the ante 85
+200d9242: posts the ante 85
+Hero: posts the ante 85
+731172b5: posts the ante 85
+eb32e8f7: posts small blind 350
+93e2abf8: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [8c 2h]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+58d480b9: folds
+200d9242: folds
+3b3d206b: folds
+731172b5: folds
+Hero: folds
+27ec69d: raises 1,050 to 1,750
+eb32e8f7: folds
+93e2abf8: raises 9,205 to 10,955 and is all-in
+27ec69d: folds
+Uncalled bet (9,205) returned to 93e2abf8
+*** SHOWDOWN ***
+93e2abf8 collected 4,530 from pot
+*** SUMMARY ***
+Total pot 4,530 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 731172b5 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d (button) folded before Flop
+Seat 4: eb32e8f7 (small blind) folded before Flop
+Seat 5: 93e2abf8 (big blind) collected (4,530)
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 3b3d206b folded before Flop
+
+
+Poker Hand #TM90756614: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:24:36
+Table '10' 8-max Seat #2 is the button
+Seat 1: 731172b5 (13,057 in chips)
+Seat 2: Hero (32,147 in chips)
+Seat 3: 27ec69d (30,929 in chips)
+Seat 4: eb32e8f7 (17,525 in chips)
+Seat 5: 93e2abf8 (11,115 in chips)
+Seat 6: 58d480b9 (9,775 in chips)
+Seat 7: 200d9242 (48,315 in chips)
+Seat 8: 3b3d206b (14,630 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+58d480b9: posts the ante 75
+eb32e8f7: posts the ante 75
+200d9242: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+27ec69d: posts small blind 300
+eb32e8f7: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [2h Ks]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+93e2abf8: folds
+58d480b9: folds
+200d9242: folds
+3b3d206b: folds
+731172b5: raises 1,800 to 2,400
+Hero: folds
+27ec69d: folds
+eb32e8f7: folds
+Uncalled bet (1,800) returned to 731172b5
+*** SHOWDOWN ***
+731172b5 collected 2,100 from pot
+*** SUMMARY ***
+Total pot 2,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 731172b5 collected (2,100)
+Seat 2: Hero (button) folded before Flop
+Seat 3: 27ec69d (small blind) folded before Flop
+Seat 4: eb32e8f7 (big blind) folded before Flop
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 3b3d206b folded before Flop
+
+
+Poker Hand #TM90756582: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:23:47
+Table '10' 8-max Seat #1 is the button
+Seat 1: 731172b5 (13,132 in chips)
+Seat 2: Hero (32,522 in chips)
+Seat 3: 27ec69d (37,869 in chips)
+Seat 4: eb32e8f7 (17,600 in chips)
+Seat 5: 93e2abf8 (11,190 in chips)
+Seat 6: 58d480b9 (9,850 in chips)
+Seat 7: 200d9242 (48,390 in chips)
+Seat 8: 3b3d206b (6,940 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+58d480b9: posts the ante 75
+eb32e8f7: posts the ante 75
+200d9242: posts the ante 75
+731172b5: posts the ante 75
+Hero: posts the ante 75
+Hero: posts small blind 300
+27ec69d: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [8c 4d]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+eb32e8f7: folds
+93e2abf8: folds
+58d480b9: folds
+200d9242: folds
+3b3d206b: raises 6,265 to 6,865 and is all-in
+731172b5: folds
+Hero: folds
+27ec69d: calls 6,265
+3b3d206b: shows [9c Kc]
+27ec69d: shows [Ac As]
+*** FLOP *** [9s 5s Qh]
+*** TURN *** [9s 5s Qh] [6s]
+*** RIVER *** [9s 5s Qh 6s] [9d]
+*** SHOWDOWN ***
+3b3d206b collected 14,630 from pot
+*** SUMMARY ***
+Total pot 14,630 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 5s Qh 6s 9d]
+Seat 1: 731172b5 (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 27ec69d (big blind) showed [Ac As] and lost with two pair, Aces and Nines
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 3b3d206b showed [9c Kc] and won (14,630) with three of a kind, Nines
+
+
+Poker Hand #TM90756541: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:22:54
+Table '10' 8-max Seat #8 is the button
+Seat 1: 731172b5 (6,041 in chips)
+Seat 2: Hero (33,197 in chips)
+Seat 3: 27ec69d (37,944 in chips)
+Seat 4: eb32e8f7 (17,675 in chips)
+Seat 5: 93e2abf8 (17,231 in chips)
+Seat 6: 58d480b9 (9,925 in chips)
+Seat 7: 200d9242 (48,465 in chips)
+Seat 8: 3b3d206b (7,015 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+58d480b9: posts the ante 75
+eb32e8f7: posts the ante 75
+200d9242: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+731172b5: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [Tc 4d]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: raises 600 to 1,200
+58d480b9: folds
+200d9242: folds
+3b3d206b: folds
+731172b5: raises 4,766 to 5,966 and is all-in
+Hero: folds
+93e2abf8: calls 4,766
+731172b5: shows [Kh Ks]
+93e2abf8: shows [Ah Jd]
+*** FLOP *** [5d 4c Qc]
+*** TURN *** [5d 4c Qc] [Js]
+*** RIVER *** [5d 4c Qc Js] [Th]
+*** SHOWDOWN ***
+731172b5 collected 13,132 from pot
+*** SUMMARY ***
+Total pot 13,132 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d 4c Qc Js Th]
+Seat 1: 731172b5 (small blind) showed [Kh Ks] and won (13,132) with a pair of Kings
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 showed [Ah Jd] and lost with a pair of Jacks
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 3b3d206b (button) folded before Flop
+
+
+Poker Hand #TM90756519: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:22:15
+Table '10' 8-max Seat #7 is the button
+Seat 1: 731172b5 (4,016 in chips)
+Seat 2: Hero (33,272 in chips)
+Seat 3: 27ec69d (38,019 in chips)
+Seat 4: eb32e8f7 (17,750 in chips)
+Seat 5: 93e2abf8 (18,506 in chips)
+Seat 6: 58d480b9 (10,000 in chips)
+Seat 7: 200d9242 (48,540 in chips)
+Seat 8: 3b3d206b (7,390 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+58d480b9: posts the ante 75
+eb32e8f7: posts the ante 75
+200d9242: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+3b3d206b: posts small blind 300
+731172b5: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [9c 4s]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 58d480b9 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+Hero: folds
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: raises 600 to 1,200
+58d480b9: folds
+200d9242: folds
+3b3d206b: folds
+731172b5: raises 2,741 to 3,941 and is all-in
+93e2abf8: folds
+Uncalled bet (2,741) returned to 731172b5
+*** SHOWDOWN ***
+731172b5 collected 3,300 from pot
+*** SUMMARY ***
+Total pot 3,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 731172b5 (big blind) collected (3,300)
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: 58d480b9 folded before Flop
+Seat 7: 200d9242 (button) folded before Flop
+Seat 8: 3b3d206b (small blind) folded before Flop
+
+
+Poker Hand #TM90756491: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:21:37
+Table '10' 8-max Seat #5 is the button
+Seat 1: 731172b5 (7,091 in chips)
+Seat 2: Hero (28,922 in chips)
+Seat 3: 27ec69d (38,094 in chips)
+Seat 4: eb32e8f7 (17,825 in chips)
+Seat 5: 93e2abf8 (18,581 in chips)
+Seat 7: 200d9242 (48,915 in chips)
+Seat 8: 3b3d206b (8,065 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+eb32e8f7: posts the ante 75
+200d9242: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+200d9242: posts small blind 300
+3b3d206b: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [4c Ac]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+731172b5: calls 600
+Hero: raises 2,400 to 3,000
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: folds
+200d9242: folds
+3b3d206b: folds
+731172b5: calls 2,400
+*** FLOP *** [2c 4h Th]
+731172b5: checks
+Hero: bets 4,084
+731172b5: folds
+Uncalled bet (4,084) returned to Hero
+*** SHOWDOWN ***
+Hero collected 7,425 from pot
+*** SUMMARY ***
+Total pot 7,425 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 4h Th]
+Seat 1: 731172b5 folded on the Flop
+Seat 2: Hero won (7,425)
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 folded before Flop
+Seat 5: 93e2abf8 (button) folded before Flop
+Seat 7: 200d9242 (small blind) folded before Flop
+Seat 8: 3b3d206b (big blind) folded before Flop
+
+
+Poker Hand #TM90756457: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:20:49
+Table '10' 8-max Seat #4 is the button
+Seat 1: 731172b5 (7,166 in chips)
+Seat 2: Hero (28,997 in chips)
+Seat 3: 27ec69d (38,169 in chips)
+Seat 4: eb32e8f7 (17,900 in chips)
+Seat 5: 93e2abf8 (18,956 in chips)
+Seat 6: a885d784 (6,055 in chips)
+Seat 7: 200d9242 (42,110 in chips)
+Seat 8: 3b3d206b (8,140 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+eb32e8f7: posts the ante 75
+200d9242: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+a885d784: posts the ante 75
+93e2abf8: posts small blind 300
+a885d784: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [4c Jd]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to a885d784 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+200d9242: raises 600 to 1,200
+3b3d206b: folds
+731172b5: folds
+Hero: folds
+27ec69d: folds
+eb32e8f7: folds
+93e2abf8: folds
+a885d784: raises 4,780 to 5,980 and is all-in
+200d9242: calls 4,780
+a885d784: shows [Kc Ks]
+200d9242: shows [Th Qh]
+*** FLOP *** [Ac Ah Tc]
+*** TURN *** [Ac Ah Tc] [Jh]
+*** RIVER *** [Ac Ah Tc Jh] [Ts]
+*** SHOWDOWN ***
+200d9242 collected 12,860 from pot
+*** SUMMARY ***
+Total pot 12,860 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac Ah Tc Jh Ts]
+Seat 1: 731172b5 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: eb32e8f7 (button) folded before Flop
+Seat 5: 93e2abf8 (small blind) folded before Flop
+Seat 6: a885d784 (big blind) showed [Kc Ks] and lost with two pair, Aces and Kings
+Seat 7: 200d9242 showed [Th Qh] and won (12,860) with a full house, Tens full of Aces
+Seat 8: 3b3d206b folded before Flop
+
+
+Poker Hand #TM90756424: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:20:04
+Table '10' 8-max Seat #3 is the button
+Seat 1: 731172b5 (7,241 in chips)
+Seat 2: Hero (29,072 in chips)
+Seat 3: 27ec69d (38,244 in chips)
+Seat 4: eb32e8f7 (8,725 in chips)
+Seat 5: 93e2abf8 (27,681 in chips)
+Seat 6: a885d784 (6,130 in chips)
+Seat 7: 200d9242 (42,185 in chips)
+Seat 8: 3b3d206b (8,215 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+eb32e8f7: posts the ante 75
+200d9242: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+a885d784: posts the ante 75
+eb32e8f7: posts small blind 300
+93e2abf8: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [Ah 4s]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to a885d784 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+a885d784: folds
+200d9242: folds
+3b3d206b: folds
+731172b5: folds
+Hero: folds
+27ec69d: folds
+eb32e8f7: raises 8,050 to 8,650 and is all-in
+93e2abf8: calls 8,050
+eb32e8f7: shows [6d Jd]
+93e2abf8: shows [Kc Jc]
+*** FLOP *** [7d Th Ad]
+*** TURN *** [7d Th Ad] [4c]
+*** RIVER *** [7d Th Ad 4c] [9d]
+*** SHOWDOWN ***
+eb32e8f7 collected 17,900 from pot
+*** SUMMARY ***
+Total pot 17,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d Th Ad 4c 9d]
+Seat 1: 731172b5 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d (button) folded before Flop
+Seat 4: eb32e8f7 (small blind) showed [6d Jd] and won (17,900) with a flush Ace high
+Seat 5: 93e2abf8 (big blind) showed [Kc Jc] and lost with Ace high
+Seat 6: a885d784 folded before Flop
+Seat 7: 200d9242 folded before Flop
+Seat 8: 3b3d206b folded before Flop
+
+
+Poker Hand #TM90756386: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:19:04
+Table '10' 8-max Seat #2 is the button
+Seat 1: 731172b5 (7,316 in chips)
+Seat 2: Hero (25,847 in chips)
+Seat 3: 27ec69d (38,619 in chips)
+Seat 4: eb32e8f7 (10,000 in chips)
+Seat 5: 93e2abf8 (27,756 in chips)
+Seat 6: a885d784 (6,205 in chips)
+Seat 7: 200d9242 (43,460 in chips)
+Seat 8: 3b3d206b (8,290 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+eb32e8f7: posts the ante 75
+200d9242: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+a885d784: posts the ante 75
+27ec69d: posts small blind 300
+eb32e8f7: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [Js 8s]
+Dealt to 27ec69d 
+Dealt to eb32e8f7 
+Dealt to 93e2abf8 
+Dealt to a885d784 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+93e2abf8: folds
+a885d784: folds
+200d9242: raises 600 to 1,200
+3b3d206b: folds
+731172b5: folds
+Hero: calls 1,200
+27ec69d: folds
+eb32e8f7: calls 600
+*** FLOP *** [8d Jd 4h]
+eb32e8f7: checks
+200d9242: checks
+Hero: bets 1,350
+eb32e8f7: folds
+200d9242: folds
+Uncalled bet (1,350) returned to Hero
+*** SHOWDOWN ***
+Hero collected 4,500 from pot
+*** SUMMARY ***
+Total pot 4,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d Jd 4h]
+Seat 1: 731172b5 folded before Flop
+Seat 2: Hero (button) won (4,500)
+Seat 3: 27ec69d (small blind) folded before Flop
+Seat 4: eb32e8f7 (big blind) folded on the Flop
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: a885d784 folded before Flop
+Seat 7: 200d9242 folded on the Flop
+Seat 8: 3b3d206b folded before Flop
+
+
+Poker Hand #TM90756330: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:17:41
+Table '10' 8-max Seat #1 is the button
+Seat 1: 731172b5 (7,391 in chips)
+Seat 2: Hero (32,365 in chips)
+Seat 3: 27ec69d (40,926 in chips)
+Seat 5: 93e2abf8 (27,831 in chips)
+Seat 6: a885d784 (6,280 in chips)
+Seat 7: 200d9242 (34,335 in chips)
+Seat 8: 3b3d206b (8,365 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+200d9242: posts the ante 75
+731172b5: posts the ante 75
+a885d784: posts the ante 75
+Hero: posts the ante 75
+Hero: posts small blind 300
+27ec69d: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [Kc Tc]
+Dealt to 27ec69d 
+Dealt to 93e2abf8 
+Dealt to a885d784 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+93e2abf8: folds
+a885d784: folds
+200d9242: raises 600 to 1,200
+3b3d206b: folds
+731172b5: folds
+Hero: calls 900
+27ec69d: calls 600
+*** FLOP *** [3h Ks 6s]
+Hero: checks
+27ec69d: checks
+200d9242: bets 1,032
+Hero: calls 1,032
+27ec69d: calls 1,032
+*** TURN *** [3h Ks 6s] [Td]
+Hero: checks
+27ec69d: checks
+200d9242: checks
+*** RIVER *** [3h Ks 6s Td] [5s]
+Hero: checks
+27ec69d: checks
+200d9242: bets 4,211
+Hero: calls 4,211
+27ec69d: folds
+200d9242: shows [5c 5d] (three of a kind, Fives)
+Hero: shows [Kc Tc] (two pair, Kings and Tens)
+731172b5: shows [7h 4c] (a straight, Seven to Three)
+200d9242: shows [5c 5d] (three of a kind, Fives)
+Hero: shows [Kc Tc] (two pair, Kings and Tens)
+*** SHOWDOWN ***
+200d9242 collected 15,643 from pot
+*** SUMMARY ***
+Total pot 15,643 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h Ks 6s Td 5s]
+Seat 1: 731172b5 (button) folded before Flop
+Seat 2: Hero (small blind) showed [Kc Tc] and lost with two pair, Kings and Tens
+Seat 3: 27ec69d (big blind) folded on the River
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: a885d784 folded before Flop
+Seat 7: 200d9242 showed [5c 5d] and won (15,643) with three of a kind, Fives
+Seat 8: 3b3d206b folded before Flop
+
+
+Poker Hand #TM90756287: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:16:34
+Table '10' 8-max Seat #8 is the button
+Seat 1: 731172b5 (7,766 in chips)
+Seat 2: Hero (33,040 in chips)
+Seat 3: 27ec69d (41,001 in chips)
+Seat 5: 93e2abf8 (27,906 in chips)
+Seat 6: a885d784 (22,810 in chips)
+Seat 7: 200d9242 (16,530 in chips)
+Seat 8: 3b3d206b (8,440 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+200d9242: posts the ante 75
+a885d784: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+731172b5: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [3c 4c]
+Dealt to 27ec69d 
+Dealt to 93e2abf8 
+Dealt to a885d784 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+27ec69d: folds
+93e2abf8: folds
+a885d784: raises 720 to 1,320
+200d9242: raises 1,920 to 3,240
+3b3d206b: folds
+731172b5: folds
+Hero: folds
+a885d784: calls 1,920
+*** FLOP *** [8d As Td]
+a885d784: checks
+200d9242: bets 2,277
+a885d784: calls 2,277
+*** TURN *** [8d As Td] [4h]
+a885d784: checks
+200d9242: checks
+*** RIVER *** [8d As Td 4h] [2h]
+a885d784: bets 17,218 and is all-in
+200d9242: calls 10,938 and is all-in
+Uncalled bet (6,280) returned to a885d784
+a885d784: shows [9d Qd] (Ace high)
+200d9242: shows [Ac Jh] (a pair of Aces)
+*** SHOWDOWN ***
+200d9242 collected 34,335 from pot
+*** SUMMARY ***
+Total pot 34,335 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d As Td 4h 2h]
+Seat 1: 731172b5 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: a885d784 showed [9d Qd] and lost with Ace high
+Seat 7: 200d9242 showed [Ac Jh] and won (34,335) with a pair of Aces
+Seat 8: 3b3d206b (button) folded before Flop
+
+
+Poker Hand #TM90756250: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:15:42
+Table '10' 8-max Seat #7 is the button
+Seat 1: 731172b5 (8,441 in chips)
+Seat 2: Hero (21,840 in chips)
+Seat 3: 27ec69d (41,076 in chips)
+Seat 4: db2010ff (9,850 in chips)
+Seat 5: 93e2abf8 (27,981 in chips)
+Seat 6: a885d784 (22,885 in chips)
+Seat 7: 200d9242 (16,605 in chips)
+Seat 8: 3b3d206b (8,815 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+db2010ff: posts the ante 75
+200d9242: posts the ante 75
+a885d784: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+3b3d206b: posts small blind 300
+731172b5: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [Kc Kd]
+Dealt to 27ec69d 
+Dealt to db2010ff 
+Dealt to 93e2abf8 
+Dealt to a885d784 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+Hero: raises 900 to 1,500
+27ec69d: folds
+db2010ff: raises 8,275 to 9,775 and is all-in
+93e2abf8: folds
+a885d784: folds
+200d9242: folds
+3b3d206b: folds
+731172b5: folds
+Hero: calls 8,275
+db2010ff: shows [9c 9s]
+Hero: shows [Kc Kd]
+*** FLOP *** [5c 3d 5h]
+*** TURN *** [5c 3d 5h] [4h]
+*** RIVER *** [5c 3d 5h 4h] [7h]
+731172b5: shows [6h 7c] (a straight, Seven to Three)
+*** SHOWDOWN ***
+Hero collected 21,050 from pot
+*** SUMMARY ***
+Total pot 21,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 3d 5h 4h 7h]
+Seat 1: 731172b5 (big blind) folded before Flop
+Seat 2: Hero showed [Kc Kd] and won (21,050) with two pair, Kings and Fives
+Seat 3: 27ec69d folded before Flop
+Seat 4: db2010ff showed [9c 9s] and lost with two pair, Nines and Fives
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: a885d784 folded before Flop
+Seat 7: 200d9242 (button) folded before Flop
+Seat 8: 3b3d206b (small blind) folded before Flop
+
+
+Poker Hand #TM90756222: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:14:57
+Table '10' 8-max Seat #6 is the button
+Seat 1: 731172b5 (8,516 in chips)
+Seat 2: Hero (21,915 in chips)
+Seat 3: 27ec69d (41,151 in chips)
+Seat 4: db2010ff (9,925 in chips)
+Seat 5: 93e2abf8 (29,256 in chips)
+Seat 6: a885d784 (22,960 in chips)
+Seat 7: 200d9242 (16,980 in chips)
+Seat 8: 3b3d206b (6,790 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+db2010ff: posts the ante 75
+200d9242: posts the ante 75
+a885d784: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+200d9242: posts small blind 300
+3b3d206b: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [Jc 3s]
+Dealt to 27ec69d 
+Dealt to db2010ff 
+Dealt to 93e2abf8 
+Dealt to a885d784 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+731172b5: folds
+Hero: folds
+27ec69d: folds
+db2010ff: folds
+93e2abf8: raises 600 to 1,200
+a885d784: folds
+200d9242: folds
+3b3d206b: raises 5,515 to 6,715 and is all-in
+93e2abf8: folds
+Uncalled bet (5,515) returned to 3b3d206b
+*** SHOWDOWN ***
+3b3d206b collected 3,300 from pot
+*** SUMMARY ***
+Total pot 3,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 731172b5 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: db2010ff folded before Flop
+Seat 5: 93e2abf8 folded before Flop
+Seat 6: a885d784 (button) folded before Flop
+Seat 7: 200d9242 (small blind) folded before Flop
+Seat 8: 3b3d206b (big blind) collected (3,300)
+
+
+Poker Hand #TM90756197: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:14:20
+Table '10' 8-max Seat #5 is the button
+Seat 1: 731172b5 (8,591 in chips)
+Seat 2: Hero (21,990 in chips)
+Seat 3: 27ec69d (41,226 in chips)
+Seat 4: db2010ff (10,000 in chips)
+Seat 5: 93e2abf8 (27,831 in chips)
+Seat 6: a885d784 (23,335 in chips)
+Seat 7: 200d9242 (17,655 in chips)
+Seat 8: 3b3d206b (6,865 in chips)
+93e2abf8: posts the ante 75
+27ec69d: posts the ante 75
+3b3d206b: posts the ante 75
+db2010ff: posts the ante 75
+200d9242: posts the ante 75
+Hero: posts the ante 75
+731172b5: posts the ante 75
+a885d784: posts the ante 75
+a885d784: posts small blind 300
+200d9242: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 731172b5 
+Dealt to Hero [3c 2d]
+Dealt to 27ec69d 
+Dealt to db2010ff 
+Dealt to 93e2abf8 
+Dealt to a885d784 
+Dealt to 200d9242 
+Dealt to 3b3d206b 
+3b3d206b: folds
+731172b5: folds
+Hero: folds
+27ec69d: folds
+db2010ff: folds
+93e2abf8: raises 600 to 1,200
+a885d784: folds
+200d9242: folds
+Uncalled bet (600) returned to 93e2abf8
+*** SHOWDOWN ***
+93e2abf8 collected 2,100 from pot
+*** SUMMARY ***
+Total pot 2,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 731172b5 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 27ec69d folded before Flop
+Seat 4: db2010ff folded before Flop
+Seat 5: 93e2abf8 (button) collected (2,100)
+Seat 6: a885d784 (small blind) folded before Flop
+Seat 7: 200d9242 (big blind) folded before Flop
+Seat 8: 3b3d206b folded before Flop
+
+
+Poker Hand #TM90756169: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:13:35
+Table '12' 8-max Seat #2 is the button
+Seat 1: ed37bb80 (9,365 in chips)
+Seat 2: e5c9f278 (25,448 in chips)
+Seat 4: 65db787b (22,645 in chips)
+Seat 5: 840422d8 (7,202 in chips)
+Seat 7: 93c49bab (10,177 in chips)
+Seat 8: Hero (22,065 in chips)
+e5c9f278: posts the ante 75
+65db787b: posts the ante 75
+840422d8: posts the ante 75
+ed37bb80: posts the ante 75
+Hero: posts the ante 75
+93c49bab: posts the ante 75
+65db787b: posts small blind 300
+840422d8: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 65db787b 
+Dealt to 840422d8 
+Dealt to 93c49bab 
+Dealt to Hero [Kc 6d]
+93c49bab: folds
+Hero: folds
+ed37bb80: folds
+e5c9f278: raises 600 to 1,200
+65db787b: folds
+840422d8: raises 5,927 to 7,127 and is all-in
+e5c9f278: folds
+Uncalled bet (5,927) returned to 840422d8
+*** SHOWDOWN ***
+840422d8 collected 3,150 from pot
+*** SUMMARY ***
+Total pot 3,150 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: ed37bb80 folded before Flop
+Seat 2: e5c9f278 (button) folded before Flop
+Seat 4: 65db787b (small blind) folded before Flop
+Seat 5: 840422d8 (big blind) collected (3,150)
+Seat 7: 93c49bab folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90756142: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level11(300/600) - 2026/01/06 19:12:58
+Table '12' 8-max Seat #1 is the button
+Seat 1: ed37bb80 (9,440 in chips)
+Seat 2: e5c9f278 (25,823 in chips)
+Seat 4: 65db787b (23,320 in chips)
+Seat 5: 840422d8 (8,477 in chips)
+Seat 7: 93c49bab (10,252 in chips)
+Seat 8: Hero (19,590 in chips)
+e5c9f278: posts the ante 75
+65db787b: posts the ante 75
+840422d8: posts the ante 75
+ed37bb80: posts the ante 75
+Hero: posts the ante 75
+93c49bab: posts the ante 75
+e5c9f278: posts small blind 300
+65db787b: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 65db787b 
+Dealt to 840422d8 
+Dealt to 93c49bab 
+Dealt to Hero [Kc Qs]
+840422d8: raises 600 to 1,200
+93c49bab: folds
+Hero: raises 2,400 to 3,600
+ed37bb80: folds
+e5c9f278: folds
+65db787b: folds
+840422d8: folds
+Uncalled bet (2,400) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,750 from pot
+*** SUMMARY ***
+Total pot 3,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: ed37bb80 (button) folded before Flop
+Seat 2: e5c9f278 (small blind) folded before Flop
+Seat 4: 65db787b (big blind) folded before Flop
+Seat 5: 840422d8 folded before Flop
+Seat 7: 93c49bab folded before Flop
+Seat 8: Hero collected (3,750)
+
+
+Poker Hand #TM90756110: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:12:12
+Table '12' 8-max Seat #8 is the button
+Seat 1: ed37bb80 (2,900 in chips)
+Seat 2: e5c9f278 (26,383 in chips)
+Seat 3: 889914b3 (5,780 in chips)
+Seat 4: 65db787b (23,380 in chips)
+Seat 5: 840422d8 (8,537 in chips)
+Seat 7: 93c49bab (10,272 in chips)
+Seat 8: Hero (19,650 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+65db787b: posts the ante 60
+840422d8: posts the ante 60
+ed37bb80: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ed37bb80: posts small blind 250
+e5c9f278: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 65db787b 
+Dealt to 840422d8 
+Dealt to 93c49bab 
+Dealt to Hero [Ts Kd]
+889914b3: raises 5,220 to 5,720 and is all-in
+65db787b: folds
+840422d8: folds
+93c49bab: raises 4,492 to 10,212 and is all-in
+Hero: folds
+ed37bb80: calls 2,590 and is all-in
+e5c9f278: folds
+Uncalled bet (4,492) returned to 93c49bab
+93c49bab: shows [Ks Kh]
+ed37bb80: shows [2h 4h]
+889914b3: shows [8h 8s]
+*** FLOP *** [3d Ac 5d]
+*** TURN *** [3d Ac 5d] [Qc]
+*** RIVER *** [3d Ac 5d Qc] [6s]
+*** SHOWDOWN ***
+ed37bb80 collected 9,440 from pot
+93c49bab collected 5,760 from pot
+*** SUMMARY ***
+Total pot 15,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d Ac 5d Qc 6s]
+Seat 1: ed37bb80 (small blind) showed [2h 4h] and won (9,440) with a straight, Six to Two
+Seat 2: e5c9f278 (big blind) folded before Flop
+Seat 3: 889914b3 showed [8h 8s] and lost with a pair of Eights
+Seat 4: 65db787b folded before Flop
+Seat 5: 840422d8 folded before Flop
+Seat 7: 93c49bab showed [Ks Kh] and won (5,760) with a pair of Kings
+Seat 8: Hero (button) folded before Flop
+
+
+Poker Hand #TM90756079: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:11:22
+Table '12' 8-max Seat #7 is the button
+Seat 1: ed37bb80 (11,970 in chips)
+Seat 2: e5c9f278 (26,443 in chips)
+Seat 3: 889914b3 (5,840 in chips)
+Seat 4: 65db787b (9,070 in chips)
+Seat 7: 93c49bab (12,832 in chips)
+Seat 8: Hero (22,210 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+65db787b: posts the ante 60
+ed37bb80: posts the ante 60
+93c49bab: posts the ante 60
+Hero: posts the ante 60
+Hero: posts small blind 250
+ed37bb80: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 65db787b 
+Dealt to 93c49bab 
+Dealt to Hero [5d 5c]
+e5c9f278: folds
+889914b3: folds
+65db787b: raises 500 to 1,000
+93c49bab: raises 1,500 to 2,500
+Hero: calls 2,250
+ed37bb80: raises 8,860 to 11,360
+65db787b: calls 8,010 and is all-in
+93c49bab: folds
+Hero: folds
+Uncalled bet (2,350) returned to ed37bb80
+ed37bb80: shows [Qd Kd]
+65db787b: shows [Jh Th]
+*** FLOP *** [Jd 9c 5h]
+*** TURN *** [Jd 9c 5h] [Jc]
+*** RIVER *** [Jd 9c 5h Jc] [4h]
+Hero: shows [5d 5c] (a full house, Fives full of Jacks)
+*** SHOWDOWN ***
+65db787b collected 23,380 from pot
+*** SUMMARY ***
+Total pot 23,380 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 9c 5h Jc 4h]
+Seat 1: ed37bb80 (big blind) showed [Qd Kd] and lost with a pair of Jacks
+Seat 2: e5c9f278 folded before Flop
+Seat 3: 889914b3 folded before Flop
+Seat 4: 65db787b showed [Jh Th] and won (23,380) with three of a kind, Jacks
+Seat 7: 93c49bab (button) folded before Flop
+Seat 8: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM90756044: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:10:36
+Table '12' 8-max Seat #4 is the button
+Seat 1: ed37bb80 (12,030 in chips)
+Seat 2: e5c9f278 (22,698 in chips)
+Seat 3: 889914b3 (5,900 in chips)
+Seat 4: 65db787b (9,130 in chips)
+Seat 6: ab4a0e88 (2,945 in chips)
+Seat 7: 93c49bab (13,392 in chips)
+Seat 8: Hero (22,270 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+65db787b: posts the ante 60
+ed37bb80: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+ab4a0e88: posts small blind 250
+93c49bab: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 65db787b 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [3d 6c]
+Hero: folds
+ed37bb80: folds
+e5c9f278: raises 500 to 1,000
+889914b3: folds
+65db787b: folds
+ab4a0e88: raises 1,885 to 2,885 and is all-in
+93c49bab: folds
+e5c9f278: calls 1,885
+ab4a0e88: shows [Qc Qs]
+e5c9f278: shows [9d Ac]
+*** FLOP *** [Kd Td 5h]
+*** TURN *** [Kd Td 5h] [2d]
+*** RIVER *** [Kd Td 5h 2d] [Ad]
+*** SHOWDOWN ***
+e5c9f278 collected 6,690 from pot
+*** SUMMARY ***
+Total pot 6,690 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd Td 5h 2d Ad]
+Seat 1: ed37bb80 folded before Flop
+Seat 2: e5c9f278 showed [9d Ac] and won (6,690) with a flush Ace high
+Seat 3: 889914b3 folded before Flop
+Seat 4: 65db787b (button) folded before Flop
+Seat 6: ab4a0e88 (small blind) showed [Qc Qs] and lost with a pair of Queens
+Seat 7: 93c49bab (big blind) folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90755996: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:09:25
+Table '12' 8-max Seat #3 is the button
+Seat 1: ed37bb80 (12,090 in chips)
+Seat 2: e5c9f278 (22,758 in chips)
+Seat 3: 889914b3 (5,960 in chips)
+Seat 4: 65db787b (9,440 in chips)
+Seat 6: ab4a0e88 (8,277 in chips)
+Seat 7: 93c49bab (13,452 in chips)
+Seat 8: Hero (16,388 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+65db787b: posts the ante 60
+ed37bb80: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+65db787b: posts small blind 250
+ab4a0e88: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 65db787b 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [7c As]
+93c49bab: folds
+Hero: raises 500 to 1,000
+ed37bb80: folds
+e5c9f278: folds
+889914b3: folds
+65db787b: folds
+ab4a0e88: calls 500
+*** FLOP *** [5c 8h 4s]
+ab4a0e88: checks
+Hero: checks
+*** TURN *** [5c 8h 4s] [6s]
+ab4a0e88: checks
+Hero: checks
+*** RIVER *** [5c 8h 4s 6s] [Jc]
+ab4a0e88: bets 1,335
+Hero: raises 2,937 to 4,272
+ab4a0e88: calls 2,937
+Hero: shows [7c As] (a straight, Eight to Four)
+ab4a0e88: shows [Jh 9c] (a pair of Jacks)
+*** SHOWDOWN ***
+Hero collected 11,214 from pot
+*** SUMMARY ***
+Total pot 11,214 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 8h 4s 6s Jc]
+Seat 1: ed37bb80 folded before Flop
+Seat 2: e5c9f278 folded before Flop
+Seat 3: 889914b3 (button) folded before Flop
+Seat 4: 65db787b (small blind) folded before Flop
+Seat 6: ab4a0e88 (big blind) showed [Jh 9c] and lost with a pair of Jacks
+Seat 7: 93c49bab folded before Flop
+Seat 8: Hero showed [7c As] and won (11,214) with a straight, Eight to Four
+
+
+Poker Hand #TM90755968: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:08:39
+Table '12' 8-max Seat #2 is the button
+Seat 1: ed37bb80 (12,150 in chips)
+Seat 2: e5c9f278 (22,818 in chips)
+Seat 3: 889914b3 (6,270 in chips)
+Seat 4: 65db787b (10,000 in chips)
+Seat 5: 601e011a (25,411 in chips)
+Seat 6: ab4a0e88 (8,337 in chips)
+Seat 7: 93c49bab (13,512 in chips)
+Seat 8: Hero (16,448 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+65db787b: posts the ante 60
+601e011a: posts the ante 60
+ed37bb80: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+889914b3: posts small blind 250
+65db787b: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 65db787b 
+Dealt to 601e011a 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [8s 5s]
+601e011a: raises 1,000 to 1,500
+ab4a0e88: folds
+93c49bab: folds
+Hero: folds
+ed37bb80: folds
+e5c9f278: folds
+889914b3: folds
+65db787b: folds
+Uncalled bet (1,000) returned to 601e011a
+*** SHOWDOWN ***
+601e011a collected 1,730 from pot
+*** SUMMARY ***
+Total pot 1,730 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: ed37bb80 folded before Flop
+Seat 2: e5c9f278 (button) folded before Flop
+Seat 3: 889914b3 (small blind) folded before Flop
+Seat 4: 65db787b (big blind) folded before Flop
+Seat 5: 601e011a collected (1,730)
+Seat 6: ab4a0e88 folded before Flop
+Seat 7: 93c49bab folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90755940: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:08:02
+Table '12' 8-max Seat #1 is the button
+Seat 1: ed37bb80 (10,040 in chips)
+Seat 2: e5c9f278 (23,128 in chips)
+Seat 3: 889914b3 (6,830 in chips)
+Seat 5: 601e011a (25,471 in chips)
+Seat 6: ab4a0e88 (8,397 in chips)
+Seat 7: 93c49bab (13,572 in chips)
+Seat 8: Hero (17,508 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+601e011a: posts the ante 60
+ed37bb80: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+e5c9f278: posts small blind 250
+889914b3: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 601e011a 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [Jh Qs]
+601e011a: folds
+ab4a0e88: folds
+93c49bab: folds
+Hero: raises 500 to 1,000
+ed37bb80: raises 2,378 to 3,378
+e5c9f278: folds
+889914b3: folds
+Hero: folds
+Uncalled bet (2,378) returned to ed37bb80
+*** SHOWDOWN ***
+ed37bb80 collected 3,170 from pot
+*** SUMMARY ***
+Total pot 3,170 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: ed37bb80 (button) collected (3,170)
+Seat 2: e5c9f278 (small blind) folded before Flop
+Seat 3: 889914b3 (big blind) folded before Flop
+Seat 5: 601e011a folded before Flop
+Seat 6: ab4a0e88 folded before Flop
+Seat 7: 93c49bab folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90755911: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:07:19
+Table '12' 8-max Seat #8 is the button
+Seat 1: ed37bb80 (10,350 in chips)
+Seat 2: e5c9f278 (16,453 in chips)
+Seat 3: 889914b3 (6,890 in chips)
+Seat 4: 101073a8 (6,065 in chips)
+Seat 5: 601e011a (25,531 in chips)
+Seat 6: ab4a0e88 (8,457 in chips)
+Seat 7: 93c49bab (13,632 in chips)
+Seat 8: Hero (17,568 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+601e011a: posts the ante 60
+ed37bb80: posts the ante 60
+101073a8: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+ed37bb80: posts small blind 250
+e5c9f278: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 101073a8 
+Dealt to 601e011a 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [2h Kc]
+889914b3: folds
+101073a8: raises 5,505 to 6,005 and is all-in
+601e011a: folds
+ab4a0e88: folds
+93c49bab: folds
+Hero: folds
+ed37bb80: folds
+e5c9f278: calls 5,505
+101073a8: shows [Tc Qc]
+e5c9f278: shows [Qh Kh]
+*** FLOP *** [9s 7d 5c]
+*** TURN *** [9s 7d 5c] [5h]
+*** RIVER *** [9s 7d 5c 5h] [9c]
+*** SHOWDOWN ***
+e5c9f278 collected 12,740 from pot
+*** SUMMARY ***
+Total pot 12,740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 7d 5c 5h 9c]
+Seat 1: ed37bb80 (small blind) folded before Flop
+Seat 2: e5c9f278 (big blind) showed [Qh Kh] and won (12,740) with two pair, Nines and Fives
+Seat 3: 889914b3 folded before Flop
+Seat 4: 101073a8 showed [Tc Qc] and lost with two pair, Nines and Fives
+Seat 5: 601e011a folded before Flop
+Seat 6: ab4a0e88 folded before Flop
+Seat 7: 93c49bab folded before Flop
+Seat 8: Hero (button) folded before Flop
+
+
+Poker Hand #TM90755870: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:06:31
+Table '12' 8-max Seat #7 is the button
+Seat 1: ed37bb80 (16,861 in chips)
+Seat 2: e5c9f278 (16,513 in chips)
+Seat 3: 889914b3 (6,950 in chips)
+Seat 4: 101073a8 (6,125 in chips)
+Seat 5: 601e011a (25,591 in chips)
+Seat 6: ab4a0e88 (8,517 in chips)
+Seat 7: 93c49bab (6,511 in chips)
+Seat 8: Hero (17,878 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+601e011a: posts the ante 60
+ed37bb80: posts the ante 60
+101073a8: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+Hero: posts the ante 60
+Hero: posts small blind 250
+ed37bb80: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 101073a8 
+Dealt to 601e011a 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [4d Kc]
+e5c9f278: folds
+889914b3: folds
+101073a8: folds
+601e011a: folds
+ab4a0e88: folds
+93c49bab: raises 5,951 to 6,451 and is all-in
+Hero: folds
+ed37bb80: calls 5,951
+93c49bab: shows [Ad Td]
+ed37bb80: shows [Kh Kd]
+*** FLOP *** [Qd 9c 6h]
+*** TURN *** [Qd 9c 6h] [5s]
+*** RIVER *** [Qd 9c 6h 5s] [As]
+*** SHOWDOWN ***
+93c49bab collected 13,632 from pot
+*** SUMMARY ***
+Total pot 13,632 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 9c 6h 5s As]
+Seat 1: ed37bb80 (big blind) showed [Kh Kd] and lost with a pair of Kings
+Seat 2: e5c9f278 folded before Flop
+Seat 3: 889914b3 folded before Flop
+Seat 4: 101073a8 folded before Flop
+Seat 5: 601e011a folded before Flop
+Seat 6: ab4a0e88 folded before Flop
+Seat 7: 93c49bab (button) showed [Ad Td] and won (13,632) with a pair of Aces
+Seat 8: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM90755829: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:05:30
+Table '12' 8-max Seat #6 is the button
+Seat 1: ed37bb80 (19,070 in chips)
+Seat 2: e5c9f278 (16,573 in chips)
+Seat 3: 889914b3 (7,010 in chips)
+Seat 4: 101073a8 (6,185 in chips)
+Seat 5: 601e011a (25,651 in chips)
+Seat 6: ab4a0e88 (8,577 in chips)
+Seat 7: 93c49bab (8,720 in chips)
+Seat 8: Hero (13,160 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+601e011a: posts the ante 60
+ed37bb80: posts the ante 60
+101073a8: posts the ante 60
+ab4a0e88: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+93c49bab: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 101073a8 
+Dealt to 601e011a 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [Qd Ah]
+ed37bb80: raises 500 to 1,000
+e5c9f278: folds
+889914b3: folds
+101073a8: folds
+601e011a: folds
+ab4a0e88: folds
+93c49bab: calls 750
+Hero: calls 500
+*** FLOP *** [4d 4c As]
+93c49bab: checks
+Hero: checks
+ed37bb80: bets 1,149
+93c49bab: calls 1,149
+Hero: raises 3,810 to 4,959
+ed37bb80: folds
+93c49bab: folds
+Uncalled bet (3,810) returned to Hero
+*** SHOWDOWN ***
+Hero collected 6,927 from pot
+*** SUMMARY ***
+Total pot 6,927 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 4c As]
+Seat 1: ed37bb80 folded on the Flop
+Seat 2: e5c9f278 folded before Flop
+Seat 3: 889914b3 folded before Flop
+Seat 4: 101073a8 folded before Flop
+Seat 5: 601e011a folded before Flop
+Seat 6: ab4a0e88 (button) folded before Flop
+Seat 7: 93c49bab (small blind) folded on the Flop
+Seat 8: Hero (big blind) won (6,927)
+
+
+Poker Hand #TM90755801: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:04:50
+Table '12' 8-max Seat #5 is the button
+Seat 1: ed37bb80 (19,130 in chips)
+Seat 2: e5c9f278 (16,633 in chips)
+Seat 3: 889914b3 (7,070 in chips)
+Seat 4: 101073a8 (6,245 in chips)
+Seat 5: 601e011a (25,711 in chips)
+Seat 6: ab4a0e88 (8,887 in chips)
+Seat 7: 93c49bab (9,780 in chips)
+Seat 8: Hero (11,490 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+601e011a: posts the ante 60
+ed37bb80: posts the ante 60
+101073a8: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+ab4a0e88: posts small blind 250
+93c49bab: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 101073a8 
+Dealt to 601e011a 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [Kd Jc]
+Hero: raises 500 to 1,000
+ed37bb80: folds
+e5c9f278: folds
+889914b3: folds
+101073a8: folds
+601e011a: folds
+ab4a0e88: folds
+93c49bab: calls 500
+*** FLOP *** [8s Qh 4c]
+93c49bab: checks
+Hero: checks
+*** TURN *** [8s Qh 4c] [Ac]
+93c49bab: checks
+Hero: bets 1,502
+93c49bab: folds
+Uncalled bet (1,502) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,730 from pot
+*** SUMMARY ***
+Total pot 2,730 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s Qh 4c Ac]
+Seat 1: ed37bb80 folded before Flop
+Seat 2: e5c9f278 folded before Flop
+Seat 3: 889914b3 folded before Flop
+Seat 4: 101073a8 folded before Flop
+Seat 5: 601e011a (button) folded before Flop
+Seat 6: ab4a0e88 (small blind) folded before Flop
+Seat 7: 93c49bab (big blind) folded on the Turn
+Seat 8: Hero won (2,730)
+
+
+Poker Hand #TM90755771: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:04:06
+Table '12' 8-max Seat #4 is the button
+Seat 1: ed37bb80 (19,190 in chips)
+Seat 2: e5c9f278 (16,693 in chips)
+Seat 3: 889914b3 (7,130 in chips)
+Seat 4: 101073a8 (6,305 in chips)
+Seat 5: 601e011a (26,021 in chips)
+Seat 6: ab4a0e88 (9,947 in chips)
+Seat 7: 93c49bab (9,840 in chips)
+Seat 8: Hero (9,820 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+601e011a: posts the ante 60
+ed37bb80: posts the ante 60
+101073a8: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+601e011a: posts small blind 250
+ab4a0e88: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 101073a8 
+Dealt to 601e011a 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [2s As]
+93c49bab: folds
+Hero: raises 500 to 1,000
+ed37bb80: folds
+e5c9f278: folds
+889914b3: folds
+101073a8: folds
+601e011a: folds
+ab4a0e88: calls 500
+*** FLOP *** [Qh 2d Ac]
+ab4a0e88: checks
+Hero: bets 819
+ab4a0e88: folds
+Uncalled bet (819) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,730 from pot
+*** SUMMARY ***
+Total pot 2,730 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh 2d Ac]
+Seat 1: ed37bb80 folded before Flop
+Seat 2: e5c9f278 folded before Flop
+Seat 3: 889914b3 folded before Flop
+Seat 4: 101073a8 (button) folded before Flop
+Seat 5: 601e011a (small blind) folded before Flop
+Seat 6: ab4a0e88 (big blind) folded on the Flop
+Seat 7: 93c49bab folded before Flop
+Seat 8: Hero won (2,730)
+
+
+Poker Hand #TM90755748: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:03:38
+Table '12' 8-max Seat #3 is the button
+Seat 1: ed37bb80 (19,250 in chips)
+Seat 2: e5c9f278 (16,753 in chips)
+Seat 3: 889914b3 (7,190 in chips)
+Seat 4: 101073a8 (6,615 in chips)
+Seat 5: 601e011a (25,351 in chips)
+Seat 6: ab4a0e88 (10,007 in chips)
+Seat 7: 93c49bab (9,900 in chips)
+Seat 8: Hero (9,880 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+601e011a: posts the ante 60
+ed37bb80: posts the ante 60
+101073a8: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+101073a8: posts small blind 250
+601e011a: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 101073a8 
+Dealt to 601e011a 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [8c 5h]
+ab4a0e88: folds
+93c49bab: folds
+Hero: folds
+ed37bb80: folds
+e5c9f278: folds
+889914b3: folds
+101073a8: folds
+Uncalled bet (250) returned to 601e011a
+*** SHOWDOWN ***
+601e011a collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: ed37bb80 folded before Flop
+Seat 2: e5c9f278 folded before Flop
+Seat 3: 889914b3 (button) folded before Flop
+Seat 4: 101073a8 (small blind) folded before Flop
+Seat 5: 601e011a (big blind) collected (980)
+Seat 6: ab4a0e88 folded before Flop
+Seat 7: 93c49bab folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90755728: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:02:56
+Table '12' 8-max Seat #2 is the button
+Seat 1: ed37bb80 (17,080 in chips)
+Seat 2: e5c9f278 (16,813 in chips)
+Seat 3: 889914b3 (7,500 in chips)
+Seat 4: 101073a8 (7,175 in chips)
+Seat 5: 601e011a (26,411 in chips)
+Seat 6: ab4a0e88 (10,067 in chips)
+Seat 7: 93c49bab (9,960 in chips)
+Seat 8: Hero (9,940 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+601e011a: posts the ante 60
+ed37bb80: posts the ante 60
+101073a8: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+889914b3: posts small blind 250
+101073a8: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 101073a8 
+Dealt to 601e011a 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [5s 6c]
+601e011a: calls 500
+ab4a0e88: folds
+93c49bab: folds
+Hero: folds
+ed37bb80: raises 500 to 1,000
+e5c9f278: folds
+889914b3: folds
+101073a8: folds
+601e011a: calls 500
+*** FLOP *** [Kc 9s Js]
+601e011a: checks
+ed37bb80: bets 1,066
+601e011a: folds
+Uncalled bet (1,066) returned to ed37bb80
+*** SHOWDOWN ***
+ed37bb80 collected 3,230 from pot
+*** SUMMARY ***
+Total pot 3,230 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 9s Js]
+Seat 1: ed37bb80 won (3,230)
+Seat 2: e5c9f278 (button) folded before Flop
+Seat 3: 889914b3 (small blind) folded before Flop
+Seat 4: 101073a8 (big blind) folded before Flop
+Seat 5: 601e011a folded on the Flop
+Seat 6: ab4a0e88 folded before Flop
+Seat 7: 93c49bab folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90755697: Tournament #5470639, $25 Daily Merrython Hold'em No Limit - Level10(250/500) - 2026/01/06 19:02:09
+Table '12' 8-max Seat #1 is the button
+Seat 1: ed37bb80 (17,140 in chips)
+Seat 2: e5c9f278 (17,123 in chips)
+Seat 3: 889914b3 (8,060 in chips)
+Seat 4: 101073a8 (7,235 in chips)
+Seat 5: 601e011a (25,241 in chips)
+Seat 6: ab4a0e88 (10,127 in chips)
+Seat 7: 93c49bab (10,020 in chips)
+Seat 8: Hero (10,000 in chips)
+889914b3: posts the ante 60
+e5c9f278: posts the ante 60
+601e011a: posts the ante 60
+ed37bb80: posts the ante 60
+101073a8: posts the ante 60
+Hero: posts the ante 60
+93c49bab: posts the ante 60
+ab4a0e88: posts the ante 60
+e5c9f278: posts small blind 250
+889914b3: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ed37bb80 
+Dealt to e5c9f278 
+Dealt to 889914b3 
+Dealt to 101073a8 
+Dealt to 601e011a 
+Dealt to ab4a0e88 
+Dealt to 93c49bab 
+Dealt to Hero [8c 3c]
+101073a8: folds
+601e011a: calls 500
+ab4a0e88: folds
+93c49bab: folds
+Hero: folds
+ed37bb80: folds
+e5c9f278: folds
+889914b3: checks
+*** FLOP *** [6s Jc Kd]
+889914b3: checks
+601e011a: bets 1,298
+889914b3: folds
+Uncalled bet (1,298) returned to 601e011a
+*** SHOWDOWN ***
+601e011a collected 1,730 from pot
+*** SUMMARY ***
+Total pot 1,730 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Jc Kd]
+Seat 1: ed37bb80 (button) folded before Flop
+Seat 2: e5c9f278 (small blind) folded before Flop
+Seat 3: 889914b3 (big blind) folded on the Flop
+Seat 4: 101073a8 folded before Flop
+Seat 5: 601e011a won (1,730)
+Seat 6: ab4a0e88 folded before Flop
+Seat 7: 93c49bab folded before Flop
+Seat 8: Hero folded before Flop
+
+

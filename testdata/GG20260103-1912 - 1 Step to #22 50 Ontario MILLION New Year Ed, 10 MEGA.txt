@@ -1,0 +1,1716 @@
+Poker Hand #TM90309829: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level9(500/1,000) - 2026/01/03 14:34:07
+Table '3' 8-max Seat #6 is the button
+Seat 2: Hero (3,220 in chips)
+Seat 6: b26c3ace (1,780 in chips)
+b26c3ace: posts the ante 100
+Hero: posts the ante 100
+b26c3ace: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [5s 5h]
+Dealt to b26c3ace 
+b26c3ace: raises 680 to 1,680 and is all-in
+Hero: calls 680
+b26c3ace: shows [4h Ac]
+Hero: shows [5s 5h]
+*** FLOP *** [Kc 7c Td]
+*** TURN *** [Kc 7c Td] [Jh]
+*** RIVER *** [Kc 7c Td Jh] [3h]
+*** SHOWDOWN ***
+Hero collected 3,560 from pot
+*** SUMMARY ***
+Total pot 3,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 7c Td Jh 3h]
+Seat 2: Hero (big blind) showed [5s 5h] and won (3,560) with a pair of Fives
+Seat 6: b26c3ace (small blind) showed [4h Ac] and lost with Ace high
+
+
+Poker Hand #TM90309826: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level9(500/1,000) - 2026/01/03 14:33:43
+Table '3' 8-max Seat #2 is the button
+Seat 2: Hero (4,110 in chips)
+Seat 6: b26c3ace (890 in chips)
+b26c3ace: posts the ante 100
+Hero: posts the ante 100
+Hero: posts small blind 500
+b26c3ace: posts big blind 790
+*** HOLE CARDS ***
+Dealt to Hero [3d 2s]
+Dealt to b26c3ace 
+Hero: calls 290
+Hero: shows [3d 2s]
+b26c3ace: shows [7s Kd]
+*** FLOP *** [2h Ad 9h]
+*** TURN *** [2h Ad 9h] [8s]
+*** RIVER *** [2h Ad 9h 8s] [7c]
+*** SHOWDOWN ***
+b26c3ace collected 1,780 from pot
+*** SUMMARY ***
+Total pot 1,780 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h Ad 9h 8s 7c]
+Seat 2: Hero (small blind) showed [3d 2s] and lost with a pair of Twos
+Seat 6: b26c3ace (big blind) showed [7s Kd] and won (1,780) with a pair of Sevens
+
+
+Poker Hand #TM90309820: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level9(500/1,000) - 2026/01/03 14:33:18
+Table '3' 8-max Seat #7 is the button
+Seat 2: Hero (7,420 in chips)
+Seat 6: b26c3ace (1,452 in chips)
+Seat 7: 22d3275f (7,128 in chips)
+b26c3ace: posts the ante 100
+22d3275f: posts the ante 100
+Hero: posts the ante 100
+Hero: posts small blind 500
+b26c3ace: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [7c As]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+22d3275f: raises 1,000 to 2,000
+Hero: calls 1,500
+b26c3ace: folds
+*** FLOP *** [5s Ts Qc]
+Hero: checks
+22d3275f: checks
+*** TURN *** [5s Ts Qc] [6s]
+Hero: checks
+22d3275f: bets 1,749
+Hero: calls 1,749
+*** RIVER *** [5s Ts Qc 6s] [Kh]
+Hero: checks
+22d3275f: checks
+Hero: shows [7c As] (Ace high)
+22d3275f: shows [Td Kc] (two pair, Kings and Tens)
+*** SHOWDOWN ***
+22d3275f collected 8,798 from pot
+*** SUMMARY ***
+Total pot 8,798 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s Ts Qc 6s Kh]
+Seat 2: Hero (small blind) showed [7c As] and lost with Ace high
+Seat 6: b26c3ace (big blind) folded before Flop
+Seat 7: 22d3275f (button) showed [Td Kc] and won (8,798) with two pair, Kings and Tens
+
+
+Poker Hand #TM90309816: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level8(300/600) - 2026/01/03 14:32:55
+Table '3' 8-max Seat #6 is the button
+Seat 2: Hero (8,080 in chips)
+Seat 6: b26c3ace (484 in chips)
+Seat 7: 22d3275f (7,436 in chips)
+b26c3ace: posts the ante 60
+22d3275f: posts the ante 60
+Hero: posts the ante 60
+22d3275f: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [Qd 3s]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+b26c3ace: calls 424 and is all-in
+22d3275f: calls 300
+Hero: checks
+*** FLOP *** [Td 5s 2c]
+22d3275f: checks
+Hero: checks
+*** TURN *** [Td 5s 2c] [Ts]
+22d3275f: checks
+Hero: checks
+*** RIVER *** [Td 5s 2c Ts] [9h]
+22d3275f: checks
+Hero: checks
+22d3275f: shows [7h Kh] (a pair of Tens)
+Hero: shows [Qd 3s] (a pair of Tens)
+b26c3ace: shows [Ad Qc] (a pair of Tens)
+*** SHOWDOWN ***
+b26c3ace collected 1,452 from pot
+22d3275f collected 352 from pot
+*** SUMMARY ***
+Total pot 1,804 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 5s 2c Ts 9h]
+Seat 2: Hero (big blind) showed [Qd 3s] and lost with a pair of Tens
+Seat 6: b26c3ace (button) showed [Ad Qc] and won (1,452) with a pair of Tens
+Seat 7: 22d3275f (small blind) showed [7h Kh] and won (352) with a pair of Tens
+
+
+Poker Hand #TM90309810: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level8(300/600) - 2026/01/03 14:32:25
+Table '3' 8-max Seat #2 is the button
+Seat 2: Hero (8,140 in chips)
+Seat 6: b26c3ace (212 in chips)
+Seat 7: 22d3275f (7,648 in chips)
+b26c3ace: posts the ante 60
+22d3275f: posts the ante 60
+Hero: posts the ante 60
+b26c3ace: posts small blind 152
+22d3275f: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [7s 5c]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Hero: folds
+Uncalled bet (448) returned to 22d3275f
+b26c3ace: shows [Tc 4s]
+22d3275f: shows [6c Jc]
+*** FLOP *** [Qs 8c 6s]
+*** TURN *** [Qs 8c 6s] [Td]
+*** RIVER *** [Qs 8c 6s Td] [3h]
+*** SHOWDOWN ***
+b26c3ace collected 484 from pot
+*** SUMMARY ***
+Total pot 484 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 8c 6s Td 3h]
+Seat 2: Hero (button) folded before Flop
+Seat 6: b26c3ace (small blind) showed [Tc 4s] and won (484) with a pair of Tens
+Seat 7: 22d3275f (big blind) showed [6c Jc] and lost with a pair of Sixes
+
+
+Poker Hand #TM90309804: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level8(300/600) - 2026/01/03 14:31:50
+Table '3' 8-max Seat #7 is the button
+Seat 2: Hero (8,500 in chips)
+Seat 6: b26c3ace (3,856 in chips)
+Seat 7: 22d3275f (3,644 in chips)
+b26c3ace: posts the ante 60
+22d3275f: posts the ante 60
+Hero: posts the ante 60
+Hero: posts small blind 300
+b26c3ace: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [2s Qc]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+22d3275f: raises 2,984 to 3,584 and is all-in
+Hero: folds
+b26c3ace: calls 2,984
+22d3275f: shows [Qd Ah]
+b26c3ace: shows [3d 3h]
+*** FLOP *** [6c Kd 2d]
+*** TURN *** [6c Kd 2d] [6d]
+*** RIVER *** [6c Kd 2d 6d] [4d]
+*** SHOWDOWN ***
+22d3275f collected 7,648 from pot
+*** SUMMARY ***
+Total pot 7,648 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c Kd 2d 6d 4d]
+Seat 2: Hero (small blind) folded before Flop
+Seat 6: b26c3ace (big blind) showed [3d 3h] and lost with a flush King high
+Seat 7: 22d3275f (button) showed [Qd Ah] and won (7,648) with a flush King high
+
+
+Poker Hand #TM90309803: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level8(300/600) - 2026/01/03 14:31:40
+Table '3' 8-max Seat #6 is the button
+Seat 2: Hero (8,080 in chips)
+Seat 6: b26c3ace (3,916 in chips)
+Seat 7: 22d3275f (4,004 in chips)
+b26c3ace: posts the ante 60
+22d3275f: posts the ante 60
+Hero: posts the ante 60
+22d3275f: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [7s 8d]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+b26c3ace: folds
+22d3275f: folds
+Uncalled bet (300) returned to Hero
+*** SHOWDOWN ***
+Hero collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (big blind) collected (780)
+Seat 6: b26c3ace (button) folded before Flop
+Seat 7: 22d3275f (small blind) folded before Flop
+
+
+Poker Hand #TM90309792: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level8(300/600) - 2026/01/03 14:31:06
+Table '3' 8-max Seat #2 is the button
+Seat 2: Hero (3,570 in chips)
+Seat 6: b26c3ace (4,276 in chips)
+Seat 7: 22d3275f (4,664 in chips)
+Seat 8: 7a5208eb (3,490 in chips)
+7a5208eb: posts the ante 60
+b26c3ace: posts the ante 60
+22d3275f: posts the ante 60
+Hero: posts the ante 60
+b26c3ace: posts small blind 300
+22d3275f: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [Ah 5s]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+7a5208eb: raises 2,830 to 3,430 and is all-in
+Hero: raises 80 to 3,510 and is all-in
+b26c3ace: folds
+22d3275f: folds
+Uncalled bet (80) returned to Hero
+Hero: shows [Ah 5s]
+7a5208eb: shows [Qc 9h]
+*** FLOP *** [Jh 4h 8h]
+*** TURN *** [Jh 4h 8h] [Tc]
+*** RIVER *** [Jh 4h 8h Tc] [6h]
+*** SHOWDOWN ***
+Hero collected 8,000 from pot
+*** SUMMARY ***
+Total pot 8,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 4h 8h Tc 6h]
+Seat 2: Hero (button) showed [Ah 5s] and won (8,000) with a flush Ace high
+Seat 6: b26c3ace (small blind) folded before Flop
+Seat 7: 22d3275f (big blind) folded before Flop
+Seat 8: 7a5208eb showed [Qc 9h] and lost with a flush Jack high
+
+
+Poker Hand #TM90309790: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level8(300/600) - 2026/01/03 14:30:44
+Table '3' 8-max Seat #8 is the button
+Seat 2: Hero (3,930 in chips)
+Seat 6: b26c3ace (4,936 in chips)
+Seat 7: 22d3275f (3,584 in chips)
+Seat 8: 7a5208eb (3,550 in chips)
+7a5208eb: posts the ante 60
+b26c3ace: posts the ante 60
+22d3275f: posts the ante 60
+Hero: posts the ante 60
+Hero: posts small blind 300
+b26c3ace: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [Tc 3h]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+22d3275f: raises 2,924 to 3,524 and is all-in
+7a5208eb: folds
+Hero: folds
+b26c3ace: folds
+Uncalled bet (2,924) returned to 22d3275f
+*** SHOWDOWN ***
+22d3275f collected 1,740 from pot
+*** SUMMARY ***
+Total pot 1,740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (small blind) folded before Flop
+Seat 6: b26c3ace (big blind) folded before Flop
+Seat 7: 22d3275f collected (1,740)
+Seat 8: 7a5208eb (button) folded before Flop
+
+
+Poker Hand #TM90309786: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level8(300/600) - 2026/01/03 14:30:32
+Table '3' 8-max Seat #7 is the button
+Seat 2: Hero (4,590 in chips)
+Seat 6: b26c3ace (4,996 in chips)
+Seat 7: 22d3275f (3,644 in chips)
+Seat 8: 7a5208eb (2,770 in chips)
+b26c3ace: posts the ante 60
+7a5208eb: posts the ante 60
+22d3275f: posts the ante 60
+Hero: posts the ante 60
+7a5208eb: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [5h 2d]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+b26c3ace: folds
+22d3275f: folds
+7a5208eb: raises 2,110 to 2,710 and is all-in
+Hero: folds
+Uncalled bet (2,110) returned to 7a5208eb
+*** SHOWDOWN ***
+7a5208eb collected 1,440 from pot
+*** SUMMARY ***
+Total pot 1,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (big blind) folded before Flop
+Seat 6: b26c3ace folded before Flop
+Seat 7: 22d3275f (button) folded before Flop
+Seat 8: 7a5208eb (small blind) collected (1,440)
+
+
+Poker Hand #TM90309781: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level8(300/600) - 2026/01/03 14:30:20
+Table '3' 8-max Seat #6 is the button
+Seat 2: Hero (4,650 in chips)
+Seat 6: b26c3ace (5,056 in chips)
+Seat 7: 22d3275f (2,864 in chips)
+Seat 8: 7a5208eb (3,430 in chips)
+b26c3ace: posts the ante 60
+7a5208eb: posts the ante 60
+22d3275f: posts the ante 60
+Hero: posts the ante 60
+22d3275f: posts small blind 300
+7a5208eb: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [Ts 2c]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+Hero: folds
+b26c3ace: folds
+22d3275f: raises 2,204 to 2,804 and is all-in
+7a5208eb: folds
+Uncalled bet (2,204) returned to 22d3275f
+*** SHOWDOWN ***
+22d3275f collected 1,440 from pot
+*** SUMMARY ***
+Total pot 1,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero folded before Flop
+Seat 6: b26c3ace (button) folded before Flop
+Seat 7: 22d3275f (small blind) collected (1,440)
+Seat 8: 7a5208eb (big blind) folded before Flop
+
+
+Poker Hand #TM90309776: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level7(200/400) - 2026/01/03 14:29:40
+Table '3' 8-max Seat #2 is the button
+Seat 2: Hero (3,330 in chips)
+Seat 6: b26c3ace (5,896 in chips)
+Seat 7: 22d3275f (3,304 in chips)
+Seat 8: 7a5208eb (3,470 in chips)
+7a5208eb: posts the ante 40
+b26c3ace: posts the ante 40
+22d3275f: posts the ante 40
+Hero: posts the ante 40
+b26c3ace: posts small blind 200
+22d3275f: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [7d 7s]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+7a5208eb: folds
+Hero: raises 400 to 800
+b26c3ace: calls 600
+22d3275f: folds
+*** FLOP *** [8d 8h Kc]
+b26c3ace: checks
+Hero: bets 2,490 and is all-in
+b26c3ace: folds
+Uncalled bet (2,490) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,160 from pot
+*** SUMMARY ***
+Total pot 2,160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 8h Kc]
+Seat 2: Hero (button) won (2,160)
+Seat 6: b26c3ace (small blind) folded on the Flop
+Seat 7: 22d3275f (big blind) folded before Flop
+Seat 8: 7a5208eb folded before Flop
+
+
+Poker Hand #TM90309773: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level7(200/400) - 2026/01/03 14:29:23
+Table '3' 8-max Seat #8 is the button
+Seat 2: Hero (2,810 in chips)
+Seat 6: b26c3ace (6,336 in chips)
+Seat 7: 22d3275f (3,344 in chips)
+Seat 8: 7a5208eb (3,510 in chips)
+7a5208eb: posts the ante 40
+b26c3ace: posts the ante 40
+22d3275f: posts the ante 40
+Hero: posts the ante 40
+Hero: posts small blind 200
+b26c3ace: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [3h 2h]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+22d3275f: folds
+7a5208eb: folds
+Hero: raises 2,370 to 2,770 and is all-in
+b26c3ace: folds
+Uncalled bet (2,370) returned to Hero
+*** SHOWDOWN ***
+Hero collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (small blind) collected (960)
+Seat 6: b26c3ace (big blind) folded before Flop
+Seat 7: 22d3275f folded before Flop
+Seat 8: 7a5208eb (button) folded before Flop
+
+
+Poker Hand #TM90309769: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level7(200/400) - 2026/01/03 14:29:12
+Table '3' 8-max Seat #7 is the button
+Seat 2: Hero (3,250 in chips)
+Seat 6: b26c3ace (6,376 in chips)
+Seat 7: 22d3275f (2,624 in chips)
+Seat 8: 7a5208eb (3,750 in chips)
+b26c3ace: posts the ante 40
+7a5208eb: posts the ante 40
+22d3275f: posts the ante 40
+Hero: posts the ante 40
+7a5208eb: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [2d 8d]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+b26c3ace: folds
+22d3275f: raises 2,184 to 2,584 and is all-in
+7a5208eb: folds
+Hero: folds
+Uncalled bet (2,184) returned to 22d3275f
+*** SHOWDOWN ***
+22d3275f collected 1,160 from pot
+*** SUMMARY ***
+Total pot 1,160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (big blind) folded before Flop
+Seat 6: b26c3ace folded before Flop
+Seat 7: 22d3275f (button) collected (1,160)
+Seat 8: 7a5208eb (small blind) folded before Flop
+
+
+Poker Hand #TM90309766: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level7(200/400) - 2026/01/03 14:29:00
+Table '3' 8-max Seat #6 is the button
+Seat 2: Hero (3,290 in chips)
+Seat 6: b26c3ace (6,416 in chips)
+Seat 7: 22d3275f (2,104 in chips)
+Seat 8: 7a5208eb (4,190 in chips)
+b26c3ace: posts the ante 40
+7a5208eb: posts the ante 40
+22d3275f: posts the ante 40
+Hero: posts the ante 40
+22d3275f: posts small blind 200
+7a5208eb: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [3h Th]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+Hero: folds
+b26c3ace: folds
+22d3275f: raises 1,664 to 2,064 and is all-in
+7a5208eb: folds
+Uncalled bet (1,664) returned to 22d3275f
+*** SHOWDOWN ***
+22d3275f collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero folded before Flop
+Seat 6: b26c3ace (button) folded before Flop
+Seat 7: 22d3275f (small blind) collected (960)
+Seat 8: 7a5208eb (big blind) folded before Flop
+
+
+Poker Hand #TM90309762: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level7(200/400) - 2026/01/03 14:28:46
+Table '3' 8-max Seat #2 is the button
+Seat 2: Hero (3,330 in chips)
+Seat 6: b26c3ace (6,656 in chips)
+Seat 7: 22d3275f (2,544 in chips)
+Seat 8: 7a5208eb (3,470 in chips)
+7a5208eb: posts the ante 40
+b26c3ace: posts the ante 40
+22d3275f: posts the ante 40
+Hero: posts the ante 40
+b26c3ace: posts small blind 200
+22d3275f: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [4h 5h]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+7a5208eb: raises 3,030 to 3,430 and is all-in
+Hero: folds
+b26c3ace: folds
+22d3275f: folds
+Uncalled bet (3,030) returned to 7a5208eb
+*** SHOWDOWN ***
+7a5208eb collected 1,160 from pot
+*** SUMMARY ***
+Total pot 1,160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (button) folded before Flop
+Seat 6: b26c3ace (small blind) folded before Flop
+Seat 7: 22d3275f (big blind) folded before Flop
+Seat 8: 7a5208eb collected (1,160)
+
+
+Poker Hand #TM90309759: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level7(200/400) - 2026/01/03 14:28:31
+Table '3' 8-max Seat #8 is the button
+Seat 2: Hero (3,570 in chips)
+Seat 6: b26c3ace (7,096 in chips)
+Seat 7: 22d3275f (2,584 in chips)
+Seat 8: 7a5208eb (2,750 in chips)
+7a5208eb: posts the ante 40
+b26c3ace: posts the ante 40
+22d3275f: posts the ante 40
+Hero: posts the ante 40
+Hero: posts small blind 200
+b26c3ace: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [5d 9c]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+22d3275f: folds
+7a5208eb: raises 2,310 to 2,710 and is all-in
+Hero: folds
+b26c3ace: folds
+Uncalled bet (2,310) returned to 7a5208eb
+*** SHOWDOWN ***
+7a5208eb collected 1,160 from pot
+*** SUMMARY ***
+Total pot 1,160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (small blind) folded before Flop
+Seat 6: b26c3ace (big blind) folded before Flop
+Seat 7: 22d3275f folded before Flop
+Seat 8: 7a5208eb (button) collected (1,160)
+
+
+Poker Hand #TM90309756: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level7(200/400) - 2026/01/03 14:28:19
+Table '3' 8-max Seat #7 is the button
+Seat 2: Hero (3,250 in chips)
+Seat 6: b26c3ace (7,136 in chips)
+Seat 7: 22d3275f (2,624 in chips)
+Seat 8: 7a5208eb (2,990 in chips)
+b26c3ace: posts the ante 40
+7a5208eb: posts the ante 40
+22d3275f: posts the ante 40
+Hero: posts the ante 40
+7a5208eb: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [5h 4h]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+b26c3ace: folds
+22d3275f: folds
+7a5208eb: folds
+Uncalled bet (200) returned to Hero
+*** SHOWDOWN ***
+Hero collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (big blind) collected (560)
+Seat 6: b26c3ace folded before Flop
+Seat 7: 22d3275f (button) folded before Flop
+Seat 8: 7a5208eb (small blind) folded before Flop
+
+
+Poker Hand #TM90309751: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level7(200/400) - 2026/01/03 14:27:58
+Table '3' 8-max Seat #6 is the button
+Seat 2: Hero (3,290 in chips)
+Seat 6: b26c3ace (7,176 in chips)
+Seat 7: 22d3275f (2,104 in chips)
+Seat 8: 7a5208eb (3,430 in chips)
+b26c3ace: posts the ante 40
+7a5208eb: posts the ante 40
+22d3275f: posts the ante 40
+Hero: posts the ante 40
+22d3275f: posts small blind 200
+7a5208eb: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [6d Qd]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+Hero: folds
+b26c3ace: folds
+22d3275f: raises 1,664 to 2,064 and is all-in
+7a5208eb: folds
+Uncalled bet (1,664) returned to 22d3275f
+*** SHOWDOWN ***
+22d3275f collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero folded before Flop
+Seat 6: b26c3ace (button) folded before Flop
+Seat 7: 22d3275f (small blind) collected (960)
+Seat 8: 7a5208eb (big blind) folded before Flop
+
+
+Poker Hand #TM90309749: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level7(200/400) - 2026/01/03 14:27:40
+Table '3' 8-max Seat #2 is the button
+Seat 2: Hero (3,330 in chips)
+Seat 6: b26c3ace (7,416 in chips)
+Seat 7: 22d3275f (2,544 in chips)
+Seat 8: 7a5208eb (2,710 in chips)
+7a5208eb: posts the ante 40
+b26c3ace: posts the ante 40
+22d3275f: posts the ante 40
+Hero: posts the ante 40
+b26c3ace: posts small blind 200
+22d3275f: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [3h As]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+7a5208eb: raises 2,270 to 2,670 and is all-in
+Hero: folds
+b26c3ace: folds
+22d3275f: folds
+Uncalled bet (2,270) returned to 7a5208eb
+*** SHOWDOWN ***
+7a5208eb collected 1,160 from pot
+*** SUMMARY ***
+Total pot 1,160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (button) folded before Flop
+Seat 6: b26c3ace (small blind) folded before Flop
+Seat 7: 22d3275f (big blind) folded before Flop
+Seat 8: 7a5208eb collected (1,160)
+
+
+Poker Hand #TM90309738: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level6(150/300) - 2026/01/03 14:26:57
+Table '3' 8-max Seat #8 is the button
+Seat 2: Hero (3,510 in chips)
+Seat 6: b26c3ace (5,676 in chips)
+Seat 7: 22d3275f (2,574 in chips)
+Seat 8: 7a5208eb (4,240 in chips)
+7a5208eb: posts the ante 30
+b26c3ace: posts the ante 30
+22d3275f: posts the ante 30
+Hero: posts the ante 30
+Hero: posts small blind 150
+b26c3ace: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [Js 8c]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+22d3275f: folds
+7a5208eb: raises 300 to 600
+Hero: folds
+b26c3ace: calls 300
+*** FLOP *** [9h 3d 3s]
+b26c3ace: checks
+7a5208eb: bets 300
+b26c3ace: calls 300
+*** TURN *** [9h 3d 3s] [2s]
+b26c3ace: checks
+7a5208eb: bets 600
+b26c3ace: calls 600
+*** RIVER *** [9h 3d 3s 2s] [Ah]
+b26c3ace: checks
+7a5208eb: checks
+b26c3ace: shows [Ac 7d] (two pair, Aces and Threes)
+7a5208eb: shows [Kh Ks] (two pair, Kings and Threes)
+*** SHOWDOWN ***
+b26c3ace collected 3,270 from pot
+*** SUMMARY ***
+Total pot 3,270 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h 3d 3s 2s Ah]
+Seat 2: Hero (small blind) folded before Flop
+Seat 6: b26c3ace (big blind) showed [Ac 7d] and won (3,270) with two pair, Aces and Threes
+Seat 7: 22d3275f folded before Flop
+Seat 8: 7a5208eb (button) showed [Kh Ks] and lost with two pair, Kings and Threes
+
+
+Poker Hand #TM90309732: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level6(150/300) - 2026/01/03 14:26:24
+Table '3' 8-max Seat #7 is the button
+Seat 2: Hero (1,839 in chips)
+Seat 6: b26c3ace (5,706 in chips)
+Seat 7: 22d3275f (4,035 in chips)
+Seat 8: 7a5208eb (4,420 in chips)
+b26c3ace: posts the ante 30
+7a5208eb: posts the ante 30
+22d3275f: posts the ante 30
+Hero: posts the ante 30
+7a5208eb: posts small blind 150
+Hero: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [8c Ks]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+b26c3ace: folds
+22d3275f: calls 300
+7a5208eb: folds
+Hero: checks
+*** FLOP *** [4h 8h 2s]
+Hero: checks
+22d3275f: checks
+*** TURN *** [4h 8h 2s] [7s]
+Hero: bets 1,131
+22d3275f: calls 1,131
+*** RIVER *** [4h 8h 2s 7s] [5c]
+Hero: bets 378 and is all-in
+22d3275f: folds
+Uncalled bet (378) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,132 from pot
+*** SUMMARY ***
+Total pot 3,132 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 8h 2s 7s 5c]
+Seat 2: Hero (big blind) won (3,132)
+Seat 6: b26c3ace folded before Flop
+Seat 7: 22d3275f (button) folded on the River
+Seat 8: 7a5208eb (small blind) folded before Flop
+
+
+Poker Hand #TM90309722: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level6(150/300) - 2026/01/03 14:25:39
+Table '3' 8-max Seat #6 is the button
+Seat 2: Hero (1,869 in chips)
+Seat 6: b26c3ace (2,673 in chips)
+Seat 7: 22d3275f (6,708 in chips)
+Seat 8: 7a5208eb (4,750 in chips)
+b26c3ace: posts the ante 30
+7a5208eb: posts the ante 30
+22d3275f: posts the ante 30
+Hero: posts the ante 30
+22d3275f: posts small blind 150
+7a5208eb: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [7c 3c]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+Hero: folds
+b26c3ace: raises 2,343 to 2,643 and is all-in
+22d3275f: calls 2,493
+7a5208eb: folds
+b26c3ace: shows [9s Qc]
+22d3275f: shows [As Th]
+*** FLOP *** [5s 9h 2h]
+*** TURN *** [5s 9h 2h] [Jc]
+*** RIVER *** [5s 9h 2h Jc] [9c]
+*** SHOWDOWN ***
+b26c3ace collected 5,706 from pot
+*** SUMMARY ***
+Total pot 5,706 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 9h 2h Jc 9c]
+Seat 2: Hero folded before Flop
+Seat 6: b26c3ace (button) showed [9s Qc] and won (5,706) with three of a kind, Nines
+Seat 7: 22d3275f (small blind) showed [As Th] and lost with a pair of Nines
+Seat 8: 7a5208eb (big blind) folded before Flop
+
+
+Poker Hand #TM90309713: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level6(150/300) - 2026/01/03 14:25:00
+Table '3' 8-max Seat #2 is the button
+Seat 2: Hero (5,118 in chips)
+Seat 6: b26c3ace (2,853 in chips)
+Seat 7: 22d3275f (3,249 in chips)
+Seat 8: 7a5208eb (4,780 in chips)
+7a5208eb: posts the ante 30
+b26c3ace: posts the ante 30
+22d3275f: posts the ante 30
+Hero: posts the ante 30
+b26c3ace: posts small blind 150
+22d3275f: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [Qc Ah]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+7a5208eb: folds
+Hero: raises 300 to 600
+b26c3ace: folds
+22d3275f: calls 300
+*** FLOP *** [7h 4c 9d]
+22d3275f: bets 2,619 and is all-in
+Hero: calls 2,619
+22d3275f: shows [Kd 7d] (a pair of Sevens)
+Hero: shows [Qc Ah] (Ace high)
+*** TURN *** [7h 4c 9d] [Ts]
+*** RIVER *** [7h 4c 9d Ts] [Kh]
+*** SHOWDOWN ***
+22d3275f collected 6,708 from pot
+*** SUMMARY ***
+Total pot 6,708 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h 4c 9d Ts Kh]
+Seat 2: Hero (button) showed [Qc Ah] and lost with Ace high
+Seat 6: b26c3ace (small blind) folded before Flop
+Seat 7: 22d3275f (big blind) showed [Kd 7d] and won (6,708) with two pair, Kings and Sevens
+Seat 8: 7a5208eb folded before Flop
+
+
+Poker Hand #TM90309710: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level6(150/300) - 2026/01/03 14:24:47
+Table '3' 8-max Seat #8 is the button
+Seat 2: Hero (5,298 in chips)
+Seat 6: b26c3ace (3,183 in chips)
+Seat 7: 22d3275f (2,709 in chips)
+Seat 8: 7a5208eb (4,810 in chips)
+7a5208eb: posts the ante 30
+b26c3ace: posts the ante 30
+22d3275f: posts the ante 30
+Hero: posts the ante 30
+Hero: posts small blind 150
+b26c3ace: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [2s Jh]
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+22d3275f: raises 2,379 to 2,679 and is all-in
+7a5208eb: folds
+Hero: folds
+b26c3ace: folds
+Uncalled bet (2,379) returned to 22d3275f
+*** SHOWDOWN ***
+22d3275f collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (small blind) folded before Flop
+Seat 6: b26c3ace (big blind) folded before Flop
+Seat 7: 22d3275f collected (870)
+Seat 8: 7a5208eb (button) folded before Flop
+
+
+Poker Hand #TM90309701: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level6(150/300) - 2026/01/03 14:24:02
+Table '3' 8-max Seat #7 is the button
+Seat 2: Hero (1,696 in chips)
+Seat 3: e5f4f77f (2,706 in chips)
+Seat 6: b26c3ace (3,213 in chips)
+Seat 7: 22d3275f (3,395 in chips)
+Seat 8: 7a5208eb (4,990 in chips)
+b26c3ace: posts the ante 30
+7a5208eb: posts the ante 30
+22d3275f: posts the ante 30
+e5f4f77f: posts the ante 30
+Hero: posts the ante 30
+7a5208eb: posts small blind 150
+Hero: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [As Kd]
+Dealt to e5f4f77f 
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+e5f4f77f: raises 2,376 to 2,676 and is all-in
+b26c3ace: folds
+22d3275f: calls 2,676
+7a5208eb: folds
+Hero: calls 1,366 and is all-in
+e5f4f77f: shows [Ac Jc]
+22d3275f: shows [Js Qc]
+Hero: shows [As Kd]
+*** FLOP *** [8d 3d Th]
+*** TURN *** [8d 3d Th] [9d]
+*** RIVER *** [8d 3d Th 9d] [5d]
+*** SHOWDOWN ***
+Hero collected 5,298 from pot
+22d3275f collected 2,020 from pot
+*** SUMMARY ***
+Total pot 7,318 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 3d Th 9d 5d]
+Seat 2: Hero (big blind) showed [As Kd] and won (5,298) with a flush King high
+Seat 3: e5f4f77f showed [Ac Jc] and lost with Ace high
+Seat 6: b26c3ace folded before Flop
+Seat 7: 22d3275f (button) showed [Js Qc] and won (2,020) with a straight, Queen to Eight
+Seat 8: 7a5208eb (small blind) folded before Flop
+
+
+Poker Hand #TM90309691: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level5(100/200) - 2026/01/03 14:23:11
+Table '3' 8-max Seat #6 is the button
+Seat 2: Hero (718 in chips)
+Seat 3: e5f4f77f (2,726 in chips)
+Seat 6: b26c3ace (3,233 in chips)
+Seat 7: 22d3275f (4,113 in chips)
+Seat 8: 7a5208eb (5,210 in chips)
+b26c3ace: posts the ante 20
+7a5208eb: posts the ante 20
+22d3275f: posts the ante 20
+e5f4f77f: posts the ante 20
+Hero: posts the ante 20
+22d3275f: posts small blind 100
+7a5208eb: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [5c 5d]
+Dealt to e5f4f77f 
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+Hero: raises 498 to 698 and is all-in
+e5f4f77f: folds
+b26c3ace: folds
+22d3275f: calls 598
+7a5208eb: folds
+Hero: shows [5c 5d]
+22d3275f: shows [Ad 2h]
+*** FLOP *** [Ac Js Jc]
+*** TURN *** [Ac Js Jc] [5s]
+*** RIVER *** [Ac Js Jc 5s] [3h]
+*** SHOWDOWN ***
+Hero collected 1,696 from pot
+*** SUMMARY ***
+Total pot 1,696 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac Js Jc 5s 3h]
+Seat 2: Hero showed [5c 5d] and won (1,696) with a full house, Fives full of Jacks
+Seat 3: e5f4f77f folded before Flop
+Seat 6: b26c3ace (button) folded before Flop
+Seat 7: 22d3275f (small blind) showed [Ad 2h] and lost with two pair, Aces and Jacks
+Seat 8: 7a5208eb (big blind) folded before Flop
+
+
+Poker Hand #TM90309682: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level5(100/200) - 2026/01/03 14:22:32
+Table '3' 8-max Seat #5 is the button
+Seat 2: Hero (738 in chips)
+Seat 3: e5f4f77f (2,746 in chips)
+Seat 4: e1b803b3 (273 in chips)
+Seat 5: 6f71eb7a (615 in chips)
+Seat 6: b26c3ace (3,353 in chips)
+Seat 7: 22d3275f (3,045 in chips)
+Seat 8: 7a5208eb (5,230 in chips)
+7a5208eb: posts the ante 20
+b26c3ace: posts the ante 20
+22d3275f: posts the ante 20
+e1b803b3: posts the ante 20
+e5f4f77f: posts the ante 20
+6f71eb7a: posts the ante 20
+Hero: posts the ante 20
+b26c3ace: posts small blind 100
+22d3275f: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [8s 4c]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+Dealt to 6f71eb7a 
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+7a5208eb: folds
+Hero: folds
+e5f4f77f: folds
+e1b803b3: raises 53 to 253 and is all-in
+6f71eb7a: raises 342 to 595 and is all-in
+b26c3ace: folds
+22d3275f: calls 395
+6f71eb7a: shows [9d 9s]
+22d3275f: shows [7s 4s]
+e1b803b3: shows [2s Ts]
+*** FLOP *** [Js Ac 5c]
+*** TURN *** [Js Ac 5c] [6c]
+*** RIVER *** [Js Ac 5c 6c] [8h]
+*** SHOWDOWN ***
+22d3275f collected 999 from pot
+22d3275f collected 684 from pot
+*** SUMMARY ***
+Total pot 1,683 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js Ac 5c 6c 8h]
+Seat 2: Hero folded before Flop
+Seat 3: e5f4f77f folded before Flop
+Seat 4: e1b803b3 showed [2s Ts] and lost with Ace high
+Seat 5: 6f71eb7a (button) showed [9d 9s] and lost with a pair of Nines
+Seat 6: b26c3ace (small blind) folded before Flop
+Seat 7: 22d3275f (big blind) showed [7s 4s] and won (1,683) with a straight, Eight to Four
+Seat 8: 7a5208eb folded before Flop
+
+
+Poker Hand #TM90309669: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level5(100/200) - 2026/01/03 14:21:42
+Table '3' 8-max Seat #4 is the button
+Seat 2: Hero (758 in chips)
+Seat 3: e5f4f77f (2,766 in chips)
+Seat 4: e1b803b3 (293 in chips)
+Seat 5: 6f71eb7a (735 in chips)
+Seat 6: b26c3ace (3,973 in chips)
+Seat 7: 22d3275f (2,225 in chips)
+Seat 8: 7a5208eb (5,250 in chips)
+7a5208eb: posts the ante 20
+b26c3ace: posts the ante 20
+22d3275f: posts the ante 20
+e1b803b3: posts the ante 20
+e5f4f77f: posts the ante 20
+6f71eb7a: posts the ante 20
+Hero: posts the ante 20
+6f71eb7a: posts small blind 100
+b26c3ace: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [7c 8h]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+Dealt to 6f71eb7a 
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+22d3275f: raises 400 to 600
+7a5208eb: folds
+Hero: folds
+e5f4f77f: folds
+e1b803b3: folds
+6f71eb7a: folds
+b26c3ace: calls 400
+*** FLOP *** [7s Kc 8s]
+b26c3ace: checks
+22d3275f: bets 1,440
+b26c3ace: folds
+Uncalled bet (1,440) returned to 22d3275f
+*** SHOWDOWN ***
+22d3275f collected 1,440 from pot
+*** SUMMARY ***
+Total pot 1,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s Kc 8s]
+Seat 2: Hero folded before Flop
+Seat 3: e5f4f77f folded before Flop
+Seat 4: e1b803b3 (button) folded before Flop
+Seat 5: 6f71eb7a (small blind) folded before Flop
+Seat 6: b26c3ace (big blind) folded on the Flop
+Seat 7: 22d3275f won (1,440)
+Seat 8: 7a5208eb folded before Flop
+
+
+Poker Hand #TM90309658: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level4(75/150) - 2026/01/03 14:20:56
+Table '3' 8-max Seat #3 is the button
+Seat 1: 1e3ecdef (175 in chips)
+Seat 2: Hero (773 in chips)
+Seat 3: e5f4f77f (2,781 in chips)
+Seat 4: e1b803b3 (2,493 in chips)
+Seat 5: 6f71eb7a (900 in chips)
+Seat 6: b26c3ace (3,988 in chips)
+Seat 7: 22d3275f (2,690 in chips)
+Seat 8: 7a5208eb (2,200 in chips)
+7a5208eb: posts the ante 15
+b26c3ace: posts the ante 15
+22d3275f: posts the ante 15
+1e3ecdef: posts the ante 15
+e5f4f77f: posts the ante 15
+e1b803b3: posts the ante 15
+6f71eb7a: posts the ante 15
+Hero: posts the ante 15
+e1b803b3: posts small blind 75
+6f71eb7a: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 1e3ecdef 
+Dealt to Hero [6h Ad]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+Dealt to 6f71eb7a 
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+b26c3ace: folds
+22d3275f: raises 300 to 450
+7a5208eb: raises 1,735 to 2,185 and is all-in
+1e3ecdef: calls 160 and is all-in
+Hero: folds
+e5f4f77f: folds
+e1b803b3: calls 2,110
+6f71eb7a: folds
+22d3275f: folds
+7a5208eb: shows [Jh Kh]
+1e3ecdef: shows [4s 8c]
+e1b803b3: shows [5s As]
+*** FLOP *** [Jc Qc 4d]
+*** TURN *** [Jc Qc 4d] [2s]
+*** RIVER *** [Jc Qc 4d 2s] [5h]
+*** SHOWDOWN ***
+7a5208eb collected 910 from pot
+7a5208eb collected 4,340 from pot
+*** SUMMARY ***
+Total pot 5,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc Qc 4d 2s 5h]
+Seat 1: 1e3ecdef showed [4s 8c] and lost with a pair of Fours
+Seat 2: Hero folded before Flop
+Seat 3: e5f4f77f (button) folded before Flop
+Seat 4: e1b803b3 (small blind) showed [5s As] and lost with a pair of Fives
+Seat 5: 6f71eb7a (big blind) folded before Flop
+Seat 6: b26c3ace folded before Flop
+Seat 7: 22d3275f folded before Flop
+Seat 8: 7a5208eb showed [Jh Kh] and won (5,250) with a pair of Jacks
+
+
+Poker Hand #TM90309645: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level4(75/150) - 2026/01/03 14:20:03
+Table '3' 8-max Seat #2 is the button
+Seat 1: 1e3ecdef (1,339 in chips)
+Seat 2: Hero (788 in chips)
+Seat 3: e5f4f77f (2,871 in chips)
+Seat 4: e1b803b3 (1,164 in chips)
+Seat 5: 6f71eb7a (915 in chips)
+Seat 6: b26c3ace (4,003 in chips)
+Seat 7: 22d3275f (2,705 in chips)
+Seat 8: 7a5208eb (2,215 in chips)
+7a5208eb: posts the ante 15
+b26c3ace: posts the ante 15
+22d3275f: posts the ante 15
+1e3ecdef: posts the ante 15
+e1b803b3: posts the ante 15
+e5f4f77f: posts the ante 15
+6f71eb7a: posts the ante 15
+Hero: posts the ante 15
+e5f4f77f: posts small blind 75
+e1b803b3: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 1e3ecdef 
+Dealt to Hero [Ks 4d]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+Dealt to 6f71eb7a 
+Dealt to b26c3ace 
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+6f71eb7a: folds
+b26c3ace: folds
+22d3275f: folds
+7a5208eb: folds
+1e3ecdef: raises 1,174 to 1,324 and is all-in
+Hero: folds
+e5f4f77f: folds
+e1b803b3: calls 999 and is all-in
+Uncalled bet (175) returned to 1e3ecdef
+1e3ecdef: shows [7h Kd]
+e1b803b3: shows [Th Qs]
+*** FLOP *** [Ad Ac 2s]
+*** TURN *** [Ad Ac 2s] [Jc]
+*** RIVER *** [Ad Ac 2s Jc] [Kc]
+*** SHOWDOWN ***
+e1b803b3 collected 2,493 from pot
+*** SUMMARY ***
+Total pot 2,493 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad Ac 2s Jc Kc]
+Seat 1: 1e3ecdef showed [7h Kd] and lost with two pair, Aces and Kings
+Seat 2: Hero (button) folded before Flop
+Seat 3: e5f4f77f (small blind) folded before Flop
+Seat 4: e1b803b3 (big blind) showed [Th Qs] and won (2,493) with a straight, Ace to Ten
+Seat 5: 6f71eb7a folded before Flop
+Seat 6: b26c3ace folded before Flop
+Seat 7: 22d3275f folded before Flop
+Seat 8: 7a5208eb folded before Flop
+
+
+Poker Hand #TM90309633: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level4(75/150) - 2026/01/03 14:19:10
+Table '3' 8-max Seat #1 is the button
+Seat 1: 1e3ecdef (1,354 in chips)
+Seat 2: Hero (878 in chips)
+Seat 3: e5f4f77f (2,451 in chips)
+Seat 4: e1b803b3 (1,479 in chips)
+1e3ecdef: posts the ante 15
+e1b803b3: posts the ante 15
+e5f4f77f: posts the ante 15
+Hero: posts the ante 15
+Hero: posts small blind 75
+e5f4f77f: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 1e3ecdef 
+Dealt to Hero [6d 8d]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+e1b803b3: raises 150 to 300
+1e3ecdef: folds
+Hero: folds
+e5f4f77f: calls 150
+*** FLOP *** [4s Ad Qd]
+e5f4f77f: checks
+e1b803b3: checks
+*** TURN *** [4s Ad Qd] [6s]
+e5f4f77f: checks
+e1b803b3: checks
+*** RIVER *** [4s Ad Qd 6s] [As]
+e5f4f77f: checks
+e1b803b3: checks
+e5f4f77f: shows [Kd Qh] (two pair, Aces and Queens)
+e1b803b3: shows [Ts Kc] (a pair of Aces)
+*** SHOWDOWN ***
+e5f4f77f collected 735 from pot
+*** SUMMARY ***
+Total pot 735 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4s Ad Qd 6s As]
+Seat 1: 1e3ecdef (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: e5f4f77f (big blind) showed [Kd Qh] and won (735) with two pair, Aces and Queens
+Seat 4: e1b803b3 showed [Ts Kc] and lost with a pair of Aces
+
+
+Poker Hand #TM90309627: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level4(75/150) - 2026/01/03 14:18:52
+Table '3' 8-max Seat #4 is the button
+Seat 1: 1e3ecdef (1,444 in chips)
+Seat 2: Hero (1,043 in chips)
+Seat 3: e5f4f77f (2,181 in chips)
+Seat 4: e1b803b3 (1,494 in chips)
+1e3ecdef: posts the ante 15
+e1b803b3: posts the ante 15
+e5f4f77f: posts the ante 15
+Hero: posts the ante 15
+1e3ecdef: posts small blind 75
+Hero: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 1e3ecdef 
+Dealt to Hero [Jh 6h]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+e5f4f77f: raises 2,016 to 2,166 and is all-in
+e1b803b3: folds
+1e3ecdef: folds
+Hero: folds
+Uncalled bet (2,016) returned to e5f4f77f
+*** SHOWDOWN ***
+e5f4f77f collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 1e3ecdef (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: e5f4f77f collected (435)
+Seat 4: e1b803b3 (button) folded before Flop
+
+
+Poker Hand #TM90309616: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level4(75/150) - 2026/01/03 14:18:13
+Table '3' 8-max Seat #3 is the button
+Seat 1: 1e3ecdef (1,913 in chips)
+Seat 2: Hero (469 in chips)
+Seat 3: e5f4f77f (2,196 in chips)
+Seat 4: e1b803b3 (1,584 in chips)
+1e3ecdef: posts the ante 15
+e5f4f77f: posts the ante 15
+e1b803b3: posts the ante 15
+Hero: posts the ante 15
+e1b803b3: posts small blind 75
+1e3ecdef: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 1e3ecdef 
+Dealt to Hero [Ks 9d]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+Hero: raises 304 to 454 and is all-in
+e5f4f77f: folds
+e1b803b3: folds
+1e3ecdef: calls 304
+Hero: shows [Ks 9d]
+1e3ecdef: shows [8c Jd]
+*** FLOP *** [5d 5c 3h]
+*** TURN *** [5d 5c 3h] [2d]
+*** RIVER *** [5d 5c 3h 2d] [Qs]
+*** SHOWDOWN ***
+Hero collected 1,043 from pot
+*** SUMMARY ***
+Total pot 1,043 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d 5c 3h 2d Qs]
+Seat 1: 1e3ecdef (big blind) showed [8c Jd] and lost with a pair of Fives
+Seat 2: Hero showed [Ks 9d] and won (1,043) with a pair of Fives
+Seat 3: e5f4f77f (button) folded before Flop
+Seat 4: e1b803b3 (small blind) folded before Flop
+
+
+Poker Hand #TM90309613: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level4(75/150) - 2026/01/03 14:18:01
+Table '3' 8-max Seat #2 is the button
+Seat 1: 1e3ecdef (1,928 in chips)
+Seat 2: Hero (484 in chips)
+Seat 3: e5f4f77f (2,286 in chips)
+Seat 4: e1b803b3 (1,464 in chips)
+1e3ecdef: posts the ante 15
+e1b803b3: posts the ante 15
+e5f4f77f: posts the ante 15
+Hero: posts the ante 15
+e5f4f77f: posts small blind 75
+e1b803b3: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 1e3ecdef 
+Dealt to Hero [2s 3d]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+1e3ecdef: folds
+Hero: folds
+e5f4f77f: folds
+Uncalled bet (75) returned to e1b803b3
+*** SHOWDOWN ***
+e1b803b3 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 1e3ecdef folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: e5f4f77f (small blind) folded before Flop
+Seat 4: e1b803b3 (big blind) collected (210)
+
+
+Poker Hand #TM90309606: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level3(50/100) - 2026/01/03 14:17:28
+Table '3' 8-max Seat #1 is the button
+Seat 1: 1e3ecdef (1,868 in chips)
+Seat 2: Hero (424 in chips)
+Seat 3: e5f4f77f (2,396 in chips)
+Seat 4: e1b803b3 (1,474 in chips)
+1e3ecdef: posts the ante 10
+e1b803b3: posts the ante 10
+e5f4f77f: posts the ante 10
+Hero: posts the ante 10
+Hero: posts small blind 50
+e5f4f77f: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 1e3ecdef 
+Dealt to Hero [As Jh]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+e1b803b3: folds
+1e3ecdef: raises 300 to 400
+Hero: raises 14 to 414 and is all-in
+e5f4f77f: folds
+1e3ecdef: calls 14
+Hero: shows [As Jh]
+1e3ecdef: shows [Jd Ac]
+*** FLOP *** [3h 8c 3c]
+*** TURN *** [3h 8c 3c] [8d]
+*** RIVER *** [3h 8c 3c 8d] [Kc]
+*** SHOWDOWN ***
+Hero collected 484 from pot
+1e3ecdef collected 484 from pot
+*** SUMMARY ***
+Total pot 968 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 8c 3c 8d Kc]
+Seat 1: 1e3ecdef (button) showed [Jd Ac] and won (484) with two pair, Eights and Threes
+Seat 2: Hero (small blind) showed [As Jh] and won (484) with two pair, Eights and Threes
+Seat 3: e5f4f77f (big blind) folded before Flop
+Seat 4: e1b803b3 folded before Flop
+
+
+Poker Hand #TM90309599: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level3(50/100) - 2026/01/03 14:16:50
+Table '3' 8-max Seat #4 is the button
+Seat 1: 1e3ecdef (2,070 in chips)
+Seat 2: Hero (202 in chips)
+Seat 3: e5f4f77f (2,406 in chips)
+Seat 4: e1b803b3 (1,484 in chips)
+1e3ecdef: posts the ante 10
+e1b803b3: posts the ante 10
+e5f4f77f: posts the ante 10
+Hero: posts the ante 10
+1e3ecdef: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 1e3ecdef 
+Dealt to Hero [Kd Qd]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+e5f4f77f: folds
+e1b803b3: folds
+1e3ecdef: raises 100 to 200
+Hero: calls 92 and is all-in
+Uncalled bet (8) returned to 1e3ecdef
+1e3ecdef: shows [Jd 3s]
+Hero: shows [Kd Qd]
+*** FLOP *** [8s 6c Th]
+*** TURN *** [8s 6c Th] [As]
+*** RIVER *** [8s 6c Th As] [Kh]
+*** SHOWDOWN ***
+Hero collected 424 from pot
+*** SUMMARY ***
+Total pot 424 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 6c Th As Kh]
+Seat 1: 1e3ecdef (small blind) showed [Jd 3s] and lost with Ace high
+Seat 2: Hero (big blind) showed [Kd Qd] and won (424) with a pair of Kings
+Seat 3: e5f4f77f folded before Flop
+Seat 4: e1b803b3 (button) folded before Flop
+
+
+Poker Hand #TM90309591: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level3(50/100) - 2026/01/03 14:16:18
+Table '3' 8-max Seat #3 is the button
+Seat 1: 1e3ecdef (1,000 in chips)
+Seat 2: Hero (1,202 in chips)
+Seat 3: e5f4f77f (2,416 in chips)
+Seat 4: e1b803b3 (1,544 in chips)
+1e3ecdef: posts the ante 10
+e5f4f77f: posts the ante 10
+e1b803b3: posts the ante 10
+Hero: posts the ante 10
+e1b803b3: posts small blind 50
+1e3ecdef: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 1e3ecdef 
+Dealt to Hero [Qh Tc]
+Dealt to e5f4f77f 
+Dealt to e1b803b3 
+Hero: raises 1,092 to 1,192 and is all-in
+e5f4f77f: folds
+e1b803b3: folds
+1e3ecdef: calls 890 and is all-in
+Uncalled bet (202) returned to Hero
+Hero: shows [Qh Tc]
+1e3ecdef: shows [As Th]
+*** FLOP *** [7s 5h Ac]
+*** TURN *** [7s 5h Ac] [8h]
+*** RIVER *** [7s 5h Ac 8h] [3h]
+*** SHOWDOWN ***
+1e3ecdef collected 2,070 from pot
+*** SUMMARY ***
+Total pot 2,070 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s 5h Ac 8h 3h]
+Seat 1: 1e3ecdef (big blind) showed [As Th] and won (2,070) with a pair of Aces
+Seat 2: Hero showed [Qh Tc] and lost with Ace high
+Seat 3: e5f4f77f (button) folded before Flop
+Seat 4: e1b803b3 (small blind) folded before Flop
+
+
+Poker Hand #TM90412540: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level3(50/100) - 2026/01/03 14:15:42
+Table '2' 8-max Seat #4 is the button
+Seat 1: 22d3275f (2,050 in chips)
+Seat 2: 7a5208eb (1,180 in chips)
+Seat 3: Hero (2,325 in chips)
+Seat 4: e5f4f77f (1,123 in chips)
+7a5208eb: posts the ante 10
+22d3275f: posts the ante 10
+e5f4f77f: posts the ante 10
+Hero: posts the ante 10
+22d3275f: posts small blind 50
+7a5208eb: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+Dealt to Hero [9c Jd]
+Dealt to e5f4f77f 
+Hero: raises 100 to 200
+e5f4f77f: raises 913 to 1,113 and is all-in
+22d3275f: folds
+7a5208eb: folds
+Hero: calls 913
+e5f4f77f: shows [7c 7s]
+Hero: shows [9c Jd]
+*** FLOP *** [Kh Qh 3s]
+*** TURN *** [Kh Qh 3s] [8c]
+*** RIVER *** [Kh Qh 3s 8c] [2c]
+*** SHOWDOWN ***
+e5f4f77f collected 2,416 from pot
+*** SUMMARY ***
+Total pot 2,416 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh Qh 3s 8c 2c]
+Seat 1: 22d3275f (small blind) folded before Flop
+Seat 2: 7a5208eb (big blind) folded before Flop
+Seat 3: Hero showed [9c Jd] and lost with King high
+Seat 4: e5f4f77f (button) showed [7c 7s] and won (2,416) with a pair of Sevens
+
+
+Poker Hand #TM90412533: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level3(50/100) - 2026/01/03 14:15:10
+Table '2' 8-max Seat #3 is the button
+Seat 1: 22d3275f (990 in chips)
+Seat 2: 7a5208eb (1,190 in chips)
+Seat 3: Hero (3,315 in chips)
+Seat 4: e5f4f77f (1,183 in chips)
+7a5208eb: posts the ante 10
+22d3275f: posts the ante 10
+e5f4f77f: posts the ante 10
+Hero: posts the ante 10
+e5f4f77f: posts small blind 50
+22d3275f: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+Dealt to Hero [Tc 7d]
+Dealt to e5f4f77f 
+7a5208eb: folds
+Hero: raises 100 to 200
+e5f4f77f: folds
+22d3275f: calls 100
+*** FLOP *** [Td 5c Qh]
+22d3275f: bets 780 and is all-in
+Hero: calls 780
+22d3275f: shows [Qd 8c] (a pair of Queens)
+Hero: shows [Tc 7d] (a pair of Tens)
+*** TURN *** [Td 5c Qh] [8h]
+*** RIVER *** [Td 5c Qh 8h] [Ks]
+*** SHOWDOWN ***
+22d3275f collected 2,050 from pot
+*** SUMMARY ***
+Total pot 2,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 5c Qh 8h Ks]
+Seat 1: 22d3275f (big blind) showed [Qd 8c] and won (2,050) with two pair, Queens and Eights
+Seat 2: 7a5208eb folded before Flop
+Seat 3: Hero (button) showed [Tc 7d] and lost with a pair of Tens
+Seat 4: e5f4f77f (small blind) folded before Flop
+
+
+Poker Hand #TM90412524: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level3(50/100) - 2026/01/03 14:14:33
+Table '2' 8-max Seat #2 is the button
+Seat 1: 22d3275f (1,000 in chips)
+Seat 2: 7a5208eb (1,200 in chips)
+Seat 3: Hero (2,332 in chips)
+Seat 4: e5f4f77f (2,146 in chips)
+7a5208eb: posts the ante 10
+22d3275f: posts the ante 10
+e5f4f77f: posts the ante 10
+Hero: posts the ante 10
+Hero: posts small blind 50
+e5f4f77f: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 22d3275f 
+Dealt to 7a5208eb 
+Dealt to Hero [Qh Jh]
+Dealt to e5f4f77f 
+22d3275f: folds
+7a5208eb: folds
+Hero: raises 100 to 200
+e5f4f77f: calls 100
+*** FLOP *** [Ts 5h Th]
+Hero: checks
+e5f4f77f: checks
+*** TURN *** [Ts 5h Th] [Js]
+Hero: bets 243
+e5f4f77f: calls 243
+*** RIVER *** [Ts 5h Th Js] [9c]
+Hero: bets 510
+e5f4f77f: calls 510
+Hero: shows [Qh Jh] (two pair, Jacks and Tens)
+e5f4f77f: shows [5c 6c] (two pair, Tens and Fives)
+22d3275f: shows [Tc] (three of a kind, Tens)
+Hero: shows [Qh Jh] (two pair, Jacks and Tens)
+e5f4f77f: shows [5c 6c] (two pair, Tens and Fives)
+*** SHOWDOWN ***
+Hero collected 1,946 from pot
+*** SUMMARY ***
+Total pot 1,946 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 5h Th Js 9c]
+Seat 1: 22d3275f folded before Flop
+Seat 2: 7a5208eb (button) folded before Flop
+Seat 3: Hero (small blind) showed [Qh Jh] and won (1,946) with two pair, Jacks and Tens
+Seat 4: e5f4f77f (big blind) showed [5c 6c] and lost with two pair, Tens and Fives
+
+
+Poker Hand #TM90412511: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level3(50/100) - 2026/01/03 14:13:27
+Table '1' 8-max Seat #4 is the button
+Seat 1: e5f4f77f (2,156 in chips)
+Seat 2: b26c3ace (1,000 in chips)
+Seat 3: 1876dbec (1,644 in chips)
+Seat 4: e1b803b3 (1,274 in chips)
+Seat 5: 6f71eb7a (1,500 in chips)
+Seat 6: 48646a69 (1,874 in chips)
+Seat 7: 7a5208eb (1,210 in chips)
+Seat 8: Hero (2,342 in chips)
+1876dbec: posts the ante 10
+b26c3ace: posts the ante 10
+7a5208eb: posts the ante 10
+48646a69: posts the ante 10
+e1b803b3: posts the ante 10
+e5f4f77f: posts the ante 10
+6f71eb7a: posts the ante 10
+Hero: posts the ante 10
+6f71eb7a: posts small blind 50
+48646a69: posts big blind 100
+*** HOLE CARDS ***
+Dealt to e5f4f77f 
+Dealt to b26c3ace 
+Dealt to 1876dbec 
+Dealt to e1b803b3 
+Dealt to 6f71eb7a 
+Dealt to 48646a69 
+Dealt to 7a5208eb 
+Dealt to Hero [Js 4c]
+7a5208eb: folds
+Hero: folds
+e5f4f77f: folds
+b26c3ace: calls 100
+1876dbec: calls 100
+e1b803b3: folds
+6f71eb7a: calls 50
+48646a69: checks
+*** FLOP *** [3s 9c Ad]
+6f71eb7a: checks
+48646a69: bets 240
+b26c3ace: calls 240
+1876dbec: calls 240
+6f71eb7a: folds
+*** TURN *** [3s 9c Ad] [Jd]
+48646a69: checks
+b26c3ace: checks
+1876dbec: bets 1,294 and is all-in
+48646a69: folds
+b26c3ace: calls 650 and is all-in
+Uncalled bet (644) returned to 1876dbec
+1876dbec: shows [Ac 7h] (a pair of Aces)
+b26c3ace: shows [Ah As] (three of a kind, Aces)
+*** RIVER *** [3s 9c Ad Jd] [3d]
+*** SHOWDOWN ***
+b26c3ace collected 2,500 from pot
+*** SUMMARY ***
+Total pot 2,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s 9c Ad Jd 3d]
+Seat 1: e5f4f77f folded before Flop
+Seat 2: b26c3ace showed [Ah As] and won (2,500) with a full house, Aces full of Threes
+Seat 3: 1876dbec showed [Ac 7h] and lost with two pair, Aces and Threes
+Seat 4: e1b803b3 (button) folded before Flop
+Seat 5: 6f71eb7a (small blind) folded on the Flop
+Seat 6: 48646a69 (big blind) folded on the Turn
+Seat 7: 7a5208eb folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90412502: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level2(30/60) - 2026/01/03 14:12:46
+Table '1' 8-max Seat #3 is the button
+Seat 1: e5f4f77f (2,162 in chips)
+Seat 2: c206ce41 (1,000 in chips)
+Seat 3: 1876dbec (1,650 in chips)
+Seat 4: e1b803b3 (1,400 in chips)
+Seat 5: 6f71eb7a (1,566 in chips)
+Seat 6: 48646a69 (1,880 in chips)
+Seat 7: 7a5208eb (1,216 in chips)
+Seat 8: Hero (1,126 in chips)
+1876dbec: posts the ante 6
+7a5208eb: posts the ante 6
+c206ce41: posts the ante 6
+48646a69: posts the ante 6
+e5f4f77f: posts the ante 6
+e1b803b3: posts the ante 6
+6f71eb7a: posts the ante 6
+Hero: posts the ante 6
+e1b803b3: posts small blind 30
+6f71eb7a: posts big blind 60
+*** HOLE CARDS ***
+Dealt to e5f4f77f 
+Dealt to c206ce41 
+Dealt to 1876dbec 
+Dealt to e1b803b3 
+Dealt to 6f71eb7a 
+Dealt to 48646a69 
+Dealt to 7a5208eb 
+Dealt to Hero [Qs Tc]
+48646a69: folds
+7a5208eb: folds
+Hero: raises 60 to 120
+e5f4f77f: folds
+c206ce41: calls 120
+1876dbec: folds
+e1b803b3: calls 90
+6f71eb7a: folds
+*** FLOP *** [Ts Kc Ah]
+e1b803b3: checks
+Hero: checks
+c206ce41: checks
+*** TURN *** [Ts Kc Ah] [4c]
+e1b803b3: checks
+Hero: checks
+c206ce41: checks
+*** RIVER *** [Ts Kc Ah 4c] [Qc]
+e1b803b3: checks
+Hero: checks
+c206ce41: bets 874 and is all-in
+e1b803b3: folds
+Hero: calls 874
+c206ce41: shows [9h 5h] (Ace high)
+Hero: shows [Qs Tc] (two pair, Queens and Tens)
+*** SHOWDOWN ***
+Hero collected 2,216 from pot
+*** SUMMARY ***
+Total pot 2,216 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts Kc Ah 4c Qc]
+Seat 1: e5f4f77f folded before Flop
+Seat 2: c206ce41 showed [9h 5h] and lost with Ace high
+Seat 3: 1876dbec (button) folded before Flop
+Seat 4: e1b803b3 (small blind) folded on the River
+Seat 5: 6f71eb7a (big blind) folded before Flop
+Seat 6: 48646a69 folded before Flop
+Seat 7: 7a5208eb folded before Flop
+Seat 8: Hero showed [Qs Tc] and won (2,216) with two pair, Queens and Tens
+
+
+Poker Hand #TM90412497: Tournament #5470890, $1 Step to #22: $50 Ontario MILLION$ New Year Ed, $10 MEGA Hold'em No Limit - Level2(30/60) - 2026/01/03 14:12:22
+Table '1' 8-max Seat #1 is the button
+Seat 1: e5f4f77f (2,168 in chips)
+Seat 3: 1876dbec (1,686 in chips)
+Seat 4: e1b803b3 (1,466 in chips)
+Seat 5: 6f71eb7a (1,572 in chips)
+Seat 6: 48646a69 (1,886 in chips)
+Seat 7: 7a5208eb (1,222 in chips)
+Seat 8: Hero (1,000 in chips)
+7a5208eb: posts the ante 6
+1876dbec: posts the ante 6
+48646a69: posts the ante 6
+e5f4f77f: posts the ante 6
+e1b803b3: posts the ante 6
+6f71eb7a: posts the ante 6
+Hero: posts the ante 6
+1876dbec: posts small blind 30
+e1b803b3: posts big blind 60
+*** HOLE CARDS ***
+Dealt to e5f4f77f 
+Dealt to 1876dbec 
+Dealt to e1b803b3 
+Dealt to 6f71eb7a 
+Dealt to 48646a69 
+Dealt to 7a5208eb 
+Dealt to Hero [5s Js]
+6f71eb7a: folds
+48646a69: folds
+7a5208eb: folds
+Hero: raises 934 to 994 and is all-in
+e5f4f77f: folds
+1876dbec: folds
+e1b803b3: folds
+Uncalled bet (934) returned to Hero
+*** SHOWDOWN ***
+Hero collected 192 from pot
+*** SUMMARY ***
+Total pot 192 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e5f4f77f (button) folded before Flop
+Seat 3: 1876dbec (small blind) folded before Flop
+Seat 4: e1b803b3 (big blind) folded before Flop
+Seat 5: 6f71eb7a folded before Flop
+Seat 6: 48646a69 folded before Flop
+Seat 7: 7a5208eb folded before Flop
+Seat 8: Hero collected (192)
+
+

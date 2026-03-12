@@ -1,0 +1,2809 @@
+Poker Hand #TM91972500: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level16(2,500/5,000) - 2026/01/18 14:31:33
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (32,890 in chips)
+Seat 3: c27341f0 (34,135 in chips)
+Seat 6: 95056598 (62,975 in chips)
+95056598: posts the ante 500
+c27341f0: posts the ante 500
+Hero: posts the ante 500
+95056598: posts small blind 2,500
+Hero: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [3s 7s]
+Dealt to c27341f0 
+Dealt to 95056598 
+c27341f0: raises 28,635 to 33,635 and is all-in
+95056598: calls 31,135
+Hero: folds
+c27341f0: shows [9c 7c]
+95056598: shows [Td Th]
+*** FLOP *** [Qs 2h 9d]
+*** TURN *** [Qs 2h 9d] [5c]
+*** RIVER *** [Qs 2h 9d 5c] [5d]
+*** SHOWDOWN ***
+95056598 collected 73,770 from pot
+*** SUMMARY ***
+Total pot 73,770 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 2h 9d 5c 5d]
+Seat 1: Hero (big blind) folded before Flop
+Seat 3: c27341f0 (button) showed [9c 7c] and lost with two pair, Nines and Fives
+Seat 6: 95056598 (small blind) showed [Td Th] and won (73,770) with two pair, Tens and Fives
+
+
+Poker Hand #TM91972496: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level16(2,500/5,000) - 2026/01/18 14:31:22
+Table '1' 8-max Seat #1 is the button
+Seat 1: Hero (33,390 in chips)
+Seat 3: c27341f0 (37,135 in chips)
+Seat 6: 95056598 (59,475 in chips)
+95056598: posts the ante 500
+c27341f0: posts the ante 500
+Hero: posts the ante 500
+c27341f0: posts small blind 2,500
+95056598: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [2h Kc]
+Dealt to c27341f0 
+Dealt to 95056598 
+Hero: folds
+c27341f0: folds
+Uncalled bet (2,500) returned to 95056598
+*** SHOWDOWN ***
+95056598 collected 6,500 from pot
+*** SUMMARY ***
+Total pot 6,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop
+Seat 3: c27341f0 (small blind) folded before Flop
+Seat 6: 95056598 (big blind) collected (6,500)
+
+
+Poker Hand #TM91972484: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level16(2,500/5,000) - 2026/01/18 14:30:44
+Table '1' 8-max Seat #6 is the button
+Seat 1: Hero (51,575 in chips)
+Seat 3: c27341f0 (42,635 in chips)
+Seat 6: 95056598 (35,790 in chips)
+95056598: posts the ante 500
+c27341f0: posts the ante 500
+Hero: posts the ante 500
+Hero: posts small blind 2,500
+c27341f0: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [7s 8h]
+Dealt to c27341f0 
+Dealt to 95056598 
+95056598: calls 5,000
+Hero: calls 2,500
+c27341f0: checks
+*** FLOP *** [3c 7d Tc]
+Hero: bets 5,000
+c27341f0: folds
+95056598: calls 5,000
+*** TURN *** [3c 7d Tc] [6c]
+Hero: bets 7,685
+95056598: raises 17,605 to 25,290 and is all-in
+Hero: folds
+Uncalled bet (17,605) returned to 95056598
+*** SHOWDOWN ***
+95056598 collected 41,870 from pot
+*** SUMMARY ***
+Total pot 41,870 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 7d Tc 6c]
+Seat 1: Hero (small blind) folded on the Turn
+Seat 3: c27341f0 (big blind) folded on the Flop
+Seat 6: 95056598 (button) won (41,870)
+
+
+Poker Hand #TM91972478: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level15(2,000/4,000) - 2026/01/18 14:30:25
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (48,775 in chips)
+Seat 3: c27341f0 (43,035 in chips)
+Seat 6: 95056598 (38,190 in chips)
+95056598: posts the ante 400
+c27341f0: posts the ante 400
+Hero: posts the ante 400
+95056598: posts small blind 2,000
+Hero: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [Qh Td]
+Dealt to c27341f0 
+Dealt to 95056598 
+c27341f0: folds
+95056598: folds
+Uncalled bet (2,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 5,200 from pot
+*** SUMMARY ***
+Total pot 5,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) collected (5,200)
+Seat 3: c27341f0 (button) folded before Flop
+Seat 6: 95056598 (small blind) folded before Flop
+
+
+Poker Hand #TM91972470: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level15(2,000/4,000) - 2026/01/18 14:29:50
+Table '1' 8-max Seat #1 is the button
+Seat 1: Hero (66,670 in chips)
+Seat 3: c27341f0 (45,435 in chips)
+Seat 6: 95056598 (17,895 in chips)
+95056598: posts the ante 400
+c27341f0: posts the ante 400
+Hero: posts the ante 400
+c27341f0: posts small blind 2,000
+95056598: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [7c Qc]
+Dealt to c27341f0 
+Dealt to 95056598 
+Hero: raises 4,000 to 8,000
+c27341f0: folds
+95056598: calls 4,000
+*** FLOP *** [Ts 8c 5h]
+95056598: bets 9,495 and is all-in
+Hero: calls 9,495
+95056598: shows [Kd 7d] (King high)
+Hero: shows [7c Qc] (Queen high)
+*** TURN *** [Ts 8c 5h] [8s]
+*** RIVER *** [Ts 8c 5h 8s] [Kh]
+*** SHOWDOWN ***
+95056598 collected 38,190 from pot
+*** SUMMARY ***
+Total pot 38,190 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 8c 5h 8s Kh]
+Seat 1: Hero (button) showed [7c Qc] and lost with a pair of Eights
+Seat 3: c27341f0 (small blind) folded before Flop
+Seat 6: 95056598 (big blind) showed [Kd 7d] and won (38,190) with two pair, Kings and Eights
+
+
+Poker Hand #TM91972462: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level15(2,000/4,000) - 2026/01/18 14:29:33
+Table '1' 8-max Seat #6 is the button
+Seat 1: Hero (61,870 in chips)
+Seat 3: c27341f0 (49,835 in chips)
+Seat 6: 95056598 (18,295 in chips)
+95056598: posts the ante 400
+c27341f0: posts the ante 400
+Hero: posts the ante 400
+Hero: posts small blind 2,000
+c27341f0: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [Js 9d]
+Dealt to c27341f0 
+Dealt to 95056598 
+95056598: folds
+Hero: raises 4,000 to 8,000
+c27341f0: folds
+Uncalled bet (4,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 9,200 from pot
+*** SUMMARY ***
+Total pot 9,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) collected (9,200)
+Seat 3: c27341f0 (big blind) folded before Flop
+Seat 6: 95056598 (button) folded before Flop
+
+
+Poker Hand #TM91972460: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level15(2,000/4,000) - 2026/01/18 14:29:20
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (66,270 in chips)
+Seat 3: c27341f0 (43,035 in chips)
+Seat 6: 95056598 (20,695 in chips)
+95056598: posts the ante 400
+c27341f0: posts the ante 400
+Hero: posts the ante 400
+95056598: posts small blind 2,000
+Hero: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [Qc 7d]
+Dealt to c27341f0 
+Dealt to 95056598 
+c27341f0: raises 38,635 to 42,635 and is all-in
+95056598: folds
+Hero: folds
+Uncalled bet (38,635) returned to c27341f0
+*** SHOWDOWN ***
+c27341f0 collected 11,200 from pot
+*** SUMMARY ***
+Total pot 11,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) folded before Flop
+Seat 3: c27341f0 (button) collected (11,200)
+Seat 6: 95056598 (small blind) folded before Flop
+
+
+Poker Hand #TM91972453: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level15(2,000/4,000) - 2026/01/18 14:28:50
+Table '1' 8-max Seat #1 is the button
+Seat 1: Hero (64,070 in chips)
+Seat 3: c27341f0 (40,835 in chips)
+Seat 6: 95056598 (25,095 in chips)
+95056598: posts the ante 400
+c27341f0: posts the ante 400
+Hero: posts the ante 400
+c27341f0: posts small blind 2,000
+95056598: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [Kc Qh]
+Dealt to c27341f0 
+Dealt to 95056598 
+Hero: raises 4,000 to 8,000
+c27341f0: raises 32,435 to 40,435 and is all-in
+95056598: folds
+Hero: calls 32,435
+c27341f0: shows [Kd Qd]
+Hero: shows [Kc Qh]
+*** FLOP *** [3h 4s Jc]
+*** TURN *** [3h 4s Jc] [2s]
+*** RIVER *** [3h 4s Jc 2s] [Ac]
+*** SHOWDOWN ***
+c27341f0 collected 43,035 from pot
+Hero collected 43,035 from pot
+*** SUMMARY ***
+Total pot 86,070 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 4s Jc 2s Ac]
+Seat 1: Hero (button) showed [Kc Qh] and won (43,035) with Ace high
+Seat 3: c27341f0 (small blind) showed [Kd Qd] and won (43,035) with Ace high
+Seat 6: 95056598 (big blind) folded before Flop
+
+
+Poker Hand #TM91972446: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level15(2,000/4,000) - 2026/01/18 14:28:38
+Table '1' 8-max Seat #6 is the button
+Seat 1: Hero (59,270 in chips)
+Seat 3: c27341f0 (45,235 in chips)
+Seat 6: 95056598 (25,495 in chips)
+95056598: posts the ante 400
+c27341f0: posts the ante 400
+Hero: posts the ante 400
+Hero: posts small blind 2,000
+c27341f0: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [Tc Qs]
+Dealt to c27341f0 
+Dealt to 95056598 
+95056598: folds
+Hero: raises 4,000 to 8,000
+c27341f0: folds
+Uncalled bet (4,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 9,200 from pot
+*** SUMMARY ***
+Total pot 9,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) collected (9,200)
+Seat 3: c27341f0 (big blind) folded before Flop
+Seat 6: 95056598 (button) folded before Flop
+
+
+Poker Hand #TM91972442: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level15(2,000/4,000) - 2026/01/18 14:28:23
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (56,470 in chips)
+Seat 3: c27341f0 (45,635 in chips)
+Seat 6: 95056598 (27,895 in chips)
+95056598: posts the ante 400
+c27341f0: posts the ante 400
+Hero: posts the ante 400
+95056598: posts small blind 2,000
+Hero: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [9c 2d]
+Dealt to c27341f0 
+Dealt to 95056598 
+c27341f0: folds
+95056598: folds
+Uncalled bet (2,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 5,200 from pot
+*** SUMMARY ***
+Total pot 5,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) collected (5,200)
+Seat 3: c27341f0 (button) folded before Flop
+Seat 6: 95056598 (small blind) folded before Flop
+
+
+Poker Hand #TM91972438: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level15(2,000/4,000) - 2026/01/18 14:28:02
+Table '1' 8-max Seat #1 is the button
+Seat 1: Hero (56,870 in chips)
+Seat 3: c27341f0 (40,835 in chips)
+Seat 6: 95056598 (32,295 in chips)
+95056598: posts the ante 400
+c27341f0: posts the ante 400
+Hero: posts the ante 400
+c27341f0: posts small blind 2,000
+95056598: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [9h 5h]
+Dealt to c27341f0 
+Dealt to 95056598 
+Hero: folds
+c27341f0: calls 2,000
+95056598: checks
+*** FLOP *** [Kc Ac 4s]
+c27341f0: bets 4,000
+95056598: folds
+Uncalled bet (4,000) returned to c27341f0
+*** SHOWDOWN ***
+c27341f0 collected 9,200 from pot
+*** SUMMARY ***
+Total pot 9,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc Ac 4s]
+Seat 1: Hero (button) folded before Flop
+Seat 3: c27341f0 (small blind) won (9,200)
+Seat 6: 95056598 (big blind) folded on the Flop
+
+
+Poker Hand #TM91972432: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level15(2,000/4,000) - 2026/01/18 14:27:42
+Table '1' 8-max Seat #6 is the button
+Seat 1: Hero (61,270 in chips)
+Seat 3: c27341f0 (32,035 in chips)
+Seat 6: 95056598 (36,695 in chips)
+95056598: posts the ante 400
+c27341f0: posts the ante 400
+Hero: posts the ante 400
+Hero: posts small blind 2,000
+c27341f0: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [3d Kd]
+Dealt to c27341f0 
+Dealt to 95056598 
+95056598: calls 4,000
+Hero: calls 2,000
+c27341f0: raises 27,635 to 31,635 and is all-in
+95056598: folds
+Hero: folds
+Uncalled bet (27,635) returned to c27341f0
+*** SHOWDOWN ***
+c27341f0 collected 13,200 from pot
+*** SUMMARY ***
+Total pot 13,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) folded before Flop
+Seat 3: c27341f0 (big blind) collected (13,200)
+Seat 6: 95056598 (button) folded before Flop
+
+
+Poker Hand #TM91972414: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level14(1,500/3,000) - 2026/01/18 14:26:48
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (48,670 in chips)
+Seat 3: c27341f0 (42,835 in chips)
+Seat 6: 95056598 (38,495 in chips)
+95056598: posts the ante 300
+c27341f0: posts the ante 300
+Hero: posts the ante 300
+95056598: posts small blind 1,500
+Hero: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [9c Ks]
+Dealt to c27341f0 
+Dealt to 95056598 
+c27341f0: raises 3,000 to 6,000
+95056598: folds
+Hero: calls 3,000
+*** FLOP *** [Ac 3s Jd]
+Hero: checks
+c27341f0: bets 4,500
+Hero: calls 4,500
+*** TURN *** [Ac 3s Jd] [Kd]
+Hero: checks
+c27341f0: checks
+*** RIVER *** [Ac 3s Jd Kd] [8d]
+Hero: bets 6,786
+c27341f0: folds
+Uncalled bet (6,786) returned to Hero
+*** SHOWDOWN ***
+Hero collected 23,400 from pot
+*** SUMMARY ***
+Total pot 23,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 3s Jd Kd 8d]
+Seat 1: Hero (big blind) won (23,400)
+Seat 3: c27341f0 (button) folded on the River
+Seat 6: 95056598 (small blind) folded before Flop
+
+
+Poker Hand #TM91972406: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level14(1,500/3,000) - 2026/01/18 14:26:14
+Table '1' 8-max Seat #1 is the button
+Seat 1: Hero (48,970 in chips)
+Seat 2: f8dfecb7 (4,895 in chips)
+Seat 3: c27341f0 (32,745 in chips)
+Seat 6: 95056598 (43,390 in chips)
+95056598: posts the ante 300
+c27341f0: posts the ante 300
+Hero: posts the ante 300
+f8dfecb7: posts the ante 300
+f8dfecb7: posts small blind 1,500
+c27341f0: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [3d Jd]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+95056598: calls 3,000
+Hero: folds
+f8dfecb7: raises 1,595 to 4,595 and is all-in
+c27341f0: calls 1,595
+95056598: calls 1,595
+*** FLOP *** [7s 4c 8h]
+c27341f0: checks
+95056598: checks
+*** TURN *** [7s 4c 8h] [8c]
+c27341f0: checks
+95056598: checks
+*** RIVER *** [7s 4c 8h 8c] [5s]
+c27341f0: bets 3,000
+95056598: folds
+Uncalled bet (3,000) returned to c27341f0
+c27341f0: shows [5h Ad] (two pair, Eights and Fives)
+f8dfecb7: shows [Th Ks] (a pair of Eights)
+*** SHOWDOWN ***
+c27341f0 collected 14,985 from pot
+*** SUMMARY ***
+Total pot 14,985 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s 4c 8h 8c 5s]
+Seat 1: Hero (button) folded before Flop
+Seat 2: f8dfecb7 (small blind) showed [Th Ks] and lost with a pair of Eights
+Seat 3: c27341f0 (big blind) showed [5h Ad] and won (14,985) with two pair, Eights and Fives
+Seat 6: 95056598 folded on the River
+
+
+Poker Hand #TM91972402: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level14(1,500/3,000) - 2026/01/18 14:26:00
+Table '1' 8-max Seat #6 is the button
+Seat 1: Hero (45,070 in chips)
+Seat 2: f8dfecb7 (8,195 in chips)
+Seat 3: c27341f0 (33,045 in chips)
+Seat 6: 95056598 (43,690 in chips)
+95056598: posts the ante 300
+c27341f0: posts the ante 300
+f8dfecb7: posts the ante 300
+Hero: posts the ante 300
+Hero: posts small blind 1,500
+f8dfecb7: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [7s Jd]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+c27341f0: folds
+95056598: folds
+Hero: raises 3,000 to 6,000
+f8dfecb7: folds
+Uncalled bet (3,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 7,200 from pot
+*** SUMMARY ***
+Total pot 7,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) collected (7,200)
+Seat 2: f8dfecb7 (big blind) folded before Flop
+Seat 3: c27341f0 folded before Flop
+Seat 6: 95056598 (button) folded before Flop
+
+
+Poker Hand #TM91972397: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level14(1,500/3,000) - 2026/01/18 14:25:44
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (48,370 in chips)
+Seat 2: f8dfecb7 (8,495 in chips)
+Seat 3: c27341f0 (27,645 in chips)
+Seat 6: 95056598 (45,490 in chips)
+95056598: posts the ante 300
+c27341f0: posts the ante 300
+f8dfecb7: posts the ante 300
+Hero: posts the ante 300
+95056598: posts small blind 1,500
+Hero: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [Kc 6c]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+f8dfecb7: folds
+c27341f0: raises 24,345 to 27,345 and is all-in
+95056598: folds
+Hero: folds
+Uncalled bet (24,345) returned to c27341f0
+*** SHOWDOWN ***
+c27341f0 collected 8,700 from pot
+*** SUMMARY ***
+Total pot 8,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) folded before Flop
+Seat 2: f8dfecb7 folded before Flop
+Seat 3: c27341f0 (button) collected (8,700)
+Seat 6: 95056598 (small blind) folded before Flop
+
+
+Poker Hand #TM91972393: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level14(1,500/3,000) - 2026/01/18 14:25:28
+Table '1' 8-max Seat #2 is the button
+Seat 1: Hero (42,970 in chips)
+Seat 2: f8dfecb7 (8,795 in chips)
+Seat 3: c27341f0 (29,445 in chips)
+Seat 6: 95056598 (48,790 in chips)
+95056598: posts the ante 300
+c27341f0: posts the ante 300
+f8dfecb7: posts the ante 300
+Hero: posts the ante 300
+c27341f0: posts small blind 1,500
+95056598: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [Kd Ad]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+Hero: raises 3,000 to 6,000
+f8dfecb7: folds
+c27341f0: folds
+95056598: folds
+Uncalled bet (3,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 8,700 from pot
+*** SUMMARY ***
+Total pot 8,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero collected (8,700)
+Seat 2: f8dfecb7 (button) folded before Flop
+Seat 3: c27341f0 (small blind) folded before Flop
+Seat 6: 95056598 (big blind) folded before Flop
+
+
+Poker Hand #TM91972388: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level14(1,500/3,000) - 2026/01/18 14:25:14
+Table '1' 8-max Seat #1 is the button
+Seat 1: Hero (43,270 in chips)
+Seat 2: f8dfecb7 (10,595 in chips)
+Seat 3: c27341f0 (27,045 in chips)
+Seat 6: 95056598 (49,090 in chips)
+95056598: posts the ante 300
+c27341f0: posts the ante 300
+Hero: posts the ante 300
+f8dfecb7: posts the ante 300
+f8dfecb7: posts small blind 1,500
+c27341f0: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [Ts 2d]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+95056598: folds
+Hero: folds
+f8dfecb7: folds
+Uncalled bet (1,500) returned to c27341f0
+*** SHOWDOWN ***
+c27341f0 collected 4,200 from pot
+*** SUMMARY ***
+Total pot 4,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop
+Seat 2: f8dfecb7 (small blind) folded before Flop
+Seat 3: c27341f0 (big blind) collected (4,200)
+Seat 6: 95056598 folded before Flop
+
+
+Poker Hand #TM91972386: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level14(1,500/3,000) - 2026/01/18 14:25:03
+Table '1' 8-max Seat #6 is the button
+Seat 1: Hero (45,070 in chips)
+Seat 2: f8dfecb7 (8,195 in chips)
+Seat 3: c27341f0 (27,345 in chips)
+Seat 6: 95056598 (49,390 in chips)
+95056598: posts the ante 300
+c27341f0: posts the ante 300
+f8dfecb7: posts the ante 300
+Hero: posts the ante 300
+Hero: posts small blind 1,500
+f8dfecb7: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [8d 5c]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+c27341f0: folds
+95056598: folds
+Hero: folds
+Uncalled bet (1,500) returned to f8dfecb7
+*** SHOWDOWN ***
+f8dfecb7 collected 4,200 from pot
+*** SUMMARY ***
+Total pot 4,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: f8dfecb7 (big blind) collected (4,200)
+Seat 3: c27341f0 folded before Flop
+Seat 6: 95056598 (button) folded before Flop
+
+
+Poker Hand #TM91972375: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level14(1,500/3,000) - 2026/01/18 14:24:27
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (48,370 in chips)
+Seat 2: f8dfecb7 (8,495 in chips)
+Seat 3: c27341f0 (27,645 in chips)
+Seat 6: 95056598 (45,490 in chips)
+95056598: posts the ante 300
+c27341f0: posts the ante 300
+f8dfecb7: posts the ante 300
+Hero: posts the ante 300
+95056598: posts small blind 1,500
+Hero: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [3d 2s]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+f8dfecb7: folds
+c27341f0: folds
+95056598: calls 1,500
+Hero: checks
+*** FLOP *** [Kd Ks 6c]
+95056598: checks
+Hero: checks
+*** TURN *** [Kd Ks 6c] [4s]
+95056598: checks
+Hero: checks
+*** RIVER *** [Kd Ks 6c 4s] [7d]
+95056598: bets 3,600
+Hero: folds
+Uncalled bet (3,600) returned to 95056598
+*** SHOWDOWN ***
+95056598 collected 7,200 from pot
+*** SUMMARY ***
+Total pot 7,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd Ks 6c 4s 7d]
+Seat 1: Hero (big blind) folded on the River
+Seat 2: f8dfecb7 folded before Flop
+Seat 3: c27341f0 (button) folded before Flop
+Seat 6: 95056598 (small blind) won (7,200)
+
+
+Poker Hand #TM91972363: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level13(1,000/2,000) - 2026/01/18 14:23:51
+Table '1' 8-max Seat #2 is the button
+Seat 1: Hero (48,570 in chips)
+Seat 2: f8dfecb7 (8,695 in chips)
+Seat 3: c27341f0 (31,845 in chips)
+Seat 6: 95056598 (40,890 in chips)
+95056598: posts the ante 200
+c27341f0: posts the ante 200
+f8dfecb7: posts the ante 200
+Hero: posts the ante 200
+c27341f0: posts small blind 1,000
+95056598: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to Hero [6c Js]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+Hero: folds
+f8dfecb7: folds
+c27341f0: calls 1,000
+95056598: checks
+*** FLOP *** [4d 2h Td]
+c27341f0: bets 2,000
+95056598: raises 2,904 to 4,904
+c27341f0: folds
+Uncalled bet (2,904) returned to 95056598
+*** SHOWDOWN ***
+95056598 collected 8,800 from pot
+*** SUMMARY ***
+Total pot 8,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 2h Td]
+Seat 1: Hero folded before Flop
+Seat 2: f8dfecb7 (button) folded before Flop
+Seat 3: c27341f0 (small blind) folded on the Flop
+Seat 6: 95056598 (big blind) won (8,800)
+
+
+Poker Hand #TM91972356: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level13(1,000/2,000) - 2026/01/18 14:23:30
+Table '1' 8-max Seat #1 is the button
+Seat 1: Hero (48,770 in chips)
+Seat 2: f8dfecb7 (9,895 in chips)
+Seat 3: c27341f0 (30,245 in chips)
+Seat 6: 95056598 (41,090 in chips)
+95056598: posts the ante 200
+c27341f0: posts the ante 200
+Hero: posts the ante 200
+f8dfecb7: posts the ante 200
+f8dfecb7: posts small blind 1,000
+c27341f0: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to Hero [3d Ts]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+95056598: folds
+Hero: folds
+f8dfecb7: folds
+Uncalled bet (1,000) returned to c27341f0
+*** SHOWDOWN ***
+c27341f0 collected 2,800 from pot
+*** SUMMARY ***
+Total pot 2,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop
+Seat 2: f8dfecb7 (small blind) folded before Flop
+Seat 3: c27341f0 (big blind) collected (2,800)
+Seat 6: 95056598 folded before Flop
+
+
+Poker Hand #TM91972349: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level13(1,000/2,000) - 2026/01/18 14:23:03
+Table '1' 8-max Seat #6 is the button
+Seat 1: Hero (49,970 in chips)
+Seat 2: f8dfecb7 (12,095 in chips)
+Seat 3: c27341f0 (26,645 in chips)
+Seat 6: 95056598 (41,290 in chips)
+95056598: posts the ante 200
+c27341f0: posts the ante 200
+f8dfecb7: posts the ante 200
+Hero: posts the ante 200
+Hero: posts small blind 1,000
+f8dfecb7: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to Hero [Ts 4d]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+c27341f0: raises 24,445 to 26,445 and is all-in
+95056598: folds
+Hero: folds
+f8dfecb7: folds
+Uncalled bet (24,445) returned to c27341f0
+*** SHOWDOWN ***
+c27341f0 collected 5,800 from pot
+*** SUMMARY ***
+Total pot 5,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: f8dfecb7 (big blind) folded before Flop
+Seat 3: c27341f0 collected (5,800)
+Seat 6: 95056598 (button) folded before Flop
+
+
+Poker Hand #TM91972341: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level13(1,000/2,000) - 2026/01/18 14:22:28
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (42,370 in chips)
+Seat 2: f8dfecb7 (12,295 in chips)
+Seat 3: c27341f0 (26,845 in chips)
+Seat 6: 95056598 (48,490 in chips)
+95056598: posts the ante 200
+c27341f0: posts the ante 200
+f8dfecb7: posts the ante 200
+Hero: posts the ante 200
+95056598: posts small blind 1,000
+Hero: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to Hero [Ad 2d]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+f8dfecb7: folds
+c27341f0: folds
+95056598: calls 1,000
+Hero: checks
+*** FLOP *** [Ac 5c 3h]
+95056598: checks
+Hero: bets 2,000
+95056598: calls 2,000
+*** TURN *** [Ac 5c 3h] [6h]
+95056598: checks
+Hero: bets 3,000
+95056598: calls 3,000
+*** RIVER *** [Ac 5c 3h 6h] [Jc]
+95056598: checks
+Hero: checks
+95056598: shows [Ts 5d] (a pair of Fives)
+Hero: shows [Ad 2d] (a pair of Aces)
+*** SHOWDOWN ***
+Hero collected 14,800 from pot
+*** SUMMARY ***
+Total pot 14,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 5c 3h 6h Jc]
+Seat 1: Hero (big blind) showed [Ad 2d] and won (14,800) with a pair of Aces
+Seat 2: f8dfecb7 folded before Flop
+Seat 3: c27341f0 (button) folded before Flop
+Seat 6: 95056598 (small blind) showed [Ts 5d] and lost with a pair of Fives
+
+
+Poker Hand #TM91972333: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level13(1,000/2,000) - 2026/01/18 14:22:14
+Table '1' 8-max Seat #2 is the button
+Seat 1: Hero (42,570 in chips)
+Seat 2: f8dfecb7 (12,495 in chips)
+Seat 3: c27341f0 (28,045 in chips)
+Seat 6: 95056598 (46,890 in chips)
+95056598: posts the ante 200
+c27341f0: posts the ante 200
+f8dfecb7: posts the ante 200
+Hero: posts the ante 200
+c27341f0: posts small blind 1,000
+95056598: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to Hero [2h 4h]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+Hero: folds
+f8dfecb7: folds
+c27341f0: folds
+Uncalled bet (1,000) returned to 95056598
+*** SHOWDOWN ***
+95056598 collected 2,800 from pot
+*** SUMMARY ***
+Total pot 2,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: f8dfecb7 (button) folded before Flop
+Seat 3: c27341f0 (small blind) folded before Flop
+Seat 6: 95056598 (big blind) collected (2,800)
+
+
+Poker Hand #TM91972318: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level13(1,000/2,000) - 2026/01/18 14:21:29
+Table '1' 8-max Seat #1 is the button
+Seat 1: Hero (42,770 in chips)
+Seat 2: f8dfecb7 (13,695 in chips)
+Seat 3: c27341f0 (32,445 in chips)
+Seat 6: 95056598 (41,090 in chips)
+95056598: posts the ante 200
+c27341f0: posts the ante 200
+Hero: posts the ante 200
+f8dfecb7: posts the ante 200
+f8dfecb7: posts small blind 1,000
+c27341f0: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to Hero [Ts 8h]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+95056598: calls 2,000
+Hero: folds
+f8dfecb7: folds
+c27341f0: checks
+*** FLOP *** [Ks 2d Jh]
+c27341f0: checks
+95056598: checks
+*** TURN *** [Ks 2d Jh] [8d]
+c27341f0: checks
+95056598: checks
+*** RIVER *** [Ks 2d Jh 8d] [Kh]
+c27341f0: bets 2,200
+95056598: calls 2,200
+c27341f0: shows [6d Th] (a pair of Kings)
+95056598: shows [Qc Ad] (a pair of Kings)
+*** SHOWDOWN ***
+95056598 collected 10,200 from pot
+*** SUMMARY ***
+Total pot 10,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 2d Jh 8d Kh]
+Seat 1: Hero (button) folded before Flop
+Seat 2: f8dfecb7 (small blind) folded before Flop
+Seat 3: c27341f0 (big blind) showed [6d Th] and lost with a pair of Kings
+Seat 6: 95056598 showed [Qc Ad] and won (10,200) with a pair of Kings
+
+
+Poker Hand #TM91972309: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level12(750/1,500) - 2026/01/18 14:20:50
+Table '1' 8-max Seat #6 is the button
+Seat 1: Hero (44,420 in chips)
+Seat 2: f8dfecb7 (15,345 in chips)
+Seat 3: c27341f0 (32,595 in chips)
+Seat 6: 95056598 (37,640 in chips)
+95056598: posts the ante 150
+c27341f0: posts the ante 150
+f8dfecb7: posts the ante 150
+Hero: posts the ante 150
+Hero: posts small blind 750
+f8dfecb7: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to Hero [4h 7h]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+c27341f0: folds
+95056598: calls 1,500
+Hero: calls 750
+f8dfecb7: checks
+*** FLOP *** [Kh Qs 8d]
+Hero: checks
+f8dfecb7: checks
+95056598: bets 1,683
+Hero: folds
+f8dfecb7: folds
+Uncalled bet (1,683) returned to 95056598
+*** SHOWDOWN ***
+95056598 collected 5,100 from pot
+*** SUMMARY ***
+Total pot 5,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh Qs 8d]
+Seat 1: Hero (small blind) folded on the Flop
+Seat 2: f8dfecb7 (big blind) folded on the Flop
+Seat 3: c27341f0 folded before Flop
+Seat 6: 95056598 (button) won (5,100)
+
+
+Poker Hand #TM91972290: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level12(750/1,500) - 2026/01/18 14:19:45
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (53,535 in chips)
+Seat 2: f8dfecb7 (15,495 in chips)
+Seat 3: c27341f0 (22,430 in chips)
+Seat 6: 95056598 (38,540 in chips)
+95056598: posts the ante 150
+c27341f0: posts the ante 150
+f8dfecb7: posts the ante 150
+Hero: posts the ante 150
+95056598: posts small blind 750
+Hero: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to Hero [6d Kh]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+f8dfecb7: folds
+c27341f0: raises 1,500 to 3,000
+95056598: folds
+Hero: calls 1,500
+*** FLOP *** [4s 3d 4h]
+Hero: checks
+c27341f0: bets 2,426
+Hero: calls 2,426
+*** TURN *** [4s 3d 4h] [5c]
+Hero: checks
+c27341f0: checks
+*** RIVER *** [4s 3d 4h 5c] [Ac]
+Hero: bets 3,539
+c27341f0: raises 13,315 to 16,854 and is all-in
+Hero: folds
+Uncalled bet (13,315) returned to c27341f0
+*** SHOWDOWN ***
+c27341f0 collected 19,280 from pot
+*** SUMMARY ***
+Total pot 19,280 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4s 3d 4h 5c Ac]
+Seat 1: Hero (big blind) folded on the River
+Seat 2: f8dfecb7 folded before Flop
+Seat 3: c27341f0 (button) won (19,280)
+Seat 6: 95056598 (small blind) folded before Flop
+
+
+Poker Hand #TM91972280: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level12(750/1,500) - 2026/01/18 14:19:14
+Table '1' 8-max Seat #2 is the button
+Seat 1: Hero (47,085 in chips)
+Seat 2: f8dfecb7 (15,645 in chips)
+Seat 3: c27341f0 (25,580 in chips)
+Seat 6: 95056598 (41,690 in chips)
+95056598: posts the ante 150
+c27341f0: posts the ante 150
+f8dfecb7: posts the ante 150
+Hero: posts the ante 150
+c27341f0: posts small blind 750
+95056598: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to Hero [2c Ac]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+Hero: raises 1,500 to 3,000
+f8dfecb7: folds
+c27341f0: calls 2,250
+95056598: calls 1,500
+*** FLOP *** [4c 3c 2s]
+c27341f0: checks
+95056598: checks
+Hero: bets 5,184
+c27341f0: folds
+95056598: folds
+Uncalled bet (5,184) returned to Hero
+*** SHOWDOWN ***
+Hero collected 9,600 from pot
+*** SUMMARY ***
+Total pot 9,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 3c 2s]
+Seat 1: Hero won (9,600)
+Seat 2: f8dfecb7 (button) folded before Flop
+Seat 3: c27341f0 (small blind) folded on the Flop
+Seat 6: 95056598 (big blind) folded on the Flop
+
+
+Poker Hand #TM91972262: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level11(500/1,000) - 2026/01/18 14:18:18
+Table '1' 8-max Seat #1 is the button
+Seat 1: Hero (49,685 in chips)
+Seat 2: f8dfecb7 (16,245 in chips)
+Seat 3: c27341f0 (22,280 in chips)
+Seat 6: 95056598 (41,790 in chips)
+95056598: posts the ante 100
+c27341f0: posts the ante 100
+Hero: posts the ante 100
+f8dfecb7: posts the ante 100
+f8dfecb7: posts small blind 500
+c27341f0: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [Ks Tc]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+95056598: folds
+Hero: raises 1,500 to 2,500
+f8dfecb7: folds
+c27341f0: calls 1,500
+*** FLOP *** [Qh 5h 7h]
+c27341f0: checks
+Hero: checks
+*** TURN *** [Qh 5h 7h] [5d]
+c27341f0: checks
+Hero: checks
+*** RIVER *** [Qh 5h 7h 5d] [Jh]
+c27341f0: checks
+Hero: checks
+c27341f0: shows [Ac 6d] (a pair of Fives)
+Hero: shows [Ks Tc] (a pair of Fives)
+*** SHOWDOWN ***
+c27341f0 collected 5,900 from pot
+*** SUMMARY ***
+Total pot 5,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh 5h 7h 5d Jh]
+Seat 1: Hero (button) showed [Ks Tc] and lost with a pair of Fives
+Seat 2: f8dfecb7 (small blind) folded before Flop
+Seat 3: c27341f0 (big blind) showed [Ac 6d] and won (5,900) with a pair of Fives
+Seat 6: 95056598 folded before Flop
+
+
+Poker Hand #TM91972247: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level11(500/1,000) - 2026/01/18 14:17:28
+Table '1' 8-max Seat #6 is the button
+Seat 1: Hero (69,980 in chips)
+Seat 2: f8dfecb7 (17,345 in chips)
+Seat 3: c27341f0 (22,380 in chips)
+Seat 6: 95056598 (20,295 in chips)
+95056598: posts the ante 100
+c27341f0: posts the ante 100
+f8dfecb7: posts the ante 100
+Hero: posts the ante 100
+Hero: posts small blind 500
+f8dfecb7: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [Ah Jd]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+c27341f0: folds
+95056598: calls 1,000
+Hero: raises 5,000 to 6,000
+f8dfecb7: folds
+95056598: calls 5,000
+*** FLOP *** [9c Js 6s]
+Hero: bets 3,886
+95056598: calls 3,886
+*** TURN *** [9c Js 6s] [8h]
+Hero: bets 11,433
+95056598: calls 10,309 and is all-in
+Uncalled bet (1,124) returned to Hero
+Hero: shows [Ah Jd] (a pair of Jacks)
+95056598: shows [Td 9h] (a pair of Nines)
+*** RIVER *** [9c Js 6s 8h] [Tc]
+*** SHOWDOWN ***
+95056598 collected 41,790 from pot
+*** SUMMARY ***
+Total pot 41,790 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c Js 6s 8h Tc]
+Seat 1: Hero (small blind) showed [Ah Jd] and lost with a pair of Jacks
+Seat 2: f8dfecb7 (big blind) folded before Flop
+Seat 3: c27341f0 folded before Flop
+Seat 6: 95056598 (button) showed [Td 9h] and won (41,790) with two pair, Tens and Nines
+
+
+Poker Hand #TM91972239: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level11(500/1,000) - 2026/01/18 14:16:56
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (67,180 in chips)
+Seat 2: f8dfecb7 (17,445 in chips)
+Seat 3: c27341f0 (24,480 in chips)
+Seat 6: 95056598 (20,895 in chips)
+95056598: posts the ante 100
+c27341f0: posts the ante 100
+f8dfecb7: posts the ante 100
+Hero: posts the ante 100
+95056598: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [7d Th]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 95056598 
+f8dfecb7: folds
+c27341f0: raises 1,000 to 2,000
+95056598: folds
+Hero: calls 1,000
+*** FLOP *** [Qs Js 2s]
+Hero: checks
+c27341f0: checks
+*** TURN *** [Qs Js 2s] [2h]
+Hero: bets 1,500
+c27341f0: folds
+Uncalled bet (1,500) returned to Hero
+*** SHOWDOWN ***
+Hero collected 4,900 from pot
+*** SUMMARY ***
+Total pot 4,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs Js 2s 2h]
+Seat 1: Hero (big blind) won (4,900)
+Seat 2: f8dfecb7 folded before Flop
+Seat 3: c27341f0 (button) folded on the Turn
+Seat 6: 95056598 (small blind) folded before Flop
+
+
+Poker Hand #TM91972220: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level11(500/1,000) - 2026/01/18 14:15:58
+Table '1' 8-max Seat #2 is the button
+Seat 1: Hero (67,280 in chips)
+Seat 2: f8dfecb7 (17,545 in chips)
+Seat 3: c27341f0 (20,680 in chips)
+Seat 4: 52cc5c61 (3,500 in chips)
+Seat 6: 95056598 (20,995 in chips)
+95056598: posts the ante 100
+52cc5c61: posts the ante 100
+c27341f0: posts the ante 100
+f8dfecb7: posts the ante 100
+Hero: posts the ante 100
+c27341f0: posts small blind 500
+52cc5c61: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [8h 7c]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 52cc5c61 
+Dealt to 95056598 
+95056598: folds
+Hero: folds
+f8dfecb7: folds
+c27341f0: calls 500
+52cc5c61: checks
+*** FLOP *** [2s 8d 9d]
+c27341f0: bets 1,000
+52cc5c61: raises 1,400 to 2,400 and is all-in
+c27341f0: calls 1,400
+52cc5c61: shows [2c 4s] (a pair of Twos)
+c27341f0: shows [Ad Ah] (a pair of Aces)
+*** TURN *** [2s 8d 9d] [Td]
+*** RIVER *** [2s 8d 9d Td] [Th]
+*** SHOWDOWN ***
+c27341f0 collected 7,300 from pot
+*** SUMMARY ***
+Total pot 7,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s 8d 9d Td Th]
+Seat 1: Hero folded before Flop
+Seat 2: f8dfecb7 (button) folded before Flop
+Seat 3: c27341f0 (small blind) showed [Ad Ah] and won (7,300) with two pair, Aces and Tens
+Seat 4: 52cc5c61 (big blind) showed [2c 4s] and lost with two pair, Tens and Twos
+Seat 6: 95056598 folded before Flop
+
+
+Poker Hand #TM91972210: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level10(400/800) - 2026/01/18 14:15:25
+Table '1' 8-max Seat #1 is the button
+Seat 1: Hero (67,360 in chips)
+Seat 2: f8dfecb7 (18,025 in chips)
+Seat 3: c27341f0 (10,020 in chips)
+Seat 4: 52cc5c61 (3,580 in chips)
+Seat 6: 95056598 (31,015 in chips)
+95056598: posts the ante 80
+52cc5c61: posts the ante 80
+c27341f0: posts the ante 80
+Hero: posts the ante 80
+f8dfecb7: posts the ante 80
+f8dfecb7: posts small blind 400
+c27341f0: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [Ts 4d]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 52cc5c61 
+Dealt to 95056598 
+52cc5c61: folds
+95056598: calls 800
+Hero: folds
+f8dfecb7: folds
+c27341f0: raises 9,140 to 9,940 and is all-in
+95056598: calls 9,140
+c27341f0: shows [3d 3c]
+95056598: shows [7s Ad]
+*** FLOP *** [Ks 5d Qh]
+*** TURN *** [Ks 5d Qh] [5c]
+*** RIVER *** [Ks 5d Qh 5c] [6s]
+f8dfecb7: shows [5h] (three of a kind, Fives)
+*** SHOWDOWN ***
+c27341f0 collected 20,680 from pot
+*** SUMMARY ***
+Total pot 20,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 5d Qh 5c 6s]
+Seat 1: Hero (button) folded before Flop
+Seat 2: f8dfecb7 (small blind) folded before Flop
+Seat 3: c27341f0 (big blind) showed [3d 3c] and won (20,680) with two pair, Fives and Threes
+Seat 4: 52cc5c61 folded before Flop
+Seat 6: 95056598 showed [7s Ad] and lost with a pair of Fives
+
+
+Poker Hand #TM91972205: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level10(400/800) - 2026/01/18 14:14:50
+Table '1' 8-max Seat #6 is the button
+Seat 1: Hero (56,295 in chips)
+Seat 2: f8dfecb7 (18,905 in chips)
+Seat 3: c27341f0 (10,100 in chips)
+Seat 4: 52cc5c61 (3,660 in chips)
+Seat 5: 11bc4982 (9,945 in chips)
+Seat 6: 95056598 (31,095 in chips)
+95056598: posts the ante 80
+52cc5c61: posts the ante 80
+11bc4982: posts the ante 80
+c27341f0: posts the ante 80
+f8dfecb7: posts the ante 80
+Hero: posts the ante 80
+Hero: posts small blind 400
+f8dfecb7: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [Kh Ks]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 52cc5c61 
+Dealt to 11bc4982 
+Dealt to 95056598 
+c27341f0: folds
+52cc5c61: folds
+11bc4982: raises 9,065 to 9,865 and is all-in
+95056598: folds
+Hero: calls 9,465
+f8dfecb7: folds
+11bc4982: shows [Jd Ah]
+Hero: shows [Kh Ks]
+*** FLOP *** [5s 4h 4s]
+*** TURN *** [5s 4h 4s] [3c]
+*** RIVER *** [5s 4h 4s 3c] [Jh]
+f8dfecb7: shows [Kc] (a pair of Fours)
+*** SHOWDOWN ***
+Hero collected 21,010 from pot
+*** SUMMARY ***
+Total pot 21,010 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 4h 4s 3c Jh]
+Seat 1: Hero (small blind) showed [Kh Ks] and won (21,010) with two pair, Kings and Fours
+Seat 2: f8dfecb7 (big blind) folded before Flop
+Seat 3: c27341f0 folded before Flop
+Seat 4: 52cc5c61 folded before Flop
+Seat 5: 11bc4982 showed [Jd Ah] and lost with two pair, Jacks and Fours
+Seat 6: 95056598 (button) folded before Flop
+
+
+Poker Hand #TM91972188: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level10(400/800) - 2026/01/18 14:13:51
+Table '1' 8-max Seat #5 is the button
+Seat 1: Hero (63,045 in chips)
+Seat 2: f8dfecb7 (6,750 in chips)
+Seat 3: c27341f0 (10,180 in chips)
+Seat 4: 52cc5c61 (3,740 in chips)
+Seat 5: 11bc4982 (10,025 in chips)
+Seat 6: 95056598 (31,575 in chips)
+Seat 8: a3984bfb (4,685 in chips)
+95056598: posts the ante 80
+52cc5c61: posts the ante 80
+11bc4982: posts the ante 80
+c27341f0: posts the ante 80
+f8dfecb7: posts the ante 80
+Hero: posts the ante 80
+a3984bfb: posts the ante 80
+95056598: posts small blind 400
+a3984bfb: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [Kd 8d]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 52cc5c61 
+Dealt to 11bc4982 
+Dealt to 95056598 
+Dealt to a3984bfb 
+Hero: raises 1,520 to 2,320
+f8dfecb7: raises 4,350 to 6,670 and is all-in
+c27341f0: folds
+52cc5c61: folds
+11bc4982: folds
+95056598: folds
+a3984bfb: calls 3,805 and is all-in
+Hero: calls 4,350
+f8dfecb7: shows [Ks As]
+a3984bfb: shows [Ad 2h]
+Hero: shows [Kd 8d]
+*** FLOP *** [5h 4c Jh]
+*** TURN *** [5h 4c Jh] [6d]
+*** RIVER *** [5h 4c Jh 6d] [Tc]
+*** SHOWDOWN ***
+f8dfecb7 collected 14,775 from pot
+f8dfecb7 collected 4,130 from pot
+*** SUMMARY ***
+Total pot 18,905 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 4c Jh 6d Tc]
+Seat 1: Hero showed [Kd 8d] and lost with King high
+Seat 2: f8dfecb7 showed [Ks As] and won (18,905) with Ace high
+Seat 3: c27341f0 folded before Flop
+Seat 4: 52cc5c61 folded before Flop
+Seat 5: 11bc4982 (button) folded before Flop
+Seat 6: 95056598 (small blind) folded before Flop
+Seat 8: a3984bfb (big blind) showed [Ad 2h] and lost with Ace high
+
+
+Poker Hand #TM91972176: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level10(400/800) - 2026/01/18 14:13:09
+Table '1' 8-max Seat #4 is the button
+Seat 1: Hero (63,125 in chips)
+Seat 2: f8dfecb7 (2,575 in chips)
+Seat 3: c27341f0 (10,260 in chips)
+Seat 4: 52cc5c61 (3,820 in chips)
+Seat 5: 11bc4982 (10,505 in chips)
+Seat 6: 95056598 (32,455 in chips)
+Seat 8: a3984bfb (7,260 in chips)
+95056598: posts the ante 80
+52cc5c61: posts the ante 80
+c27341f0: posts the ante 80
+11bc4982: posts the ante 80
+f8dfecb7: posts the ante 80
+Hero: posts the ante 80
+a3984bfb: posts the ante 80
+11bc4982: posts small blind 400
+95056598: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [9h Qs]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 52cc5c61 
+Dealt to 11bc4982 
+Dealt to 95056598 
+Dealt to a3984bfb 
+a3984bfb: raises 6,380 to 7,180 and is all-in
+Hero: folds
+f8dfecb7: calls 2,495 and is all-in
+c27341f0: folds
+52cc5c61: folds
+11bc4982: folds
+95056598: folds
+Uncalled bet (4,685) returned to a3984bfb
+a3984bfb: shows [Ad Kc]
+f8dfecb7: shows [As Jc]
+*** FLOP *** [Jh 3c 4h]
+*** TURN *** [Jh 3c 4h] [8s]
+*** RIVER *** [Jh 3c 4h 8s] [Qh]
+*** SHOWDOWN ***
+f8dfecb7 collected 6,750 from pot
+*** SUMMARY ***
+Total pot 6,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 3c 4h 8s Qh]
+Seat 1: Hero folded before Flop
+Seat 2: f8dfecb7 showed [As Jc] and won (6,750) with a pair of Jacks
+Seat 3: c27341f0 folded before Flop
+Seat 4: 52cc5c61 (button) folded before Flop
+Seat 5: 11bc4982 (small blind) folded before Flop
+Seat 6: 95056598 (big blind) folded before Flop
+Seat 8: a3984bfb showed [Ad Kc] and lost with Ace high
+
+
+Poker Hand #TM91972168: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level10(400/800) - 2026/01/18 14:12:45
+Table '1' 8-max Seat #3 is the button
+Seat 1: Hero (63,205 in chips)
+Seat 2: f8dfecb7 (2,655 in chips)
+Seat 3: c27341f0 (10,340 in chips)
+Seat 4: 52cc5c61 (4,300 in chips)
+Seat 5: 11bc4982 (9,625 in chips)
+Seat 6: 95056598 (32,535 in chips)
+Seat 8: a3984bfb (7,340 in chips)
+95056598: posts the ante 80
+52cc5c61: posts the ante 80
+c27341f0: posts the ante 80
+11bc4982: posts the ante 80
+f8dfecb7: posts the ante 80
+Hero: posts the ante 80
+a3984bfb: posts the ante 80
+52cc5c61: posts small blind 400
+11bc4982: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [Tc 4d]
+Dealt to f8dfecb7 
+Dealt to c27341f0 
+Dealt to 52cc5c61 
+Dealt to 11bc4982 
+Dealt to 95056598 
+Dealt to a3984bfb 
+95056598: folds
+a3984bfb: folds
+Hero: folds
+f8dfecb7: folds
+c27341f0: folds
+52cc5c61: folds
+Uncalled bet (400) returned to 11bc4982
+*** SHOWDOWN ***
+11bc4982 collected 1,360 from pot
+*** SUMMARY ***
+Total pot 1,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: f8dfecb7 folded before Flop
+Seat 3: c27341f0 (button) folded before Flop
+Seat 4: 52cc5c61 (small blind) folded before Flop
+Seat 5: 11bc4982 (big blind) collected (1,360)
+Seat 6: 95056598 folded before Flop
+Seat 8: a3984bfb folded before Flop
+
+
+Poker Hand #TM91869921: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level9(300/600) - 2026/01/18 14:11:27
+Table '2' 8-max Seat #1 is the button
+Seat 1: 3cd90c42 (3,600 in chips)
+Seat 3: 33650afc (13,394 in chips)
+Seat 4: 52cc5c61 (5,620 in chips)
+Seat 5: Hero (45,491 in chips)
+Seat 7: f8dfecb7 (2,715 in chips)
+52cc5c61: posts the ante 60
+3cd90c42: posts the ante 60
+33650afc: posts the ante 60
+f8dfecb7: posts the ante 60
+Hero: posts the ante 60
+33650afc: posts small blind 300
+52cc5c61: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 33650afc 
+Dealt to 52cc5c61 
+Dealt to Hero [Qh Kh]
+Dealt to f8dfecb7 
+Hero: raises 44,831 to 45,431 and is all-in
+f8dfecb7: folds
+3cd90c42: calls 3,540 and is all-in
+33650afc: calls 13,034 and is all-in
+52cc5c61: folds
+Uncalled bet (32,097) returned to Hero
+Hero: shows [Qh Kh]
+3cd90c42: shows [Ac 8s]
+33650afc: shows [Ad Jh]
+*** FLOP *** [Kc Kd Jd]
+*** TURN *** [Kc Kd Jd] [7d]
+*** RIVER *** [Kc Kd Jd 7d] [6h]
+*** SHOWDOWN ***
+Hero collected 11,520 from pot
+Hero collected 19,588 from pot
+*** SUMMARY ***
+Total pot 31,108 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc Kd Jd 7d 6h]
+Seat 1: 3cd90c42 (button) showed [Ac 8s] and lost with a pair of Kings
+Seat 3: 33650afc (small blind) showed [Ad Jh] and lost with two pair, Kings and Jacks
+Seat 4: 52cc5c61 (big blind) folded before Flop
+Seat 5: Hero showed [Qh Kh] and won (31,108) with three of a kind, Kings
+Seat 7: f8dfecb7 folded before Flop
+
+
+Poker Hand #TM91869914: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level9(300/600) - 2026/01/18 14:11:11
+Table '2' 8-max Seat #7 is the button
+Seat 1: 3cd90c42 (3,960 in chips)
+Seat 3: 33650afc (14,054 in chips)
+Seat 4: 52cc5c61 (4,480 in chips)
+Seat 5: Hero (45,551 in chips)
+Seat 7: f8dfecb7 (2,775 in chips)
+52cc5c61: posts the ante 60
+3cd90c42: posts the ante 60
+33650afc: posts the ante 60
+f8dfecb7: posts the ante 60
+Hero: posts the ante 60
+3cd90c42: posts small blind 300
+33650afc: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 33650afc 
+Dealt to 52cc5c61 
+Dealt to Hero [3c Kh]
+Dealt to f8dfecb7 
+52cc5c61: raises 3,820 to 4,420 and is all-in
+Hero: folds
+f8dfecb7: folds
+3cd90c42: folds
+33650afc: folds
+Uncalled bet (3,820) returned to 52cc5c61
+*** SHOWDOWN ***
+52cc5c61 collected 1,800 from pot
+*** SUMMARY ***
+Total pot 1,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3cd90c42 (small blind) folded before Flop
+Seat 3: 33650afc (big blind) folded before Flop
+Seat 4: 52cc5c61 collected (1,800)
+Seat 5: Hero folded before Flop
+Seat 7: f8dfecb7 (button) folded before Flop
+
+
+Poker Hand #TM91869907: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level9(300/600) - 2026/01/18 14:10:53
+Table '2' 8-max Seat #5 is the button
+Seat 1: 3cd90c42 (4,620 in chips)
+Seat 3: 33650afc (14,114 in chips)
+Seat 4: 52cc5c61 (4,540 in chips)
+Seat 5: Hero (44,411 in chips)
+Seat 7: f8dfecb7 (3,135 in chips)
+52cc5c61: posts the ante 60
+3cd90c42: posts the ante 60
+33650afc: posts the ante 60
+Hero: posts the ante 60
+f8dfecb7: posts the ante 60
+f8dfecb7: posts small blind 300
+3cd90c42: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 33650afc 
+Dealt to 52cc5c61 
+Dealt to Hero [9d 9c]
+Dealt to f8dfecb7 
+33650afc: folds
+52cc5c61: folds
+Hero: raises 1,200 to 1,800
+f8dfecb7: folds
+3cd90c42: folds
+Uncalled bet (1,200) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,800 from pot
+*** SUMMARY ***
+Total pot 1,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3cd90c42 (big blind) folded before Flop
+Seat 3: 33650afc folded before Flop
+Seat 4: 52cc5c61 folded before Flop
+Seat 5: Hero (button) collected (1,800)
+Seat 7: f8dfecb7 (small blind) folded before Flop
+
+
+Poker Hand #TM91869893: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level9(300/600) - 2026/01/18 14:10:04
+Table '2' 8-max Seat #4 is the button
+Seat 1: 3cd90c42 (4,680 in chips)
+Seat 2: ea989acb (4,950 in chips)
+Seat 3: 33650afc (14,174 in chips)
+Seat 4: 52cc5c61 (4,600 in chips)
+Seat 5: Hero (38,621 in chips)
+Seat 7: f8dfecb7 (3,795 in chips)
+52cc5c61: posts the ante 60
+3cd90c42: posts the ante 60
+33650afc: posts the ante 60
+ea989acb: posts the ante 60
+f8dfecb7: posts the ante 60
+Hero: posts the ante 60
+Hero: posts small blind 300
+f8dfecb7: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to ea989acb 
+Dealt to 33650afc 
+Dealt to 52cc5c61 
+Dealt to Hero [9s As]
+Dealt to f8dfecb7 
+3cd90c42: folds
+ea989acb: raises 4,290 to 4,890 and is all-in
+33650afc: folds
+52cc5c61: folds
+Hero: calls 4,590
+f8dfecb7: folds
+ea989acb: shows [Td Tc]
+Hero: shows [9s As]
+*** FLOP *** [6d Jd 7d]
+*** TURN *** [6d Jd 7d] [Ah]
+*** RIVER *** [6d Jd 7d Ah] [6s]
+*** SHOWDOWN ***
+Hero collected 10,740 from pot
+*** SUMMARY ***
+Total pot 10,740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d Jd 7d Ah 6s]
+Seat 1: 3cd90c42 folded before Flop
+Seat 2: ea989acb showed [Td Tc] and lost with two pair, Tens and Sixes
+Seat 3: 33650afc folded before Flop
+Seat 4: 52cc5c61 (button) folded before Flop
+Seat 5: Hero (small blind) showed [9s As] and won (10,740) with two pair, Aces and Sixes
+Seat 7: f8dfecb7 (big blind) folded before Flop
+
+
+Poker Hand #TM91869875: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level8(250/500) - 2026/01/18 14:09:06
+Table '2' 8-max Seat #3 is the button
+Seat 1: 3cd90c42 (2,115 in chips)
+Seat 2: ea989acb (5,000 in chips)
+Seat 3: 33650afc (14,224 in chips)
+Seat 4: 52cc5c61 (4,900 in chips)
+Seat 5: Hero (40,736 in chips)
+Seat 7: f8dfecb7 (3,845 in chips)
+52cc5c61: posts the ante 50
+3cd90c42: posts the ante 50
+33650afc: posts the ante 50
+ea989acb: posts the ante 50
+f8dfecb7: posts the ante 50
+Hero: posts the ante 50
+52cc5c61: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to ea989acb 
+Dealt to 33650afc 
+Dealt to 52cc5c61 
+Dealt to Hero [7s 7h]
+Dealt to f8dfecb7 
+f8dfecb7: folds
+3cd90c42: raises 1,565 to 2,065 and is all-in
+ea989acb: folds
+33650afc: folds
+52cc5c61: folds
+Hero: calls 1,565
+3cd90c42: shows [Jd As]
+Hero: shows [7s 7h]
+*** FLOP *** [2h Kd 9s]
+*** TURN *** [2h Kd 9s] [5c]
+*** RIVER *** [2h Kd 9s 5c] [Jh]
+*** SHOWDOWN ***
+3cd90c42 collected 4,680 from pot
+*** SUMMARY ***
+Total pot 4,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h Kd 9s 5c Jh]
+Seat 1: 3cd90c42 showed [Jd As] and won (4,680) with a pair of Jacks
+Seat 2: ea989acb folded before Flop
+Seat 3: 33650afc (button) folded before Flop
+Seat 4: 52cc5c61 (small blind) folded before Flop
+Seat 5: Hero (big blind) showed [7s 7h] and lost with a pair of Sevens
+Seat 7: f8dfecb7 folded before Flop
+
+
+Poker Hand #TM91869858: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level8(250/500) - 2026/01/18 14:08:15
+Table '2' 8-max Seat #1 is the button
+Seat 1: 3cd90c42 (2,165 in chips)
+Seat 2: 96512f4 (4,435 in chips)
+Seat 3: 33650afc (9,589 in chips)
+Seat 4: 52cc5c61 (4,950 in chips)
+Seat 5: Hero (40,786 in chips)
+Seat 7: f8dfecb7 (3,895 in chips)
+52cc5c61: posts the ante 50
+96512f4: posts the ante 50
+3cd90c42: posts the ante 50
+33650afc: posts the ante 50
+f8dfecb7: posts the ante 50
+Hero: posts the ante 50
+96512f4: posts small blind 250
+33650afc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to 52cc5c61 
+Dealt to Hero [3s 8h]
+Dealt to f8dfecb7 
+52cc5c61: folds
+Hero: folds
+f8dfecb7: folds
+3cd90c42: folds
+96512f4: calls 250
+33650afc: raises 500 to 1,000
+96512f4: calls 500
+*** FLOP *** [9h 5d 4s]
+96512f4: bets 3,385 and is all-in
+33650afc: calls 3,385
+96512f4: shows [4h Qs] (a pair of Fours)
+33650afc: shows [Jd Jh] (a pair of Jacks)
+*** TURN *** [9h 5d 4s] [3h]
+*** RIVER *** [9h 5d 4s 3h] [6d]
+*** SHOWDOWN ***
+33650afc collected 9,070 from pot
+*** SUMMARY ***
+Total pot 9,070 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h 5d 4s 3h 6d]
+Seat 1: 3cd90c42 (button) folded before Flop
+Seat 2: 96512f4 (small blind) showed [4h Qs] and lost with a pair of Fours
+Seat 3: 33650afc (big blind) showed [Jd Jh] and won (9,070) with a pair of Jacks
+Seat 4: 52cc5c61 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 7: f8dfecb7 folded before Flop
+
+
+Poker Hand #TM91869841: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level8(250/500) - 2026/01/18 14:07:17
+Table '2' 8-max Seat #7 is the button
+Seat 1: 3cd90c42 (2,465 in chips)
+Seat 2: 96512f4 (5,985 in chips)
+Seat 3: 33650afc (11,139 in chips)
+Seat 4: 52cc5c61 (5,000 in chips)
+Seat 5: Hero (37,286 in chips)
+Seat 7: f8dfecb7 (3,945 in chips)
+52cc5c61: posts the ante 50
+96512f4: posts the ante 50
+3cd90c42: posts the ante 50
+33650afc: posts the ante 50
+f8dfecb7: posts the ante 50
+Hero: posts the ante 50
+3cd90c42: posts small blind 250
+96512f4: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to 52cc5c61 
+Dealt to Hero [Qc Qh]
+Dealt to f8dfecb7 
+33650afc: calls 500
+52cc5c61: folds
+Hero: raises 1,000 to 1,500
+f8dfecb7: folds
+3cd90c42: folds
+96512f4: calls 1,000
+33650afc: calls 1,000
+*** FLOP *** [6s 2h Qd]
+96512f4: checks
+33650afc: checks
+Hero: checks
+*** TURN *** [6s 2h Qd] [7s]
+96512f4: checks
+33650afc: checks
+Hero: bets 2,727
+96512f4: folds
+33650afc: folds
+Uncalled bet (2,727) returned to Hero
+*** SHOWDOWN ***
+Hero collected 5,050 from pot
+*** SUMMARY ***
+Total pot 5,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s 2h Qd 7s]
+Seat 1: 3cd90c42 (small blind) folded before Flop
+Seat 2: 96512f4 (big blind) folded on the Turn
+Seat 3: 33650afc folded on the Turn
+Seat 4: 52cc5c61 folded before Flop
+Seat 5: Hero won (5,050)
+Seat 7: f8dfecb7 (button) folded before Flop
+
+
+Poker Hand #TM91869833: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level8(250/500) - 2026/01/18 14:06:44
+Table '2' 8-max Seat #5 is the button
+Seat 1: 3cd90c42 (3,515 in chips)
+Seat 2: 96512f4 (6,035 in chips)
+Seat 3: 33650afc (11,189 in chips)
+Seat 5: Hero (35,836 in chips)
+Seat 7: f8dfecb7 (4,245 in chips)
+96512f4: posts the ante 50
+3cd90c42: posts the ante 50
+33650afc: posts the ante 50
+Hero: posts the ante 50
+f8dfecb7: posts the ante 50
+f8dfecb7: posts small blind 250
+3cd90c42: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to Hero [Kh Ah]
+Dealt to f8dfecb7 
+96512f4: folds
+33650afc: folds
+Hero: raises 500 to 1,000
+f8dfecb7: folds
+3cd90c42: calls 500
+*** FLOP *** [5s Qc Js]
+3cd90c42: checks
+Hero: bets 1,350
+3cd90c42: folds
+Uncalled bet (1,350) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,500 from pot
+*** SUMMARY ***
+Total pot 2,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s Qc Js]
+Seat 1: 3cd90c42 (big blind) folded on the Flop
+Seat 2: 96512f4 folded before Flop
+Seat 3: 33650afc folded before Flop
+Seat 5: Hero (button) won (2,500)
+Seat 7: f8dfecb7 (small blind) folded before Flop
+
+
+Poker Hand #TM91869816: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level7(200/400) - 2026/01/18 14:05:34
+Table '2' 8-max Seat #3 is the button
+Seat 1: 3cd90c42 (3,555 in chips)
+Seat 2: 96512f4 (13,758 in chips)
+Seat 3: 33650afc (11,229 in chips)
+Seat 4: b61e4cd1 (7,723 in chips)
+Seat 5: Hero (13,868 in chips)
+Seat 6: 2525852e (6,402 in chips)
+Seat 7: f8dfecb7 (4,285 in chips)
+96512f4: posts the ante 40
+2525852e: posts the ante 40
+3cd90c42: posts the ante 40
+b61e4cd1: posts the ante 40
+33650afc: posts the ante 40
+f8dfecb7: posts the ante 40
+Hero: posts the ante 40
+b61e4cd1: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to b61e4cd1 
+Dealt to Hero [As Ah]
+Dealt to 2525852e 
+Dealt to f8dfecb7 
+2525852e: calls 400
+f8dfecb7: folds
+3cd90c42: folds
+96512f4: calls 400
+33650afc: folds
+b61e4cd1: calls 200
+Hero: raises 1,200 to 1,600
+2525852e: calls 1,200
+96512f4: calls 1,200
+b61e4cd1: calls 1,200
+*** FLOP *** [Qs 9s 8s]
+b61e4cd1: bets 6,083 and is all-in
+Hero: calls 6,083
+2525852e: calls 4,762 and is all-in
+96512f4: calls 6,083
+*** TURN *** [Qs 9s 8s] [2c]
+Hero: bets 6,145 and is all-in
+96512f4: folds
+Uncalled bet (6,145) returned to Hero
+Hero: shows [As Ah] (a pair of Aces)
+2525852e: shows [Kc Qh] (a pair of Queens)
+b61e4cd1: shows [Kd 9c] (a pair of Nines)
+*** RIVER *** [Qs 9s 8s 2c] [5d]
+*** SHOWDOWN ***
+Hero collected 25,728 from pot
+Hero collected 3,963 from pot
+*** SUMMARY ***
+Total pot 29,691 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 9s 8s 2c 5d]
+Seat 1: 3cd90c42 folded before Flop
+Seat 2: 96512f4 folded on the Turn
+Seat 3: 33650afc (button) folded before Flop
+Seat 4: b61e4cd1 (small blind) showed [Kd 9c] and lost with a pair of Nines
+Seat 5: Hero (big blind) showed [As Ah] and won (29,691) with a pair of Aces
+Seat 6: 2525852e showed [Kc Qh] and lost with a pair of Queens
+Seat 7: f8dfecb7 folded before Flop
+
+
+Poker Hand #TM91869806: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level7(200/400) - 2026/01/18 14:05:07
+Table '2' 8-max Seat #2 is the button
+Seat 1: 3cd90c42 (3,595 in chips)
+Seat 2: 96512f4 (13,798 in chips)
+Seat 3: 33650afc (11,669 in chips)
+Seat 4: b61e4cd1 (7,083 in chips)
+Seat 5: Hero (13,908 in chips)
+Seat 6: 2525852e (6,442 in chips)
+Seat 7: f8dfecb7 (4,325 in chips)
+96512f4: posts the ante 40
+2525852e: posts the ante 40
+3cd90c42: posts the ante 40
+b61e4cd1: posts the ante 40
+33650afc: posts the ante 40
+f8dfecb7: posts the ante 40
+Hero: posts the ante 40
+33650afc: posts small blind 200
+b61e4cd1: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to b61e4cd1 
+Dealt to Hero [7h Jd]
+Dealt to 2525852e 
+Dealt to f8dfecb7 
+Hero: folds
+2525852e: folds
+f8dfecb7: folds
+3cd90c42: folds
+96512f4: folds
+33650afc: calls 200
+b61e4cd1: checks
+*** FLOP *** [Kc 8s 7d]
+33650afc: checks
+b61e4cd1: checks
+*** TURN *** [Kc 8s 7d] [6h]
+33650afc: checks
+b61e4cd1: bets 540
+33650afc: folds
+Uncalled bet (540) returned to b61e4cd1
+*** SHOWDOWN ***
+b61e4cd1 collected 1,080 from pot
+*** SUMMARY ***
+Total pot 1,080 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 8s 7d 6h]
+Seat 1: 3cd90c42 folded before Flop
+Seat 2: 96512f4 (button) folded before Flop
+Seat 3: 33650afc (small blind) folded on the Turn
+Seat 4: b61e4cd1 (big blind) won (1,080)
+Seat 5: Hero folded before Flop
+Seat 6: 2525852e folded before Flop
+Seat 7: f8dfecb7 folded before Flop
+
+
+Poker Hand #TM91869792: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level7(200/400) - 2026/01/18 14:04:15
+Table '2' 8-max Seat #1 is the button
+Seat 1: 3cd90c42 (3,635 in chips)
+Seat 2: 96512f4 (14,038 in chips)
+Seat 3: 33650afc (12,109 in chips)
+Seat 4: b61e4cd1 (7,123 in chips)
+Seat 5: Hero (16,729 in chips)
+Seat 6: 2525852e (2,821 in chips)
+Seat 7: f8dfecb7 (4,365 in chips)
+2525852e: posts the ante 40
+96512f4: posts the ante 40
+3cd90c42: posts the ante 40
+b61e4cd1: posts the ante 40
+33650afc: posts the ante 40
+f8dfecb7: posts the ante 40
+Hero: posts the ante 40
+96512f4: posts small blind 200
+33650afc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to b61e4cd1 
+Dealt to Hero [As Js]
+Dealt to 2525852e 
+Dealt to f8dfecb7 
+b61e4cd1: folds
+Hero: raises 600 to 1,000
+2525852e: raises 1,781 to 2,781 and is all-in
+f8dfecb7: folds
+3cd90c42: folds
+96512f4: folds
+33650afc: folds
+Hero: calls 1,781
+2525852e: shows [Kd 8h]
+Hero: shows [As Js]
+*** FLOP *** [7d 5d Jd]
+*** TURN *** [7d 5d Jd] [Td]
+*** RIVER *** [7d 5d Jd Td] [7s]
+*** SHOWDOWN ***
+2525852e collected 6,442 from pot
+*** SUMMARY ***
+Total pot 6,442 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d 5d Jd Td 7s]
+Seat 1: 3cd90c42 (button) folded before Flop
+Seat 2: 96512f4 (small blind) folded before Flop
+Seat 3: 33650afc (big blind) folded before Flop
+Seat 4: b61e4cd1 folded before Flop
+Seat 5: Hero showed [As Js] and lost with two pair, Jacks and Sevens
+Seat 6: 2525852e showed [Kd 8h] and won (6,442) with a flush King high
+Seat 7: f8dfecb7 folded before Flop
+
+
+Poker Hand #TM91869779: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level7(200/400) - 2026/01/18 14:03:40
+Table '2' 8-max Seat #7 is the button
+Seat 1: 3cd90c42 (3,875 in chips)
+Seat 2: 96512f4 (14,478 in chips)
+Seat 3: 33650afc (9,189 in chips)
+Seat 4: b61e4cd1 (9,243 in chips)
+Seat 5: Hero (16,769 in chips)
+Seat 6: 2525852e (2,861 in chips)
+Seat 7: f8dfecb7 (4,405 in chips)
+2525852e: posts the ante 40
+96512f4: posts the ante 40
+3cd90c42: posts the ante 40
+b61e4cd1: posts the ante 40
+33650afc: posts the ante 40
+f8dfecb7: posts the ante 40
+Hero: posts the ante 40
+3cd90c42: posts small blind 200
+96512f4: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to b61e4cd1 
+Dealt to Hero [5h 6h]
+Dealt to 2525852e 
+Dealt to f8dfecb7 
+33650afc: calls 400
+b61e4cd1: raises 1,680 to 2,080
+Hero: folds
+2525852e: folds
+f8dfecb7: folds
+3cd90c42: folds
+96512f4: folds
+33650afc: calls 1,680
+*** FLOP *** [8c 7s 4s]
+33650afc: checks
+b61e4cd1: checks
+*** TURN *** [8c 7s 4s] [9s]
+33650afc: bets 5,040
+b61e4cd1: folds
+Uncalled bet (5,040) returned to 33650afc
+*** SHOWDOWN ***
+33650afc collected 5,040 from pot
+*** SUMMARY ***
+Total pot 5,040 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 7s 4s 9s]
+Seat 1: 3cd90c42 (small blind) folded before Flop
+Seat 2: 96512f4 (big blind) folded before Flop
+Seat 3: 33650afc won (5,040)
+Seat 4: b61e4cd1 folded on the Turn
+Seat 5: Hero folded before Flop
+Seat 6: 2525852e folded before Flop
+Seat 7: f8dfecb7 (button) folded before Flop
+
+
+Poker Hand #TM91869765: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level6(150/300) - 2026/01/18 14:02:53
+Table '2' 8-max Seat #6 is the button
+Seat 1: 3cd90c42 (4,205 in chips)
+Seat 2: 96512f4 (13,248 in chips)
+Seat 3: 33650afc (9,219 in chips)
+Seat 4: b61e4cd1 (9,573 in chips)
+Seat 5: Hero (16,799 in chips)
+Seat 6: 2525852e (3,191 in chips)
+Seat 7: f8dfecb7 (4,585 in chips)
+2525852e: posts the ante 30
+96512f4: posts the ante 30
+3cd90c42: posts the ante 30
+b61e4cd1: posts the ante 30
+33650afc: posts the ante 30
+Hero: posts the ante 30
+f8dfecb7: posts the ante 30
+f8dfecb7: posts small blind 150
+3cd90c42: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to b61e4cd1 
+Dealt to Hero [Td 5h]
+Dealt to 2525852e 
+Dealt to f8dfecb7 
+96512f4: calls 300
+33650afc: folds
+b61e4cd1: calls 300
+Hero: folds
+2525852e: calls 300
+f8dfecb7: folds
+3cd90c42: checks
+*** FLOP *** [3s Ad Th]
+3cd90c42: checks
+96512f4: checks
+b61e4cd1: checks
+2525852e: checks
+*** TURN *** [3s Ad Th] [7h]
+3cd90c42: checks
+96512f4: checks
+b61e4cd1: checks
+2525852e: checks
+*** RIVER *** [3s Ad Th 7h] [9s]
+3cd90c42: checks
+96512f4: checks
+b61e4cd1: checks
+2525852e: checks
+3cd90c42: shows [2s 4h] (Ace high)
+96512f4: shows [9d 8d] (a pair of Nines)
+b61e4cd1: shows [8c 2c] (Ace high)
+2525852e: shows [5c 6c] (Ace high)
+*** SHOWDOWN ***
+96512f4 collected 1,560 from pot
+*** SUMMARY ***
+Total pot 1,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s Ad Th 7h 9s]
+Seat 1: 3cd90c42 (big blind) showed [2s 4h] and lost with Ace high
+Seat 2: 96512f4 showed [9d 8d] and won (1,560) with a pair of Nines
+Seat 3: 33650afc folded before Flop
+Seat 4: b61e4cd1 showed [8c 2c] and lost with Ace high
+Seat 5: Hero folded before Flop
+Seat 6: 2525852e (button) showed [5c 6c] and lost with Ace high
+Seat 7: f8dfecb7 (small blind) folded before Flop
+
+
+Poker Hand #TM91869749: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level6(150/300) - 2026/01/18 14:01:57
+Table '2' 8-max Seat #5 is the button
+Seat 1: 3cd90c42 (4,235 in chips)
+Seat 2: 96512f4 (12,168 in chips)
+Seat 3: 33650afc (9,549 in chips)
+Seat 4: b61e4cd1 (9,603 in chips)
+Seat 5: Hero (16,829 in chips)
+Seat 6: 2525852e (3,521 in chips)
+Seat 7: f8dfecb7 (4,915 in chips)
+96512f4: posts the ante 30
+2525852e: posts the ante 30
+3cd90c42: posts the ante 30
+b61e4cd1: posts the ante 30
+33650afc: posts the ante 30
+Hero: posts the ante 30
+f8dfecb7: posts the ante 30
+2525852e: posts small blind 150
+f8dfecb7: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to b61e4cd1 
+Dealt to Hero [Qc 4d]
+Dealt to 2525852e 
+Dealt to f8dfecb7 
+3cd90c42: folds
+96512f4: calls 300
+33650afc: calls 300
+b61e4cd1: folds
+Hero: folds
+2525852e: calls 150
+f8dfecb7: checks
+*** FLOP *** [As Qs Kc]
+2525852e: checks
+f8dfecb7: checks
+96512f4: checks
+33650afc: checks
+*** TURN *** [As Qs Kc] [5s]
+2525852e: checks
+f8dfecb7: checks
+96512f4: bets 1,410
+33650afc: folds
+2525852e: folds
+f8dfecb7: folds
+Uncalled bet (1,410) returned to 96512f4
+*** SHOWDOWN ***
+96512f4 collected 1,410 from pot
+*** SUMMARY ***
+Total pot 1,410 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As Qs Kc 5s]
+Seat 1: 3cd90c42 folded before Flop
+Seat 2: 96512f4 showed [2s 2d] and won (1,410)
+Seat 3: 33650afc folded on the Turn
+Seat 4: b61e4cd1 folded before Flop
+Seat 5: Hero (button) folded before Flop
+Seat 6: 2525852e (small blind) folded on the Turn
+Seat 7: f8dfecb7 (big blind) folded on the Turn
+
+
+Poker Hand #TM91869742: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level6(150/300) - 2026/01/18 14:01:30
+Table '2' 8-max Seat #3 is the button
+Seat 1: 3cd90c42 (4,265 in chips)
+Seat 2: 96512f4 (11,568 in chips)
+Seat 3: 33650afc (9,579 in chips)
+Seat 5: Hero (17,009 in chips)
+Seat 6: 2525852e (3,851 in chips)
+Seat 7: f8dfecb7 (4,945 in chips)
+96512f4: posts the ante 30
+2525852e: posts the ante 30
+3cd90c42: posts the ante 30
+33650afc: posts the ante 30
+f8dfecb7: posts the ante 30
+Hero: posts the ante 30
+Hero: posts small blind 150
+2525852e: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to Hero [7h 2h]
+Dealt to 2525852e 
+Dealt to f8dfecb7 
+f8dfecb7: folds
+3cd90c42: folds
+96512f4: calls 300
+33650afc: folds
+Hero: folds
+2525852e: checks
+*** FLOP *** [Qd 6s 8d]
+2525852e: checks
+96512f4: bets 930
+2525852e: folds
+Uncalled bet (930) returned to 96512f4
+*** SHOWDOWN ***
+96512f4 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 6s 8d]
+Seat 1: 3cd90c42 folded before Flop
+Seat 2: 96512f4 showed [8h] and won (930)
+Seat 3: 33650afc (button) folded before Flop
+Seat 5: Hero (small blind) folded before Flop
+Seat 6: 2525852e (big blind) folded on the Flop
+Seat 7: f8dfecb7 folded before Flop
+
+
+Poker Hand #TM91869728: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level6(150/300) - 2026/01/18 14:00:26
+Table '2' 8-max Seat #2 is the button
+Seat 1: 3cd90c42 (4,295 in chips)
+Seat 2: 96512f4 (11,598 in chips)
+Seat 3: 33650afc (9,909 in chips)
+Seat 5: Hero (16,559 in chips)
+Seat 6: 2525852e (3,881 in chips)
+Seat 7: f8dfecb7 (4,975 in chips)
+96512f4: posts the ante 30
+2525852e: posts the ante 30
+3cd90c42: posts the ante 30
+33650afc: posts the ante 30
+f8dfecb7: posts the ante 30
+Hero: posts the ante 30
+33650afc: posts small blind 150
+Hero: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to Hero [7h Jd]
+Dealt to 2525852e 
+Dealt to f8dfecb7 
+2525852e: folds
+f8dfecb7: folds
+3cd90c42: folds
+96512f4: folds
+33650afc: calls 150
+Hero: checks
+*** FLOP *** [Qc Ah Kc]
+33650afc: checks
+Hero: bets 300
+33650afc: folds
+Uncalled bet (300) returned to Hero
+*** SHOWDOWN ***
+Hero collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc Ah Kc]
+Seat 1: 3cd90c42 folded before Flop
+Seat 2: 96512f4 (button) folded before Flop
+Seat 3: 33650afc (small blind) folded on the Flop
+Seat 5: Hero (big blind) won (780)
+Seat 6: 2525852e folded before Flop
+Seat 7: f8dfecb7 folded before Flop
+
+
+Poker Hand #TM91869714: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level5(125/250) - 2026/01/18 13:54:10
+Table '2' 8-max Seat #1 is the button
+Seat 1: 3cd90c42 (4,320 in chips)
+Seat 2: 96512f4 (12,961 in chips)
+Seat 3: 33650afc (7,921 in chips)
+Seat 4: a733071a (4,705 in chips)
+Seat 5: Hero (16,584 in chips)
+Seat 6: 2525852e (4,406 in chips)
+Seat 7: f8dfecb7 (5,000 in chips)
+a733071a: posts the ante 25
+2525852e: posts the ante 25
+96512f4: posts the ante 25
+3cd90c42: posts the ante 25
+33650afc: posts the ante 25
+f8dfecb7: posts the ante 25
+Hero: posts the ante 25
+96512f4: posts small blind 125
+33650afc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to a733071a 
+Dealt to Hero [6s Qh]
+Dealt to 2525852e 
+Dealt to f8dfecb7 
+a733071a: folds
+Hero: folds
+2525852e: calls 250
+f8dfecb7: folds
+3cd90c42: folds
+96512f4: calls 125
+33650afc: raises 250 to 500
+2525852e: calls 250
+96512f4: calls 250
+*** FLOP *** [Qs 2d 8d]
+96512f4: checks
+33650afc: checks
+2525852e: checks
+*** TURN *** [Qs 2d 8d] [5s]
+96512f4: checks
+33650afc: bets 838
+2525852e: folds
+96512f4: calls 838
+*** RIVER *** [Qs 2d 8d 5s] [Ad]
+96512f4: checks
+33650afc: bets 1,106
+96512f4: folds
+Uncalled bet (1,106) returned to 33650afc
+*** SHOWDOWN ***
+33650afc collected 3,351 from pot
+*** SUMMARY ***
+Total pot 3,351 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 2d 8d 5s Ad]
+Seat 1: 3cd90c42 (button) folded before Flop
+Seat 2: 96512f4 (small blind) folded on the River
+Seat 3: 33650afc (big blind) won (3,351)
+Seat 4: a733071a folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: 2525852e folded on the Turn
+Seat 7: f8dfecb7 folded before Flop
+
+
+Poker Hand #TM91869692: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level5(125/250) - 2026/01/18 13:52:33
+Table '2' 8-max Seat #6 is the button
+Seat 1: 3cd90c42 (4,470 in chips)
+Seat 2: 96512f4 (10,825 in chips)
+Seat 3: 33650afc (8,196 in chips)
+Seat 4: a733071a (4,980 in chips)
+Seat 5: Hero (17,302 in chips)
+Seat 6: 2525852e (5,124 in chips)
+a733071a: posts the ante 25
+2525852e: posts the ante 25
+96512f4: posts the ante 25
+3cd90c42: posts the ante 25
+33650afc: posts the ante 25
+Hero: posts the ante 25
+3cd90c42: posts small blind 125
+96512f4: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to a733071a 
+Dealt to Hero [7s Ac]
+Dealt to 2525852e 
+33650afc: calls 250
+a733071a: calls 250
+Hero: calls 250
+2525852e: calls 250
+3cd90c42: folds
+96512f4: checks
+*** FLOP *** [8c 6s Ks]
+96512f4: checks
+33650afc: checks
+a733071a: checks
+Hero: bets 443
+2525852e: calls 443
+96512f4: calls 443
+33650afc: folds
+a733071a: folds
+*** TURN *** [8c 6s Ks] [Ts]
+96512f4: bets 10,107 and is all-in
+Hero: folds
+2525852e: folds
+Uncalled bet (10,107) returned to 96512f4
+*** SHOWDOWN ***
+96512f4 collected 2,854 from pot
+*** SUMMARY ***
+Total pot 2,854 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 6s Ks Ts]
+Seat 1: 3cd90c42 (small blind) folded before Flop
+Seat 2: 96512f4 (big blind) showed [6c Tc] and won (2,854)
+Seat 3: 33650afc folded on the Flop
+Seat 4: a733071a folded on the Flop
+Seat 5: Hero folded on the Turn
+Seat 6: 2525852e (button) folded on the Turn
+
+
+Poker Hand #TM91869678: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level4(100/200) - 2026/01/18 13:51:41
+Table '2' 8-max Seat #5 is the button
+Seat 1: 3cd90c42 (4,690 in chips)
+Seat 2: 96512f4 (10,845 in chips)
+Seat 3: 33650afc (8,816 in chips)
+Seat 4: a733071a (5,000 in chips)
+Seat 5: Hero (17,722 in chips)
+Seat 6: 2525852e (3,824 in chips)
+a733071a: posts the ante 20
+96512f4: posts the ante 20
+2525852e: posts the ante 20
+3cd90c42: posts the ante 20
+33650afc: posts the ante 20
+Hero: posts the ante 20
+2525852e: posts small blind 100
+3cd90c42: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to 96512f4 
+Dealt to 33650afc 
+Dealt to a733071a 
+Dealt to Hero [Qs 3s]
+Dealt to 2525852e 
+96512f4: folds
+33650afc: raises 200 to 400
+a733071a: folds
+Hero: calls 400
+2525852e: calls 300
+3cd90c42: folds
+*** FLOP *** [6c 8h Jc]
+2525852e: checks
+33650afc: bets 200
+Hero: folds
+2525852e: calls 200
+*** TURN *** [6c 8h Jc] [Qc]
+2525852e: checks
+33650afc: checks
+*** RIVER *** [6c 8h Jc Qc] [3d]
+2525852e: bets 3,204 and is all-in
+33650afc: folds
+Uncalled bet (3,204) returned to 2525852e
+*** SHOWDOWN ***
+2525852e collected 1,920 from pot
+*** SUMMARY ***
+Total pot 1,920 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c 8h Jc Qc 3d]
+Seat 1: 3cd90c42 (big blind) folded before Flop
+Seat 2: 96512f4 folded before Flop
+Seat 3: 33650afc folded on the River
+Seat 4: a733071a folded before Flop
+Seat 5: Hero (button) folded on the Flop
+Seat 6: 2525852e (small blind) won (1,920)
+
+
+Poker Hand #TM91869660: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level4(100/200) - 2026/01/18 13:50:31
+Table '2' 8-max Seat #3 is the button
+Seat 1: 3cd90c42 (4,710 in chips)
+Seat 2: c8ed6cfa (2,744 in chips)
+Seat 3: 33650afc (8,836 in chips)
+Seat 4: b131d45e (3,968 in chips)
+Seat 5: Hero (5,970 in chips)
+Seat 6: 2525852e (3,844 in chips)
+Seat 7: 1bcc8d51 (4,980 in chips)
+1bcc8d51: posts the ante 20
+b131d45e: posts the ante 20
+2525852e: posts the ante 20
+3cd90c42: posts the ante 20
+c8ed6cfa: posts the ante 20
+33650afc: posts the ante 20
+Hero: posts the ante 20
+b131d45e: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to c8ed6cfa 
+Dealt to 33650afc 
+Dealt to b131d45e 
+Dealt to Hero [Jc Jh]
+Dealt to 2525852e 
+Dealt to 1bcc8d51 
+2525852e: folds
+1bcc8d51: calls 200
+3cd90c42: folds
+c8ed6cfa: raises 200 to 400
+33650afc: folds
+b131d45e: calls 300
+Hero: raises 1,200 to 1,600
+1bcc8d51: calls 1,400
+c8ed6cfa: raises 1,124 to 2,724 and is all-in
+b131d45e: raises 1,224 to 3,948 and is all-in
+Hero: raises 1,224 to 5,172
+1bcc8d51: calls 3,360 and is all-in
+Uncalled bet (212) returned to Hero
+Hero: shows [Jc Jh]
+1bcc8d51: shows [Ah 6h]
+c8ed6cfa: shows [2s Ac]
+b131d45e: shows [4h 4c]
+*** FLOP *** [Qh 3c 3s]
+*** TURN *** [Qh 3c 3s] [5s]
+*** RIVER *** [Qh 3c 3s 5s] [2h]
+33650afc: shows [3h 4s] (three of a kind, Threes)
+*** SHOWDOWN ***
+Hero collected 11,036 from pot
+Hero collected 3,672 from pot
+Hero collected 2,024 from pot
+*** SUMMARY ***
+Total pot 16,732 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh 3c 3s 5s 2h]
+Seat 1: 3cd90c42 folded before Flop
+Seat 2: c8ed6cfa showed [2s Ac] and lost with two pair, Threes and Twos
+Seat 3: 33650afc (button) folded before Flop
+Seat 4: b131d45e (small blind) showed [4h 4c] and lost with two pair, Fours and Threes
+Seat 5: Hero (big blind) showed [Jc Jh] and won (16,732) with two pair, Jacks and Threes
+Seat 6: 2525852e folded before Flop
+Seat 7: 1bcc8d51 showed [Ah 6h] and lost with a pair of Threes
+
+
+Poker Hand #TM91869646: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level4(100/200) - 2026/01/18 13:49:43
+Table '2' 8-max Seat #2 is the button
+Seat 1: 3cd90c42 (4,730 in chips)
+Seat 2: c8ed6cfa (2,764 in chips)
+Seat 3: 33650afc (8,516 in chips)
+Seat 4: b131d45e (4,188 in chips)
+Seat 5: Hero (5,990 in chips)
+Seat 6: 2525852e (3,864 in chips)
+Seat 7: 1bcc8d51 (5,000 in chips)
+1bcc8d51: posts the ante 20
+b131d45e: posts the ante 20
+2525852e: posts the ante 20
+3cd90c42: posts the ante 20
+c8ed6cfa: posts the ante 20
+33650afc: posts the ante 20
+Hero: posts the ante 20
+33650afc: posts small blind 100
+b131d45e: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to c8ed6cfa 
+Dealt to 33650afc 
+Dealt to b131d45e 
+Dealt to Hero [2c Ks]
+Dealt to 2525852e 
+Dealt to 1bcc8d51 
+Hero: folds
+2525852e: folds
+1bcc8d51: folds
+3cd90c42: folds
+c8ed6cfa: folds
+33650afc: calls 100
+b131d45e: checks
+*** FLOP *** [Ts 9s Td]
+33650afc: checks
+b131d45e: checks
+*** TURN *** [Ts 9s Td] [5s]
+33650afc: checks
+b131d45e: checks
+*** RIVER *** [Ts 9s Td 5s] [3c]
+33650afc: checks
+b131d45e: checks
+33650afc: shows [6h Kd] (a pair of Tens)
+b131d45e: shows [4s Kh] (a pair of Tens)
+*** SHOWDOWN ***
+33650afc collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 9s Td 5s 3c]
+Seat 1: 3cd90c42 folded before Flop
+Seat 2: c8ed6cfa (button) folded before Flop
+Seat 3: 33650afc (small blind) showed [6h Kd] and won (540) with a pair of Tens
+Seat 4: b131d45e (big blind) showed [4s Kh] and lost with a pair of Tens
+Seat 5: Hero folded before Flop
+Seat 6: 2525852e folded before Flop
+Seat 7: 1bcc8d51 folded before Flop
+
+
+Poker Hand #TM91869633: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level3(75/150) - 2026/01/18 13:48:57
+Table '2' 8-max Seat #1 is the button
+Seat 1: 3cd90c42 (4,745 in chips)
+Seat 2: c8ed6cfa (2,854 in chips)
+Seat 3: 33650afc (8,681 in chips)
+Seat 4: b131d45e (4,653 in chips)
+Seat 5: Hero (4,790 in chips)
+Seat 6: 2525852e (4,329 in chips)
+b131d45e: posts the ante 15
+2525852e: posts the ante 15
+3cd90c42: posts the ante 15
+c8ed6cfa: posts the ante 15
+33650afc: posts the ante 15
+Hero: posts the ante 15
+c8ed6cfa: posts small blind 75
+33650afc: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to c8ed6cfa 
+Dealt to 33650afc 
+Dealt to b131d45e 
+Dealt to Hero [Ad 9s]
+Dealt to 2525852e 
+b131d45e: calls 150
+Hero: raises 300 to 450
+2525852e: calls 450
+3cd90c42: folds
+c8ed6cfa: folds
+33650afc: folds
+b131d45e: calls 300
+*** FLOP *** [Qd Kd Qc]
+b131d45e: checks
+Hero: bets 483
+2525852e: folds
+b131d45e: folds
+Uncalled bet (483) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,665 from pot
+*** SUMMARY ***
+Total pot 1,665 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd Kd Qc]
+Seat 1: 3cd90c42 (button) folded before Flop
+Seat 2: c8ed6cfa (small blind) folded before Flop
+Seat 3: 33650afc (big blind) folded before Flop
+Seat 4: b131d45e folded on the Flop
+Seat 5: Hero won (1,665)
+Seat 6: 2525852e folded on the Flop
+
+
+Poker Hand #TM91869615: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level3(75/150) - 2026/01/18 13:47:59
+Table '2' 8-max Seat #6 is the button
+Seat 1: 3cd90c42 (4,835 in chips)
+Seat 2: c8ed6cfa (3,019 in chips)
+Seat 3: 33650afc (10,865 in chips)
+Seat 4: b131d45e (2,184 in chips)
+Seat 5: Hero (4,805 in chips)
+Seat 6: 2525852e (4,344 in chips)
+b131d45e: posts the ante 15
+2525852e: posts the ante 15
+3cd90c42: posts the ante 15
+c8ed6cfa: posts the ante 15
+33650afc: posts the ante 15
+Hero: posts the ante 15
+3cd90c42: posts small blind 75
+c8ed6cfa: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to c8ed6cfa 
+Dealt to 33650afc 
+Dealt to b131d45e 
+Dealt to Hero [Jh 9c]
+Dealt to 2525852e 
+33650afc: calls 150
+b131d45e: raises 2,019 to 2,169 and is all-in
+Hero: folds
+2525852e: folds
+3cd90c42: folds
+c8ed6cfa: folds
+33650afc: calls 2,019
+b131d45e: shows [5s Ah]
+33650afc: shows [Ad 2d]
+*** FLOP *** [Th Ts 5h]
+*** TURN *** [Th Ts 5h] [4d]
+*** RIVER *** [Th Ts 5h 4d] [2s]
+*** SHOWDOWN ***
+b131d45e collected 4,653 from pot
+*** SUMMARY ***
+Total pot 4,653 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th Ts 5h 4d 2s]
+Seat 1: 3cd90c42 (small blind) folded before Flop
+Seat 2: c8ed6cfa (big blind) folded before Flop
+Seat 3: 33650afc showed [Ad 2d] and lost with two pair, Tens and Twos
+Seat 4: b131d45e showed [5s Ah] and won (4,653) with two pair, Tens and Fives
+Seat 5: Hero folded before Flop
+Seat 6: 2525852e (button) folded before Flop
+
+
+Poker Hand #TM91869595: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level3(75/150) - 2026/01/18 13:46:43
+Table '2' 8-max Seat #5 is the button
+Seat 1: 3cd90c42 (5,000 in chips)
+Seat 2: c8ed6cfa (3,184 in chips)
+Seat 3: 33650afc (8,536 in chips)
+Seat 4: b131d45e (4,078 in chips)
+Seat 5: Hero (4,820 in chips)
+Seat 6: 2525852e (4,434 in chips)
+b131d45e: posts the ante 15
+2525852e: posts the ante 15
+3cd90c42: posts the ante 15
+c8ed6cfa: posts the ante 15
+33650afc: posts the ante 15
+Hero: posts the ante 15
+2525852e: posts small blind 75
+3cd90c42: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 3cd90c42 
+Dealt to c8ed6cfa 
+Dealt to 33650afc 
+Dealt to b131d45e 
+Dealt to Hero [4d Tc]
+Dealt to 2525852e 
+c8ed6cfa: calls 150
+33650afc: calls 150
+b131d45e: calls 150
+Hero: folds
+2525852e: folds
+3cd90c42: checks
+*** FLOP *** [Kd Ac Qc]
+3cd90c42: checks
+c8ed6cfa: checks
+33650afc: checks
+b131d45e: bets 253
+3cd90c42: folds
+c8ed6cfa: folds
+33650afc: calls 253
+*** TURN *** [Kd Ac Qc] [2c]
+33650afc: checks
+b131d45e: bets 420
+33650afc: calls 420
+*** RIVER *** [Kd Ac Qc 2c] [4c]
+33650afc: bets 1,056
+b131d45e: calls 1,056
+33650afc: shows [Jc 8c] (a flush Ace high)
+b131d45e: shows [Ah As] (three of a kind, Aces)
+*** SHOWDOWN ***
+33650afc collected 4,223 from pot
+*** SUMMARY ***
+Total pot 4,223 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd Ac Qc 2c 4c]
+Seat 1: 3cd90c42 (big blind) folded on the Flop
+Seat 2: c8ed6cfa folded on the Flop
+Seat 3: 33650afc showed [Jc 8c] and won (4,223) with a flush Ace high
+Seat 4: b131d45e showed [Ah As] and lost with three of a kind, Aces
+Seat 5: Hero (button) folded before Flop
+Seat 6: 2525852e (small blind) folded before Flop
+
+
+Poker Hand #TM91869580: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level2(50/100) - 2026/01/18 13:45:45
+Table '2' 8-max Seat #4 is the button
+Seat 2: c8ed6cfa (4,719 in chips)
+Seat 3: 33650afc (6,675 in chips)
+Seat 4: b131d45e (4,088 in chips)
+Seat 5: Hero (4,880 in chips)
+Seat 6: 2525852e (4,680 in chips)
+Seat 7: 22aff91a (5,000 in chips)
+22aff91a: posts the ante 10
+b131d45e: posts the ante 10
+2525852e: posts the ante 10
+c8ed6cfa: posts the ante 10
+33650afc: posts the ante 10
+Hero: posts the ante 10
+Hero: posts small blind 50
+2525852e: posts big blind 100
+*** HOLE CARDS ***
+Dealt to c8ed6cfa 
+Dealt to 33650afc 
+Dealt to b131d45e 
+Dealt to Hero [Jh 3c]
+Dealt to 2525852e 
+Dealt to 22aff91a 
+22aff91a: folds
+c8ed6cfa: calls 100
+33650afc: calls 100
+b131d45e: folds
+Hero: folds
+2525852e: checks
+*** FLOP *** [5d 9c Tc]
+2525852e: bets 136
+c8ed6cfa: calls 136
+33650afc: calls 136
+*** TURN *** [5d 9c Tc] [4c]
+2525852e: checks
+c8ed6cfa: bets 270
+33650afc: raises 1,019 to 1,289
+2525852e: folds
+c8ed6cfa: calls 1,019
+*** RIVER *** [5d 9c Tc 4c] [Td]
+c8ed6cfa: checks
+33650afc: bets 3,396
+c8ed6cfa: folds
+Uncalled bet (3,396) returned to 33650afc
+*** SHOWDOWN ***
+33650afc collected 3,396 from pot
+*** SUMMARY ***
+Total pot 3,396 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d 9c Tc 4c Td]
+Seat 2: c8ed6cfa folded on the River
+Seat 3: 33650afc showed [Kc 7c] and won (3,396)
+Seat 4: b131d45e (button) folded before Flop
+Seat 5: Hero (small blind) folded before Flop
+Seat 6: 2525852e (big blind) folded on the Turn
+Seat 7: 22aff91a folded before Flop
+
+
+Poker Hand #TM91869569: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level2(50/100) - 2026/01/18 13:45:03
+Table '2' 8-max Seat #3 is the button
+Seat 1: cc46201b (4,980 in chips)
+Seat 2: c8ed6cfa (4,729 in chips)
+Seat 3: 33650afc (5,320 in chips)
+Seat 4: b131d45e (4,148 in chips)
+Seat 5: Hero (4,990 in chips)
+Seat 6: 2525852e (4,990 in chips)
+b131d45e: posts the ante 10
+2525852e: posts the ante 10
+c8ed6cfa: posts the ante 10
+cc46201b: posts the ante 10
+33650afc: posts the ante 10
+Hero: posts the ante 10
+b131d45e: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cc46201b 
+Dealt to c8ed6cfa 
+Dealt to 33650afc 
+Dealt to b131d45e 
+Dealt to Hero [7c 6s]
+Dealt to 2525852e 
+2525852e: calls 100
+cc46201b: raises 200 to 300
+c8ed6cfa: folds
+33650afc: calls 300
+b131d45e: folds
+Hero: folds
+2525852e: calls 200
+*** FLOP *** [8d 3h Ah]
+2525852e: checks
+cc46201b: bets 555
+33650afc: raises 555 to 1,110
+2525852e: folds
+cc46201b: folds
+Uncalled bet (555) returned to 33650afc
+*** SHOWDOWN ***
+33650afc collected 2,220 from pot
+*** SUMMARY ***
+Total pot 2,220 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 3h Ah]
+Seat 1: cc46201b folded on the Flop
+Seat 2: c8ed6cfa folded before Flop
+Seat 3: 33650afc (button) won (2,220)
+Seat 4: b131d45e (small blind) folded before Flop
+Seat 5: Hero (big blind) folded before Flop
+Seat 6: 2525852e folded on the Flop
+
+
+Poker Hand #TM91869555: Tournament #5611700, $1.50 Step to GGMasters $150 Hold'em No Limit - Level2(50/100) - 2026/01/18 13:44:05
+Table '2' 8-max Seat #2 is the button
+Seat 1: cc46201b (4,990 in chips)
+Seat 2: c8ed6cfa (4,939 in chips)
+Seat 3: 33650afc (4,770 in chips)
+Seat 4: b131d45e (4,458 in chips)
+Seat 5: Hero (5,000 in chips)
+Seat 6: 2525852e (5,000 in chips)
+b131d45e: posts the ante 10
+2525852e: posts the ante 10
+c8ed6cfa: posts the ante 10
+cc46201b: posts the ante 10
+33650afc: posts the ante 10
+Hero: posts the ante 10
+33650afc: posts small blind 50
+b131d45e: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cc46201b 
+Dealt to c8ed6cfa 
+Dealt to 33650afc 
+Dealt to b131d45e 
+Dealt to Hero [7c Kh]
+Dealt to 2525852e 
+Hero: folds
+2525852e: folds
+cc46201b: folds
+c8ed6cfa: calls 100
+33650afc: raises 100 to 200
+b131d45e: calls 100
+c8ed6cfa: calls 100
+*** FLOP *** [6h Qs 4d]
+33650afc: bets 100
+b131d45e: calls 100
+c8ed6cfa: folds
+*** TURN *** [6h Qs 4d] [Jd]
+33650afc: bets 430
+b131d45e: folds
+Uncalled bet (430) returned to 33650afc
+*** SHOWDOWN ***
+33650afc collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h Qs 4d Jd]
+Seat 1: cc46201b folded before Flop
+Seat 2: c8ed6cfa (button) folded on the Flop
+Seat 3: 33650afc (small blind) won (860)
+Seat 4: b131d45e (big blind) folded on the Turn
+Seat 5: Hero folded before Flop
+Seat 6: 2525852e folded before Flop
+
+

@@ -1,0 +1,6314 @@
+Poker Hand #TM91855847: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level23(6,000/12,000) - 2026/01/17 00:30:54
+Table '62' 7-max Seat #2 is the button
+Seat 1: b5d950ed (194,227 in chips)
+Seat 2: Hero (279,956 in chips)
+Seat 3: 9fd880c0 (297,512 in chips)
+Seat 4: c8ecf83e (271,333 in chips)
+Seat 5: c5b5ec74 (282,872 in chips)
+Seat 6: 7b48cce6 (512,524 in chips)
+Seat 7: 19c6d26 (717,044 in chips)
+19c6d26: posts the ante 1,800
+7b48cce6: posts the ante 1,800
+b5d950ed: posts the ante 1,800
+9fd880c0: posts the ante 1,800
+Hero: posts the ante 1,800
+c5b5ec74: posts the ante 1,800
+c8ecf83e: posts the ante 1,800
+9fd880c0: posts small blind 6,000
+c8ecf83e: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [As Qc]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+c5b5ec74: calls 12,000
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: folds
+Hero: raises 36,000 to 48,000
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: calls 36,000
+*** FLOP *** [3s Js Kh]
+c5b5ec74: checks
+Hero: checks
+*** TURN *** [3s Js Kh] [Ks]
+c5b5ec74: bets 62,400
+Hero: calls 62,400
+*** RIVER *** [3s Js Kh Ks] [4s]
+c5b5ec74: bets 170,672 and is all-in
+Hero: calls 167,756 and is all-in
+Uncalled bet (2,916) returned to c5b5ec74
+c5b5ec74: shows [4c 4h] (a full house, Fours full of Kings)
+Hero: shows [As Qc] (a flush Ace high)
+*** SHOWDOWN ***
+c5b5ec74 collected 586,912 from pot
+*** SUMMARY ***
+Total pot 586,912 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s Js Kh Ks 4s]
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero (button) showed [As Qc] and lost with a flush Ace high
+Seat 3: 9fd880c0 (small blind) folded before Flop
+Seat 4: c8ecf83e (big blind) folded before Flop
+Seat 5: c5b5ec74 showed [4c 4h] and won (586,912) with a full house, Fours full of Kings
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855839: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level23(6,000/12,000) - 2026/01/17 00:30:14
+Table '62' 7-max Seat #1 is the button
+Seat 1: b5d950ed (196,027 in chips)
+Seat 2: Hero (287,756 in chips)
+Seat 3: 9fd880c0 (280,712 in chips)
+Seat 4: c8ecf83e (273,133 in chips)
+Seat 5: c5b5ec74 (284,672 in chips)
+Seat 6: 7b48cce6 (514,324 in chips)
+Seat 7: 19c6d26 (718,844 in chips)
+19c6d26: posts the ante 1,800
+7b48cce6: posts the ante 1,800
+b5d950ed: posts the ante 1,800
+9fd880c0: posts the ante 1,800
+c5b5ec74: posts the ante 1,800
+c8ecf83e: posts the ante 1,800
+Hero: posts the ante 1,800
+Hero: posts small blind 6,000
+9fd880c0: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [4h 2h]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+c8ecf83e: folds
+c5b5ec74: folds
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: folds
+Hero: folds
+Uncalled bet (6,000) returned to 9fd880c0
+*** SHOWDOWN ***
+9fd880c0 collected 24,600 from pot
+*** SUMMARY ***
+Total pot 24,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: b5d950ed (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 9fd880c0 (big blind) collected (24,600)
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855825: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level23(6,000/12,000) - 2026/01/17 00:29:22
+Table '62' 7-max Seat #7 is the button
+Seat 1: b5d950ed (203,827 in chips)
+Seat 2: Hero (313,556 in chips)
+Seat 3: 9fd880c0 (282,512 in chips)
+Seat 4: c8ecf83e (274,933 in chips)
+Seat 5: c5b5ec74 (286,472 in chips)
+Seat 6: 7b48cce6 (516,124 in chips)
+Seat 7: 19c6d26 (678,044 in chips)
+19c6d26: posts the ante 1,800
+7b48cce6: posts the ante 1,800
+b5d950ed: posts the ante 1,800
+9fd880c0: posts the ante 1,800
+c5b5ec74: posts the ante 1,800
+c8ecf83e: posts the ante 1,800
+Hero: posts the ante 1,800
+b5d950ed: posts small blind 6,000
+Hero: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [3d As]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: folds
+7b48cce6: folds
+19c6d26: raises 12,000 to 24,000
+b5d950ed: folds
+Hero: calls 12,000
+*** FLOP *** [Ts Tc Kc]
+Hero: checks
+19c6d26: bets 21,978
+Hero: folds
+Uncalled bet (21,978) returned to 19c6d26
+*** SHOWDOWN ***
+19c6d26 collected 66,600 from pot
+*** SUMMARY ***
+Total pot 66,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts Tc Kc]
+Seat 1: b5d950ed (small blind) folded before Flop
+Seat 2: Hero (big blind) folded on the Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 (button) won (66,600)
+
+
+Poker Hand #TM91855812: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level23(6,000/12,000) - 2026/01/17 00:28:41
+Table '62' 7-max Seat #6 is the button
+Seat 1: b5d950ed (217,627 in chips)
+Seat 2: Hero (315,356 in chips)
+Seat 3: 9fd880c0 (284,312 in chips)
+Seat 4: c8ecf83e (276,733 in chips)
+Seat 5: c5b5ec74 (288,272 in chips)
+Seat 6: 7b48cce6 (517,924 in chips)
+Seat 7: 19c6d26 (655,244 in chips)
+7b48cce6: posts the ante 1,800
+19c6d26: posts the ante 1,800
+b5d950ed: posts the ante 1,800
+9fd880c0: posts the ante 1,800
+c5b5ec74: posts the ante 1,800
+c8ecf83e: posts the ante 1,800
+Hero: posts the ante 1,800
+19c6d26: posts small blind 6,000
+b5d950ed: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Ad 7s]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+Hero: folds
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: folds
+7b48cce6: folds
+19c6d26: raises 641,444 to 653,444 and is all-in
+b5d950ed: folds
+Uncalled bet (641,444) returned to 19c6d26
+*** SHOWDOWN ***
+19c6d26 collected 36,600 from pot
+*** SUMMARY ***
+Total pot 36,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: b5d950ed (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 (button) folded before Flop
+Seat 7: 19c6d26 (small blind) collected (36,600)
+
+
+Poker Hand #TM91855790: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level23(6,000/12,000) - 2026/01/17 00:27:14
+Table '62' 7-max Seat #5 is the button
+Seat 1: b5d950ed (219,427 in chips)
+Seat 2: Hero (317,156 in chips)
+Seat 3: 9fd880c0 (286,112 in chips)
+Seat 4: c8ecf83e (278,533 in chips)
+Seat 5: c5b5ec74 (353,978 in chips)
+Seat 6: 7b48cce6 (525,724 in chips)
+Seat 7: 19c6d26 (574,538 in chips)
+19c6d26: posts the ante 1,800
+7b48cce6: posts the ante 1,800
+b5d950ed: posts the ante 1,800
+9fd880c0: posts the ante 1,800
+c5b5ec74: posts the ante 1,800
+c8ecf83e: posts the ante 1,800
+Hero: posts the ante 1,800
+7b48cce6: posts small blind 6,000
+19c6d26: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Jh 4h]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b5d950ed: folds
+Hero: folds
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: calls 12,000
+7b48cce6: folds
+19c6d26: checks
+*** FLOP *** [7d 4c 9s]
+19c6d26: checks
+c5b5ec74: bets 22,800
+19c6d26: raises 29,106 to 51,906
+c5b5ec74: calls 29,106
+*** TURN *** [7d 4c 9s] [3h]
+19c6d26: checks
+c5b5ec74: checks
+*** RIVER *** [7d 4c 9s 3h] [Qc]
+19c6d26: bets 144,000
+c5b5ec74: folds
+Uncalled bet (144,000) returned to 19c6d26
+*** SHOWDOWN ***
+19c6d26 collected 146,412 from pot
+*** SUMMARY ***
+Total pot 146,412 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d 4c 9s 3h Qc]
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 (button) folded on the River
+Seat 6: 7b48cce6 (small blind) folded before Flop
+Seat 7: 19c6d26 (big blind) won (146,412)
+
+
+Poker Hand #TM91855755: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level23(6,000/12,000) - 2026/01/17 00:25:03
+Table '62' 7-max Seat #4 is the button
+Seat 1: b5d950ed (474,789 in chips)
+Seat 2: Hero (318,956 in chips)
+Seat 3: 9fd880c0 (287,912 in chips)
+Seat 4: c8ecf83e (280,333 in chips)
+Seat 5: c5b5ec74 (361,778 in chips)
+Seat 6: 7b48cce6 (255,362 in chips)
+Seat 7: 19c6d26 (576,338 in chips)
+19c6d26: posts the ante 1,800
+7b48cce6: posts the ante 1,800
+b5d950ed: posts the ante 1,800
+9fd880c0: posts the ante 1,800
+c8ecf83e: posts the ante 1,800
+Hero: posts the ante 1,800
+c5b5ec74: posts the ante 1,800
+c5b5ec74: posts small blind 6,000
+7b48cce6: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Qd 5h]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+19c6d26: folds
+b5d950ed: raises 12,000 to 24,000
+Hero: folds
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: folds
+7b48cce6: calls 12,000
+*** FLOP *** [2d 9c 7c]
+7b48cce6: checks
+b5d950ed: bets 21,978
+7b48cce6: calls 21,978
+*** TURN *** [2d 9c 7c] [6c]
+7b48cce6: bets 207,584 and is all-in
+b5d950ed: calls 207,584
+7b48cce6: shows [Qc Tc] (a flush Queen high)
+b5d950ed: shows [9s 8s] (a pair of Nines)
+*** RIVER *** [2d 9c 7c 6c] [9h]
+*** SHOWDOWN ***
+7b48cce6 collected 525,724 from pot
+*** SUMMARY ***
+Total pot 525,724 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d 9c 7c 6c 9h]
+Seat 1: b5d950ed showed [9s 8s] and lost with three of a kind, Nines
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e (button) folded before Flop
+Seat 5: c5b5ec74 (small blind) folded before Flop
+Seat 6: 7b48cce6 (big blind) showed [Qc Tc] and won (525,724) with a flush Queen high
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855737: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level23(6,000/12,000) - 2026/01/17 00:24:07
+Table '62' 7-max Seat #3 is the button
+Seat 1: b5d950ed (476,589 in chips)
+Seat 2: Hero (290,156 in chips)
+Seat 3: 9fd880c0 (289,712 in chips)
+Seat 4: c8ecf83e (288,133 in chips)
+Seat 5: c5b5ec74 (375,578 in chips)
+Seat 6: 7b48cce6 (257,162 in chips)
+Seat 7: 19c6d26 (578,138 in chips)
+19c6d26: posts the ante 1,800
+7b48cce6: posts the ante 1,800
+b5d950ed: posts the ante 1,800
+9fd880c0: posts the ante 1,800
+Hero: posts the ante 1,800
+c5b5ec74: posts the ante 1,800
+c8ecf83e: posts the ante 1,800
+c8ecf83e: posts small blind 6,000
+c5b5ec74: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Js Qd]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: folds
+Hero: raises 12,000 to 24,000
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: folds
+Uncalled bet (12,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 42,600 from pot
+*** SUMMARY ***
+Total pot 42,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero collected (42,600)
+Seat 3: 9fd880c0 (button) folded before Flop
+Seat 4: c8ecf83e (small blind) folded before Flop
+Seat 5: c5b5ec74 (big blind) folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855730: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level23(6,000/12,000) - 2026/01/17 00:23:49
+Table '62' 7-max Seat #2 is the button
+Seat 1: b5d950ed (478,389 in chips)
+Seat 2: Hero (291,956 in chips)
+Seat 3: 9fd880c0 (297,512 in chips)
+Seat 4: c8ecf83e (271,333 in chips)
+Seat 5: c5b5ec74 (377,378 in chips)
+Seat 6: 7b48cce6 (258,962 in chips)
+Seat 7: 19c6d26 (579,938 in chips)
+19c6d26: posts the ante 1,800
+7b48cce6: posts the ante 1,800
+b5d950ed: posts the ante 1,800
+9fd880c0: posts the ante 1,800
+Hero: posts the ante 1,800
+c5b5ec74: posts the ante 1,800
+c8ecf83e: posts the ante 1,800
+9fd880c0: posts small blind 6,000
+c8ecf83e: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [8c 9s]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+c5b5ec74: folds
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: folds
+Hero: folds
+9fd880c0: folds
+Uncalled bet (6,000) returned to c8ecf83e
+*** SHOWDOWN ***
+c8ecf83e collected 24,600 from pot
+*** SUMMARY ***
+Total pot 24,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 9fd880c0 (small blind) folded before Flop
+Seat 4: c8ecf83e (big blind) collected (24,600)
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855719: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level22(5,000/10,000) - 2026/01/17 00:22:56
+Table '62' 7-max Seat #1 is the button
+Seat 1: b5d950ed (479,889 in chips)
+Seat 2: Hero (426,962 in chips)
+Seat 3: 9fd880c0 (135,006 in chips)
+Seat 4: c8ecf83e (272,833 in chips)
+Seat 5: c5b5ec74 (378,878 in chips)
+Seat 6: 7b48cce6 (260,462 in chips)
+Seat 7: 19c6d26 (601,438 in chips)
+19c6d26: posts the ante 1,500
+7b48cce6: posts the ante 1,500
+b5d950ed: posts the ante 1,500
+9fd880c0: posts the ante 1,500
+c5b5ec74: posts the ante 1,500
+c8ecf83e: posts the ante 1,500
+Hero: posts the ante 1,500
+Hero: posts small blind 5,000
+9fd880c0: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Kd Td]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+c8ecf83e: folds
+c5b5ec74: folds
+7b48cce6: folds
+19c6d26: raises 10,000 to 20,000
+b5d950ed: folds
+Hero: raises 40,000 to 60,000
+9fd880c0: raises 73,506 to 133,506 and is all-in
+19c6d26: folds
+Hero: calls 73,506
+9fd880c0: shows [Jc Jh]
+Hero: shows [Kd Td]
+*** FLOP *** [4d 4c 8s]
+*** TURN *** [4d 4c 8s] [Ah]
+*** RIVER *** [4d 4c 8s Ah] [3d]
+*** SHOWDOWN ***
+9fd880c0 collected 297,512 from pot
+*** SUMMARY ***
+Total pot 297,512 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 4c 8s Ah 3d]
+Seat 1: b5d950ed (button) folded before Flop
+Seat 2: Hero (small blind) showed [Kd Td] and lost with a pair of Fours
+Seat 3: 9fd880c0 (big blind) showed [Jc Jh] and won (297,512) with two pair, Jacks and Fours
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855702: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level22(5,000/10,000) - 2026/01/17 00:21:49
+Table '62' 7-max Seat #7 is the button
+Seat 1: b5d950ed (596,370 in chips)
+Seat 2: Hero (438,462 in chips)
+Seat 3: 9fd880c0 (136,506 in chips)
+Seat 4: c8ecf83e (274,333 in chips)
+Seat 5: c5b5ec74 (390,378 in chips)
+Seat 6: 7b48cce6 (116,481 in chips)
+Seat 7: 19c6d26 (602,938 in chips)
+19c6d26: posts the ante 1,500
+7b48cce6: posts the ante 1,500
+b5d950ed: posts the ante 1,500
+9fd880c0: posts the ante 1,500
+c5b5ec74: posts the ante 1,500
+c8ecf83e: posts the ante 1,500
+Hero: posts the ante 1,500
+b5d950ed: posts small blind 5,000
+Hero: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [7d 3d]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: calls 10,000
+7b48cce6: raises 104,981 to 114,981 and is all-in
+19c6d26: folds
+b5d950ed: raises 479,889 to 594,870 and is all-in
+Hero: folds
+c5b5ec74: folds
+Uncalled bet (479,889) returned to b5d950ed
+b5d950ed: shows [Jd Th]
+7b48cce6: shows [Ah Qh]
+*** FLOP *** [6d 8h 5d]
+*** TURN *** [6d 8h 5d] [9d]
+*** RIVER *** [6d 8h 5d 9d] [8s]
+*** SHOWDOWN ***
+7b48cce6 collected 260,462 from pot
+*** SUMMARY ***
+Total pot 260,462 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 8h 5d 9d 8s]
+Seat 1: b5d950ed (small blind) showed [Jd Th] and lost with a pair of Eights
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 showed [Ah Qh] and won (260,462) with a pair of Eights
+Seat 7: 19c6d26 (button) folded before Flop
+
+
+Poker Hand #TM91855695: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level22(5,000/10,000) - 2026/01/17 00:21:25
+Table '62' 7-max Seat #6 is the button
+Seat 1: b5d950ed (607,870 in chips)
+Seat 2: Hero (439,962 in chips)
+Seat 3: 9fd880c0 (138,006 in chips)
+Seat 4: c8ecf83e (250,333 in chips)
+Seat 5: c5b5ec74 (391,878 in chips)
+Seat 6: 7b48cce6 (117,981 in chips)
+Seat 7: 19c6d26 (609,438 in chips)
+7b48cce6: posts the ante 1,500
+19c6d26: posts the ante 1,500
+b5d950ed: posts the ante 1,500
+9fd880c0: posts the ante 1,500
+c5b5ec74: posts the ante 1,500
+c8ecf83e: posts the ante 1,500
+Hero: posts the ante 1,500
+19c6d26: posts small blind 5,000
+b5d950ed: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [2c 8s]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+Hero: folds
+9fd880c0: folds
+c8ecf83e: raises 10,000 to 20,000
+c5b5ec74: folds
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: folds
+Uncalled bet (10,000) returned to c8ecf83e
+*** SHOWDOWN ***
+c8ecf83e collected 35,500 from pot
+*** SUMMARY ***
+Total pot 35,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: b5d950ed (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e collected (35,500)
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 (button) folded before Flop
+Seat 7: 19c6d26 (small blind) folded before Flop
+
+
+Poker Hand #TM91855691: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level22(5,000/10,000) - 2026/01/17 00:21:04
+Table '62' 7-max Seat #5 is the button
+Seat 1: b5d950ed (609,370 in chips)
+Seat 2: Hero (405,962 in chips)
+Seat 3: 9fd880c0 (139,506 in chips)
+Seat 4: c8ecf83e (251,833 in chips)
+Seat 5: c5b5ec74 (393,378 in chips)
+Seat 6: 7b48cce6 (124,481 in chips)
+Seat 7: 19c6d26 (630,938 in chips)
+19c6d26: posts the ante 1,500
+7b48cce6: posts the ante 1,500
+b5d950ed: posts the ante 1,500
+9fd880c0: posts the ante 1,500
+c5b5ec74: posts the ante 1,500
+c8ecf83e: posts the ante 1,500
+Hero: posts the ante 1,500
+7b48cce6: posts small blind 5,000
+19c6d26: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [As Kc]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b5d950ed: folds
+Hero: raises 10,000 to 20,000
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: folds
+7b48cce6: folds
+19c6d26: calls 10,000
+*** FLOP *** [9s 2s Js]
+19c6d26: checks
+Hero: bets 29,971
+19c6d26: folds
+Uncalled bet (29,971) returned to Hero
+*** SHOWDOWN ***
+Hero collected 55,500 from pot
+*** SUMMARY ***
+Total pot 55,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 2s Js]
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero won (55,500)
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 (button) folded before Flop
+Seat 6: 7b48cce6 (small blind) folded before Flop
+Seat 7: 19c6d26 (big blind) folded on the Flop
+
+
+Poker Hand #TM91855664: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level22(5,000/10,000) - 2026/01/17 00:19:41
+Table '62' 7-max Seat #4 is the button
+Seat 1: b5d950ed (630,870 in chips)
+Seat 2: Hero (407,462 in chips)
+Seat 3: 9fd880c0 (141,006 in chips)
+Seat 4: c8ecf83e (253,333 in chips)
+Seat 5: c5b5ec74 (399,878 in chips)
+Seat 6: 7b48cce6 (145,981 in chips)
+Seat 7: 19c6d26 (576,938 in chips)
+19c6d26: posts the ante 1,500
+7b48cce6: posts the ante 1,500
+b5d950ed: posts the ante 1,500
+9fd880c0: posts the ante 1,500
+c8ecf83e: posts the ante 1,500
+Hero: posts the ante 1,500
+c5b5ec74: posts the ante 1,500
+c5b5ec74: posts small blind 5,000
+7b48cce6: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Ad 4h]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+19c6d26: raises 10,000 to 20,000
+b5d950ed: calls 20,000
+Hero: folds
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: folds
+7b48cce6: calls 10,000
+*** FLOP *** [5s 5c Qc]
+7b48cce6: checks
+19c6d26: checks
+b5d950ed: checks
+*** TURN *** [5s 5c Qc] [8c]
+7b48cce6: checks
+19c6d26: checks
+b5d950ed: checks
+*** RIVER *** [5s 5c Qc 8c] [9d]
+7b48cce6: checks
+19c6d26: checks
+b5d950ed: checks
+7b48cce6: shows [Ts Ks] (a pair of Fives)
+19c6d26: shows [As 9c] (two pair, Nines and Fives)
+b5d950ed: shows [7c 7h] (two pair, Sevens and Fives)
+*** SHOWDOWN ***
+19c6d26 collected 75,500 from pot
+*** SUMMARY ***
+Total pot 75,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 5c Qc 8c 9d]
+Seat 1: b5d950ed showed [7c 7h] and lost with two pair, Sevens and Fives
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e (button) folded before Flop
+Seat 5: c5b5ec74 (small blind) folded before Flop
+Seat 6: 7b48cce6 (big blind) showed [Ts Ks] and lost with a pair of Fives
+Seat 7: 19c6d26 showed [As 9c] and won (75,500) with two pair, Nines and Fives
+
+
+Poker Hand #TM91855662: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level22(5,000/10,000) - 2026/01/17 00:19:15
+Table '62' 7-max Seat #3 is the button
+Seat 1: b5d950ed (632,370 in chips)
+Seat 2: Hero (408,962 in chips)
+Seat 3: 9fd880c0 (117,006 in chips)
+Seat 4: c8ecf83e (259,833 in chips)
+Seat 5: c5b5ec74 (411,378 in chips)
+Seat 6: 7b48cce6 (147,481 in chips)
+Seat 7: 19c6d26 (578,438 in chips)
+19c6d26: posts the ante 1,500
+7b48cce6: posts the ante 1,500
+b5d950ed: posts the ante 1,500
+9fd880c0: posts the ante 1,500
+Hero: posts the ante 1,500
+c5b5ec74: posts the ante 1,500
+c8ecf83e: posts the ante 1,500
+c8ecf83e: posts small blind 5,000
+c5b5ec74: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [8d 5h]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: folds
+Hero: folds
+9fd880c0: raises 105,506 to 115,506 and is all-in
+c8ecf83e: folds
+c5b5ec74: folds
+Uncalled bet (105,506) returned to 9fd880c0
+*** SHOWDOWN ***
+9fd880c0 collected 35,500 from pot
+*** SUMMARY ***
+Total pot 35,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 (button) collected (35,500)
+Seat 4: c8ecf83e (small blind) folded before Flop
+Seat 5: c5b5ec74 (big blind) folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855645: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level22(5,000/10,000) - 2026/01/17 00:18:14
+Table '62' 7-max Seat #2 is the button
+Seat 1: b5d950ed (633,870 in chips)
+Seat 2: Hero (410,462 in chips)
+Seat 3: 9fd880c0 (123,506 in chips)
+Seat 4: c8ecf83e (316,021 in chips)
+Seat 5: c5b5ec74 (412,878 in chips)
+Seat 6: 7b48cce6 (148,981 in chips)
+Seat 7: 19c6d26 (509,750 in chips)
+19c6d26: posts the ante 1,500
+7b48cce6: posts the ante 1,500
+b5d950ed: posts the ante 1,500
+9fd880c0: posts the ante 1,500
+Hero: posts the ante 1,500
+c5b5ec74: posts the ante 1,500
+c8ecf83e: posts the ante 1,500
+9fd880c0: posts small blind 5,000
+c8ecf83e: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [7h 5s]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+c5b5ec74: folds
+7b48cce6: folds
+19c6d26: raises 10,000 to 20,000
+b5d950ed: folds
+Hero: folds
+9fd880c0: folds
+c8ecf83e: calls 10,000
+*** FLOP *** [9s Ac Tc]
+c8ecf83e: checks
+19c6d26: bets 13,875
+c8ecf83e: calls 13,875
+*** TURN *** [9s Ac Tc] [4s]
+c8ecf83e: checks
+19c6d26: bets 20,813
+c8ecf83e: calls 20,813
+*** RIVER *** [9s Ac Tc 4s] [2d]
+c8ecf83e: checks
+19c6d26: checks
+c8ecf83e: shows [Kh Qh] (Ace high)
+19c6d26: shows [Jh 9h] (a pair of Nines)
+*** SHOWDOWN ***
+19c6d26 collected 124,876 from pot
+*** SUMMARY ***
+Total pot 124,876 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s Ac Tc 4s 2d]
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 9fd880c0 (small blind) folded before Flop
+Seat 4: c8ecf83e (big blind) showed [Kh Qh] and lost with Ace high
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 showed [Jh 9h] and won (124,876) with a pair of Nines
+
+
+Poker Hand #TM91855630: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level22(5,000/10,000) - 2026/01/17 00:17:30
+Table '62' 7-max Seat #1 is the button
+Seat 1: b5d950ed (635,370 in chips)
+Seat 2: Hero (467,212 in chips)
+Seat 3: 9fd880c0 (145,006 in chips)
+Seat 4: c8ecf83e (317,521 in chips)
+Seat 5: c5b5ec74 (328,628 in chips)
+Seat 6: 7b48cce6 (150,481 in chips)
+Seat 7: 19c6d26 (511,250 in chips)
+19c6d26: posts the ante 1,500
+7b48cce6: posts the ante 1,500
+b5d950ed: posts the ante 1,500
+9fd880c0: posts the ante 1,500
+c5b5ec74: posts the ante 1,500
+c8ecf83e: posts the ante 1,500
+Hero: posts the ante 1,500
+Hero: posts small blind 5,000
+9fd880c0: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Ac Jh]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+c8ecf83e: folds
+c5b5ec74: raises 10,000 to 20,000
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: folds
+Hero: calls 15,000
+9fd880c0: calls 10,000
+*** FLOP *** [4h 4d 9c]
+Hero: checks
+9fd880c0: checks
+c5b5ec74: bets 35,250
+Hero: calls 35,250
+9fd880c0: folds
+*** TURN *** [4h 4d 9c] [7s]
+Hero: checks
+c5b5ec74: checks
+*** RIVER *** [4h 4d 9c 7s] [3c]
+Hero: checks
+c5b5ec74: checks
+Hero: shows [Ac Jh] (a pair of Fours)
+c5b5ec74: shows [Ad Qc] (a pair of Fours)
+*** SHOWDOWN ***
+c5b5ec74 collected 141,000 from pot
+*** SUMMARY ***
+Total pot 141,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 4d 9c 7s 3c]
+Seat 1: b5d950ed (button) folded before Flop
+Seat 2: Hero (small blind) showed [Ac Jh] and lost with a pair of Fours
+Seat 3: 9fd880c0 (big blind) folded on the Flop
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 showed [Ad Qc] and won (141,000) with a pair of Fours
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855606: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level22(5,000/10,000) - 2026/01/17 00:15:56
+Table '62' 7-max Seat #7 is the button
+Seat 1: b5d950ed (543,263 in chips)
+Seat 2: Hero (478,712 in chips)
+Seat 3: 9fd880c0 (146,506 in chips)
+Seat 4: c8ecf83e (319,021 in chips)
+Seat 5: c5b5ec74 (330,128 in chips)
+Seat 6: 7b48cce6 (225,088 in chips)
+Seat 7: 19c6d26 (512,750 in chips)
+19c6d26: posts the ante 1,500
+7b48cce6: posts the ante 1,500
+b5d950ed: posts the ante 1,500
+9fd880c0: posts the ante 1,500
+c5b5ec74: posts the ante 1,500
+c8ecf83e: posts the ante 1,500
+Hero: posts the ante 1,500
+b5d950ed: posts small blind 5,000
+Hero: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [2h 9c]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: folds
+7b48cce6: raises 10,000 to 20,000
+19c6d26: folds
+b5d950ed: calls 15,000
+Hero: folds
+*** FLOP *** [Ad Js 5d]
+b5d950ed: checks
+7b48cce6: bets 19,965
+b5d950ed: calls 19,965
+*** TURN *** [Ad Js 5d] [Qc]
+b5d950ed: checks
+7b48cce6: checks
+*** RIVER *** [Ad Js 5d Qc] [3s]
+b5d950ed: bets 33,142
+7b48cce6: calls 33,142
+b5d950ed: shows [Ah 8s] (a pair of Aces)
+7b48cce6: shows [As 7s] (a pair of Aces)
+*** SHOWDOWN ***
+b5d950ed collected 166,714 from pot
+*** SUMMARY ***
+Total pot 166,714 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad Js 5d Qc 3s]
+Seat 1: b5d950ed (small blind) showed [Ah 8s] and won (166,714) with a pair of Aces
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 showed [As 7s] and lost with a pair of Aces
+Seat 7: 19c6d26 (button) folded before Flop
+
+
+Poker Hand #TM91855593: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level22(5,000/10,000) - 2026/01/17 00:15:23
+Table '62' 7-max Seat #6 is the button
+Seat 1: b5d950ed (564,763 in chips)
+Seat 2: Hero (444,712 in chips)
+Seat 3: 9fd880c0 (148,006 in chips)
+Seat 4: c8ecf83e (320,521 in chips)
+Seat 5: c5b5ec74 (331,628 in chips)
+Seat 6: 7b48cce6 (226,588 in chips)
+Seat 7: 19c6d26 (519,250 in chips)
+7b48cce6: posts the ante 1,500
+19c6d26: posts the ante 1,500
+b5d950ed: posts the ante 1,500
+9fd880c0: posts the ante 1,500
+c5b5ec74: posts the ante 1,500
+c8ecf83e: posts the ante 1,500
+Hero: posts the ante 1,500
+19c6d26: posts small blind 5,000
+b5d950ed: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [9d 7d]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+Hero: raises 10,000 to 20,000
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: folds
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: calls 10,000
+*** FLOP *** [Ac Qs 4s]
+b5d950ed: checks
+Hero: bets 31,000
+b5d950ed: folds
+Uncalled bet (31,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 55,500 from pot
+*** SUMMARY ***
+Total pot 55,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac Qs 4s]
+Seat 1: b5d950ed (big blind) folded on the Flop
+Seat 2: Hero won (55,500)
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 (button) folded before Flop
+Seat 7: 19c6d26 (small blind) folded before Flop
+
+
+Poker Hand #TM91855573: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level21(4,000/8,000) - 2026/01/17 00:14:02
+Table '62' 7-max Seat #5 is the button
+Seat 1: b5d950ed (565,963 in chips)
+Seat 2: Hero (445,912 in chips)
+Seat 3: 9fd880c0 (190,418 in chips)
+Seat 4: c8ecf83e (418,933 in chips)
+Seat 5: c5b5ec74 (348,828 in chips)
+Seat 6: 7b48cce6 (231,788 in chips)
+Seat 7: 19c6d26 (353,626 in chips)
+19c6d26: posts the ante 1,200
+7b48cce6: posts the ante 1,200
+b5d950ed: posts the ante 1,200
+9fd880c0: posts the ante 1,200
+c5b5ec74: posts the ante 1,200
+c8ecf83e: posts the ante 1,200
+Hero: posts the ante 1,200
+7b48cce6: posts small blind 4,000
+19c6d26: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Jh 8c]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b5d950ed: folds
+Hero: folds
+9fd880c0: raises 8,000 to 16,000
+c8ecf83e: calls 16,000
+c5b5ec74: calls 16,000
+7b48cce6: folds
+19c6d26: calls 8,000
+*** FLOP *** [5s 4s 4c]
+19c6d26: checks
+9fd880c0: bets 25,212
+c8ecf83e: calls 25,212
+c5b5ec74: folds
+19c6d26: calls 25,212
+*** TURN *** [5s 4s 4c] [5h]
+19c6d26: checks
+9fd880c0: checks
+c8ecf83e: bets 56,000
+19c6d26: calls 56,000
+9fd880c0: folds
+*** RIVER *** [5s 4s 4c 5h] [Ks]
+19c6d26: bets 255,214 and is all-in
+c8ecf83e: folds
+Uncalled bet (255,214) returned to 19c6d26
+*** SHOWDOWN ***
+19c6d26 collected 264,036 from pot
+*** SUMMARY ***
+Total pot 264,036 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 4s 4c 5h Ks]
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 folded on the Turn
+Seat 4: c8ecf83e folded on the River
+Seat 5: c5b5ec74 (button) folded on the Flop
+Seat 6: 7b48cce6 (small blind) folded before Flop
+Seat 7: 19c6d26 (big blind) won (264,036)
+
+
+Poker Hand #TM91855562: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level21(4,000/8,000) - 2026/01/17 00:13:19
+Table '62' 7-max Seat #4 is the button
+Seat 1: b5d950ed (567,163 in chips)
+Seat 2: Hero (447,112 in chips)
+Seat 3: 9fd880c0 (191,618 in chips)
+Seat 4: c8ecf83e (436,133 in chips)
+Seat 5: c5b5ec74 (354,028 in chips)
+Seat 6: 7b48cce6 (248,988 in chips)
+Seat 7: 19c6d26 (310,426 in chips)
+19c6d26: posts the ante 1,200
+7b48cce6: posts the ante 1,200
+b5d950ed: posts the ante 1,200
+9fd880c0: posts the ante 1,200
+c8ecf83e: posts the ante 1,200
+Hero: posts the ante 1,200
+c5b5ec74: posts the ante 1,200
+c5b5ec74: posts small blind 4,000
+7b48cce6: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Jc 4s]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+19c6d26: raises 8,000 to 16,000
+b5d950ed: folds
+Hero: folds
+9fd880c0: folds
+c8ecf83e: calls 16,000
+c5b5ec74: folds
+7b48cce6: calls 8,000
+*** FLOP *** [4c 2h Ah]
+7b48cce6: checks
+19c6d26: bets 19,932
+c8ecf83e: folds
+7b48cce6: folds
+Uncalled bet (19,932) returned to 19c6d26
+*** SHOWDOWN ***
+19c6d26 collected 60,400 from pot
+*** SUMMARY ***
+Total pot 60,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 2h Ah]
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e (button) folded on the Flop
+Seat 5: c5b5ec74 (small blind) folded before Flop
+Seat 6: 7b48cce6 (big blind) folded on the Flop
+Seat 7: 19c6d26 won (60,400)
+
+
+Poker Hand #TM91855548: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level21(4,000/8,000) - 2026/01/17 00:12:28
+Table '62' 7-max Seat #3 is the button
+Seat 1: b5d950ed (568,363 in chips)
+Seat 2: Hero (448,312 in chips)
+Seat 3: 9fd880c0 (192,818 in chips)
+Seat 4: c8ecf83e (441,333 in chips)
+Seat 5: c5b5ec74 (417,880 in chips)
+Seat 6: 7b48cce6 (250,188 in chips)
+Seat 7: 19c6d26 (236,574 in chips)
+19c6d26: posts the ante 1,200
+7b48cce6: posts the ante 1,200
+b5d950ed: posts the ante 1,200
+9fd880c0: posts the ante 1,200
+Hero: posts the ante 1,200
+c5b5ec74: posts the ante 1,200
+c8ecf83e: posts the ante 1,200
+c8ecf83e: posts small blind 4,000
+c5b5ec74: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [8c Jd]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+7b48cce6: folds
+19c6d26: raises 8,000 to 16,000
+b5d950ed: folds
+Hero: folds
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: calls 8,000
+*** FLOP *** [8s Ac 2d]
+c5b5ec74: checks
+19c6d26: bets 14,652
+c5b5ec74: calls 14,652
+*** TURN *** [8s Ac 2d] [Ad]
+c5b5ec74: checks
+19c6d26: checks
+*** RIVER *** [8s Ac 2d Ad] [Kd]
+c5b5ec74: bets 8,800
+19c6d26: raises 23,200 to 32,000
+c5b5ec74: calls 23,200
+19c6d26: shows [Jc As] (three of a kind, Aces)
+c5b5ec74: shows [Qs Ks] (two pair, Aces and Kings)
+*** SHOWDOWN ***
+19c6d26 collected 137,704 from pot
+*** SUMMARY ***
+Total pot 137,704 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s Ac 2d Ad Kd]
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 (button) folded before Flop
+Seat 4: c8ecf83e (small blind) folded before Flop
+Seat 5: c5b5ec74 (big blind) showed [Qs Ks] and lost with two pair, Aces and Kings
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 showed [Jc As] and won (137,704) with three of a kind, Aces
+
+
+Poker Hand #TM91855533: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level21(4,000/8,000) - 2026/01/17 00:11:36
+Table '62' 7-max Seat #2 is the button
+Seat 1: b5d950ed (569,563 in chips)
+Seat 2: Hero (449,512 in chips)
+Seat 3: 9fd880c0 (198,018 in chips)
+Seat 4: c8ecf83e (414,133 in chips)
+Seat 5: c5b5ec74 (419,080 in chips)
+Seat 6: 7b48cce6 (267,388 in chips)
+Seat 7: 19c6d26 (237,774 in chips)
+19c6d26: posts the ante 1,200
+7b48cce6: posts the ante 1,200
+b5d950ed: posts the ante 1,200
+9fd880c0: posts the ante 1,200
+Hero: posts the ante 1,200
+c5b5ec74: posts the ante 1,200
+c8ecf83e: posts the ante 1,200
+9fd880c0: posts small blind 4,000
+c8ecf83e: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [2c 6d]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+c5b5ec74: folds
+7b48cce6: raises 8,000 to 16,000
+19c6d26: folds
+b5d950ed: folds
+Hero: folds
+9fd880c0: folds
+c8ecf83e: calls 8,000
+*** FLOP *** [Jc 3c Tc]
+c8ecf83e: checks
+7b48cce6: checks
+*** TURN *** [Jc 3c Tc] [6c]
+c8ecf83e: bets 22,200
+7b48cce6: folds
+Uncalled bet (22,200) returned to c8ecf83e
+*** SHOWDOWN ***
+c8ecf83e collected 44,400 from pot
+*** SUMMARY ***
+Total pot 44,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc 3c Tc 6c]
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 9fd880c0 (small blind) folded before Flop
+Seat 4: c8ecf83e (big blind) won (44,400)
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 folded on the Turn
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855523: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level21(4,000/8,000) - 2026/01/17 00:11:14
+Table '62' 7-max Seat #1 is the button
+Seat 1: b5d950ed (570,763 in chips)
+Seat 2: Hero (454,712 in chips)
+Seat 3: 9fd880c0 (186,818 in chips)
+Seat 4: c8ecf83e (415,333 in chips)
+Seat 5: c5b5ec74 (420,280 in chips)
+Seat 6: 7b48cce6 (268,588 in chips)
+Seat 7: 19c6d26 (238,974 in chips)
+19c6d26: posts the ante 1,200
+7b48cce6: posts the ante 1,200
+b5d950ed: posts the ante 1,200
+9fd880c0: posts the ante 1,200
+c5b5ec74: posts the ante 1,200
+c8ecf83e: posts the ante 1,200
+Hero: posts the ante 1,200
+Hero: posts small blind 4,000
+9fd880c0: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [4s 2c]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+c8ecf83e: folds
+c5b5ec74: folds
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: folds
+Hero: folds
+Uncalled bet (4,000) returned to 9fd880c0
+*** SHOWDOWN ***
+9fd880c0 collected 16,400 from pot
+*** SUMMARY ***
+Total pot 16,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: b5d950ed (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 9fd880c0 (big blind) collected (16,400)
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855507: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level21(4,000/8,000) - 2026/01/17 00:10:27
+Table '62' 7-max Seat #7 is the button
+Seat 1: b5d950ed (575,963 in chips)
+Seat 2: Hero (414,212 in chips)
+Seat 3: 9fd880c0 (188,018 in chips)
+Seat 4: c8ecf83e (416,533 in chips)
+Seat 5: c5b5ec74 (450,780 in chips)
+Seat 6: 7b48cce6 (269,788 in chips)
+Seat 7: 19c6d26 (240,174 in chips)
+19c6d26: posts the ante 1,200
+7b48cce6: posts the ante 1,200
+b5d950ed: posts the ante 1,200
+9fd880c0: posts the ante 1,200
+c5b5ec74: posts the ante 1,200
+c8ecf83e: posts the ante 1,200
+Hero: posts the ante 1,200
+b5d950ed: posts small blind 4,000
+Hero: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [As Tc]
+Dealt to 9fd880c0 
+Dealt to c8ecf83e 
+Dealt to c5b5ec74 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+9fd880c0: folds
+c8ecf83e: folds
+c5b5ec74: calls 8,000
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: folds
+Hero: checks
+*** FLOP *** [Ac Ah Kc]
+Hero: checks
+c5b5ec74: bets 21,300
+Hero: calls 21,300
+*** TURN *** [Ac Ah Kc] [7s]
+Hero: checks
+c5b5ec74: checks
+*** RIVER *** [Ac Ah Kc 7s] [6c]
+Hero: bets 91,590
+c5b5ec74: folds
+Uncalled bet (91,590) returned to Hero
+*** SHOWDOWN ***
+Hero collected 71,000 from pot
+*** SUMMARY ***
+Total pot 71,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac Ah Kc 7s 6c]
+Seat 1: b5d950ed (small blind) folded before Flop
+Seat 2: Hero (big blind) won (71,000)
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: c8ecf83e folded before Flop
+Seat 5: c5b5ec74 folded on the River
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 (button) folded before Flop
+
+
+Poker Hand #TM91855498: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level21(4,000/8,000) - 2026/01/17 00:09:44
+Table '62' 7-max Seat #6 is the button
+Seat 1: b5d950ed (574,163 in chips)
+Seat 2: Hero (415,412 in chips)
+Seat 3: 9fd880c0 (189,218 in chips)
+Seat 6: 7b48cce6 (270,988 in chips)
+Seat 7: 19c6d26 (238,374 in chips)
+7b48cce6: posts the ante 1,200
+19c6d26: posts the ante 1,200
+b5d950ed: posts the ante 1,200
+9fd880c0: posts the ante 1,200
+Hero: posts the ante 1,200
+19c6d26: posts small blind 4,000
+b5d950ed: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Ks 5c]
+Dealt to 9fd880c0 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+Hero: folds
+9fd880c0: folds
+7b48cce6: folds
+19c6d26: calls 4,000
+b5d950ed: checks
+*** FLOP *** [Jh Qd Jd]
+19c6d26: checks
+b5d950ed: checks
+*** TURN *** [Jh Qd Jd] [Ac]
+19c6d26: checks
+b5d950ed: checks
+*** RIVER *** [Jh Qd Jd Ac] [Kc]
+19c6d26: checks
+b5d950ed: bets 11,000
+19c6d26: calls 11,000
+b5d950ed: shows [3c 8s] (a pair of Jacks)
+19c6d26: shows [3s 4s] (a pair of Jacks)
+*** SHOWDOWN ***
+b5d950ed collected 22,000 from pot
+19c6d26 collected 22,000 from pot
+*** SUMMARY ***
+Total pot 44,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh Qd Jd Ac Kc]
+Seat 1: b5d950ed (big blind) showed [3c 8s] and won (22,000) with a pair of Jacks
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 6: 7b48cce6 (button) folded before Flop
+Seat 7: 19c6d26 (small blind) showed [3s 4s] and won (22,000) with a pair of Jacks
+
+
+Poker Hand #TM91855482: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level21(4,000/8,000) - 2026/01/17 00:08:39
+Table '62' 7-max Seat #5 is the button
+Seat 1: b5d950ed (575,363 in chips)
+Seat 2: Hero (416,612 in chips)
+Seat 3: 9fd880c0 (190,418 in chips)
+Seat 4: b5bd3c28 (58,422 in chips)
+Seat 5: b639e846 (31,528 in chips)
+Seat 6: 7b48cce6 (88,719 in chips)
+Seat 7: 19c6d26 (327,093 in chips)
+19c6d26: posts the ante 1,200
+7b48cce6: posts the ante 1,200
+b5d950ed: posts the ante 1,200
+b639e846: posts the ante 1,200
+9fd880c0: posts the ante 1,200
+Hero: posts the ante 1,200
+b5bd3c28: posts the ante 1,200
+7b48cce6: posts small blind 4,000
+19c6d26: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [5c Jd]
+Dealt to 9fd880c0 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b5d950ed: folds
+Hero: folds
+9fd880c0: folds
+b5bd3c28: raises 49,222 to 57,222 and is all-in
+b639e846: calls 30,328 and is all-in
+7b48cce6: raises 30,297 to 87,519 and is all-in
+19c6d26: calls 79,519
+7b48cce6: shows [As Qh]
+19c6d26: shows [8h 4c]
+b5bd3c28: shows [9h Ah]
+b639e846: shows [Tc Ac]
+*** FLOP *** [9c 9d Qd]
+*** TURN *** [9c 9d Qd] [Qs]
+*** RIVER *** [9c 9d Qd Qs] [Qc]
+*** SHOWDOWN ***
+7b48cce6 collected 129,712 from pot
+7b48cce6 collected 80,682 from pot
+7b48cce6 collected 60,594 from pot
+*** SUMMARY ***
+Total pot 270,988 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c 9d Qd Qs Qc]
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: b5bd3c28 showed [9h Ah] and lost with a full house, Queens full of Nines
+Seat 5: b639e846 (button) showed [Tc Ac] and lost with a full house, Queens full of Nines
+Seat 6: 7b48cce6 (small blind) showed [As Qh] and won (270,988) with four of a kind, Queens
+Seat 7: 19c6d26 (big blind) showed [8h 4c] and lost with a full house, Queens full of Nines
+
+
+Poker Hand #TM91855465: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level21(4,000/8,000) - 2026/01/17 00:07:39
+Table '62' 7-max Seat #4 is the button
+Seat 1: b5d950ed (576,563 in chips)
+Seat 2: Hero (417,812 in chips)
+Seat 3: 9fd880c0 (88,209 in chips)
+Seat 4: b5bd3c28 (59,622 in chips)
+Seat 5: b639e846 (119,737 in chips)
+Seat 6: 7b48cce6 (97,919 in chips)
+Seat 7: 19c6d26 (328,293 in chips)
+19c6d26: posts the ante 1,200
+7b48cce6: posts the ante 1,200
+b5d950ed: posts the ante 1,200
+b639e846: posts the ante 1,200
+9fd880c0: posts the ante 1,200
+Hero: posts the ante 1,200
+b5bd3c28: posts the ante 1,200
+b639e846: posts small blind 4,000
+7b48cce6: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [7c Qs]
+Dealt to 9fd880c0 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+19c6d26: folds
+b5d950ed: folds
+Hero: folds
+9fd880c0: raises 79,009 to 87,009 and is all-in
+b5bd3c28: folds
+b639e846: raises 31,528 to 118,537 and is all-in
+7b48cce6: folds
+Uncalled bet (31,528) returned to b639e846
+b639e846: shows [6s 6h]
+9fd880c0: shows [8s Ac]
+*** FLOP *** [8c 3d Qc]
+*** TURN *** [8c 3d Qc] [Jh]
+*** RIVER *** [8c 3d Qc Jh] [Jc]
+*** SHOWDOWN ***
+9fd880c0 collected 190,418 from pot
+*** SUMMARY ***
+Total pot 190,418 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 3d Qc Jh Jc]
+Seat 1: b5d950ed folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 showed [8s Ac] and won (190,418) with two pair, Jacks and Eights
+Seat 4: b5bd3c28 (button) folded before Flop
+Seat 5: b639e846 (small blind) showed [6s 6h] and lost with two pair, Jacks and Sixes
+Seat 6: 7b48cce6 (big blind) folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855438: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level20(3,500/7,000) - 2026/01/17 00:06:04
+Table '62' 7-max Seat #3 is the button
+Seat 1: b5d950ed (591,563 in chips)
+Seat 2: Hero (197,656 in chips)
+Seat 3: 9fd880c0 (89,209 in chips)
+Seat 4: b5bd3c28 (64,122 in chips)
+Seat 5: b639e846 (317,393 in chips)
+Seat 6: 7b48cce6 (98,919 in chips)
+Seat 7: 19c6d26 (329,293 in chips)
+19c6d26: posts the ante 1,000
+7b48cce6: posts the ante 1,000
+b5d950ed: posts the ante 1,000
+b639e846: posts the ante 1,000
+9fd880c0: posts the ante 1,000
+Hero: posts the ante 1,000
+b5bd3c28: posts the ante 1,000
+b5bd3c28: posts small blind 3,500
+b639e846: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [Jc Ah]
+Dealt to 9fd880c0 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+7b48cce6: folds
+19c6d26: folds
+b5d950ed: raises 7,000 to 14,000
+Hero: calls 14,000
+9fd880c0: folds
+b5bd3c28: folds
+b639e846: calls 7,000
+*** FLOP *** [Js Kd Jd]
+b639e846: checks
+b5d950ed: checks
+Hero: bets 28,351
+b639e846: calls 28,351
+b5d950ed: folds
+*** TURN *** [Js Kd Jd] [Jh]
+b639e846: checks
+Hero: bets 31,669
+b639e846: calls 31,669
+*** RIVER *** [Js Kd Jd Jh] [Kc]
+b639e846: checks
+Hero: bets 119,000
+b639e846: raises 119,000 to 238,000
+Hero: calls 3,636 and is all-in
+Uncalled bet (115,364) returned to b639e846
+b639e846: shows [4h Ks] (a full house, Kings full of Jacks)
+Hero: shows [Jc Ah] (four of a kind, Jacks)
+*** SHOWDOWN ***
+Hero collected 417,812 from pot
+*** SUMMARY ***
+Total pot 417,812 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js Kd Jd Jh Kc]
+Seat 1: b5d950ed folded on the Flop
+Seat 2: Hero showed [Jc Ah] and won (417,812) with four of a kind, Jacks
+Seat 3: 9fd880c0 (button) folded before Flop
+Seat 4: b5bd3c28 (small blind) folded before Flop
+Seat 5: b639e846 (big blind) showed [4h Ks] and lost with a full house, Kings full of Jacks
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855424: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level20(3,500/7,000) - 2026/01/17 00:05:05
+Table '62' 7-max Seat #2 is the button
+Seat 1: b5d950ed (529,808 in chips)
+Seat 2: Hero (229,911 in chips)
+Seat 3: 9fd880c0 (93,709 in chips)
+Seat 4: b5bd3c28 (72,122 in chips)
+Seat 5: b639e846 (318,393 in chips)
+Seat 6: 7b48cce6 (113,919 in chips)
+Seat 7: 19c6d26 (330,293 in chips)
+19c6d26: posts the ante 1,000
+7b48cce6: posts the ante 1,000
+b5d950ed: posts the ante 1,000
+b639e846: posts the ante 1,000
+9fd880c0: posts the ante 1,000
+Hero: posts the ante 1,000
+b5bd3c28: posts the ante 1,000
+9fd880c0: posts small blind 3,500
+b5bd3c28: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to b5d950ed 
+Dealt to Hero [7s Js]
+Dealt to 9fd880c0 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b639e846: folds
+7b48cce6: raises 7,000 to 14,000
+19c6d26: folds
+b5d950ed: calls 14,000
+Hero: calls 14,000
+9fd880c0: folds
+b5bd3c28: folds
+*** FLOP *** [6h 9d Qd]
+7b48cce6: checks
+b5d950ed: checks
+Hero: bets 17,255
+7b48cce6: folds
+b5d950ed: calls 17,255
+*** TURN *** [6h 9d Qd] [Qh]
+b5d950ed: checks
+Hero: checks
+*** RIVER *** [6h 9d Qd Qh] [5s]
+b5d950ed: bets 47,005
+Hero: folds
+Uncalled bet (47,005) returned to b5d950ed
+*** SHOWDOWN ***
+b5d950ed collected 94,010 from pot
+*** SUMMARY ***
+Total pot 94,010 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 9d Qd Qh 5s]
+Seat 1: b5d950ed won (94,010)
+Seat 2: Hero (button) folded on the River
+Seat 3: 9fd880c0 (small blind) folded before Flop
+Seat 4: b5bd3c28 (big blind) folded before Flop
+Seat 5: b639e846 folded before Flop
+Seat 6: 7b48cce6 folded on the Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855412: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level20(3,500/7,000) - 2026/01/17 00:04:16
+Table '62' 7-max Seat #7 is the button
+Seat 2: Hero (234,411 in chips)
+Seat 3: 9fd880c0 (112,209 in chips)
+Seat 4: b5bd3c28 (73,122 in chips)
+Seat 5: b639e846 (336,893 in chips)
+Seat 6: 7b48cce6 (114,919 in chips)
+Seat 7: 19c6d26 (286,793 in chips)
+19c6d26: posts the ante 1,000
+7b48cce6: posts the ante 1,000
+b639e846: posts the ante 1,000
+9fd880c0: posts the ante 1,000
+Hero: posts the ante 1,000
+b5bd3c28: posts the ante 1,000
+Hero: posts small blind 3,500
+9fd880c0: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to Hero [Th 4s]
+Dealt to 9fd880c0 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b5bd3c28: folds
+b639e846: raises 10,500 to 17,500
+7b48cce6: folds
+19c6d26: calls 17,500
+Hero: folds
+9fd880c0: calls 10,500
+*** FLOP *** [8c Qs 6d]
+9fd880c0: checks
+b639e846: checks
+19c6d26: bets 20,460
+9fd880c0: folds
+b639e846: folds
+Uncalled bet (20,460) returned to 19c6d26
+*** SHOWDOWN ***
+19c6d26 collected 62,000 from pot
+*** SUMMARY ***
+Total pot 62,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c Qs 6d]
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 9fd880c0 (big blind) folded on the Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 folded on the Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 (button) won (62,000)
+
+
+Poker Hand #TM91855394: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level20(3,500/7,000) - 2026/01/17 00:02:55
+Table '62' 7-max Seat #6 is the button
+Seat 1: 985bad00 (134,396 in chips)
+Seat 2: Hero (235,411 in chips)
+Seat 3: 9fd880c0 (113,209 in chips)
+Seat 4: b5bd3c28 (74,122 in chips)
+Seat 5: b639e846 (193,997 in chips)
+Seat 6: 7b48cce6 (115,919 in chips)
+Seat 7: 19c6d26 (291,293 in chips)
+7b48cce6: posts the ante 1,000
+19c6d26: posts the ante 1,000
+b639e846: posts the ante 1,000
+985bad00: posts the ante 1,000
+9fd880c0: posts the ante 1,000
+Hero: posts the ante 1,000
+b5bd3c28: posts the ante 1,000
+19c6d26: posts small blind 3,500
+985bad00: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [6h 4h]
+Dealt to 9fd880c0 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+Hero: folds
+9fd880c0: folds
+b5bd3c28: folds
+b639e846: raises 7,000 to 14,000
+7b48cce6: folds
+19c6d26: folds
+985bad00: raises 119,396 to 133,396 and is all-in
+b639e846: calls 119,396
+985bad00: shows [Ad Qd]
+b639e846: shows [4s Qs]
+*** FLOP *** [Ks 8d Ts]
+*** TURN *** [Ks 8d Ts] [5s]
+*** RIVER *** [Ks 8d Ts 5s] [9c]
+*** SHOWDOWN ***
+b639e846 collected 277,292 from pot
+*** SUMMARY ***
+Total pot 277,292 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 8d Ts 5s 9c]
+Seat 1: 985bad00 (big blind) showed [Ad Qd] and lost with Ace high
+Seat 2: Hero folded before Flop
+Seat 3: 9fd880c0 folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 showed [4s Qs] and won (277,292) with a flush King high
+Seat 6: 7b48cce6 (button) folded before Flop
+Seat 7: 19c6d26 (small blind) folded before Flop
+
+
+Poker Hand #TM91855371: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level20(3,500/7,000) - 2026/01/17 00:01:20
+Table '62' 7-max Seat #5 is the button
+Seat 1: 985bad00 (135,396 in chips)
+Seat 2: Hero (250,411 in chips)
+Seat 4: b5bd3c28 (75,122 in chips)
+Seat 5: b639e846 (146,997 in chips)
+Seat 6: 7b48cce6 (130,919 in chips)
+Seat 7: 19c6d26 (306,293 in chips)
+19c6d26: posts the ante 1,000
+7b48cce6: posts the ante 1,000
+b639e846: posts the ante 1,000
+985bad00: posts the ante 1,000
+Hero: posts the ante 1,000
+b5bd3c28: posts the ante 1,000
+7b48cce6: posts small blind 3,500
+19c6d26: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [4h 4d]
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+985bad00: folds
+Hero: raises 7,000 to 14,000
+b5bd3c28: folds
+b639e846: calls 14,000
+7b48cce6: calls 10,500
+19c6d26: calls 7,000
+*** FLOP *** [7d 7c Kh]
+7b48cce6: checks
+19c6d26: checks
+Hero: checks
+b639e846: checks
+*** TURN *** [7d 7c Kh] [Kd]
+7b48cce6: checks
+19c6d26: checks
+Hero: checks
+b639e846: checks
+*** RIVER *** [7d 7c Kh Kd] [As]
+7b48cce6: checks
+19c6d26: checks
+Hero: checks
+b639e846: bets 25,600
+7b48cce6: folds
+19c6d26: folds
+Hero: folds
+Uncalled bet (25,600) returned to b639e846
+*** SHOWDOWN ***
+b639e846 collected 62,000 from pot
+*** SUMMARY ***
+Total pot 62,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d 7c Kh Kd As]
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero folded on the River
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 (button) won (62,000)
+Seat 6: 7b48cce6 (small blind) folded on the River
+Seat 7: 19c6d26 (big blind) folded on the River
+
+
+Poker Hand #TM91855352: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level20(3,500/7,000) - 2026/01/16 23:54:49
+Table '62' 7-max Seat #4 is the button
+Seat 1: 985bad00 (136,396 in chips)
+Seat 2: Hero (234,911 in chips)
+Seat 4: b5bd3c28 (76,122 in chips)
+Seat 5: b639e846 (151,497 in chips)
+Seat 6: 7b48cce6 (138,919 in chips)
+Seat 7: 19c6d26 (307,293 in chips)
+19c6d26: posts the ante 1,000
+7b48cce6: posts the ante 1,000
+985bad00: posts the ante 1,000
+b639e846: posts the ante 1,000
+Hero: posts the ante 1,000
+b5bd3c28: posts the ante 1,000
+b639e846: posts small blind 3,500
+7b48cce6: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [5s Ac]
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+19c6d26: folds
+985bad00: folds
+Hero: raises 7,000 to 14,000
+b5bd3c28: folds
+b639e846: folds
+7b48cce6: folds
+Uncalled bet (7,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 23,500 from pot
+*** SUMMARY ***
+Total pot 23,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero collected (23,500)
+Seat 4: b5bd3c28 (button) folded before Flop
+Seat 5: b639e846 (small blind) folded before Flop
+Seat 6: 7b48cce6 (big blind) folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855336: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level20(3,500/7,000) - 2026/01/16 23:53:52
+Table '62' 7-max Seat #2 is the button
+Seat 1: 985bad00 (64,448 in chips)
+Seat 2: Hero (235,911 in chips)
+Seat 4: b5bd3c28 (80,622 in chips)
+Seat 5: b639e846 (215,945 in chips)
+Seat 6: 7b48cce6 (139,919 in chips)
+Seat 7: 19c6d26 (308,293 in chips)
+19c6d26: posts the ante 1,000
+7b48cce6: posts the ante 1,000
+985bad00: posts the ante 1,000
+b639e846: posts the ante 1,000
+Hero: posts the ante 1,000
+b5bd3c28: posts the ante 1,000
+b5bd3c28: posts small blind 3,500
+b639e846: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [7s 8s]
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+7b48cce6: folds
+19c6d26: folds
+985bad00: raises 56,448 to 63,448 and is all-in
+Hero: folds
+b5bd3c28: folds
+b639e846: calls 56,448
+985bad00: shows [Kd Qh]
+b639e846: shows [Ah 7d]
+*** FLOP *** [4h 2h 9s]
+*** TURN *** [4h 2h 9s] [3d]
+*** RIVER *** [4h 2h 9s 3d] [Qd]
+*** SHOWDOWN ***
+985bad00 collected 136,396 from pot
+*** SUMMARY ***
+Total pot 136,396 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 2h 9s 3d Qd]
+Seat 1: 985bad00 showed [Kd Qh] and won (136,396) with a pair of Queens
+Seat 2: Hero (button) folded before Flop
+Seat 4: b5bd3c28 (small blind) folded before Flop
+Seat 5: b639e846 (big blind) showed [Ah 7d] and lost with Ace high
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855317: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level19(3,000/6,000) - 2026/01/16 23:52:42
+Table '62' 7-max Seat #1 is the button
+Seat 1: 985bad00 (65,348 in chips)
+Seat 2: Hero (207,411 in chips)
+Seat 4: b5bd3c28 (93,522 in chips)
+Seat 5: b639e846 (216,845 in chips)
+Seat 6: 7b48cce6 (140,819 in chips)
+Seat 7: 19c6d26 (321,193 in chips)
+19c6d26: posts the ante 900
+7b48cce6: posts the ante 900
+985bad00: posts the ante 900
+b639e846: posts the ante 900
+Hero: posts the ante 900
+b5bd3c28: posts the ante 900
+Hero: posts small blind 3,000
+b5bd3c28: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [5h 5s]
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b639e846: folds
+7b48cce6: folds
+19c6d26: raises 6,000 to 12,000
+985bad00: folds
+Hero: calls 9,000
+b5bd3c28: calls 6,000
+*** FLOP *** [4d 6c 7d]
+Hero: checks
+b5bd3c28: checks
+19c6d26: checks
+*** TURN *** [4d 6c 7d] [Js]
+Hero: bets 22,356
+b5bd3c28: folds
+19c6d26: folds
+Uncalled bet (22,356) returned to Hero
+*** SHOWDOWN ***
+Hero collected 41,400 from pot
+*** SUMMARY ***
+Total pot 41,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 6c 7d Js]
+Seat 1: 985bad00 (button) folded before Flop
+Seat 2: Hero (small blind) won (41,400)
+Seat 4: b5bd3c28 (big blind) folded on the Turn
+Seat 5: b639e846 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded on the Turn
+
+
+Poker Hand #TM91855300: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level19(3,000/6,000) - 2026/01/16 23:51:39
+Table '62' 7-max Seat #7 is the button
+Seat 1: 985bad00 (69,248 in chips)
+Seat 2: Hero (220,311 in chips)
+Seat 3: 143c5a5f (177,900 in chips)
+Seat 4: b5bd3c28 (106,422 in chips)
+Seat 5: b639e846 (244,070 in chips)
+Seat 6: 7b48cce6 (141,719 in chips)
+Seat 7: 19c6d26 (262,468 in chips)
+19c6d26: posts the ante 900
+7b48cce6: posts the ante 900
+b639e846: posts the ante 900
+985bad00: posts the ante 900
+143c5a5f: posts the ante 900
+Hero: posts the ante 900
+b5bd3c28: posts the ante 900
+985bad00: posts small blind 3,000
+Hero: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [7c Qc]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+143c5a5f: folds
+b5bd3c28: raises 6,000 to 12,000
+b639e846: calls 12,000
+7b48cce6: folds
+19c6d26: calls 12,000
+985bad00: folds
+Hero: calls 6,000
+*** FLOP *** [8s 8d 4h]
+Hero: checks
+b5bd3c28: checks
+b639e846: checks
+19c6d26: bets 14,325
+Hero: folds
+b5bd3c28: folds
+b639e846: calls 14,325
+*** TURN *** [8s 8d 4h] [2c]
+b639e846: checks
+19c6d26: bets 30,000
+b639e846: folds
+Uncalled bet (30,000) returned to 19c6d26
+*** SHOWDOWN ***
+19c6d26 collected 85,950 from pot
+*** SUMMARY ***
+Total pot 85,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 8d 4h 2c]
+Seat 1: 985bad00 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded on the Flop
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 folded on the Flop
+Seat 5: b639e846 folded on the Turn
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 (button) won (85,950)
+
+
+Poker Hand #TM91855286: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level19(3,000/6,000) - 2026/01/16 23:51:09
+Table '62' 7-max Seat #6 is the button
+Seat 1: 985bad00 (76,148 in chips)
+Seat 2: Hero (221,211 in chips)
+Seat 3: 143c5a5f (178,800 in chips)
+Seat 4: b5bd3c28 (107,322 in chips)
+Seat 5: b639e846 (229,670 in chips)
+Seat 6: 7b48cce6 (142,619 in chips)
+Seat 7: 19c6d26 (266,368 in chips)
+7b48cce6: posts the ante 900
+19c6d26: posts the ante 900
+b639e846: posts the ante 900
+985bad00: posts the ante 900
+143c5a5f: posts the ante 900
+Hero: posts the ante 900
+b5bd3c28: posts the ante 900
+19c6d26: posts small blind 3,000
+985bad00: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [9s 5c]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+Hero: folds
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: raises 12,000 to 18,000
+7b48cce6: folds
+19c6d26: folds
+985bad00: folds
+Uncalled bet (12,000) returned to b639e846
+*** SHOWDOWN ***
+b639e846 collected 21,300 from pot
+*** SUMMARY ***
+Total pot 21,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 985bad00 (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 collected (21,300)
+Seat 6: 7b48cce6 (button) folded before Flop
+Seat 7: 19c6d26 (small blind) folded before Flop
+
+
+Poker Hand #TM91855266: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level19(3,000/6,000) - 2026/01/16 23:49:53
+Table '62' 7-max Seat #5 is the button
+Seat 1: 985bad00 (77,048 in chips)
+Seat 2: Hero (222,111 in chips)
+Seat 3: 143c5a5f (144,750 in chips)
+Seat 4: b5bd3c28 (108,222 in chips)
+Seat 5: b639e846 (250,220 in chips)
+Seat 6: 7b48cce6 (146,519 in chips)
+Seat 7: 19c6d26 (273,268 in chips)
+19c6d26: posts the ante 900
+7b48cce6: posts the ante 900
+b639e846: posts the ante 900
+985bad00: posts the ante 900
+143c5a5f: posts the ante 900
+Hero: posts the ante 900
+b5bd3c28: posts the ante 900
+7b48cce6: posts small blind 3,000
+19c6d26: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [9c 7h]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+985bad00: folds
+Hero: folds
+143c5a5f: calls 6,000
+b5bd3c28: folds
+b639e846: calls 6,000
+7b48cce6: folds
+19c6d26: checks
+*** FLOP *** [7s 8c Th]
+19c6d26: checks
+143c5a5f: bets 13,650
+b639e846: calls 13,650
+19c6d26: folds
+*** TURN *** [7s 8c Th] [Ad]
+143c5a5f: checks
+b639e846: checks
+*** RIVER *** [7s 8c Th Ad] [4d]
+143c5a5f: bets 18,018
+b639e846: folds
+Uncalled bet (18,018) returned to 143c5a5f
+*** SHOWDOWN ***
+143c5a5f collected 54,600 from pot
+*** SUMMARY ***
+Total pot 54,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s 8c Th Ad 4d]
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f won (54,600)
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 (button) folded on the River
+Seat 6: 7b48cce6 (small blind) folded before Flop
+Seat 7: 19c6d26 (big blind) folded on the Flop
+
+
+Poker Hand #TM91855246: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level19(3,000/6,000) - 2026/01/16 23:48:41
+Table '62' 7-max Seat #4 is the button
+Seat 1: 985bad00 (77,948 in chips)
+Seat 2: Hero (223,011 in chips)
+Seat 3: 143c5a5f (145,650 in chips)
+Seat 4: b5bd3c28 (109,122 in chips)
+Seat 5: b639e846 (275,099 in chips)
+Seat 6: 7b48cce6 (153,419 in chips)
+Seat 7: 19c6d26 (237,889 in chips)
+19c6d26: posts the ante 900
+7b48cce6: posts the ante 900
+985bad00: posts the ante 900
+b639e846: posts the ante 900
+143c5a5f: posts the ante 900
+Hero: posts the ante 900
+b5bd3c28: posts the ante 900
+b639e846: posts small blind 3,000
+7b48cce6: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [Th 6c]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+19c6d26: raises 6,000 to 12,000
+985bad00: folds
+Hero: folds
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: calls 9,000
+7b48cce6: folds
+*** FLOP *** [8c 2c Kd]
+b639e846: checks
+19c6d26: bets 11,979
+b639e846: calls 11,979
+*** TURN *** [8c 2c Kd] [As]
+b639e846: checks
+19c6d26: checks
+*** RIVER *** [8c 2c Kd As] [4h]
+b639e846: checks
+19c6d26: bets 30,000
+b639e846: folds
+Uncalled bet (30,000) returned to 19c6d26
+*** SHOWDOWN ***
+19c6d26 collected 60,258 from pot
+*** SUMMARY ***
+Total pot 60,258 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 2c Kd As 4h]
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 (button) folded before Flop
+Seat 5: b639e846 (small blind) folded on the River
+Seat 6: 7b48cce6 (big blind) folded before Flop
+Seat 7: 19c6d26 won (60,258)
+
+
+Poker Hand #TM91855220: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level19(3,000/6,000) - 2026/01/16 23:46:57
+Table '62' 7-max Seat #3 is the button
+Seat 1: 985bad00 (78,848 in chips)
+Seat 2: Hero (223,911 in chips)
+Seat 3: 143c5a5f (146,550 in chips)
+Seat 4: b5bd3c28 (113,022 in chips)
+Seat 5: b639e846 (202,251 in chips)
+Seat 6: 7b48cce6 (154,319 in chips)
+Seat 7: 19c6d26 (303,237 in chips)
+19c6d26: posts the ante 900
+7b48cce6: posts the ante 900
+985bad00: posts the ante 900
+b639e846: posts the ante 900
+143c5a5f: posts the ante 900
+Hero: posts the ante 900
+b5bd3c28: posts the ante 900
+b5bd3c28: posts small blind 3,000
+b639e846: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [Tc 3d]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+7b48cce6: folds
+19c6d26: raises 6,000 to 12,000
+985bad00: folds
+Hero: folds
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: calls 6,000
+*** FLOP *** [Jh 3h 4s]
+b639e846: checks
+19c6d26: bets 10,989
+b639e846: calls 10,989
+*** TURN *** [Jh 3h 4s] [8d]
+b639e846: bets 41,459
+19c6d26: calls 41,459
+*** RIVER *** [Jh 3h 4s 8d] [9s]
+b639e846: bets 136,903 and is all-in
+19c6d26: folds
+Uncalled bet (136,903) returned to b639e846
+*** SHOWDOWN ***
+b639e846 collected 138,196 from pot
+*** SUMMARY ***
+Total pot 138,196 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 3h 4s 8d 9s]
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f (button) folded before Flop
+Seat 4: b5bd3c28 (small blind) folded before Flop
+Seat 5: b639e846 (big blind) showed [6h Qs] and won (138,196)
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded on the River
+
+
+Poker Hand #TM91855203: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level19(3,000/6,000) - 2026/01/16 23:46:01
+Table '62' 7-max Seat #2 is the button
+Seat 1: 985bad00 (79,748 in chips)
+Seat 2: Hero (197,511 in chips)
+Seat 3: 143c5a5f (150,450 in chips)
+Seat 4: b5bd3c28 (119,922 in chips)
+Seat 5: b639e846 (203,151 in chips)
+Seat 6: 7b48cce6 (167,219 in chips)
+Seat 7: 19c6d26 (304,137 in chips)
+19c6d26: posts the ante 900
+7b48cce6: posts the ante 900
+985bad00: posts the ante 900
+b639e846: posts the ante 900
+143c5a5f: posts the ante 900
+Hero: posts the ante 900
+b5bd3c28: posts the ante 900
+143c5a5f: posts small blind 3,000
+b5bd3c28: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [Th Js]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b639e846: folds
+7b48cce6: raises 6,000 to 12,000
+19c6d26: folds
+985bad00: folds
+Hero: calls 12,000
+143c5a5f: folds
+b5bd3c28: folds
+*** FLOP *** [7s 6c Qd]
+7b48cce6: checks
+Hero: checks
+*** TURN *** [7s 6c Qd] [7d]
+7b48cce6: checks
+Hero: bets 11,397
+7b48cce6: folds
+Uncalled bet (11,397) returned to Hero
+*** SHOWDOWN ***
+Hero collected 39,300 from pot
+*** SUMMARY ***
+Total pot 39,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s 6c Qd 7d]
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero (button) won (39,300)
+Seat 3: 143c5a5f (small blind) folded before Flop
+Seat 4: b5bd3c28 (big blind) folded before Flop
+Seat 5: b639e846 folded before Flop
+Seat 6: 7b48cce6 folded on the Turn
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855185: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level19(3,000/6,000) - 2026/01/16 23:44:59
+Table '62' 7-max Seat #1 is the button
+Seat 1: 985bad00 (80,648 in chips)
+Seat 2: Hero (201,411 in chips)
+Seat 3: 143c5a5f (119,061 in chips)
+Seat 4: b5bd3c28 (120,822 in chips)
+Seat 5: b639e846 (204,051 in chips)
+Seat 6: 7b48cce6 (168,119 in chips)
+Seat 7: 19c6d26 (328,026 in chips)
+19c6d26: posts the ante 900
+7b48cce6: posts the ante 900
+985bad00: posts the ante 900
+b639e846: posts the ante 900
+143c5a5f: posts the ante 900
+Hero: posts the ante 900
+b5bd3c28: posts the ante 900
+Hero: posts small blind 3,000
+143c5a5f: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [9c 8h]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b5bd3c28: folds
+b639e846: folds
+7b48cce6: folds
+19c6d26: raises 6,000 to 12,000
+985bad00: folds
+Hero: folds
+143c5a5f: calls 6,000
+*** FLOP *** [Tc 5c 8s]
+143c5a5f: checks
+19c6d26: checks
+*** TURN *** [Tc 5c 8s] [Ts]
+143c5a5f: bets 10,989
+19c6d26: calls 10,989
+*** RIVER *** [Tc 5c 8s Ts] [5s]
+143c5a5f: bets 55,278
+19c6d26: folds
+Uncalled bet (55,278) returned to 143c5a5f
+*** SHOWDOWN ***
+143c5a5f collected 55,278 from pot
+*** SUMMARY ***
+Total pot 55,278 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 5c 8s Ts 5s]
+Seat 1: 985bad00 (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 143c5a5f (big blind) won (55,278)
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded on the River
+
+
+Poker Hand #TM91855165: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level18(2,500/5,000) - 2026/01/16 23:43:18
+Table '62' 7-max Seat #7 is the button
+Seat 1: 985bad00 (83,898 in chips)
+Seat 2: Hero (214,661 in chips)
+Seat 3: 143c5a5f (119,811 in chips)
+Seat 4: b5bd3c28 (121,572 in chips)
+Seat 5: b639e846 (217,301 in chips)
+Seat 6: 7b48cce6 (168,869 in chips)
+Seat 7: 19c6d26 (296,026 in chips)
+19c6d26: posts the ante 750
+7b48cce6: posts the ante 750
+b639e846: posts the ante 750
+985bad00: posts the ante 750
+143c5a5f: posts the ante 750
+Hero: posts the ante 750
+b5bd3c28: posts the ante 750
+985bad00: posts small blind 2,500
+Hero: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [8c 7c]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: raises 7,500 to 12,500
+7b48cce6: folds
+19c6d26: calls 12,500
+985bad00: folds
+Hero: calls 7,500
+*** FLOP *** [9d Js 8d]
+Hero: checks
+b639e846: checks
+19c6d26: bets 14,933
+Hero: folds
+b639e846: folds
+Uncalled bet (14,933) returned to 19c6d26
+*** SHOWDOWN ***
+19c6d26 collected 45,250 from pot
+*** SUMMARY ***
+Total pot 45,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d Js 8d]
+Seat 1: 985bad00 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded on the Flop
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 folded on the Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 (button) won (45,250)
+
+
+Poker Hand #TM91855141: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level18(2,500/5,000) - 2026/01/16 23:41:24
+Table '62' 7-max Seat #6 is the button
+Seat 1: 985bad00 (38,824 in chips)
+Seat 2: Hero (253,485 in chips)
+Seat 3: 143c5a5f (120,561 in chips)
+Seat 4: b5bd3c28 (122,322 in chips)
+Seat 5: b639e846 (218,051 in chips)
+Seat 6: 7b48cce6 (169,619 in chips)
+Seat 7: 19c6d26 (299,276 in chips)
+7b48cce6: posts the ante 750
+19c6d26: posts the ante 750
+b639e846: posts the ante 750
+985bad00: posts the ante 750
+143c5a5f: posts the ante 750
+Hero: posts the ante 750
+b5bd3c28: posts the ante 750
+19c6d26: posts small blind 2,500
+985bad00: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [7h 7c]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+Hero: raises 5,000 to 10,000
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: folds
+7b48cce6: folds
+19c6d26: folds
+985bad00: calls 5,000
+*** FLOP *** [4s 3s 2h]
+985bad00: checks
+Hero: bets 30,000
+985bad00: calls 28,074 and is all-in
+Uncalled bet (1,926) returned to Hero
+Hero: shows [7h 7c] (a pair of Sevens)
+985bad00: shows [Ac Kd] (Ace high)
+*** TURN *** [4s 3s 2h] [3h]
+*** RIVER *** [4s 3s 2h 3h] [Kc]
+*** SHOWDOWN ***
+985bad00 collected 83,898 from pot
+*** SUMMARY ***
+Total pot 83,898 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4s 3s 2h 3h Kc]
+Seat 1: 985bad00 (big blind) showed [Ac Kd] and won (83,898) with two pair, Kings and Threes
+Seat 2: Hero showed [7h 7c] and lost with two pair, Sevens and Threes
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 folded before Flop
+Seat 6: 7b48cce6 (button) folded before Flop
+Seat 7: 19c6d26 (small blind) folded before Flop
+
+
+Poker Hand #TM91855121: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level18(2,500/5,000) - 2026/01/16 23:39:51
+Table '62' 7-max Seat #5 is the button
+Seat 1: 985bad00 (39,574 in chips)
+Seat 2: Hero (254,235 in chips)
+Seat 3: 143c5a5f (121,311 in chips)
+Seat 4: b5bd3c28 (110,322 in chips)
+Seat 5: b639e846 (218,801 in chips)
+Seat 6: 7b48cce6 (172,869 in chips)
+Seat 7: 19c6d26 (305,026 in chips)
+19c6d26: posts the ante 750
+7b48cce6: posts the ante 750
+b639e846: posts the ante 750
+985bad00: posts the ante 750
+143c5a5f: posts the ante 750
+Hero: posts the ante 750
+b5bd3c28: posts the ante 750
+7b48cce6: posts small blind 2,500
+19c6d26: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [Kc 3c]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+985bad00: folds
+Hero: folds
+143c5a5f: folds
+b5bd3c28: raises 5,000 to 10,000
+b639e846: folds
+7b48cce6: folds
+19c6d26: folds
+Uncalled bet (5,000) returned to b5bd3c28
+*** SHOWDOWN ***
+b5bd3c28 collected 17,750 from pot
+*** SUMMARY ***
+Total pot 17,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 collected (17,750)
+Seat 5: b639e846 (button) folded before Flop
+Seat 6: 7b48cce6 (small blind) folded before Flop
+Seat 7: 19c6d26 (big blind) folded before Flop
+
+
+Poker Hand #TM91855099: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level18(2,500/5,000) - 2026/01/16 23:38:13
+Table '62' 7-max Seat #4 is the button
+Seat 1: 985bad00 (40,324 in chips)
+Seat 2: Hero (254,985 in chips)
+Seat 3: 143c5a5f (122,061 in chips)
+Seat 4: b5bd3c28 (121,072 in chips)
+Seat 5: b639e846 (222,051 in chips)
+Seat 6: 7b48cce6 (145,869 in chips)
+Seat 7: 19c6d26 (315,776 in chips)
+19c6d26: posts the ante 750
+7b48cce6: posts the ante 750
+985bad00: posts the ante 750
+b639e846: posts the ante 750
+143c5a5f: posts the ante 750
+Hero: posts the ante 750
+b5bd3c28: posts the ante 750
+b639e846: posts small blind 2,500
+7b48cce6: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [Qh 4s]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+19c6d26: raises 5,000 to 10,000
+985bad00: folds
+Hero: folds
+143c5a5f: folds
+b5bd3c28: calls 10,000
+b639e846: folds
+7b48cce6: raises 135,119 to 145,119 and is all-in
+19c6d26: folds
+b5bd3c28: folds
+Uncalled bet (135,119) returned to 7b48cce6
+*** SHOWDOWN ***
+7b48cce6 collected 37,750 from pot
+*** SUMMARY ***
+Total pot 37,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 (button) folded before Flop
+Seat 5: b639e846 (small blind) folded before Flop
+Seat 6: 7b48cce6 (big blind) collected (37,750)
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855075: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level18(2,500/5,000) - 2026/01/16 23:36:22
+Table '62' 7-max Seat #3 is the button
+Seat 1: 985bad00 (41,074 in chips)
+Seat 2: Hero (255,735 in chips)
+Seat 3: 143c5a5f (132,811 in chips)
+Seat 4: b5bd3c28 (124,322 in chips)
+Seat 5: b639e846 (205,051 in chips)
+Seat 6: 7b48cce6 (146,619 in chips)
+Seat 7: 19c6d26 (316,526 in chips)
+19c6d26: posts the ante 750
+7b48cce6: posts the ante 750
+985bad00: posts the ante 750
+b639e846: posts the ante 750
+143c5a5f: posts the ante 750
+Hero: posts the ante 750
+b5bd3c28: posts the ante 750
+b5bd3c28: posts small blind 2,500
+b639e846: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [3c 6s]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+7b48cce6: folds
+19c6d26: folds
+985bad00: folds
+Hero: folds
+143c5a5f: raises 5,000 to 10,000
+b5bd3c28: folds
+b639e846: raises 25,813 to 35,813
+143c5a5f: folds
+Uncalled bet (25,813) returned to b639e846
+*** SHOWDOWN ***
+b639e846 collected 27,750 from pot
+*** SUMMARY ***
+Total pot 27,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f (button) folded before Flop
+Seat 4: b5bd3c28 (small blind) folded before Flop
+Seat 5: b639e846 (big blind) collected (27,750)
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855049: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level18(2,500/5,000) - 2026/01/16 23:34:50
+Table '62' 7-max Seat #2 is the button
+Seat 1: 985bad00 (41,824 in chips)
+Seat 2: Hero (256,485 in chips)
+Seat 3: 143c5a5f (136,061 in chips)
+Seat 4: b5bd3c28 (117,322 in chips)
+Seat 5: b639e846 (205,801 in chips)
+Seat 6: 7b48cce6 (147,369 in chips)
+Seat 7: 19c6d26 (317,276 in chips)
+19c6d26: posts the ante 750
+7b48cce6: posts the ante 750
+985bad00: posts the ante 750
+b639e846: posts the ante 750
+143c5a5f: posts the ante 750
+Hero: posts the ante 750
+b5bd3c28: posts the ante 750
+143c5a5f: posts small blind 2,500
+b5bd3c28: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [6s Th]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b639e846: folds
+7b48cce6: folds
+19c6d26: folds
+985bad00: folds
+Hero: folds
+143c5a5f: folds
+Uncalled bet (2,500) returned to b5bd3c28
+*** SHOWDOWN ***
+b5bd3c28 collected 10,250 from pot
+*** SUMMARY ***
+Total pot 10,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 143c5a5f (small blind) folded before Flop
+Seat 4: b5bd3c28 (big blind) collected (10,250)
+Seat 5: b639e846 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855025: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level18(2,500/5,000) - 2026/01/16 23:33:22
+Table '62' 7-max Seat #1 is the button
+Seat 1: 985bad00 (55,074 in chips)
+Seat 2: Hero (259,735 in chips)
+Seat 3: 143c5a5f (141,811 in chips)
+Seat 4: b5bd3c28 (118,072 in chips)
+Seat 5: b639e846 (181,301 in chips)
+Seat 6: 7b48cce6 (148,119 in chips)
+Seat 7: 19c6d26 (318,026 in chips)
+19c6d26: posts the ante 750
+7b48cce6: posts the ante 750
+985bad00: posts the ante 750
+b639e846: posts the ante 750
+143c5a5f: posts the ante 750
+Hero: posts the ante 750
+b5bd3c28: posts the ante 750
+Hero: posts small blind 2,500
+143c5a5f: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [7s 3s]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b5bd3c28: folds
+b639e846: raises 7,500 to 12,500
+7b48cce6: folds
+19c6d26: folds
+985bad00: calls 12,500
+Hero: folds
+143c5a5f: folds
+*** FLOP *** [6h 6d 9d]
+b639e846: checks
+985bad00: checks
+*** TURN *** [6h 6d 9d] [7h]
+b639e846: checks
+985bad00: checks
+*** RIVER *** [6h 6d 9d 7h] [4c]
+b639e846: checks
+985bad00: checks
+b639e846: shows [Tc As] (a pair of Sixes)
+985bad00: shows [Qc Kh] (a pair of Sixes)
+*** SHOWDOWN ***
+b639e846 collected 37,750 from pot
+*** SUMMARY ***
+Total pot 37,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 6d 9d 7h 4c]
+Seat 1: 985bad00 (button) showed [Qc Kh] and lost with a pair of Sixes
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 143c5a5f (big blind) folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 showed [Tc As] and won (37,750) with a pair of Sixes
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91855005: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level18(2,500/5,000) - 2026/01/16 23:31:40
+Table '62' 7-max Seat #7 is the button
+Seat 1: 985bad00 (60,824 in chips)
+Seat 2: Hero (250,235 in chips)
+Seat 3: 143c5a5f (142,561 in chips)
+Seat 4: b5bd3c28 (118,822 in chips)
+Seat 5: b639e846 (182,051 in chips)
+Seat 6: 7b48cce6 (148,869 in chips)
+Seat 7: 19c6d26 (318,776 in chips)
+19c6d26: posts the ante 750
+7b48cce6: posts the ante 750
+b639e846: posts the ante 750
+985bad00: posts the ante 750
+143c5a5f: posts the ante 750
+Hero: posts the ante 750
+b5bd3c28: posts the ante 750
+985bad00: posts small blind 2,500
+Hero: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [6s Jc]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: folds
+7b48cce6: folds
+19c6d26: folds
+985bad00: calls 2,500
+Hero: checks
+*** FLOP *** [2s Jd 7h]
+985bad00: checks
+Hero: bets 5,000
+985bad00: folds
+Uncalled bet (5,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 15,250 from pot
+*** SUMMARY ***
+Total pot 15,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s Jd 7h]
+Seat 1: 985bad00 (small blind) folded on the Flop
+Seat 2: Hero (big blind) won (15,250)
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 (button) folded before Flop
+
+
+Poker Hand #TM91854969: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level17(2,000/4,000) - 2026/01/16 23:28:56
+Table '62' 7-max Seat #6 is the button
+Seat 1: 985bad00 (65,424 in chips)
+Seat 2: Hero (250,835 in chips)
+Seat 3: 143c5a5f (143,161 in chips)
+Seat 4: b5bd3c28 (119,422 in chips)
+Seat 5: b639e846 (209,801 in chips)
+Seat 6: 7b48cce6 (149,469 in chips)
+Seat 7: 19c6d26 (284,026 in chips)
+7b48cce6: posts the ante 600
+19c6d26: posts the ante 600
+b639e846: posts the ante 600
+985bad00: posts the ante 600
+143c5a5f: posts the ante 600
+Hero: posts the ante 600
+b5bd3c28: posts the ante 600
+19c6d26: posts small blind 2,000
+985bad00: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [9h 6d]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+Hero: folds
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: raises 6,000 to 10,000
+7b48cce6: folds
+19c6d26: calls 8,000
+985bad00: folds
+*** FLOP *** [8h Kd Js]
+19c6d26: checks
+b639e846: checks
+*** TURN *** [8h Kd Js] [4h]
+19c6d26: checks
+b639e846: bets 17,150
+19c6d26: calls 17,150
+*** RIVER *** [8h Kd Js 4h] [7c]
+19c6d26: checks
+b639e846: checks
+19c6d26: shows [Qd Kh] (a pair of Kings)
+b639e846: shows [Qs Qh] (a pair of Queens)
+*** SHOWDOWN ***
+19c6d26 collected 62,500 from pot
+*** SUMMARY ***
+Total pot 62,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h Kd Js 4h 7c]
+Seat 1: 985bad00 (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 showed [Qs Qh] and lost with a pair of Queens
+Seat 6: 7b48cce6 (button) folded before Flop
+Seat 7: 19c6d26 (small blind) showed [Qd Kh] and won (62,500) with a pair of Kings
+
+
+Poker Hand #TM91854936: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level17(2,000/4,000) - 2026/01/16 23:27:13
+Table '62' 7-max Seat #5 is the button
+Seat 1: 985bad00 (55,824 in chips)
+Seat 2: Hero (251,435 in chips)
+Seat 3: 143c5a5f (143,761 in chips)
+Seat 4: b5bd3c28 (120,022 in chips)
+Seat 5: b639e846 (210,401 in chips)
+Seat 6: 7b48cce6 (152,069 in chips)
+Seat 7: 19c6d26 (288,626 in chips)
+19c6d26: posts the ante 600
+7b48cce6: posts the ante 600
+b639e846: posts the ante 600
+985bad00: posts the ante 600
+143c5a5f: posts the ante 600
+Hero: posts the ante 600
+b5bd3c28: posts the ante 600
+7b48cce6: posts small blind 2,000
+19c6d26: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [Kc 9s]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+985bad00: raises 51,224 to 55,224 and is all-in
+Hero: folds
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: folds
+7b48cce6: folds
+19c6d26: folds
+Uncalled bet (51,224) returned to 985bad00
+*** SHOWDOWN ***
+985bad00 collected 14,200 from pot
+*** SUMMARY ***
+Total pot 14,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 985bad00 collected (14,200)
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 (button) folded before Flop
+Seat 6: 7b48cce6 (small blind) folded before Flop
+Seat 7: 19c6d26 (big blind) folded before Flop
+
+
+Poker Hand #TM91854888: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level17(2,000/4,000) - 2026/01/16 23:24:26
+Table '62' 7-max Seat #4 is the button
+Seat 1: 985bad00 (56,424 in chips)
+Seat 2: Hero (252,035 in chips)
+Seat 3: 143c5a5f (134,161 in chips)
+Seat 4: b5bd3c28 (120,622 in chips)
+Seat 5: b639e846 (213,001 in chips)
+Seat 6: 7b48cce6 (156,669 in chips)
+Seat 7: 19c6d26 (289,226 in chips)
+19c6d26: posts the ante 600
+7b48cce6: posts the ante 600
+985bad00: posts the ante 600
+b639e846: posts the ante 600
+143c5a5f: posts the ante 600
+Hero: posts the ante 600
+b5bd3c28: posts the ante 600
+b639e846: posts small blind 2,000
+7b48cce6: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [9s 5s]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+19c6d26: folds
+985bad00: folds
+Hero: folds
+143c5a5f: raises 8,000 to 12,000
+b5bd3c28: folds
+b639e846: folds
+7b48cce6: folds
+Uncalled bet (8,000) returned to 143c5a5f
+*** SHOWDOWN ***
+143c5a5f collected 14,200 from pot
+*** SUMMARY ***
+Total pot 14,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 985bad00 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f collected (14,200)
+Seat 4: b5bd3c28 (button) folded before Flop
+Seat 5: b639e846 (small blind) folded before Flop
+Seat 6: 7b48cce6 (big blind) folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91854875: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level17(2,000/4,000) - 2026/01/16 23:23:45
+Table '62' 7-max Seat #3 is the button
+Seat 1: 985bad00 (53,924 in chips)
+Seat 2: Hero (252,635 in chips)
+Seat 3: 143c5a5f (134,761 in chips)
+Seat 4: b5bd3c28 (123,222 in chips)
+Seat 5: b639e846 (210,501 in chips)
+Seat 6: 7b48cce6 (157,269 in chips)
+Seat 7: 19c6d26 (289,826 in chips)
+19c6d26: posts the ante 600
+7b48cce6: posts the ante 600
+985bad00: posts the ante 600
+b639e846: posts the ante 600
+143c5a5f: posts the ante 600
+Hero: posts the ante 600
+b5bd3c28: posts the ante 600
+b5bd3c28: posts small blind 2,000
+b639e846: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [6c Ts]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+7b48cce6: folds
+19c6d26: folds
+985bad00: raises 49,324 to 53,324 and is all-in
+Hero: folds
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: calls 49,324
+985bad00: shows [Qd Ac]
+b639e846: shows [Qc As]
+*** FLOP *** [9d 3h Js]
+*** TURN *** [9d 3h Js] [Qh]
+*** RIVER *** [9d 3h Js Qh] [5h]
+*** SHOWDOWN ***
+b639e846 collected 56,424 from pot
+985bad00 collected 56,424 from pot
+*** SUMMARY ***
+Total pot 112,848 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d 3h Js Qh 5h]
+Seat 1: 985bad00 showed [Qd Ac] and won (56,424) with a pair of Queens
+Seat 2: Hero folded before Flop
+Seat 3: 143c5a5f (button) folded before Flop
+Seat 4: b5bd3c28 (small blind) folded before Flop
+Seat 5: b639e846 (big blind) showed [Qc As] and won (56,424) with a pair of Queens
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91854863: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level17(2,000/4,000) - 2026/01/16 23:23:02
+Table '62' 7-max Seat #2 is the button
+Seat 1: 985bad00 (70,524 in chips)
+Seat 2: Hero (227,035 in chips)
+Seat 3: 143c5a5f (137,361 in chips)
+Seat 4: b5bd3c28 (127,822 in chips)
+Seat 5: b639e846 (211,101 in chips)
+Seat 6: 7b48cce6 (157,869 in chips)
+Seat 7: 19c6d26 (290,426 in chips)
+19c6d26: posts the ante 600
+7b48cce6: posts the ante 600
+985bad00: posts the ante 600
+b639e846: posts the ante 600
+143c5a5f: posts the ante 600
+Hero: posts the ante 600
+b5bd3c28: posts the ante 600
+143c5a5f: posts small blind 2,000
+b5bd3c28: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [7s Qs]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b639e846: folds
+7b48cce6: folds
+19c6d26: folds
+985bad00: calls 4,000
+Hero: raises 12,000 to 16,000
+143c5a5f: folds
+b5bd3c28: folds
+985bad00: calls 12,000
+*** FLOP *** [8c Qc 2s]
+985bad00: checks
+Hero: bets 54,438
+985bad00: folds
+Uncalled bet (54,438) returned to Hero
+*** SHOWDOWN ***
+Hero collected 42,200 from pot
+*** SUMMARY ***
+Total pot 42,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c Qc 2s]
+Seat 1: 985bad00 folded on the Flop
+Seat 2: Hero (button) won (42,200)
+Seat 3: 143c5a5f (small blind) folded before Flop
+Seat 4: b5bd3c28 (big blind) folded before Flop
+Seat 5: b639e846 folded before Flop
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91854840: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level17(2,000/4,000) - 2026/01/16 23:22:00
+Table '62' 7-max Seat #1 is the button
+Seat 1: 985bad00 (102,123 in chips)
+Seat 2: Hero (229,635 in chips)
+Seat 3: 143c5a5f (141,961 in chips)
+Seat 4: b5bd3c28 (128,422 in chips)
+Seat 5: b639e846 (211,701 in chips)
+Seat 6: 7b48cce6 (117,270 in chips)
+Seat 7: 19c6d26 (291,026 in chips)
+19c6d26: posts the ante 600
+7b48cce6: posts the ante 600
+985bad00: posts the ante 600
+b639e846: posts the ante 600
+143c5a5f: posts the ante 600
+Hero: posts the ante 600
+b5bd3c28: posts the ante 600
+Hero: posts small blind 2,000
+143c5a5f: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [Qd 6s]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+b5bd3c28: folds
+b639e846: folds
+7b48cce6: raises 4,000 to 8,000
+19c6d26: folds
+985bad00: calls 8,000
+Hero: folds
+143c5a5f: folds
+*** FLOP *** [Qc 7c 7h]
+7b48cce6: bets 8,646
+985bad00: raises 14,353 to 22,999
+7b48cce6: raises 23,826 to 46,825
+985bad00: folds
+Uncalled bet (23,826) returned to 7b48cce6
+*** SHOWDOWN ***
+7b48cce6 collected 72,198 from pot
+*** SUMMARY ***
+Total pot 72,198 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc 7c 7h]
+Seat 1: 985bad00 (button) folded on the Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 143c5a5f (big blind) folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 folded before Flop
+Seat 6: 7b48cce6 won (72,198)
+Seat 7: 19c6d26 folded before Flop
+
+
+Poker Hand #TM91854827: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level17(2,000/4,000) - 2026/01/16 23:21:30
+Table '62' 7-max Seat #7 is the button
+Seat 1: 985bad00 (104,723 in chips)
+Seat 2: Hero (234,235 in chips)
+Seat 3: 143c5a5f (142,561 in chips)
+Seat 4: b5bd3c28 (129,022 in chips)
+Seat 5: b639e846 (202,101 in chips)
+Seat 6: 7b48cce6 (117,870 in chips)
+Seat 7: 19c6d26 (291,626 in chips)
+19c6d26: posts the ante 600
+7b48cce6: posts the ante 600
+b639e846: posts the ante 600
+985bad00: posts the ante 600
+143c5a5f: posts the ante 600
+Hero: posts the ante 600
+b5bd3c28: posts the ante 600
+985bad00: posts small blind 2,000
+Hero: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [7s 2d]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: raises 6,000 to 10,000
+7b48cce6: folds
+19c6d26: folds
+985bad00: folds
+Hero: folds
+Uncalled bet (6,000) returned to b639e846
+*** SHOWDOWN ***
+b639e846 collected 14,200 from pot
+*** SUMMARY ***
+Total pot 14,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 985bad00 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 collected (14,200)
+Seat 6: 7b48cce6 folded before Flop
+Seat 7: 19c6d26 (button) folded before Flop
+
+
+Poker Hand #TM91854799: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level17(2,000/4,000) - 2026/01/16 23:20:23
+Table '62' 7-max Seat #6 is the button
+Seat 1: 985bad00 (81,523 in chips)
+Seat 2: Hero (243,635 in chips)
+Seat 3: 143c5a5f (143,161 in chips)
+Seat 4: b5bd3c28 (129,622 in chips)
+Seat 5: b639e846 (211,501 in chips)
+Seat 6: 7b48cce6 (118,470 in chips)
+Seat 7: 19c6d26 (294,226 in chips)
+7b48cce6: posts the ante 600
+19c6d26: posts the ante 600
+b639e846: posts the ante 600
+985bad00: posts the ante 600
+143c5a5f: posts the ante 600
+Hero: posts the ante 600
+b5bd3c28: posts the ante 600
+19c6d26: posts small blind 2,000
+985bad00: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 985bad00 
+Dealt to Hero [2c 2s]
+Dealt to 143c5a5f 
+Dealt to b5bd3c28 
+Dealt to b639e846 
+Dealt to 7b48cce6 
+Dealt to 19c6d26 
+Hero: raises 4,800 to 8,800
+143c5a5f: folds
+b5bd3c28: folds
+b639e846: calls 8,800
+7b48cce6: folds
+19c6d26: folds
+985bad00: calls 4,800
+*** FLOP *** [7d As 5s]
+985bad00: checks
+Hero: checks
+b639e846: checks
+*** TURN *** [7d As 5s] [8h]
+985bad00: bets 10,758
+Hero: folds
+b639e846: folds
+Uncalled bet (10,758) returned to 985bad00
+*** SHOWDOWN ***
+985bad00 collected 32,600 from pot
+*** SUMMARY ***
+Total pot 32,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d As 5s 8h]
+Seat 1: 985bad00 (big blind) won (32,600)
+Seat 2: Hero folded on the Turn
+Seat 3: 143c5a5f folded before Flop
+Seat 4: b5bd3c28 folded before Flop
+Seat 5: b639e846 folded on the Turn
+Seat 6: 7b48cce6 (button) folded before Flop
+Seat 7: 19c6d26 (small blind) folded before Flop
+
+
+Poker Hand #TM91854770: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:19:04
+Table '31' 7-max Seat #7 is the button
+Seat 1: f7838ef6 (101,659 in chips)
+Seat 2: 7b4e84f0 (158,713 in chips)
+Seat 3: 1313c2d0 (166,387 in chips)
+Seat 4: d71c73d1 (119,257 in chips)
+Seat 5: 808ba782 (51,275 in chips)
+Seat 6: 192e4377 (132,692 in chips)
+Seat 7: Hero (175,610 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+Hero: posts the ante 500
+f7838ef6: posts the ante 500
+808ba782: posts the ante 500
+f7838ef6: posts small blind 1,750
+7b4e84f0: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Jh Js]
+1313c2d0: raises 5,500 to 9,000
+d71c73d1: folds
+808ba782: raises 41,775 to 50,775 and is all-in
+192e4377: folds
+Hero: calls 50,775
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: folds
+808ba782: shows [Ac Qc]
+Hero: shows [Jh Js]
+*** FLOP *** [5s 9d 6s]
+*** TURN *** [5s 9d 6s] [Kh]
+*** RIVER *** [5s 9d 6s Kh] [4c]
+1313c2d0: shows [Qd As] (Ace high)
+*** SHOWDOWN ***
+Hero collected 119,300 from pot
+*** SUMMARY ***
+Total pot 119,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 9d 6s Kh 4c]
+Seat 1: f7838ef6 (small blind) folded before Flop
+Seat 2: 7b4e84f0 (big blind) folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: d71c73d1 folded before Flop
+Seat 5: 808ba782 showed [Ac Qc] and lost with Ace high
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero (button) showed [Jh Js] and won (119,300) with a pair of Jacks
+
+
+Poker Hand #TM91854734: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:17:06
+Table '31' 7-max Seat #6 is the button
+Seat 1: f7838ef6 (105,659 in chips)
+Seat 2: 7b4e84f0 (159,213 in chips)
+Seat 3: 1313c2d0 (166,887 in chips)
+Seat 4: d71c73d1 (156,892 in chips)
+Seat 5: 808ba782 (51,775 in chips)
+Seat 6: 192e4377 (133,192 in chips)
+Seat 7: Hero (131,975 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+f7838ef6: posts the ante 500
+Hero: posts the ante 500
+808ba782: posts the ante 500
+Hero: posts small blind 1,750
+f7838ef6: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [7h 6h]
+7b4e84f0: folds
+1313c2d0: folds
+d71c73d1: raises 3,500 to 7,000
+808ba782: folds
+192e4377: folds
+Hero: calls 5,250
+f7838ef6: folds
+*** FLOP *** [Tc 6s Ad]
+Hero: checks
+d71c73d1: bets 5,250
+Hero: calls 5,250
+*** TURN *** [Tc 6s Ad] [2d]
+Hero: checks
+d71c73d1: checks
+*** RIVER *** [Tc 6s Ad 2d] [7s]
+Hero: bets 24,885
+d71c73d1: calls 24,885
+Hero: shows [7h 6h] (two pair, Sevens and Sixes)
+d71c73d1: shows [8s 8h] (a pair of Eights)
+*** SHOWDOWN ***
+Hero collected 81,270 from pot
+*** SUMMARY ***
+Total pot 81,270 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 6s Ad 2d 7s]
+Seat 1: f7838ef6 (big blind) folded before Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: d71c73d1 showed [8s 8h] and lost with a pair of Eights
+Seat 5: 808ba782 folded before Flop
+Seat 6: 192e4377 (button) folded before Flop
+Seat 7: Hero (small blind) showed [7h 6h] and won (81,270) with two pair, Sevens and Sixes
+
+
+Poker Hand #TM91854719: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:16:19
+Table '31' 7-max Seat #5 is the button
+Seat 1: f7838ef6 (106,159 in chips)
+Seat 2: 7b4e84f0 (159,713 in chips)
+Seat 3: 1313c2d0 (167,387 in chips)
+Seat 4: d71c73d1 (148,642 in chips)
+Seat 5: 808ba782 (52,275 in chips)
+Seat 6: 192e4377 (135,442 in chips)
+Seat 7: Hero (135,975 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+f7838ef6: posts the ante 500
+Hero: posts the ante 500
+808ba782: posts the ante 500
+192e4377: posts small blind 1,750
+Hero: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [3h Ts]
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: folds
+d71c73d1: raises 3,500 to 7,000
+808ba782: folds
+192e4377: folds
+Hero: folds
+Uncalled bet (3,500) returned to d71c73d1
+*** SHOWDOWN ***
+d71c73d1 collected 12,250 from pot
+*** SUMMARY ***
+Total pot 12,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: d71c73d1 collected (12,250)
+Seat 5: 808ba782 (button) folded before Flop
+Seat 6: 192e4377 (small blind) folded before Flop
+Seat 7: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM91854711: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:15:57
+Table '31' 7-max Seat #4 is the button
+Seat 1: f7838ef6 (106,659 in chips)
+Seat 2: 7b4e84f0 (160,213 in chips)
+Seat 3: 1313c2d0 (167,887 in chips)
+Seat 4: d71c73d1 (149,142 in chips)
+Seat 5: 808ba782 (45,775 in chips)
+Seat 6: 192e4377 (139,442 in chips)
+Seat 7: Hero (136,475 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+f7838ef6: posts the ante 500
+Hero: posts the ante 500
+808ba782: posts the ante 500
+808ba782: posts small blind 1,750
+192e4377: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [6s 7c]
+Hero: folds
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: folds
+d71c73d1: folds
+808ba782: raises 3,500 to 7,000
+192e4377: folds
+Uncalled bet (3,500) returned to 808ba782
+*** SHOWDOWN ***
+808ba782 collected 10,500 from pot
+*** SUMMARY ***
+Total pot 10,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: d71c73d1 (button) folded before Flop
+Seat 5: 808ba782 (small blind) collected (10,500)
+Seat 6: 192e4377 (big blind) folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854693: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:15:08
+Table '31' 7-max Seat #3 is the button
+Seat 1: f7838ef6 (107,159 in chips)
+Seat 2: 7b4e84f0 (160,713 in chips)
+Seat 3: 1313c2d0 (175,387 in chips)
+Seat 4: d71c73d1 (151,392 in chips)
+Seat 5: 808ba782 (49,775 in chips)
+Seat 6: 192e4377 (139,942 in chips)
+Seat 7: Hero (121,225 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+f7838ef6: posts the ante 500
+Hero: posts the ante 500
+808ba782: posts the ante 500
+d71c73d1: posts small blind 1,750
+808ba782: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [5h Ah]
+192e4377: folds
+Hero: raises 3,500 to 7,000
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: calls 7,000
+d71c73d1: folds
+808ba782: folds
+*** FLOP *** [9s 4h 5c]
+Hero: bets 5,250
+1313c2d0: folds
+Uncalled bet (5,250) returned to Hero
+*** SHOWDOWN ***
+Hero collected 22,750 from pot
+*** SUMMARY ***
+Total pot 22,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 4h 5c]
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 (button) folded on the Flop
+Seat 4: d71c73d1 (small blind) folded before Flop
+Seat 5: 808ba782 (big blind) folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero won (22,750)
+
+
+Poker Hand #TM91854684: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:14:52
+Table '31' 7-max Seat #2 is the button
+Seat 1: f7838ef6 (107,659 in chips)
+Seat 2: 7b4e84f0 (161,213 in chips)
+Seat 3: 1313c2d0 (177,637 in chips)
+Seat 4: d71c73d1 (146,642 in chips)
+Seat 5: 808ba782 (50,275 in chips)
+Seat 6: 192e4377 (140,442 in chips)
+Seat 7: Hero (121,725 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+f7838ef6: posts the ante 500
+Hero: posts the ante 500
+808ba782: posts the ante 500
+1313c2d0: posts small blind 1,750
+d71c73d1: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [4c 6h]
+808ba782: folds
+192e4377: folds
+Hero: folds
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: folds
+Uncalled bet (1,750) returned to d71c73d1
+*** SHOWDOWN ***
+d71c73d1 collected 7,000 from pot
+*** SUMMARY ***
+Total pot 7,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 (button) folded before Flop
+Seat 3: 1313c2d0 (small blind) folded before Flop
+Seat 4: d71c73d1 (big blind) collected (7,000)
+Seat 5: 808ba782 folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854678: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:14:29
+Table '31' 7-max Seat #1 is the button
+Seat 1: f7838ef6 (108,159 in chips)
+Seat 2: 7b4e84f0 (154,713 in chips)
+Seat 3: 1313c2d0 (181,637 in chips)
+Seat 4: d71c73d1 (147,142 in chips)
+Seat 5: 808ba782 (50,775 in chips)
+Seat 6: 192e4377 (140,942 in chips)
+Seat 7: Hero (122,225 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+f7838ef6: posts the ante 500
+Hero: posts the ante 500
+808ba782: posts the ante 500
+7b4e84f0: posts small blind 1,750
+1313c2d0: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [4c 6h]
+d71c73d1: folds
+808ba782: folds
+192e4377: folds
+Hero: folds
+f7838ef6: folds
+7b4e84f0: raises 8,750 to 12,250
+1313c2d0: folds
+Uncalled bet (8,750) returned to 7b4e84f0
+*** SHOWDOWN ***
+7b4e84f0 collected 10,500 from pot
+*** SUMMARY ***
+Total pot 10,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 (button) folded before Flop
+Seat 2: 7b4e84f0 (small blind) showed [Ac] and collected (10,500)
+Seat 3: 1313c2d0 (big blind) folded before Flop
+Seat 4: d71c73d1 folded before Flop
+Seat 5: 808ba782 folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854663: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:13:55
+Table '31' 7-max Seat #7 is the button
+Seat 1: f7838ef6 (94,659 in chips)
+Seat 2: 7b4e84f0 (158,713 in chips)
+Seat 3: 1313c2d0 (182,137 in chips)
+Seat 4: d71c73d1 (147,642 in chips)
+Seat 5: 808ba782 (58,275 in chips)
+Seat 6: 192e4377 (141,442 in chips)
+Seat 7: Hero (122,725 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+Hero: posts the ante 500
+f7838ef6: posts the ante 500
+808ba782: posts the ante 500
+f7838ef6: posts small blind 1,750
+7b4e84f0: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [3h 8h]
+1313c2d0: folds
+d71c73d1: folds
+808ba782: raises 3,500 to 7,000
+192e4377: folds
+Hero: folds
+f7838ef6: raises 87,159 to 94,159 and is all-in
+7b4e84f0: folds
+808ba782: folds
+Uncalled bet (87,159) returned to f7838ef6
+*** SHOWDOWN ***
+f7838ef6 collected 21,000 from pot
+*** SUMMARY ***
+Total pot 21,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 (small blind) collected (21,000)
+Seat 2: 7b4e84f0 (big blind) folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: d71c73d1 folded before Flop
+Seat 5: 808ba782 folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero (button) folded before Flop
+
+
+Poker Hand #TM91854649: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:13:10
+Table '31' 7-max Seat #6 is the button
+Seat 1: f7838ef6 (98,659 in chips)
+Seat 2: 7b4e84f0 (159,213 in chips)
+Seat 3: 1313c2d0 (182,637 in chips)
+Seat 4: d71c73d1 (148,142 in chips)
+Seat 5: 808ba782 (50,025 in chips)
+Seat 6: 192e4377 (141,942 in chips)
+Seat 7: Hero (124,975 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+f7838ef6: posts the ante 500
+Hero: posts the ante 500
+808ba782: posts the ante 500
+Hero: posts small blind 1,750
+f7838ef6: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Ks 9c]
+7b4e84f0: folds
+1313c2d0: folds
+d71c73d1: folds
+808ba782: raises 46,025 to 49,525 and is all-in
+192e4377: folds
+Hero: folds
+f7838ef6: folds
+Uncalled bet (46,025) returned to 808ba782
+*** SHOWDOWN ***
+808ba782 collected 12,250 from pot
+*** SUMMARY ***
+Total pot 12,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 (big blind) folded before Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: d71c73d1 folded before Flop
+Seat 5: 808ba782 collected (12,250)
+Seat 6: 192e4377 (button) folded before Flop
+Seat 7: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM91854625: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:12:09
+Table '31' 7-max Seat #5 is the button
+Seat 1: f7838ef6 (116,659 in chips)
+Seat 2: 7b4e84f0 (159,713 in chips)
+Seat 3: 1313c2d0 (183,137 in chips)
+Seat 4: d71c73d1 (148,642 in chips)
+Seat 5: 808ba782 (39,150 in chips)
+Seat 6: 192e4377 (144,192 in chips)
+Seat 7: Hero (114,100 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+f7838ef6: posts the ante 500
+Hero: posts the ante 500
+808ba782: posts the ante 500
+192e4377: posts small blind 1,750
+Hero: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Js 9h]
+f7838ef6: raises 3,500 to 7,000
+7b4e84f0: folds
+1313c2d0: folds
+d71c73d1: folds
+808ba782: calls 7,000
+192e4377: folds
+Hero: calls 3,500
+*** FLOP *** [2s Jh Jc]
+Hero: checks
+f7838ef6: bets 10,500
+808ba782: calls 10,500
+Hero: raises 24,500 to 35,000
+f7838ef6: folds
+808ba782: calls 21,150 and is all-in
+Uncalled bet (3,350) returned to Hero
+Hero: shows [Js 9h] (three of a kind, Jacks)
+808ba782: shows [Kc Jd] (three of a kind, Jacks)
+*** TURN *** [2s Jh Jc] [2h]
+*** RIVER *** [2s Jh Jc 2h] [7c]
+*** SHOWDOWN ***
+808ba782 collected 50,025 from pot
+Hero collected 50,025 from pot
+*** SUMMARY ***
+Total pot 100,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s Jh Jc 2h 7c]
+Seat 1: f7838ef6 folded on the Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: d71c73d1 folded before Flop
+Seat 5: 808ba782 (button) showed [Kc Jd] and won (50,025) with a full house, Jacks full of Twos
+Seat 6: 192e4377 (small blind) folded before Flop
+Seat 7: Hero (big blind) showed [Js 9h] and won (50,025) with a full house, Jacks full of Twos
+
+
+Poker Hand #TM91854616: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:11:43
+Table '31' 7-max Seat #4 is the button
+Seat 1: f7838ef6 (117,159 in chips)
+Seat 2: 7b4e84f0 (160,213 in chips)
+Seat 3: 1313c2d0 (183,637 in chips)
+Seat 4: d71c73d1 (149,142 in chips)
+Seat 5: 808ba782 (32,650 in chips)
+Seat 6: 192e4377 (148,192 in chips)
+Seat 7: Hero (114,600 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+f7838ef6: posts the ante 500
+Hero: posts the ante 500
+808ba782: posts the ante 500
+808ba782: posts small blind 1,750
+192e4377: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Th 3d]
+Hero: folds
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: folds
+d71c73d1: folds
+808ba782: raises 3,500 to 7,000
+192e4377: folds
+Uncalled bet (3,500) returned to 808ba782
+*** SHOWDOWN ***
+808ba782 collected 10,500 from pot
+*** SUMMARY ***
+Total pot 10,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: d71c73d1 (button) folded before Flop
+Seat 5: 808ba782 (small blind) collected (10,500)
+Seat 6: 192e4377 (big blind) folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854604: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level16(1,750/3,500) - 2026/01/16 23:11:17
+Table '31' 7-max Seat #3 is the button
+Seat 1: f7838ef6 (117,659 in chips)
+Seat 2: 7b4e84f0 (160,713 in chips)
+Seat 3: 1313c2d0 (184,137 in chips)
+Seat 4: d71c73d1 (142,642 in chips)
+Seat 5: 808ba782 (36,650 in chips)
+Seat 6: 192e4377 (148,692 in chips)
+Seat 7: Hero (115,100 in chips)
+192e4377: posts the ante 500
+1313c2d0: posts the ante 500
+d71c73d1: posts the ante 500
+7b4e84f0: posts the ante 500
+f7838ef6: posts the ante 500
+Hero: posts the ante 500
+808ba782: posts the ante 500
+d71c73d1: posts small blind 1,750
+808ba782: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Ah 2s]
+192e4377: folds
+Hero: folds
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: folds
+d71c73d1: raises 7,000 to 10,500
+808ba782: folds
+Uncalled bet (7,000) returned to d71c73d1
+*** SHOWDOWN ***
+d71c73d1 collected 10,500 from pot
+*** SUMMARY ***
+Total pot 10,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 (button) folded before Flop
+Seat 4: d71c73d1 (small blind) collected (10,500)
+Seat 5: 808ba782 (big blind) folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854583: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:10:29
+Table '31' 7-max Seat #2 is the button
+Seat 1: f7838ef6 (118,109 in chips)
+Seat 2: 7b4e84f0 (161,163 in chips)
+Seat 3: 1313c2d0 (186,087 in chips)
+Seat 4: d71c73d1 (138,442 in chips)
+Seat 5: 808ba782 (37,100 in chips)
+Seat 6: 192e4377 (149,142 in chips)
+Seat 7: Hero (115,550 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+d71c73d1: posts the ante 450
+7b4e84f0: posts the ante 450
+f7838ef6: posts the ante 450
+Hero: posts the ante 450
+808ba782: posts the ante 450
+1313c2d0: posts small blind 1,500
+d71c73d1: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to d71c73d1 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [6d 8c]
+808ba782: folds
+192e4377: folds
+Hero: folds
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: folds
+Uncalled bet (1,500) returned to d71c73d1
+*** SHOWDOWN ***
+d71c73d1 collected 6,150 from pot
+*** SUMMARY ***
+Total pot 6,150 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 (button) folded before Flop
+Seat 3: 1313c2d0 (small blind) folded before Flop
+Seat 4: d71c73d1 (big blind) collected (6,150)
+Seat 5: 808ba782 folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854555: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:09:22
+Table '31' 7-max Seat #1 is the button
+Seat 1: f7838ef6 (142,859 in chips)
+Seat 2: 7b4e84f0 (163,113 in chips)
+Seat 3: 1313c2d0 (158,037 in chips)
+Seat 5: 808ba782 (37,550 in chips)
+Seat 6: 192e4377 (149,592 in chips)
+Seat 7: Hero (116,000 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+7b4e84f0: posts the ante 450
+f7838ef6: posts the ante 450
+Hero: posts the ante 450
+808ba782: posts the ante 450
+7b4e84f0: posts small blind 1,500
+1313c2d0: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [6d Qh]
+808ba782: folds
+192e4377: folds
+Hero: folds
+f7838ef6: raises 3,600 to 6,600
+7b4e84f0: folds
+1313c2d0: calls 3,600
+*** FLOP *** [Ad 6c 4d]
+1313c2d0: checks
+f7838ef6: bets 4,500
+1313c2d0: calls 4,500
+*** TURN *** [Ad 6c 4d] [Jh]
+1313c2d0: checks
+f7838ef6: bets 13,200
+1313c2d0: calls 13,200
+*** RIVER *** [Ad 6c 4d Jh] [7h]
+1313c2d0: checks
+f7838ef6: checks
+1313c2d0: shows [Ah 9h] (a pair of Aces)
+f7838ef6: shows [Kh Ks] (a pair of Kings)
+*** SHOWDOWN ***
+1313c2d0 collected 52,800 from pot
+*** SUMMARY ***
+Total pot 52,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad 6c 4d Jh 7h]
+Seat 1: f7838ef6 (button) showed [Kh Ks] and lost with a pair of Kings
+Seat 2: 7b4e84f0 (small blind) folded before Flop
+Seat 3: 1313c2d0 (big blind) showed [Ah 9h] and won (52,800) with a pair of Aces
+Seat 5: 808ba782 folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854532: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:08:05
+Table '31' 7-max Seat #7 is the button
+Seat 1: f7838ef6 (144,809 in chips)
+Seat 2: 7b4e84f0 (182,051 in chips)
+Seat 3: 1313c2d0 (158,487 in chips)
+Seat 4: e1c54932 (46,084 in chips)
+Seat 5: 808ba782 (38,000 in chips)
+Seat 6: 192e4377 (150,042 in chips)
+Seat 7: Hero (93,312 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+7b4e84f0: posts the ante 450
+Hero: posts the ante 450
+e1c54932: posts the ante 450
+f7838ef6: posts the ante 450
+808ba782: posts the ante 450
+f7838ef6: posts small blind 1,500
+7b4e84f0: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Ah 8s]
+1313c2d0: folds
+e1c54932: folds
+808ba782: folds
+192e4377: folds
+Hero: raises 3,000 to 6,000
+f7838ef6: folds
+7b4e84f0: calls 3,000
+*** FLOP *** [Th 6h 4h]
+7b4e84f0: checks
+Hero: checks
+*** TURN *** [Th 6h 4h] [9c]
+7b4e84f0: bets 12,488
+Hero: calls 12,488
+*** RIVER *** [Th 6h 4h 9c] [3h]
+7b4e84f0: checks
+Hero: bets 32,885
+7b4e84f0: folds
+Uncalled bet (32,885) returned to Hero
+*** SHOWDOWN ***
+Hero collected 41,626 from pot
+*** SUMMARY ***
+Total pot 41,626 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th 6h 4h 9c 3h]
+Seat 1: f7838ef6 (small blind) folded before Flop
+Seat 2: 7b4e84f0 (big blind) folded on the River
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero (button) showed [Ah] and won (41,626)
+
+
+Poker Hand #TM91854520: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:07:23
+Table '31' 7-max Seat #6 is the button
+Seat 1: f7838ef6 (156,679 in chips)
+Seat 2: 7b4e84f0 (166,431 in chips)
+Seat 3: 1313c2d0 (158,937 in chips)
+Seat 4: e1c54932 (46,534 in chips)
+Seat 5: 808ba782 (38,450 in chips)
+Seat 6: 192e4377 (150,492 in chips)
+Seat 7: Hero (95,262 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+7b4e84f0: posts the ante 450
+e1c54932: posts the ante 450
+f7838ef6: posts the ante 450
+Hero: posts the ante 450
+808ba782: posts the ante 450
+Hero: posts small blind 1,500
+f7838ef6: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Jh 4h]
+7b4e84f0: raises 3,600 to 6,600
+1313c2d0: folds
+e1c54932: folds
+808ba782: folds
+192e4377: folds
+Hero: folds
+f7838ef6: calls 3,600
+*** FLOP *** [6h 6s 3s]
+f7838ef6: checks
+7b4e84f0: checks
+*** TURN *** [6h 6s 3s] [2h]
+f7838ef6: bets 4,820
+7b4e84f0: calls 4,820
+*** RIVER *** [6h 6s 3s 2h] [Ad]
+f7838ef6: checks
+7b4e84f0: bets 19,500
+f7838ef6: folds
+Uncalled bet (19,500) returned to 7b4e84f0
+*** SHOWDOWN ***
+7b4e84f0 collected 27,490 from pot
+*** SUMMARY ***
+Total pot 27,490 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 6s 3s 2h Ad]
+Seat 1: f7838ef6 (big blind) folded on the River
+Seat 2: 7b4e84f0 won (27,490)
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 folded before Flop
+Seat 6: 192e4377 (button) folded before Flop
+Seat 7: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM91854505: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:06:50
+Table '31' 7-max Seat #5 is the button
+Seat 1: f7838ef6 (157,129 in chips)
+Seat 2: 7b4e84f0 (166,881 in chips)
+Seat 3: 1313c2d0 (159,387 in chips)
+Seat 4: e1c54932 (39,334 in chips)
+Seat 5: 808ba782 (38,900 in chips)
+Seat 6: 192e4377 (152,442 in chips)
+Seat 7: Hero (98,712 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+7b4e84f0: posts the ante 450
+e1c54932: posts the ante 450
+f7838ef6: posts the ante 450
+Hero: posts the ante 450
+808ba782: posts the ante 450
+192e4377: posts small blind 1,500
+Hero: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [8c 2d]
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: folds
+e1c54932: raises 3,000 to 6,000
+808ba782: folds
+192e4377: folds
+Hero: folds
+Uncalled bet (3,000) returned to e1c54932
+*** SHOWDOWN ***
+e1c54932 collected 10,650 from pot
+*** SUMMARY ***
+Total pot 10,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 collected (10,650)
+Seat 5: 808ba782 (button) folded before Flop
+Seat 6: 192e4377 (small blind) folded before Flop
+Seat 7: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM91854480: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:05:54
+Table '31' 7-max Seat #4 is the button
+Seat 1: f7838ef6 (157,579 in chips)
+Seat 2: 7b4e84f0 (145,581 in chips)
+Seat 3: 1313c2d0 (159,837 in chips)
+Seat 4: e1c54932 (53,884 in chips)
+Seat 5: 808ba782 (40,850 in chips)
+Seat 6: 192e4377 (155,892 in chips)
+Seat 7: Hero (99,162 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+7b4e84f0: posts the ante 450
+e1c54932: posts the ante 450
+f7838ef6: posts the ante 450
+Hero: posts the ante 450
+808ba782: posts the ante 450
+808ba782: posts small blind 1,500
+192e4377: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Th 5s]
+Hero: folds
+f7838ef6: folds
+7b4e84f0: raises 3,600 to 6,600
+1313c2d0: folds
+e1c54932: calls 6,600
+808ba782: folds
+192e4377: folds
+*** FLOP *** [8d 6s 3s]
+7b4e84f0: bets 7,500
+e1c54932: calls 7,500
+*** TURN *** [8d 6s 3s] [3c]
+7b4e84f0: bets 43,500
+e1c54932: folds
+Uncalled bet (43,500) returned to 7b4e84f0
+*** SHOWDOWN ***
+7b4e84f0 collected 35,850 from pot
+*** SUMMARY ***
+Total pot 35,850 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 6s 3s 3c]
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 won (35,850)
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 (button) folded on the Turn
+Seat 5: 808ba782 (small blind) folded before Flop
+Seat 6: 192e4377 (big blind) folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854463: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:05:09
+Table '31' 7-max Seat #3 is the button
+Seat 1: f7838ef6 (158,029 in chips)
+Seat 2: 7b4e84f0 (146,031 in chips)
+Seat 3: 1313c2d0 (152,637 in chips)
+Seat 4: e1c54932 (55,834 in chips)
+Seat 5: 808ba782 (44,300 in chips)
+Seat 6: 192e4377 (156,342 in chips)
+Seat 7: Hero (99,612 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+7b4e84f0: posts the ante 450
+f7838ef6: posts the ante 450
+Hero: posts the ante 450
+e1c54932: posts the ante 450
+808ba782: posts the ante 450
+e1c54932: posts small blind 1,500
+808ba782: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [9c 2s]
+192e4377: folds
+Hero: folds
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: raises 4,500 to 7,500
+e1c54932: folds
+808ba782: folds
+Uncalled bet (4,500) returned to 1313c2d0
+*** SHOWDOWN ***
+1313c2d0 collected 10,650 from pot
+*** SUMMARY ***
+Total pot 10,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 (button) collected (10,650)
+Seat 4: e1c54932 (small blind) folded before Flop
+Seat 5: 808ba782 (big blind) folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854446: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:04:26
+Table '31' 7-max Seat #2 is the button
+Seat 1: f7838ef6 (158,479 in chips)
+Seat 2: 7b4e84f0 (146,481 in chips)
+Seat 3: 1313c2d0 (154,587 in chips)
+Seat 4: e1c54932 (51,634 in chips)
+Seat 5: 808ba782 (44,750 in chips)
+Seat 6: 192e4377 (156,792 in chips)
+Seat 7: Hero (100,062 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+7b4e84f0: posts the ante 450
+f7838ef6: posts the ante 450
+Hero: posts the ante 450
+e1c54932: posts the ante 450
+808ba782: posts the ante 450
+1313c2d0: posts small blind 1,500
+e1c54932: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Tc 6s]
+808ba782: folds
+192e4377: folds
+Hero: folds
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: folds
+Uncalled bet (1,500) returned to e1c54932
+*** SHOWDOWN ***
+e1c54932 collected 6,150 from pot
+*** SUMMARY ***
+Total pot 6,150 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 (button) folded before Flop
+Seat 3: 1313c2d0 (small blind) folded before Flop
+Seat 4: e1c54932 (big blind) collected (6,150)
+Seat 5: 808ba782 folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854434: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:04:02
+Table '31' 7-max Seat #1 is the button
+Seat 1: f7838ef6 (158,929 in chips)
+Seat 2: 7b4e84f0 (148,431 in chips)
+Seat 3: 1313c2d0 (158,037 in chips)
+Seat 4: e1c54932 (52,084 in chips)
+Seat 5: 808ba782 (37,550 in chips)
+Seat 6: 192e4377 (157,242 in chips)
+Seat 7: Hero (100,512 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+7b4e84f0: posts the ante 450
+f7838ef6: posts the ante 450
+Hero: posts the ante 450
+e1c54932: posts the ante 450
+808ba782: posts the ante 450
+7b4e84f0: posts small blind 1,500
+1313c2d0: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [3d 9c]
+e1c54932: folds
+808ba782: raises 34,100 to 37,100 and is all-in
+192e4377: folds
+Hero: folds
+f7838ef6: folds
+7b4e84f0: folds
+1313c2d0: folds
+Uncalled bet (34,100) returned to 808ba782
+*** SHOWDOWN ***
+808ba782 collected 10,650 from pot
+*** SUMMARY ***
+Total pot 10,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 (button) folded before Flop
+Seat 2: 7b4e84f0 (small blind) folded before Flop
+Seat 3: 1313c2d0 (big blind) folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 collected (10,650)
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854428: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:03:46
+Table '31' 7-max Seat #7 is the button
+Seat 1: f7838ef6 (160,879 in chips)
+Seat 2: 7b4e84f0 (144,231 in chips)
+Seat 3: 1313c2d0 (158,487 in chips)
+Seat 4: e1c54932 (52,534 in chips)
+Seat 5: 808ba782 (38,000 in chips)
+Seat 6: 192e4377 (157,692 in chips)
+Seat 7: Hero (100,962 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+7b4e84f0: posts the ante 450
+Hero: posts the ante 450
+e1c54932: posts the ante 450
+f7838ef6: posts the ante 450
+808ba782: posts the ante 450
+f7838ef6: posts small blind 1,500
+7b4e84f0: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Jc 2h]
+1313c2d0: folds
+e1c54932: folds
+808ba782: folds
+192e4377: folds
+Hero: folds
+f7838ef6: folds
+Uncalled bet (1,500) returned to 7b4e84f0
+*** SHOWDOWN ***
+7b4e84f0 collected 6,150 from pot
+*** SUMMARY ***
+Total pot 6,150 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 (small blind) folded before Flop
+Seat 2: 7b4e84f0 (big blind) collected (6,150)
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 folded before Flop
+Seat 6: 192e4377 folded before Flop
+Seat 7: Hero (button) folded before Flop
+
+
+Poker Hand #TM91854418: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level15(1,500/3,000) - 2026/01/16 23:03:18
+Table '31' 7-max Seat #6 is the button
+Seat 1: f7838ef6 (164,329 in chips)
+Seat 2: 7b4e84f0 (144,681 in chips)
+Seat 3: 1313c2d0 (158,937 in chips)
+Seat 4: e1c54932 (52,984 in chips)
+Seat 5: 808ba782 (30,800 in chips)
+Seat 6: 192e4377 (158,142 in chips)
+Seat 7: Hero (102,912 in chips)
+192e4377: posts the ante 450
+1313c2d0: posts the ante 450
+7b4e84f0: posts the ante 450
+e1c54932: posts the ante 450
+f7838ef6: posts the ante 450
+Hero: posts the ante 450
+808ba782: posts the ante 450
+Hero: posts small blind 1,500
+f7838ef6: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Qc Jd]
+7b4e84f0: folds
+1313c2d0: folds
+e1c54932: folds
+808ba782: raises 27,350 to 30,350 and is all-in
+192e4377: folds
+Hero: folds
+f7838ef6: folds
+Uncalled bet (27,350) returned to 808ba782
+*** SHOWDOWN ***
+808ba782 collected 10,650 from pot
+*** SUMMARY ***
+Total pot 10,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 (big blind) folded before Flop
+Seat 2: 7b4e84f0 folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 collected (10,650)
+Seat 6: 192e4377 (button) folded before Flop
+Seat 7: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM91854403: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 23:02:49
+Table '31' 7-max Seat #5 is the button
+Seat 1: f7838ef6 (164,679 in chips)
+Seat 2: 7b4e84f0 (138,831 in chips)
+Seat 3: 1313c2d0 (159,287 in chips)
+Seat 4: e1c54932 (53,334 in chips)
+Seat 5: 808ba782 (31,150 in chips)
+Seat 6: 192e4377 (159,742 in chips)
+Seat 7: Hero (105,762 in chips)
+192e4377: posts the ante 350
+1313c2d0: posts the ante 350
+7b4e84f0: posts the ante 350
+e1c54932: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+808ba782: posts the ante 350
+192e4377: posts small blind 1,250
+Hero: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 7b4e84f0 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [3c Js]
+f7838ef6: folds
+7b4e84f0: raises 3,000 to 5,500
+1313c2d0: folds
+e1c54932: folds
+808ba782: folds
+192e4377: folds
+Hero: folds
+Uncalled bet (3,000) returned to 7b4e84f0
+*** SHOWDOWN ***
+7b4e84f0 collected 8,700 from pot
+*** SUMMARY ***
+Total pot 8,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: 7b4e84f0 collected (8,700)
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 (button) folded before Flop
+Seat 6: 192e4377 (small blind) folded before Flop
+Seat 7: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM91854368: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 23:01:30
+Table '31' 7-max Seat #4 is the button
+Seat 1: f7838ef6 (165,029 in chips)
+Seat 3: 1313c2d0 (153,787 in chips)
+Seat 4: e1c54932 (53,684 in chips)
+Seat 5: 808ba782 (32,750 in chips)
+Seat 6: 192e4377 (162,592 in chips)
+Seat 7: Hero (106,112 in chips)
+192e4377: posts the ante 350
+1313c2d0: posts the ante 350
+e1c54932: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+808ba782: posts the ante 350
+808ba782: posts small blind 1,250
+192e4377: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [5h 2d]
+Hero: folds
+f7838ef6: folds
+1313c2d0: raises 2,500 to 5,000
+e1c54932: folds
+808ba782: folds
+192e4377: folds
+Uncalled bet (2,500) returned to 1313c2d0
+*** SHOWDOWN ***
+1313c2d0 collected 8,350 from pot
+*** SUMMARY ***
+Total pot 8,350 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 3: 1313c2d0 collected (8,350)
+Seat 4: e1c54932 (button) folded before Flop
+Seat 5: 808ba782 (small blind) folded before Flop
+Seat 6: 192e4377 (big blind) folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854352: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 22:54:55
+Table '31' 7-max Seat #3 is the button
+Seat 1: f7838ef6 (165,379 in chips)
+Seat 2: ab414c6c (32,850 in chips)
+Seat 3: 1313c2d0 (154,137 in chips)
+Seat 4: e1c54932 (55,284 in chips)
+Seat 5: 808ba782 (35,600 in chips)
+Seat 6: 192e4377 (124,242 in chips)
+Seat 7: Hero (106,462 in chips)
+192e4377: posts the ante 350
+ab414c6c: posts the ante 350
+1313c2d0: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+e1c54932: posts the ante 350
+808ba782: posts the ante 350
+e1c54932: posts small blind 1,250
+808ba782: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 192e4377 
+Dealt to Hero [Js 6s]
+192e4377: calls 2,500
+Hero: folds
+f7838ef6: folds
+ab414c6c: raises 30,000 to 32,500 and is all-in
+1313c2d0: folds
+e1c54932: folds
+808ba782: folds
+192e4377: calls 30,000
+ab414c6c: shows [Ad Td]
+192e4377: shows [Th Kd]
+*** FLOP *** [3c 9h 8d]
+*** TURN *** [3c 9h 8d] [Ks]
+*** RIVER *** [3c 9h 8d Ks] [2d]
+*** SHOWDOWN ***
+192e4377 collected 71,200 from pot
+*** SUMMARY ***
+Total pot 71,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 9h 8d Ks 2d]
+Seat 1: f7838ef6 folded before Flop
+Seat 2: ab414c6c showed [Ad Td] and lost with Ace high
+Seat 3: 1313c2d0 (button) folded before Flop
+Seat 4: e1c54932 (small blind) folded before Flop
+Seat 5: 808ba782 (big blind) folded before Flop
+Seat 6: 192e4377 showed [Th Kd] and won (71,200) with a pair of Kings
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854335: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 22:54:19
+Table '31' 7-max Seat #2 is the button
+Seat 1: f7838ef6 (165,729 in chips)
+Seat 2: ab414c6c (33,200 in chips)
+Seat 3: 1313c2d0 (149,887 in chips)
+Seat 4: e1c54932 (58,134 in chips)
+Seat 5: 808ba782 (35,950 in chips)
+Seat 7: Hero (106,812 in chips)
+ab414c6c: posts the ante 350
+1313c2d0: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+e1c54932: posts the ante 350
+808ba782: posts the ante 350
+1313c2d0: posts small blind 1,250
+e1c54932: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to Hero [8h Td]
+808ba782: folds
+Hero: folds
+f7838ef6: folds
+ab414c6c: folds
+1313c2d0: raises 2,500 to 5,000
+e1c54932: folds
+Uncalled bet (2,500) returned to 1313c2d0
+*** SHOWDOWN ***
+1313c2d0 collected 7,100 from pot
+*** SUMMARY ***
+Total pot 7,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: ab414c6c (button) folded before Flop
+Seat 3: 1313c2d0 (small blind) collected (7,100)
+Seat 4: e1c54932 (big blind) folded before Flop
+Seat 5: 808ba782 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854330: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 22:54:03
+Table '31' 7-max Seat #1 is the button
+Seat 1: f7838ef6 (166,079 in chips)
+Seat 2: ab414c6c (34,800 in chips)
+Seat 3: 1313c2d0 (146,887 in chips)
+Seat 4: e1c54932 (58,484 in chips)
+Seat 5: 808ba782 (36,300 in chips)
+Seat 7: Hero (107,162 in chips)
+ab414c6c: posts the ante 350
+1313c2d0: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+e1c54932: posts the ante 350
+808ba782: posts the ante 350
+ab414c6c: posts small blind 1,250
+1313c2d0: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to Hero [Kc 2d]
+e1c54932: folds
+808ba782: folds
+Hero: folds
+f7838ef6: folds
+ab414c6c: folds
+Uncalled bet (1,250) returned to 1313c2d0
+*** SHOWDOWN ***
+1313c2d0 collected 4,600 from pot
+*** SUMMARY ***
+Total pot 4,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 (button) folded before Flop
+Seat 2: ab414c6c (small blind) folded before Flop
+Seat 3: 1313c2d0 (big blind) collected (4,600)
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854301: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 22:53:04
+Table '31' 7-max Seat #7 is the button
+Seat 1: f7838ef6 (127,736 in chips)
+Seat 2: ab414c6c (37,650 in chips)
+Seat 3: 1313c2d0 (147,237 in chips)
+Seat 4: e1c54932 (58,834 in chips)
+Seat 5: 808ba782 (36,650 in chips)
+Seat 6: 1637a172 (34,093 in chips)
+Seat 7: Hero (107,512 in chips)
+ab414c6c: posts the ante 350
+1313c2d0: posts the ante 350
+1637a172: posts the ante 350
+Hero: posts the ante 350
+e1c54932: posts the ante 350
+f7838ef6: posts the ante 350
+808ba782: posts the ante 350
+f7838ef6: posts small blind 1,250
+ab414c6c: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 1637a172 
+Dealt to Hero [7c Qs]
+1313c2d0: folds
+e1c54932: folds
+808ba782: folds
+1637a172: raises 31,243 to 33,743 and is all-in
+Hero: folds
+f7838ef6: raises 93,643 to 127,386 and is all-in
+ab414c6c: folds
+Uncalled bet (93,643) returned to f7838ef6
+f7838ef6: shows [Kd Kh]
+1637a172: shows [Kc 9s]
+*** FLOP *** [Jh 9d 4h]
+*** TURN *** [Jh 9d 4h] [7d]
+*** RIVER *** [Jh 9d 4h 7d] [3s]
+*** SHOWDOWN ***
+f7838ef6 collected 72,436 from pot
+*** SUMMARY ***
+Total pot 72,436 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 9d 4h 7d 3s]
+Seat 1: f7838ef6 (small blind) showed [Kd Kh] and won (72,436) with a pair of Kings
+Seat 2: ab414c6c (big blind) folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 folded before Flop
+Seat 6: 1637a172 showed [Kc 9s] and lost with a pair of Nines
+Seat 7: Hero (button) folded before Flop
+
+
+Poker Hand #TM91854293: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 22:52:45
+Table '31' 7-max Seat #6 is the button
+Seat 1: f7838ef6 (130,586 in chips)
+Seat 2: ab414c6c (38,000 in chips)
+Seat 3: 1313c2d0 (147,587 in chips)
+Seat 4: e1c54932 (59,184 in chips)
+Seat 5: 808ba782 (37,000 in chips)
+Seat 6: 1637a172 (28,243 in chips)
+Seat 7: Hero (109,112 in chips)
+ab414c6c: posts the ante 350
+1313c2d0: posts the ante 350
+1637a172: posts the ante 350
+e1c54932: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+808ba782: posts the ante 350
+Hero: posts small blind 1,250
+f7838ef6: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 1637a172 
+Dealt to Hero [2d 9h]
+ab414c6c: folds
+1313c2d0: folds
+e1c54932: folds
+808ba782: folds
+1637a172: raises 25,393 to 27,893 and is all-in
+Hero: folds
+f7838ef6: folds
+Uncalled bet (25,393) returned to 1637a172
+*** SHOWDOWN ***
+1637a172 collected 8,700 from pot
+*** SUMMARY ***
+Total pot 8,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 (big blind) folded before Flop
+Seat 2: ab414c6c folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 folded before Flop
+Seat 6: 1637a172 (button) collected (8,700)
+Seat 7: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM91854285: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 22:52:23
+Table '31' 7-max Seat #5 is the button
+Seat 1: f7838ef6 (130,936 in chips)
+Seat 2: ab414c6c (32,150 in chips)
+Seat 3: 1313c2d0 (147,937 in chips)
+Seat 4: e1c54932 (59,534 in chips)
+Seat 5: 808ba782 (37,350 in chips)
+Seat 6: 1637a172 (29,843 in chips)
+Seat 7: Hero (111,962 in chips)
+ab414c6c: posts the ante 350
+1313c2d0: posts the ante 350
+1637a172: posts the ante 350
+e1c54932: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+808ba782: posts the ante 350
+1637a172: posts small blind 1,250
+Hero: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 1637a172 
+Dealt to Hero [4s Th]
+f7838ef6: folds
+ab414c6c: raises 29,300 to 31,800 and is all-in
+1313c2d0: folds
+e1c54932: folds
+808ba782: folds
+1637a172: folds
+Hero: folds
+Uncalled bet (29,300) returned to ab414c6c
+*** SHOWDOWN ***
+ab414c6c collected 8,700 from pot
+*** SUMMARY ***
+Total pot 8,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: ab414c6c collected (8,700)
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 (button) folded before Flop
+Seat 6: 1637a172 (small blind) folded before Flop
+Seat 7: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM91854276: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 22:51:57
+Table '31' 7-max Seat #4 is the button
+Seat 1: f7838ef6 (131,286 in chips)
+Seat 2: ab414c6c (32,500 in chips)
+Seat 3: 1313c2d0 (148,287 in chips)
+Seat 4: e1c54932 (59,884 in chips)
+Seat 5: 808ba782 (38,950 in chips)
+Seat 6: 1637a172 (26,493 in chips)
+Seat 7: Hero (112,312 in chips)
+ab414c6c: posts the ante 350
+1313c2d0: posts the ante 350
+1637a172: posts the ante 350
+e1c54932: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+808ba782: posts the ante 350
+808ba782: posts small blind 1,250
+1637a172: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 1637a172 
+Dealt to Hero [5s 4h]
+Hero: folds
+f7838ef6: folds
+ab414c6c: folds
+1313c2d0: folds
+e1c54932: folds
+808ba782: folds
+Uncalled bet (1,250) returned to 1637a172
+*** SHOWDOWN ***
+1637a172 collected 4,950 from pot
+*** SUMMARY ***
+Total pot 4,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: ab414c6c folded before Flop
+Seat 3: 1313c2d0 folded before Flop
+Seat 4: e1c54932 (button) folded before Flop
+Seat 5: 808ba782 (small blind) folded before Flop
+Seat 6: 1637a172 (big blind) collected (4,950)
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854265: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 22:51:33
+Table '31' 7-max Seat #3 is the button
+Seat 1: f7838ef6 (131,636 in chips)
+Seat 2: ab414c6c (32,850 in chips)
+Seat 3: 1313c2d0 (148,637 in chips)
+Seat 4: e1c54932 (61,484 in chips)
+Seat 5: 808ba782 (35,600 in chips)
+Seat 6: 1637a172 (26,843 in chips)
+Seat 7: Hero (112,662 in chips)
+ab414c6c: posts the ante 350
+1313c2d0: posts the ante 350
+1637a172: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+e1c54932: posts the ante 350
+808ba782: posts the ante 350
+e1c54932: posts small blind 1,250
+808ba782: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 1637a172 
+Dealt to Hero [7s 6d]
+1637a172: folds
+Hero: folds
+f7838ef6: folds
+ab414c6c: folds
+1313c2d0: folds
+e1c54932: folds
+Uncalled bet (1,250) returned to 808ba782
+*** SHOWDOWN ***
+808ba782 collected 4,950 from pot
+*** SUMMARY ***
+Total pot 4,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: ab414c6c folded before Flop
+Seat 3: 1313c2d0 (button) folded before Flop
+Seat 4: e1c54932 (small blind) folded before Flop
+Seat 5: 808ba782 (big blind) collected (4,950)
+Seat 6: 1637a172 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854221: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 22:50:09
+Table '31' 7-max Seat #2 is the button
+Seat 1: f7838ef6 (131,986 in chips)
+Seat 2: ab414c6c (43,200 in chips)
+Seat 3: 1313c2d0 (150,237 in chips)
+Seat 4: e1c54932 (48,134 in chips)
+Seat 5: 808ba782 (35,950 in chips)
+Seat 6: 1637a172 (27,193 in chips)
+Seat 7: Hero (113,012 in chips)
+ab414c6c: posts the ante 350
+1313c2d0: posts the ante 350
+1637a172: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+e1c54932: posts the ante 350
+808ba782: posts the ante 350
+1313c2d0: posts small blind 1,250
+e1c54932: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 1637a172 
+Dealt to Hero [2c Jc]
+808ba782: folds
+1637a172: folds
+Hero: folds
+f7838ef6: folds
+ab414c6c: raises 2,500 to 5,000
+1313c2d0: folds
+e1c54932: calls 2,500
+*** FLOP *** [Td 6c 4h]
+e1c54932: checks
+ab414c6c: checks
+*** TURN *** [Td 6c 4h] [Th]
+e1c54932: checks
+ab414c6c: bets 5,000
+e1c54932: calls 5,000
+*** RIVER *** [Td 6c 4h Th] [5h]
+e1c54932: checks
+ab414c6c: checks
+e1c54932: shows [8s 5c] (two pair, Tens and Fives)
+ab414c6c: shows [Ad 3h] (a pair of Tens)
+*** SHOWDOWN ***
+e1c54932 collected 23,700 from pot
+*** SUMMARY ***
+Total pot 23,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 6c 4h Th 5h]
+Seat 1: f7838ef6 folded before Flop
+Seat 2: ab414c6c (button) showed [Ad 3h] and lost with a pair of Tens
+Seat 3: 1313c2d0 (small blind) folded before Flop
+Seat 4: e1c54932 (big blind) showed [8s 5c] and won (23,700) with two pair, Tens and Fives
+Seat 5: 808ba782 folded before Flop
+Seat 6: 1637a172 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854192: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level14(1,250/2,500) - 2026/01/16 22:48:59
+Table '31' 7-max Seat #1 is the button
+Seat 1: f7838ef6 (132,336 in chips)
+Seat 2: ab414c6c (44,800 in chips)
+Seat 3: 1313c2d0 (153,087 in chips)
+Seat 4: e1c54932 (42,284 in chips)
+Seat 5: 808ba782 (36,300 in chips)
+Seat 6: 1637a172 (27,543 in chips)
+Seat 7: Hero (113,362 in chips)
+ab414c6c: posts the ante 350
+1313c2d0: posts the ante 350
+1637a172: posts the ante 350
+f7838ef6: posts the ante 350
+Hero: posts the ante 350
+e1c54932: posts the ante 350
+808ba782: posts the ante 350
+ab414c6c: posts small blind 1,250
+1313c2d0: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 1313c2d0 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 1637a172 
+Dealt to Hero [6c 3s]
+e1c54932: calls 2,500
+808ba782: folds
+1637a172: folds
+Hero: folds
+f7838ef6: folds
+ab414c6c: folds
+1313c2d0: checks
+*** FLOP *** [5h 3c Kd]
+1313c2d0: checks
+e1c54932: checks
+*** TURN *** [5h 3c Kd] [7h]
+1313c2d0: checks
+e1c54932: checks
+*** RIVER *** [5h 3c Kd 7h] [Kh]
+1313c2d0: checks
+e1c54932: bets 8,700
+1313c2d0: folds
+Uncalled bet (8,700) returned to e1c54932
+*** SHOWDOWN ***
+e1c54932 collected 8,700 from pot
+*** SUMMARY ***
+Total pot 8,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 3c Kd 7h Kh]
+Seat 1: f7838ef6 (button) folded before Flop
+Seat 2: ab414c6c (small blind) folded before Flop
+Seat 3: 1313c2d0 (big blind) folded on the River
+Seat 4: e1c54932 won (8,700)
+Seat 5: 808ba782 folded before Flop
+Seat 6: 1637a172 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854181: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:48:36
+Table '31' 7-max Seat #7 is the button
+Seat 1: f7838ef6 (133,636 in chips)
+Seat 2: ab414c6c (47,100 in chips)
+Seat 4: e1c54932 (44,584 in chips)
+Seat 5: 808ba782 (29,800 in chips)
+Seat 6: 1637a172 (27,843 in chips)
+Seat 7: Hero (113,662 in chips)
+ab414c6c: posts the ante 300
+1637a172: posts the ante 300
+Hero: posts the ante 300
+e1c54932: posts the ante 300
+f7838ef6: posts the ante 300
+808ba782: posts the ante 300
+f7838ef6: posts small blind 1,000
+ab414c6c: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 1637a172 
+Dealt to Hero [8d 6c]
+e1c54932: calls 2,000
+808ba782: raises 27,500 to 29,500 and is all-in
+1637a172: folds
+Hero: folds
+f7838ef6: folds
+ab414c6c: folds
+e1c54932: folds
+Uncalled bet (27,500) returned to 808ba782
+*** SHOWDOWN ***
+808ba782 collected 8,800 from pot
+*** SUMMARY ***
+Total pot 8,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 (small blind) folded before Flop
+Seat 2: ab414c6c (big blind) folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 collected (8,800)
+Seat 6: 1637a172 folded before Flop
+Seat 7: Hero (button) folded before Flop
+
+
+Poker Hand #TM91854174: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:48:17
+Table '31' 7-max Seat #6 is the button
+Seat 1: f7838ef6 (135,936 in chips)
+Seat 2: ab414c6c (47,400 in chips)
+Seat 3: 6b0d1043 (20,268 in chips)
+Seat 4: e1c54932 (44,884 in chips)
+Seat 5: 808ba782 (25,000 in chips)
+Seat 6: 1637a172 (28,143 in chips)
+Seat 7: Hero (114,962 in chips)
+ab414c6c: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+e1c54932: posts the ante 300
+f7838ef6: posts the ante 300
+Hero: posts the ante 300
+808ba782: posts the ante 300
+Hero: posts small blind 1,000
+f7838ef6: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 808ba782 
+Dealt to 1637a172 
+Dealt to Hero [Qh 5s]
+ab414c6c: folds
+6b0d1043: folds
+e1c54932: folds
+808ba782: raises 22,700 to 24,700 and is all-in
+1637a172: folds
+Hero: folds
+f7838ef6: folds
+Uncalled bet (22,700) returned to 808ba782
+*** SHOWDOWN ***
+808ba782 collected 7,100 from pot
+*** SUMMARY ***
+Total pot 7,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 (big blind) folded before Flop
+Seat 2: ab414c6c folded before Flop
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 808ba782 collected (7,100)
+Seat 6: 1637a172 (button) folded before Flop
+Seat 7: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM91854160: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:47:48
+Table '31' 7-max Seat #4 is the button
+Seat 1: f7838ef6 (136,236 in chips)
+Seat 2: ab414c6c (47,700 in chips)
+Seat 3: 6b0d1043 (20,568 in chips)
+Seat 4: e1c54932 (45,184 in chips)
+Seat 6: 1637a172 (29,443 in chips)
+Seat 7: Hero (112,462 in chips)
+ab414c6c: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+e1c54932: posts the ante 300
+f7838ef6: posts the ante 300
+Hero: posts the ante 300
+1637a172: posts small blind 1,000
+Hero: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 1637a172 
+Dealt to Hero [4h Kc]
+f7838ef6: folds
+ab414c6c: folds
+6b0d1043: folds
+e1c54932: folds
+1637a172: folds
+Uncalled bet (1,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,800 from pot
+*** SUMMARY ***
+Total pot 3,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: ab414c6c folded before Flop
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 (button) folded before Flop
+Seat 6: 1637a172 (small blind) folded before Flop
+Seat 7: Hero (big blind) collected (3,800)
+
+
+Poker Hand #TM91854138: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:47:02
+Table '31' 7-max Seat #3 is the button
+Seat 1: f7838ef6 (136,536 in chips)
+Seat 2: ab414c6c (48,000 in chips)
+Seat 3: 6b0d1043 (20,868 in chips)
+Seat 4: e1c54932 (41,684 in chips)
+Seat 6: 1637a172 (31,743 in chips)
+Seat 7: Hero (112,762 in chips)
+ab414c6c: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+f7838ef6: posts the ante 300
+Hero: posts the ante 300
+e1c54932: posts the ante 300
+e1c54932: posts small blind 1,000
+1637a172: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 1637a172 
+Dealt to Hero [Ts 5h]
+Hero: folds
+f7838ef6: folds
+ab414c6c: folds
+6b0d1043: folds
+e1c54932: calls 1,000
+1637a172: checks
+*** FLOP *** [4c Ks 2h]
+e1c54932: bets 2,900
+1637a172: folds
+Uncalled bet (2,900) returned to e1c54932
+*** SHOWDOWN ***
+e1c54932 collected 5,800 from pot
+*** SUMMARY ***
+Total pot 5,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Ks 2h]
+Seat 1: f7838ef6 folded before Flop
+Seat 2: ab414c6c folded before Flop
+Seat 3: 6b0d1043 (button) folded before Flop
+Seat 4: e1c54932 (small blind) won (5,800)
+Seat 6: 1637a172 (big blind) folded on the Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854131: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:46:40
+Table '31' 7-max Seat #2 is the button
+Seat 1: f7838ef6 (136,836 in chips)
+Seat 2: ab414c6c (48,300 in chips)
+Seat 3: 6b0d1043 (22,168 in chips)
+Seat 4: e1c54932 (38,884 in chips)
+Seat 5: 79a48fe6 (92,073 in chips)
+Seat 6: 1637a172 (32,043 in chips)
+Seat 7: Hero (113,062 in chips)
+ab414c6c: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+f7838ef6: posts the ante 300
+Hero: posts the ante 300
+e1c54932: posts the ante 300
+79a48fe6: posts the ante 300
+6b0d1043: posts small blind 1,000
+e1c54932: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 79a48fe6 
+Dealt to 1637a172 
+Dealt to Hero [5s 2s]
+79a48fe6: folds
+1637a172: folds
+Hero: folds
+f7838ef6: folds
+ab414c6c: folds
+6b0d1043: folds
+Uncalled bet (1,000) returned to e1c54932
+*** SHOWDOWN ***
+e1c54932 collected 4,100 from pot
+*** SUMMARY ***
+Total pot 4,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f7838ef6 folded before Flop
+Seat 2: ab414c6c (button) folded before Flop
+Seat 3: 6b0d1043 (small blind) folded before Flop
+Seat 4: e1c54932 (big blind) collected (4,100)
+Seat 5: 79a48fe6 folded before Flop
+Seat 6: 1637a172 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854110: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:45:46
+Table '31' 7-max Seat #1 is the button
+Seat 1: f7838ef6 (137,136 in chips)
+Seat 2: ab414c6c (22,400 in chips)
+Seat 3: 6b0d1043 (24,468 in chips)
+Seat 4: e1c54932 (39,184 in chips)
+Seat 5: 79a48fe6 (92,373 in chips)
+Seat 6: 1637a172 (54,443 in chips)
+Seat 7: Hero (113,362 in chips)
+ab414c6c: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+f7838ef6: posts the ante 300
+Hero: posts the ante 300
+e1c54932: posts the ante 300
+79a48fe6: posts the ante 300
+ab414c6c: posts small blind 1,000
+6b0d1043: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 79a48fe6 
+Dealt to 1637a172 
+Dealt to Hero [Js 9h]
+e1c54932: folds
+79a48fe6: folds
+1637a172: raises 2,000 to 4,000
+Hero: folds
+f7838ef6: folds
+ab414c6c: raises 18,100 to 22,100 and is all-in
+6b0d1043: folds
+1637a172: calls 18,100
+ab414c6c: shows [As Jh]
+1637a172: shows [Ad Td]
+*** FLOP *** [7s Kd 5h]
+*** TURN *** [7s Kd 5h] [3h]
+*** RIVER *** [7s Kd 5h 3h] [Ac]
+*** SHOWDOWN ***
+ab414c6c collected 48,300 from pot
+*** SUMMARY ***
+Total pot 48,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s Kd 5h 3h Ac]
+Seat 1: f7838ef6 (button) folded before Flop
+Seat 2: ab414c6c (small blind) showed [As Jh] and won (48,300) with a pair of Aces
+Seat 3: 6b0d1043 (big blind) folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 79a48fe6 folded before Flop
+Seat 6: 1637a172 showed [Ad Td] and lost with a pair of Aces
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91854088: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:44:46
+Table '31' 7-max Seat #7 is the button
+Seat 1: f7838ef6 (138,436 in chips)
+Seat 2: ab414c6c (24,700 in chips)
+Seat 3: 6b0d1043 (24,768 in chips)
+Seat 4: e1c54932 (39,484 in chips)
+Seat 5: 79a48fe6 (69,425 in chips)
+Seat 6: 1637a172 (54,743 in chips)
+Seat 7: Hero (131,810 in chips)
+ab414c6c: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+Hero: posts the ante 300
+e1c54932: posts the ante 300
+f7838ef6: posts the ante 300
+79a48fe6: posts the ante 300
+f7838ef6: posts small blind 1,000
+ab414c6c: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 79a48fe6 
+Dealt to 1637a172 
+Dealt to Hero [Qd Jd]
+6b0d1043: folds
+e1c54932: folds
+79a48fe6: raises 2,000 to 4,000
+1637a172: folds
+Hero: calls 4,000
+f7838ef6: folds
+ab414c6c: folds
+*** FLOP *** [4h 9s 8h]
+79a48fe6: bets 6,550
+Hero: calls 6,550
+*** TURN *** [4h 9s 8h] [Kc]
+79a48fe6: checks
+Hero: bets 7,598
+79a48fe6: raises 19,598 to 27,196
+Hero: folds
+Uncalled bet (19,598) returned to 79a48fe6
+*** SHOWDOWN ***
+79a48fe6 collected 41,396 from pot
+*** SUMMARY ***
+Total pot 41,396 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 9s 8h Kc]
+Seat 1: f7838ef6 (small blind) folded before Flop
+Seat 2: ab414c6c (big blind) folded before Flop
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 79a48fe6 won (41,396)
+Seat 6: 1637a172 folded before Flop
+Seat 7: Hero (button) folded on the Turn
+
+
+Poker Hand #TM91854065: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:44:03
+Table '31' 7-max Seat #6 is the button
+Seat 1: f7838ef6 (142,736 in chips)
+Seat 2: ab414c6c (25,000 in chips)
+Seat 3: 6b0d1043 (25,068 in chips)
+Seat 4: e1c54932 (39,784 in chips)
+Seat 5: 79a48fe6 (62,625 in chips)
+Seat 6: 1637a172 (55,043 in chips)
+Seat 7: Hero (133,110 in chips)
+ab414c6c: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+e1c54932: posts the ante 300
+f7838ef6: posts the ante 300
+Hero: posts the ante 300
+79a48fe6: posts the ante 300
+Hero: posts small blind 1,000
+f7838ef6: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to f7838ef6 
+Dealt to ab414c6c 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 79a48fe6 
+Dealt to 1637a172 
+Dealt to Hero [Qs 8h]
+ab414c6c: folds
+6b0d1043: folds
+e1c54932: folds
+79a48fe6: raises 2,000 to 4,000
+1637a172: folds
+Hero: folds
+f7838ef6: calls 2,000
+*** FLOP *** [Tc 7s 2d]
+f7838ef6: checks
+79a48fe6: bets 5,550
+f7838ef6: folds
+Uncalled bet (5,550) returned to 79a48fe6
+*** SHOWDOWN ***
+79a48fe6 collected 11,100 from pot
+*** SUMMARY ***
+Total pot 11,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 7s 2d]
+Seat 1: f7838ef6 (big blind) folded on the Flop
+Seat 2: ab414c6c folded before Flop
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 79a48fe6 won (11,100)
+Seat 6: 1637a172 (button) folded before Flop
+Seat 7: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM91854041: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:43:09
+Table '31' 7-max Seat #5 is the button
+Seat 2: ef55cc62 (3,116 in chips)
+Seat 3: 6b0d1043 (25,368 in chips)
+Seat 4: e1c54932 (16,384 in chips)
+Seat 5: 79a48fe6 (79,009 in chips)
+Seat 6: 1637a172 (56,343 in chips)
+Seat 7: Hero (135,410 in chips)
+ef55cc62: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+e1c54932: posts the ante 300
+Hero: posts the ante 300
+79a48fe6: posts the ante 300
+1637a172: posts small blind 1,000
+Hero: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to ef55cc62 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 79a48fe6 
+Dealt to 1637a172 
+Dealt to Hero [7s Kh]
+ef55cc62: raises 816 to 2,816 and is all-in
+6b0d1043: folds
+e1c54932: raises 13,268 to 16,084 and is all-in
+79a48fe6: raises 62,625 to 78,709 and is all-in
+1637a172: folds
+Hero: folds
+Uncalled bet (62,625) returned to 79a48fe6
+79a48fe6: shows [Ac Kd]
+ef55cc62: shows [6s Qd]
+e1c54932: shows [Qc Jc]
+*** FLOP *** [Jd 8s Qs]
+*** TURN *** [Jd 8s Qs] [7h]
+*** RIVER *** [Jd 8s Qs 7h] [As]
+*** SHOWDOWN ***
+e1c54932 collected 13,248 from pot
+e1c54932 collected 26,536 from pot
+*** SUMMARY ***
+Total pot 39,784 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 8s Qs 7h As]
+Seat 2: ef55cc62 showed [6s Qd] and lost with a pair of Queens
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 showed [Qc Jc] and won (39,784) with two pair, Queens and Jacks
+Seat 5: 79a48fe6 (button) showed [Ac Kd] and lost with a pair of Aces
+Seat 6: 1637a172 (small blind) folded before Flop
+Seat 7: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM91854012: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:42:00
+Table '31' 7-max Seat #4 is the button
+Seat 1: e1469dda (37,931 in chips)
+Seat 2: ef55cc62 (3,416 in chips)
+Seat 3: 6b0d1043 (32,443 in chips)
+Seat 4: e1c54932 (16,684 in chips)
+Seat 5: 79a48fe6 (80,309 in chips)
+Seat 6: 1637a172 (46,768 in chips)
+Seat 7: Hero (135,710 in chips)
+ef55cc62: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+e1c54932: posts the ante 300
+e1469dda: posts the ante 300
+Hero: posts the ante 300
+79a48fe6: posts the ante 300
+79a48fe6: posts small blind 1,000
+1637a172: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to ef55cc62 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 79a48fe6 
+Dealt to 1637a172 
+Dealt to Hero [8s 7h]
+Hero: folds
+e1469dda: folds
+ef55cc62: folds
+6b0d1043: raises 2,000 to 4,000
+e1c54932: folds
+79a48fe6: folds
+1637a172: calls 2,000
+*** FLOP *** [Kc Js 8d]
+1637a172: checks
+6b0d1043: bets 2,775
+1637a172: calls 2,775
+*** TURN *** [Kc Js 8d] [5h]
+1637a172: checks
+6b0d1043: checks
+*** RIVER *** [Kc Js 8d 5h] [Qd]
+1637a172: bets 9,500
+6b0d1043: folds
+Uncalled bet (9,500) returned to 1637a172
+*** SHOWDOWN ***
+1637a172 collected 16,650 from pot
+*** SUMMARY ***
+Total pot 16,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc Js 8d 5h Qd]
+Seat 1: e1469dda folded before Flop
+Seat 2: ef55cc62 folded before Flop
+Seat 3: 6b0d1043 folded on the River
+Seat 4: e1c54932 (button) folded before Flop
+Seat 5: 79a48fe6 (small blind) folded before Flop
+Seat 6: 1637a172 (big blind) won (16,650)
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91853990: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:41:24
+Table '31' 7-max Seat #3 is the button
+Seat 1: e1469dda (38,231 in chips)
+Seat 2: ef55cc62 (3,716 in chips)
+Seat 3: 6b0d1043 (32,743 in chips)
+Seat 4: e1c54932 (17,984 in chips)
+Seat 5: 79a48fe6 (84,609 in chips)
+Seat 6: 1637a172 (39,968 in chips)
+Seat 7: Hero (136,010 in chips)
+ef55cc62: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+e1469dda: posts the ante 300
+Hero: posts the ante 300
+e1c54932: posts the ante 300
+79a48fe6: posts the ante 300
+e1c54932: posts small blind 1,000
+79a48fe6: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to ef55cc62 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 79a48fe6 
+Dealt to 1637a172 
+Dealt to Hero [9d 2h]
+1637a172: raises 2,000 to 4,000
+Hero: folds
+e1469dda: folds
+ef55cc62: folds
+6b0d1043: folds
+e1c54932: folds
+79a48fe6: calls 2,000
+*** FLOP *** [3c Qh Kc]
+79a48fe6: checks
+1637a172: bets 4,168
+79a48fe6: folds
+Uncalled bet (4,168) returned to 1637a172
+*** SHOWDOWN ***
+1637a172 collected 11,100 from pot
+*** SUMMARY ***
+Total pot 11,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c Qh Kc]
+Seat 1: e1469dda folded before Flop
+Seat 2: ef55cc62 folded before Flop
+Seat 3: 6b0d1043 (button) folded before Flop
+Seat 4: e1c54932 (small blind) folded before Flop
+Seat 5: 79a48fe6 (big blind) folded on the Flop
+Seat 6: 1637a172 won (11,100)
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91853977: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:41:00
+Table '31' 7-max Seat #2 is the button
+Seat 1: e1469dda (38,531 in chips)
+Seat 2: ef55cc62 (4,016 in chips)
+Seat 3: 6b0d1043 (28,943 in chips)
+Seat 4: e1c54932 (20,284 in chips)
+Seat 5: 79a48fe6 (84,909 in chips)
+Seat 6: 1637a172 (40,268 in chips)
+Seat 7: Hero (136,310 in chips)
+ef55cc62: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+e1469dda: posts the ante 300
+Hero: posts the ante 300
+e1c54932: posts the ante 300
+79a48fe6: posts the ante 300
+6b0d1043: posts small blind 1,000
+e1c54932: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to ef55cc62 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 79a48fe6 
+Dealt to 1637a172 
+Dealt to Hero [Jd 9s]
+79a48fe6: folds
+1637a172: folds
+Hero: folds
+e1469dda: folds
+ef55cc62: folds
+6b0d1043: raises 26,643 to 28,643 and is all-in
+e1c54932: folds
+Uncalled bet (26,643) returned to 6b0d1043
+*** SHOWDOWN ***
+6b0d1043 collected 6,100 from pot
+*** SUMMARY ***
+Total pot 6,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e1469dda folded before Flop
+Seat 2: ef55cc62 (button) folded before Flop
+Seat 3: 6b0d1043 (small blind) collected (6,100)
+Seat 4: e1c54932 (big blind) folded before Flop
+Seat 5: 79a48fe6 folded before Flop
+Seat 6: 1637a172 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91853952: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:40:12
+Table '31' 7-max Seat #1 is the button
+Seat 1: e1469dda (38,831 in chips)
+Seat 2: ef55cc62 (22,400 in chips)
+Seat 3: 6b0d1043 (31,243 in chips)
+Seat 4: e1c54932 (20,584 in chips)
+Seat 5: 79a48fe6 (85,209 in chips)
+Seat 6: 1637a172 (18,384 in chips)
+Seat 7: Hero (136,610 in chips)
+ef55cc62: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+e1469dda: posts the ante 300
+Hero: posts the ante 300
+e1c54932: posts the ante 300
+79a48fe6: posts the ante 300
+ef55cc62: posts small blind 1,000
+6b0d1043: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to ef55cc62 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 79a48fe6 
+Dealt to 1637a172 
+Dealt to Hero [7h Jc]
+e1c54932: folds
+79a48fe6: folds
+1637a172: raises 16,084 to 18,084 and is all-in
+Hero: folds
+e1469dda: folds
+ef55cc62: raises 4,016 to 22,100 and is all-in
+6b0d1043: folds
+Uncalled bet (4,016) returned to ef55cc62
+ef55cc62: shows [Qd 8d]
+1637a172: shows [6h Ac]
+*** FLOP *** [6s 4c 4d]
+*** TURN *** [6s 4c 4d] [3c]
+*** RIVER *** [6s 4c 4d 3c] [Tc]
+*** SHOWDOWN ***
+1637a172 collected 40,268 from pot
+*** SUMMARY ***
+Total pot 40,268 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s 4c 4d 3c Tc]
+Seat 1: e1469dda (button) folded before Flop
+Seat 2: ef55cc62 (small blind) showed [Qd 8d] and lost with a pair of Fours
+Seat 3: 6b0d1043 (big blind) folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 79a48fe6 folded before Flop
+Seat 6: 1637a172 showed [6h Ac] and won (40,268) with two pair, Sixes and Fours
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91853929: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:39:29
+Table '31' 7-max Seat #7 is the button
+Seat 1: e1469dda (40,131 in chips)
+Seat 2: ef55cc62 (24,700 in chips)
+Seat 3: 6b0d1043 (31,543 in chips)
+Seat 4: e1c54932 (20,884 in chips)
+Seat 5: 79a48fe6 (80,409 in chips)
+Seat 6: 1637a172 (18,684 in chips)
+Seat 7: Hero (136,910 in chips)
+ef55cc62: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+Hero: posts the ante 300
+e1c54932: posts the ante 300
+e1469dda: posts the ante 300
+79a48fe6: posts the ante 300
+e1469dda: posts small blind 1,000
+ef55cc62: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to ef55cc62 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 79a48fe6 
+Dealt to 1637a172 
+Dealt to Hero [7s Td]
+6b0d1043: folds
+e1c54932: folds
+79a48fe6: raises 2,000 to 4,000
+1637a172: folds
+Hero: folds
+e1469dda: folds
+ef55cc62: folds
+Uncalled bet (2,000) returned to 79a48fe6
+*** SHOWDOWN ***
+79a48fe6 collected 7,100 from pot
+*** SUMMARY ***
+Total pot 7,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e1469dda (small blind) folded before Flop
+Seat 2: ef55cc62 (big blind) folded before Flop
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: 79a48fe6 collected (7,100)
+Seat 6: 1637a172 folded before Flop
+Seat 7: Hero (button) folded before Flop
+
+
+Poker Hand #TM91853910: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:38:47
+Table '31' 7-max Seat #6 is the button
+Seat 1: e1469dda (42,431 in chips)
+Seat 2: ef55cc62 (25,000 in chips)
+Seat 3: 6b0d1043 (31,843 in chips)
+Seat 4: e1c54932 (8,342 in chips)
+Seat 6: 1637a172 (27,026 in chips)
+Seat 7: Hero (138,210 in chips)
+ef55cc62: posts the ante 300
+6b0d1043: posts the ante 300
+1637a172: posts the ante 300
+e1c54932: posts the ante 300
+e1469dda: posts the ante 300
+Hero: posts the ante 300
+Hero: posts small blind 1,000
+e1469dda: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to ef55cc62 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 1637a172 
+Dealt to Hero [4c 9h]
+ef55cc62: folds
+6b0d1043: folds
+e1c54932: raises 6,042 to 8,042 and is all-in
+1637a172: raises 18,684 to 26,726 and is all-in
+Hero: folds
+e1469dda: folds
+Uncalled bet (18,684) returned to 1637a172
+1637a172: shows [Js Ah]
+e1c54932: shows [As Ad]
+*** FLOP *** [5c 9d 6s]
+*** TURN *** [5c 9d 6s] [6c]
+*** RIVER *** [5c 9d 6s 6c] [8d]
+*** SHOWDOWN ***
+e1c54932 collected 20,884 from pot
+*** SUMMARY ***
+Total pot 20,884 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 9d 6s 6c 8d]
+Seat 1: e1469dda (big blind) folded before Flop
+Seat 2: ef55cc62 folded before Flop
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 showed [As Ad] and won (20,884) with two pair, Aces and Sixes
+Seat 6: 1637a172 (button) showed [Js Ah] and lost with a pair of Sixes
+Seat 7: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM91853877: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level13(1,000/2,000) - 2026/01/16 22:37:47
+Table '31' 7-max Seat #4 is the button
+Seat 1: e1469dda (42,731 in chips)
+Seat 3: 6b0d1043 (32,143 in chips)
+Seat 4: e1c54932 (8,642 in chips)
+Seat 5: fa7f7e07 (10,000 in chips)
+Seat 6: 1637a172 (29,326 in chips)
+Seat 7: Hero (125,010 in chips)
+6b0d1043: posts the ante 300
+fa7f7e07: posts the ante 300
+1637a172: posts the ante 300
+e1c54932: posts the ante 300
+e1469dda: posts the ante 300
+Hero: posts the ante 300
+fa7f7e07: posts small blind 1,000
+1637a172: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to 1637a172 
+Dealt to Hero [Ah Js]
+Hero: raises 2,000 to 4,000
+e1469dda: folds
+6b0d1043: folds
+e1c54932: folds
+fa7f7e07: raises 5,700 to 9,700 and is all-in
+1637a172: folds
+Hero: calls 5,700
+fa7f7e07: shows [2c 2s]
+Hero: shows [Ah Js]
+*** FLOP *** [Ks Kc 4d]
+*** TURN *** [Ks Kc 4d] [Jd]
+*** RIVER *** [Ks Kc 4d Jd] [6d]
+*** SHOWDOWN ***
+Hero collected 23,200 from pot
+*** SUMMARY ***
+Total pot 23,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks Kc 4d Jd 6d]
+Seat 1: e1469dda folded before Flop
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 (button) folded before Flop
+Seat 5: fa7f7e07 (small blind) showed [2c 2s] and lost with two pair, Kings and Twos
+Seat 6: 1637a172 (big blind) folded before Flop
+Seat 7: Hero showed [Ah Js] and won (23,200) with two pair, Kings and Jacks
+
+
+Poker Hand #TM91853835: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:36:15
+Table '31' 7-max Seat #3 is the button
+Seat 1: e1469dda (47,781 in chips)
+Seat 2: 74b696ce (42,600 in chips)
+Seat 3: 6b0d1043 (32,393 in chips)
+Seat 4: e1c54932 (9,692 in chips)
+Seat 5: fa7f7e07 (30,250 in chips)
+Seat 6: 1637a172 (29,576 in chips)
+Seat 7: Hero (55,560 in chips)
+6b0d1043: posts the ante 250
+74b696ce: posts the ante 250
+fa7f7e07: posts the ante 250
+1637a172: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+e1c54932: posts the ante 250
+e1c54932: posts small blind 800
+fa7f7e07: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 74b696ce 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to 1637a172 
+Dealt to Hero [Tc Th]
+1637a172: folds
+Hero: raises 1,600 to 3,200
+e1469dda: raises 1,600 to 4,800
+74b696ce: calls 4,800
+6b0d1043: folds
+e1c54932: folds
+fa7f7e07: calls 3,200
+Hero: raises 15,200 to 20,000
+e1469dda: folds
+74b696ce: calls 15,200
+fa7f7e07: calls 15,200
+*** FLOP *** [9d 8h Jd]
+fa7f7e07: checks
+Hero: bets 11,200
+74b696ce: calls 11,200
+fa7f7e07: folds
+*** TURN *** [9d 8h Jd] [9c]
+Hero: bets 24,110 and is all-in
+74b696ce: calls 11,150 and is all-in
+Uncalled bet (12,960) returned to Hero
+Hero: shows [Tc Th] (two pair, Tens and Nines)
+74b696ce: shows [Kc Qc] (a pair of Nines)
+*** RIVER *** [9d 8h Jd 9c] [Qh]
+*** SHOWDOWN ***
+Hero collected 112,050 from pot
+*** SUMMARY ***
+Total pot 112,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d 8h Jd 9c Qh]
+Seat 1: e1469dda folded before Flop
+Seat 2: 74b696ce showed [Kc Qc] and lost with two pair, Queens and Nines
+Seat 3: 6b0d1043 (button) folded before Flop
+Seat 4: e1c54932 (small blind) folded before Flop
+Seat 5: fa7f7e07 (big blind) folded on the Flop
+Seat 6: 1637a172 folded before Flop
+Seat 7: Hero showed [Tc Th] and won (112,050) with a straight, Queen to Eight
+
+
+Poker Hand #TM91853798: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:34:53
+Table '31' 7-max Seat #2 is the button
+Seat 1: e1469dda (34,531 in chips)
+Seat 2: 74b696ce (46,050 in chips)
+Seat 3: 6b0d1043 (33,443 in chips)
+Seat 4: e1c54932 (13,142 in chips)
+Seat 5: fa7f7e07 (35,300 in chips)
+Seat 7: Hero (55,810 in chips)
+6b0d1043: posts the ante 250
+74b696ce: posts the ante 250
+fa7f7e07: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+e1c54932: posts the ante 250
+6b0d1043: posts small blind 800
+e1c54932: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 74b696ce 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to Hero [Ts 6h]
+fa7f7e07: calls 1,600
+Hero: folds
+e1469dda: raises 1,600 to 3,200
+74b696ce: calls 3,200
+6b0d1043: folds
+e1c54932: calls 1,600
+fa7f7e07: calls 1,600
+*** FLOP *** [5c Js 8s]
+e1c54932: checks
+fa7f7e07: checks
+e1469dda: checks
+74b696ce: checks
+*** TURN *** [5c Js 8s] [Kh]
+e1c54932: checks
+fa7f7e07: bets 1,600
+e1469dda: raises 9,150 to 10,750
+74b696ce: folds
+e1c54932: folds
+fa7f7e07: folds
+Uncalled bet (9,150) returned to e1469dda
+*** SHOWDOWN ***
+e1469dda collected 18,300 from pot
+*** SUMMARY ***
+Total pot 18,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c Js 8s Kh]
+Seat 1: e1469dda won (18,300)
+Seat 2: 74b696ce (button) folded on the Turn
+Seat 3: 6b0d1043 (small blind) folded before Flop
+Seat 4: e1c54932 (big blind) folded on the Turn
+Seat 5: fa7f7e07 folded on the Turn
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91853747: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:33:10
+Table '31' 7-max Seat #1 is the button
+Seat 1: e1469dda (41,841 in chips)
+Seat 2: 74b696ce (47,100 in chips)
+Seat 3: 6b0d1043 (35,293 in chips)
+Seat 4: e1c54932 (13,392 in chips)
+Seat 5: fa7f7e07 (35,550 in chips)
+Seat 6: 19630603 (213,621 in chips)
+Seat 7: Hero (44,850 in chips)
+6b0d1043: posts the ante 250
+74b696ce: posts the ante 250
+19630603: posts the ante 250
+fa7f7e07: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+e1c54932: posts the ante 250
+74b696ce: posts small blind 800
+6b0d1043: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 74b696ce 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to 19630603 
+Dealt to Hero [Js Jc]
+e1c54932: folds
+fa7f7e07: folds
+19630603: folds
+Hero: raises 1,600 to 3,200
+e1469dda: calls 3,200
+74b696ce: folds
+6b0d1043: folds
+*** FLOP *** [5s 4h Qc]
+Hero: bets 3,860
+e1469dda: calls 3,860
+*** TURN *** [5s 4h Qc] [3c]
+Hero: checks
+e1469dda: checks
+*** RIVER *** [5s 4h Qc 3c] [Jd]
+Hero: bets 37,540 and is all-in
+e1469dda: folds
+Uncalled bet (37,540) returned to Hero
+*** SHOWDOWN ***
+Hero collected 18,270 from pot
+*** SUMMARY ***
+Total pot 18,270 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 4h Qc 3c Jd]
+Seat 1: e1469dda (button) folded on the River
+Seat 2: 74b696ce (small blind) folded before Flop
+Seat 3: 6b0d1043 (big blind) folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: fa7f7e07 folded before Flop
+Seat 6: 19630603 folded before Flop
+Seat 7: Hero won (18,270)
+
+
+Poker Hand #TM91853732: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:32:39
+Table '31' 7-max Seat #7 is the button
+Seat 1: e1469dda (42,891 in chips)
+Seat 2: 74b696ce (50,550 in chips)
+Seat 3: 6b0d1043 (35,543 in chips)
+Seat 4: e1c54932 (13,642 in chips)
+Seat 5: fa7f7e07 (35,800 in chips)
+Seat 6: 19630603 (208,121 in chips)
+Seat 7: Hero (45,100 in chips)
+6b0d1043: posts the ante 250
+74b696ce: posts the ante 250
+19630603: posts the ante 250
+fa7f7e07: posts the ante 250
+Hero: posts the ante 250
+e1c54932: posts the ante 250
+e1469dda: posts the ante 250
+e1469dda: posts small blind 800
+74b696ce: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 74b696ce 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to 19630603 
+Dealt to Hero [5d 6h]
+6b0d1043: folds
+e1c54932: folds
+fa7f7e07: folds
+19630603: raises 1,600 to 3,200
+Hero: folds
+e1469dda: folds
+74b696ce: calls 1,600
+*** FLOP *** [4s Qs Ts]
+74b696ce: checks
+19630603: bets 2,954
+74b696ce: folds
+Uncalled bet (2,954) returned to 19630603
+*** SHOWDOWN ***
+19630603 collected 8,950 from pot
+*** SUMMARY ***
+Total pot 8,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4s Qs Ts]
+Seat 1: e1469dda (small blind) folded before Flop
+Seat 2: 74b696ce (big blind) folded on the Flop
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: fa7f7e07 folded before Flop
+Seat 6: 19630603 won (8,950)
+Seat 7: Hero (button) folded before Flop
+
+
+Poker Hand #TM91853713: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:31:58
+Table '31' 7-max Seat #6 is the button
+Seat 1: e1469dda (67,141 in chips)
+Seat 2: 74b696ce (24,250 in chips)
+Seat 3: 6b0d1043 (35,793 in chips)
+Seat 4: e1c54932 (13,892 in chips)
+Seat 5: fa7f7e07 (36,050 in chips)
+Seat 6: 19630603 (208,371 in chips)
+Seat 7: Hero (46,150 in chips)
+6b0d1043: posts the ante 250
+74b696ce: posts the ante 250
+19630603: posts the ante 250
+fa7f7e07: posts the ante 250
+e1c54932: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+Hero: posts small blind 800
+e1469dda: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 74b696ce 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to 19630603 
+Dealt to Hero [4d 5h]
+74b696ce: raises 22,400 to 24,000 and is all-in
+6b0d1043: folds
+e1c54932: folds
+fa7f7e07: folds
+19630603: folds
+Hero: folds
+e1469dda: calls 22,400
+74b696ce: shows [6s 6c]
+e1469dda: shows [Ad 8s]
+*** FLOP *** [Qd 4s 6h]
+*** TURN *** [Qd 4s 6h] [5c]
+*** RIVER *** [Qd 4s 6h 5c] [Qs]
+*** SHOWDOWN ***
+74b696ce collected 50,550 from pot
+*** SUMMARY ***
+Total pot 50,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 4s 6h 5c Qs]
+Seat 1: e1469dda (big blind) showed [Ad 8s] and lost with a pair of Queens
+Seat 2: 74b696ce showed [6s 6c] and won (50,550) with a full house, Sixes full of Queens
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: fa7f7e07 folded before Flop
+Seat 6: 19630603 (button) folded before Flop
+Seat 7: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM91853696: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:31:19
+Table '31' 7-max Seat #5 is the button
+Seat 1: e1469dda (67,391 in chips)
+Seat 2: 74b696ce (24,500 in chips)
+Seat 3: 6b0d1043 (36,043 in chips)
+Seat 4: e1c54932 (14,142 in chips)
+Seat 5: fa7f7e07 (36,300 in chips)
+Seat 6: 19630603 (230,821 in chips)
+Seat 7: Hero (22,450 in chips)
+6b0d1043: posts the ante 250
+74b696ce: posts the ante 250
+fa7f7e07: posts the ante 250
+19630603: posts the ante 250
+e1c54932: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+19630603: posts small blind 800
+Hero: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 74b696ce 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to 19630603 
+Dealt to Hero [Ac 6s]
+e1469dda: folds
+74b696ce: folds
+6b0d1043: folds
+e1c54932: folds
+fa7f7e07: folds
+19630603: raises 228,971 to 230,571 and is all-in
+Hero: calls 20,600 and is all-in
+Uncalled bet (208,371) returned to 19630603
+19630603: shows [Ts 8c]
+Hero: shows [Ac 6s]
+*** FLOP *** [7c 3h Ad]
+*** TURN *** [7c 3h Ad] [5d]
+*** RIVER *** [7c 3h Ad 5d] [4c]
+*** SHOWDOWN ***
+Hero collected 46,150 from pot
+*** SUMMARY ***
+Total pot 46,150 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 3h Ad 5d 4c]
+Seat 1: e1469dda folded before Flop
+Seat 2: 74b696ce folded before Flop
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 5: fa7f7e07 (button) folded before Flop
+Seat 6: 19630603 (small blind) showed [Ts 8c] and lost with Ace high
+Seat 7: Hero (big blind) showed [Ac 6s] and won (46,150) with a straight, Seven to Three
+
+
+Poker Hand #TM91853684: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:30:56
+Table '31' 7-max Seat #4 is the button
+Seat 1: e1469dda (67,641 in chips)
+Seat 2: 74b696ce (24,750 in chips)
+Seat 3: 6b0d1043 (36,293 in chips)
+Seat 4: e1c54932 (14,392 in chips)
+Seat 5: fa7f7e07 (33,200 in chips)
+Seat 6: 19630603 (232,671 in chips)
+Seat 7: Hero (22,700 in chips)
+6b0d1043: posts the ante 250
+74b696ce: posts the ante 250
+19630603: posts the ante 250
+fa7f7e07: posts the ante 250
+e1c54932: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+fa7f7e07: posts small blind 800
+19630603: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 74b696ce 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to 19630603 
+Dealt to Hero [3d 8s]
+Hero: folds
+e1469dda: folds
+74b696ce: folds
+6b0d1043: folds
+e1c54932: folds
+fa7f7e07: raises 3,200 to 4,800
+19630603: folds
+Uncalled bet (3,200) returned to fa7f7e07
+*** SHOWDOWN ***
+fa7f7e07 collected 4,950 from pot
+*** SUMMARY ***
+Total pot 4,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e1469dda folded before Flop
+Seat 2: 74b696ce folded before Flop
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 (button) folded before Flop
+Seat 5: fa7f7e07 (small blind) collected (4,950)
+Seat 6: 19630603 (big blind) folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91853655: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:29:57
+Table '31' 7-max Seat #3 is the button
+Seat 1: e1469dda (71,091 in chips)
+Seat 2: 74b696ce (25,000 in chips)
+Seat 3: 6b0d1043 (36,543 in chips)
+Seat 4: e1c54932 (15,442 in chips)
+Seat 5: fa7f7e07 (24,500 in chips)
+Seat 6: 19630603 (236,121 in chips)
+Seat 7: Hero (22,950 in chips)
+6b0d1043: posts the ante 250
+74b696ce: posts the ante 250
+19630603: posts the ante 250
+fa7f7e07: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+e1c54932: posts the ante 250
+e1c54932: posts small blind 800
+fa7f7e07: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 74b696ce 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to 19630603 
+Dealt to Hero [7c Qc]
+19630603: raises 1,600 to 3,200
+Hero: folds
+e1469dda: calls 3,200
+74b696ce: folds
+6b0d1043: folds
+e1c54932: folds
+fa7f7e07: calls 1,600
+*** FLOP *** [5h 3h 9c]
+fa7f7e07: checks
+19630603: checks
+e1469dda: checks
+*** TURN *** [5h 3h 9c] [9h]
+fa7f7e07: bets 4,010
+19630603: folds
+e1469dda: folds
+Uncalled bet (4,010) returned to fa7f7e07
+*** SHOWDOWN ***
+fa7f7e07 collected 12,150 from pot
+*** SUMMARY ***
+Total pot 12,150 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 3h 9c 9h]
+Seat 1: e1469dda folded on the Turn
+Seat 2: 74b696ce folded before Flop
+Seat 3: 6b0d1043 (button) folded before Flop
+Seat 4: e1c54932 (small blind) folded before Flop
+Seat 5: fa7f7e07 (big blind) won (12,150)
+Seat 6: 19630603 folded on the Turn
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91853638: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:29:24
+Table '31' 7-max Seat #1 is the button
+Seat 1: e1469dda (64,241 in chips)
+Seat 3: 6b0d1043 (37,593 in chips)
+Seat 4: e1c54932 (17,292 in chips)
+Seat 5: fa7f7e07 (24,750 in chips)
+Seat 6: 19630603 (239,571 in chips)
+Seat 7: Hero (23,200 in chips)
+6b0d1043: posts the ante 250
+19630603: posts the ante 250
+fa7f7e07: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+e1c54932: posts the ante 250
+6b0d1043: posts small blind 800
+e1c54932: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to 19630603 
+Dealt to Hero [4s 5h]
+fa7f7e07: folds
+19630603: raises 1,600 to 3,200
+Hero: folds
+e1469dda: raises 5,150 to 8,350
+6b0d1043: folds
+e1c54932: folds
+19630603: folds
+Uncalled bet (5,150) returned to e1469dda
+*** SHOWDOWN ***
+e1469dda collected 10,300 from pot
+*** SUMMARY ***
+Total pot 10,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e1469dda (button) collected (10,300)
+Seat 3: 6b0d1043 (small blind) folded before Flop
+Seat 4: e1c54932 (big blind) folded before Flop
+Seat 5: fa7f7e07 folded before Flop
+Seat 6: 19630603 folded before Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91853611: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:28:27
+Table '31' 7-max Seat #7 is the button
+Seat 1: e1469dda (61,391 in chips)
+Seat 3: 6b0d1043 (39,443 in chips)
+Seat 4: e1c54932 (17,542 in chips)
+Seat 5: fa7f7e07 (25,000 in chips)
+Seat 6: 19630603 (239,821 in chips)
+Seat 7: Hero (23,450 in chips)
+6b0d1043: posts the ante 250
+19630603: posts the ante 250
+fa7f7e07: posts the ante 250
+Hero: posts the ante 250
+e1c54932: posts the ante 250
+e1469dda: posts the ante 250
+e1469dda: posts small blind 800
+6b0d1043: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to fa7f7e07 
+Dealt to 19630603 
+Dealt to Hero [7h 2s]
+e1c54932: folds
+fa7f7e07: folds
+19630603: folds
+Hero: folds
+e1469dda: calls 800
+6b0d1043: checks
+*** FLOP *** [Js Qc As]
+e1469dda: checks
+6b0d1043: checks
+*** TURN *** [Js Qc As] [8d]
+e1469dda: checks
+6b0d1043: checks
+*** RIVER *** [Js Qc As 8d] [Ks]
+e1469dda: checks
+6b0d1043: checks
+e1469dda: shows [7s Kh] (a pair of Kings)
+6b0d1043: shows [2d Jc] (a pair of Jacks)
+*** SHOWDOWN ***
+e1469dda collected 4,700 from pot
+*** SUMMARY ***
+Total pot 4,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js Qc As 8d Ks]
+Seat 1: e1469dda (small blind) showed [7s Kh] and won (4,700) with a pair of Kings
+Seat 3: 6b0d1043 (big blind) showed [2d Jc] and lost with a pair of Jacks
+Seat 4: e1c54932 folded before Flop
+Seat 5: fa7f7e07 folded before Flop
+Seat 6: 19630603 folded before Flop
+Seat 7: Hero (button) folded before Flop
+
+
+Poker Hand #TM91853579: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:27:20
+Table '31' 7-max Seat #6 is the button
+Seat 1: e1469dda (63,241 in chips)
+Seat 2: 2cd64941 (68,026 in chips)
+Seat 3: 6b0d1043 (42,893 in chips)
+Seat 4: e1c54932 (17,792 in chips)
+Seat 6: 19630603 (165,195 in chips)
+Seat 7: Hero (24,500 in chips)
+6b0d1043: posts the ante 250
+2cd64941: posts the ante 250
+19630603: posts the ante 250
+e1c54932: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+Hero: posts small blind 800
+e1469dda: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 2cd64941 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to 19630603 
+Dealt to Hero [3s 5c]
+2cd64941: raises 1,600 to 3,200
+6b0d1043: calls 3,200
+e1c54932: folds
+19630603: raises 8,000 to 11,200
+Hero: folds
+e1469dda: folds
+2cd64941: raises 56,576 to 67,776 and is all-in
+6b0d1043: folds
+19630603: calls 56,576
+2cd64941: shows [As 6s]
+19630603: shows [Kc Ks]
+*** FLOP *** [6h 9d Js]
+*** TURN *** [6h 9d Js] [Jc]
+*** RIVER *** [6h 9d Js Jc] [Kh]
+*** SHOWDOWN ***
+19630603 collected 142,652 from pot
+*** SUMMARY ***
+Total pot 142,652 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 9d Js Jc Kh]
+Seat 1: e1469dda (big blind) folded before Flop
+Seat 2: 2cd64941 showed [As 6s] and lost with two pair, Jacks and Sixes
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 folded before Flop
+Seat 6: 19630603 (button) showed [Kc Ks] and won (142,652) with a full house, Kings full of Jacks
+Seat 7: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM91853544: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:26:17
+Table '31' 7-max Seat #4 is the button
+Seat 1: e1469dda (63,491 in chips)
+Seat 2: 2cd64941 (58,094 in chips)
+Seat 3: 6b0d1043 (43,143 in chips)
+Seat 4: e1c54932 (18,042 in chips)
+Seat 5: e36b56a4 (4,466 in chips)
+Seat 6: 19630603 (169,661 in chips)
+Seat 7: Hero (24,750 in chips)
+e36b56a4: posts the ante 250
+6b0d1043: posts the ante 250
+2cd64941: posts the ante 250
+19630603: posts the ante 250
+e1c54932: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+e36b56a4: posts small blind 800
+19630603: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 2cd64941 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to e36b56a4 
+Dealt to 19630603 
+Dealt to Hero [2d 6c]
+Hero: folds
+e1469dda: folds
+2cd64941: calls 1,600
+6b0d1043: folds
+e1c54932: folds
+e36b56a4: calls 800
+19630603: checks
+*** FLOP *** [Qc 6h 2s]
+e36b56a4: bets 2,616 and is all-in
+19630603: calls 2,616
+2cd64941: raises 53,628 to 56,244 and is all-in
+19630603: folds
+Uncalled bet (53,628) returned to 2cd64941
+2cd64941: shows [Qs As] (a pair of Queens)
+e36b56a4: shows [Kd 2h] (a pair of Twos)
+*** TURN *** [Qc 6h 2s] [8d]
+*** RIVER *** [Qc 6h 2s 8d] [4s]
+Hero: shows [2d 6c] (two pair, Sixes and Twos)
+*** SHOWDOWN ***
+2cd64941 collected 14,398 from pot
+*** SUMMARY ***
+Total pot 14,398 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc 6h 2s 8d 4s]
+Seat 1: e1469dda folded before Flop
+Seat 2: 2cd64941 showed [Qs As] and won (14,398) with a pair of Queens
+Seat 3: 6b0d1043 folded before Flop
+Seat 4: e1c54932 (button) folded before Flop
+Seat 5: e36b56a4 (small blind) showed [Kd 2h] and lost with a pair of Twos
+Seat 6: 19630603 (big blind) folded on the Flop
+Seat 7: Hero folded before Flop
+
+
+Poker Hand #TM91853523: Tournament #5518257, $25 Friday Fisticuffs [Bounty 7-Max] Hold'em No Limit - Level12(800/1,600) - 2026/01/16 22:25:30
+Table '31' 7-max Seat #3 is the button
+Seat 1: e1469dda (63,741 in chips)
+Seat 2: 2cd64941 (28,022 in chips)
+Seat 3: 6b0d1043 (43,393 in chips)
+Seat 4: e1c54932 (19,092 in chips)
+Seat 5: e36b56a4 (32,488 in chips)
+Seat 6: 19630603 (169,911 in chips)
+Seat 7: Hero (25,000 in chips)
+e36b56a4: posts the ante 250
+6b0d1043: posts the ante 250
+2cd64941: posts the ante 250
+19630603: posts the ante 250
+e1469dda: posts the ante 250
+Hero: posts the ante 250
+e1c54932: posts the ante 250
+e1c54932: posts small blind 800
+e36b56a4: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to e1469dda 
+Dealt to 2cd64941 
+Dealt to 6b0d1043 
+Dealt to e1c54932 
+Dealt to e36b56a4 
+Dealt to 19630603 
+Dealt to Hero [8d Kh]
+19630603: folds
+Hero: folds
+e1469dda: folds
+2cd64941: raises 26,172 to 27,772 and is all-in
+6b0d1043: folds
+e1c54932: folds
+e36b56a4: calls 26,172
+2cd64941: shows [7s Ah]
+e36b56a4: shows [Kc Tc]
+*** FLOP *** [9h 7h 5s]
+*** TURN *** [9h 7h 5s] [2h]
+*** RIVER *** [9h 7h 5s 2h] [Qh]
+*** SHOWDOWN ***
+2cd64941 collected 58,094 from pot
+*** SUMMARY ***
+Total pot 58,094 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h 7h 5s 2h Qh]
+Seat 1: e1469dda folded before Flop
+Seat 2: 2cd64941 showed [7s Ah] and won (58,094) with a flush Ace high
+Seat 3: 6b0d1043 (button) folded before Flop
+Seat 4: e1c54932 (small blind) folded before Flop
+Seat 5: e36b56a4 (big blind) showed [Kc Tc] and lost with King high
+Seat 6: 19630603 folded before Flop
+Seat 7: Hero folded before Flop
+
+

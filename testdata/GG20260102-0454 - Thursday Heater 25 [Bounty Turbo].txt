@@ -1,0 +1,4214 @@
+Poker Hand #TM90232886: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level24(3,500/7,000) - 2026/01/02 01:05:31
+Table '29' 8-max Seat #5 is the button
+Seat 1: 3d34eefe (155,748 in chips)
+Seat 2: 96ec65eb (216,048 in chips)
+Seat 3: 7805bcea (176,592 in chips)
+Seat 4: Hero (98,978 in chips)
+Seat 5: 1d0ef762 (93,975 in chips)
+Seat 6: d611f592 (142,802 in chips)
+Seat 7: 97addb34 (32,060 in chips)
+97addb34: posts the ante 1,000
+7805bcea: posts the ante 1,000
+96ec65eb: posts the ante 1,000
+3d34eefe: posts the ante 1,000
+d611f592: posts the ante 1,000
+1d0ef762: posts the ante 1,000
+Hero: posts the ante 1,000
+d611f592: posts small blind 3,500
+97addb34: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to 3d34eefe 
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [Ac Qs]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+3d34eefe: folds
+96ec65eb: folds
+7805bcea: raises 14,000 to 21,000
+Hero: calls 21,000
+1d0ef762: raises 71,975 to 92,975 and is all-in
+d611f592: folds
+97addb34: folds
+7805bcea: raises 71,975 to 164,950
+Hero: calls 76,978 and is all-in
+Uncalled bet (66,972) returned to 7805bcea
+7805bcea: shows [Kh Kd]
+Hero: shows [Ac Qs]
+1d0ef762: shows [Qh Qd]
+*** FLOP *** [Kc 8c 7s]
+*** TURN *** [Kc 8c 7s] [3s]
+*** RIVER *** [Kc 8c 7s 3s] [Jh]
+*** SHOWDOWN ***
+7805bcea collected 296,425 from pot
+7805bcea collected 10,006 from pot
+*** SUMMARY ***
+Total pot 306,431 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 8c 7s 3s Jh]
+Seat 1: 3d34eefe folded before Flop
+Seat 2: 96ec65eb folded before Flop
+Seat 3: 7805bcea showed [Kh Kd] and won (306,431) with three of a kind, Kings
+Seat 4: Hero showed [Ac Qs] and lost with Ace high
+Seat 5: 1d0ef762 (button) showed [Qh Qd] and lost with a pair of Queens
+Seat 6: d611f592 (small blind) folded before Flop
+Seat 7: 97addb34 (big blind) folded before Flop
+
+
+Poker Hand #TM90232884: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level24(3,500/7,000) - 2026/01/02 01:04:39
+Table '29' 8-max Seat #4 is the button
+Seat 1: 3d34eefe (156,748 in chips)
+Seat 2: 96ec65eb (175,048 in chips)
+Seat 3: 7805bcea (177,592 in chips)
+Seat 4: Hero (113,978 in chips)
+Seat 5: 1d0ef762 (108,975 in chips)
+Seat 6: d611f592 (150,802 in chips)
+Seat 7: 97addb34 (33,060 in chips)
+97addb34: posts the ante 1,000
+7805bcea: posts the ante 1,000
+96ec65eb: posts the ante 1,000
+3d34eefe: posts the ante 1,000
+d611f592: posts the ante 1,000
+Hero: posts the ante 1,000
+1d0ef762: posts the ante 1,000
+1d0ef762: posts small blind 3,500
+d611f592: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to 3d34eefe 
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [9h Qc]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+97addb34: folds
+3d34eefe: folds
+96ec65eb: raises 7,000 to 14,000
+7805bcea: folds
+Hero: calls 14,000
+1d0ef762: calls 10,500
+d611f592: folds
+*** FLOP *** [6d 2c 6c]
+1d0ef762: checks
+96ec65eb: checks
+Hero: checks
+*** TURN *** [6d 2c 6c] [Kh]
+1d0ef762: checks
+96ec65eb: bets 19,040
+Hero: folds
+1d0ef762: folds
+Uncalled bet (19,040) returned to 96ec65eb
+*** SHOWDOWN ***
+96ec65eb collected 56,000 from pot
+*** SUMMARY ***
+Total pot 56,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 2c 6c Kh]
+Seat 1: 3d34eefe folded before Flop
+Seat 2: 96ec65eb won (56,000)
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero (button) folded on the Turn
+Seat 5: 1d0ef762 (small blind) folded on the Turn
+Seat 6: d611f592 (big blind) folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232883: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level24(3,500/7,000) - 2026/01/02 01:03:23
+Table '29' 8-max Seat #3 is the button
+Seat 1: 3d34eefe (157,748 in chips)
+Seat 2: 96ec65eb (176,048 in chips)
+Seat 3: 7805bcea (192,592 in chips)
+Seat 4: Hero (47,489 in chips)
+Seat 5: 1d0ef762 (156,464 in chips)
+Seat 6: d611f592 (151,802 in chips)
+Seat 7: 97addb34 (34,060 in chips)
+97addb34: posts the ante 1,000
+7805bcea: posts the ante 1,000
+96ec65eb: posts the ante 1,000
+3d34eefe: posts the ante 1,000
+d611f592: posts the ante 1,000
+1d0ef762: posts the ante 1,000
+Hero: posts the ante 1,000
+Hero: posts small blind 3,500
+1d0ef762: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to 3d34eefe 
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [Ac Jh]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+d611f592: folds
+97addb34: folds
+3d34eefe: folds
+96ec65eb: folds
+7805bcea: raises 7,000 to 14,000
+Hero: raises 31,500 to 45,500
+1d0ef762: raises 109,964 to 155,464 and is all-in
+7805bcea: folds
+Hero: calls 989 and is all-in
+Uncalled bet (108,975) returned to 1d0ef762
+1d0ef762: shows [Td Kh]
+Hero: shows [Ac Jh]
+*** FLOP *** [7d Qc Ks]
+*** TURN *** [7d Qc Ks] [Tc]
+*** RIVER *** [7d Qc Ks Tc] [7c]
+97addb34: shows [Js 9s] (a straight, King to Nine)
+7805bcea: shows [5h Ah] (a pair of Sevens)
+*** SHOWDOWN ***
+Hero collected 113,978 from pot
+*** SUMMARY ***
+Total pot 113,978 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d Qc Ks Tc 7c]
+Seat 1: 3d34eefe folded before Flop
+Seat 2: 96ec65eb folded before Flop
+Seat 3: 7805bcea (button) folded before Flop
+Seat 4: Hero (small blind) showed [Ac Jh] and won (113,978) with a straight, Ace to Ten
+Seat 5: 1d0ef762 (big blind) showed [Td Kh] and lost with two pair, Kings and Tens
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232882: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level24(3,500/7,000) - 2026/01/02 01:02:27
+Table '29' 8-max Seat #2 is the button
+Seat 1: 3d34eefe (158,748 in chips)
+Seat 2: 96ec65eb (262,844 in chips)
+Seat 3: 7805bcea (86,796 in chips)
+Seat 4: Hero (62,489 in chips)
+Seat 5: 1d0ef762 (157,464 in chips)
+Seat 6: d611f592 (152,802 in chips)
+Seat 7: 97addb34 (35,060 in chips)
+97addb34: posts the ante 1,000
+7805bcea: posts the ante 1,000
+96ec65eb: posts the ante 1,000
+3d34eefe: posts the ante 1,000
+d611f592: posts the ante 1,000
+1d0ef762: posts the ante 1,000
+Hero: posts the ante 1,000
+7805bcea: posts small blind 3,500
+Hero: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to 3d34eefe 
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [Kc Qs]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+3d34eefe: folds
+96ec65eb: raises 7,000 to 14,000
+7805bcea: calls 10,500
+Hero: calls 7,000
+*** FLOP *** [5h Ad 4h]
+7805bcea: checks
+Hero: checks
+96ec65eb: bets 16,660
+7805bcea: raises 25,340 to 42,000
+Hero: folds
+96ec65eb: calls 25,340
+*** TURN *** [5h Ad 4h] [Tc]
+7805bcea: bets 29,796 and is all-in
+96ec65eb: calls 29,796
+7805bcea: shows [Ac 4c] (two pair, Aces and Fours)
+96ec65eb: shows [7h 8h] (Ace high)
+*** RIVER *** [5h Ad 4h Tc] [9s]
+*** SHOWDOWN ***
+7805bcea collected 192,592 from pot
+*** SUMMARY ***
+Total pot 192,592 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h Ad 4h Tc 9s]
+Seat 1: 3d34eefe folded before Flop
+Seat 2: 96ec65eb (button) showed [7h 8h] and lost with Ace high
+Seat 3: 7805bcea (small blind) showed [Ac 4c] and won (192,592) with two pair, Aces and Fours
+Seat 4: Hero (big blind) folded on the Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232881: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level24(3,500/7,000) - 2026/01/02 01:02:17
+Table '29' 8-max Seat #7 is the button
+Seat 2: 96ec65eb (267,344 in chips)
+Seat 3: 7805bcea (78,296 in chips)
+Seat 4: Hero (63,489 in chips)
+Seat 5: 1d0ef762 (158,464 in chips)
+Seat 6: d611f592 (153,802 in chips)
+Seat 7: 97addb34 (36,060 in chips)
+97addb34: posts the ante 1,000
+7805bcea: posts the ante 1,000
+96ec65eb: posts the ante 1,000
+d611f592: posts the ante 1,000
+1d0ef762: posts the ante 1,000
+Hero: posts the ante 1,000
+96ec65eb: posts small blind 3,500
+7805bcea: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [6s Jh]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+Hero: folds
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+96ec65eb: folds
+Uncalled bet (3,500) returned to 7805bcea
+*** SHOWDOWN ***
+7805bcea collected 13,000 from pot
+*** SUMMARY ***
+Total pot 13,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 96ec65eb (small blind) folded before Flop
+Seat 3: 7805bcea (big blind) collected (13,000)
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 (button) folded before Flop
+
+
+Poker Hand #TM90232880: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level23(3,000/6,000) - 2026/01/02 01:01:10
+Table '29' 8-max Seat #6 is the button
+Seat 2: 96ec65eb (274,244 in chips)
+Seat 3: 7805bcea (32,848 in chips)
+Seat 4: Hero (96,337 in chips)
+Seat 5: 1d0ef762 (159,364 in chips)
+Seat 6: d611f592 (154,702 in chips)
+Seat 7: 97addb34 (39,960 in chips)
+97addb34: posts the ante 900
+7805bcea: posts the ante 900
+96ec65eb: posts the ante 900
+d611f592: posts the ante 900
+1d0ef762: posts the ante 900
+Hero: posts the ante 900
+97addb34: posts small blind 3,000
+96ec65eb: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [Ac 3c]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+7805bcea: raises 25,948 to 31,948 and is all-in
+Hero: raises 62,852 to 94,800
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+96ec65eb: folds
+Uncalled bet (62,852) returned to Hero
+Hero: shows [Ac 3c]
+7805bcea: shows [Td Th]
+*** FLOP *** [Qh Ts Kc]
+*** TURN *** [Qh Ts Kc] [9s]
+*** RIVER *** [Qh Ts Kc 9s] [8s]
+1d0ef762: shows [8c 9d] (two pair, Nines and Eights)
+*** SHOWDOWN ***
+7805bcea collected 78,296 from pot
+*** SUMMARY ***
+Total pot 78,296 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh Ts Kc 9s 8s]
+Seat 2: 96ec65eb (big blind) folded before Flop
+Seat 3: 7805bcea showed [Td Th] and won (78,296) with three of a kind, Tens
+Seat 4: Hero showed [Ac 3c] and lost with Ace high
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 (button) folded before Flop
+Seat 7: 97addb34 (small blind) folded before Flop
+
+
+Poker Hand #TM90232879: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level23(3,000/6,000) - 2026/01/02 01:00:25
+Table '29' 8-max Seat #5 is the button
+Seat 2: 96ec65eb (275,144 in chips)
+Seat 3: 7805bcea (33,748 in chips)
+Seat 4: Hero (97,237 in chips)
+Seat 5: 1d0ef762 (145,864 in chips)
+Seat 6: d611f592 (158,602 in chips)
+Seat 7: 97addb34 (46,860 in chips)
+97addb34: posts the ante 900
+7805bcea: posts the ante 900
+96ec65eb: posts the ante 900
+d611f592: posts the ante 900
+1d0ef762: posts the ante 900
+Hero: posts the ante 900
+d611f592: posts small blind 3,000
+97addb34: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [3d 4c]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+96ec65eb: folds
+7805bcea: folds
+Hero: folds
+1d0ef762: raises 6,000 to 12,000
+d611f592: folds
+97addb34: folds
+Uncalled bet (6,000) returned to 1d0ef762
+*** SHOWDOWN ***
+1d0ef762 collected 20,400 from pot
+*** SUMMARY ***
+Total pot 20,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 96ec65eb folded before Flop
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 (button) collected (20,400)
+Seat 6: d611f592 (small blind) folded before Flop
+Seat 7: 97addb34 (big blind) folded before Flop
+
+
+Poker Hand #TM90232878: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level23(3,000/6,000) - 2026/01/02 00:54:49
+Table '29' 8-max Seat #4 is the button
+Seat 2: 96ec65eb (276,044 in chips)
+Seat 3: 7805bcea (34,648 in chips)
+Seat 4: Hero (110,137 in chips)
+Seat 5: 1d0ef762 (123,364 in chips)
+Seat 6: d611f592 (165,502 in chips)
+Seat 7: 97addb34 (47,760 in chips)
+97addb34: posts the ante 900
+7805bcea: posts the ante 900
+96ec65eb: posts the ante 900
+d611f592: posts the ante 900
+Hero: posts the ante 900
+1d0ef762: posts the ante 900
+1d0ef762: posts small blind 3,000
+d611f592: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [Ad 9c]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+97addb34: folds
+96ec65eb: folds
+7805bcea: folds
+Hero: raises 6,000 to 12,000
+1d0ef762: raises 23,400 to 35,400
+d611f592: folds
+Hero: folds
+Uncalled bet (23,400) returned to 1d0ef762
+*** SHOWDOWN ***
+1d0ef762 collected 35,400 from pot
+*** SUMMARY ***
+Total pot 35,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 96ec65eb folded before Flop
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero (button) folded before Flop
+Seat 5: 1d0ef762 (small blind) collected (35,400)
+Seat 6: d611f592 (big blind) folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232876: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level23(3,000/6,000) - 2026/01/02 00:54:22
+Table '29' 8-max Seat #3 is the button
+Seat 2: 96ec65eb (276,944 in chips)
+Seat 3: 7805bcea (35,548 in chips)
+Seat 4: Hero (99,637 in chips)
+Seat 5: 1d0ef762 (130,264 in chips)
+Seat 6: d611f592 (166,402 in chips)
+Seat 7: 97addb34 (48,660 in chips)
+97addb34: posts the ante 900
+7805bcea: posts the ante 900
+96ec65eb: posts the ante 900
+d611f592: posts the ante 900
+1d0ef762: posts the ante 900
+Hero: posts the ante 900
+Hero: posts small blind 3,000
+1d0ef762: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [Td Tc]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+d611f592: folds
+97addb34: folds
+96ec65eb: folds
+7805bcea: folds
+Hero: raises 12,000 to 18,000
+1d0ef762: folds
+Uncalled bet (12,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 17,400 from pot
+*** SUMMARY ***
+Total pot 17,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 96ec65eb folded before Flop
+Seat 3: 7805bcea (button) folded before Flop
+Seat 4: Hero (small blind) collected (17,400)
+Seat 5: 1d0ef762 (big blind) folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232871: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level23(3,000/6,000) - 2026/01/02 00:53:34
+Table '29' 8-max Seat #2 is the button
+Seat 1: 734f6f6 (12,850 in chips)
+Seat 2: 96ec65eb (206,206 in chips)
+Seat 3: 7805bcea (39,448 in chips)
+Seat 4: Hero (106,537 in chips)
+Seat 5: 1d0ef762 (131,164 in chips)
+Seat 6: d611f592 (167,302 in chips)
+Seat 7: 97addb34 (49,560 in chips)
+Seat 8: c3d5ae2e (44,388 in chips)
+97addb34: posts the ante 900
+7805bcea: posts the ante 900
+96ec65eb: posts the ante 900
+734f6f6: posts the ante 900
+c3d5ae2e: posts the ante 900
+d611f592: posts the ante 900
+1d0ef762: posts the ante 900
+Hero: posts the ante 900
+7805bcea: posts small blind 3,000
+Hero: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [Jh 4c]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+Dealt to c3d5ae2e 
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+c3d5ae2e: raises 37,488 to 43,488 and is all-in
+734f6f6: calls 11,950 and is all-in
+96ec65eb: calls 43,488
+7805bcea: folds
+Hero: folds
+c3d5ae2e: shows [Qh Kc]
+734f6f6: shows [Qd Ad]
+96ec65eb: shows [7c Kh]
+*** FLOP *** [4h 7d 5d]
+*** TURN *** [4h 7d 5d] [Ts]
+*** RIVER *** [4h 7d 5d Ts] [4s]
+*** SHOWDOWN ***
+96ec65eb collected 52,050 from pot
+96ec65eb collected 63,076 from pot
+*** SUMMARY ***
+Total pot 115,126 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 7d 5d Ts 4s]
+Seat 1: 734f6f6 showed [Qd Ad] and lost with a pair of Fours
+Seat 2: 96ec65eb (button) showed [7c Kh] and won (115,126) with two pair, Sevens and Fours
+Seat 3: 7805bcea (small blind) folded before Flop
+Seat 4: Hero (big blind) folded before Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 folded before Flop
+Seat 8: c3d5ae2e showed [Qh Kc] and lost with a pair of Fours
+
+
+Poker Hand #TM90232863: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level23(3,000/6,000) - 2026/01/02 00:52:24
+Table '29' 8-max Seat #1 is the button
+Seat 1: 734f6f6 (13,750 in chips)
+Seat 2: 96ec65eb (210,106 in chips)
+Seat 3: 7805bcea (46,348 in chips)
+Seat 4: Hero (107,437 in chips)
+Seat 5: 1d0ef762 (132,064 in chips)
+Seat 6: d611f592 (126,802 in chips)
+Seat 7: 97addb34 (75,660 in chips)
+Seat 8: c3d5ae2e (45,288 in chips)
+97addb34: posts the ante 900
+7805bcea: posts the ante 900
+96ec65eb: posts the ante 900
+734f6f6: posts the ante 900
+c3d5ae2e: posts the ante 900
+d611f592: posts the ante 900
+1d0ef762: posts the ante 900
+Hero: posts the ante 900
+96ec65eb: posts small blind 3,000
+7805bcea: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [9c Jd]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+Dealt to c3d5ae2e 
+Hero: folds
+1d0ef762: folds
+d611f592: raises 6,000 to 12,000
+97addb34: raises 6,000 to 18,000
+c3d5ae2e: folds
+734f6f6: folds
+96ec65eb: folds
+7805bcea: folds
+d611f592: calls 6,000
+*** FLOP *** [Ts 2c 9d]
+d611f592: checks
+97addb34: checks
+*** TURN *** [Ts 2c 9d] [Jc]
+d611f592: bets 7,200
+97addb34: calls 7,200
+*** RIVER *** [Ts 2c 9d Jc] [6c]
+d611f592: checks
+97addb34: checks
+d611f592: shows [2d Ad] (a pair of Twos)
+97addb34: shows [Ac Ks] (Ace high)
+1d0ef762: shows [Ah 3d] (Ace high)
+d611f592: shows [2d Ad] (a pair of Twos)
+97addb34: shows [Ac Ks] (Ace high)
+*** SHOWDOWN ***
+d611f592 collected 66,600 from pot
+*** SUMMARY ***
+Total pot 66,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 2c 9d Jc 6c]
+Seat 1: 734f6f6 (button) folded before Flop
+Seat 2: 96ec65eb (small blind) folded before Flop
+Seat 3: 7805bcea (big blind) folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 showed [2d Ad] and won (66,600) with a pair of Twos
+Seat 7: 97addb34 showed [Ac Ks] and lost with Ace high
+Seat 8: c3d5ae2e folded before Flop
+
+
+Poker Hand #TM90232861: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level23(3,000/6,000) - 2026/01/02 00:51:48
+Table '29' 8-max Seat #7 is the button
+Seat 1: 734f6f6 (17,650 in chips)
+Seat 2: 96ec65eb (201,706 in chips)
+Seat 3: 7805bcea (47,248 in chips)
+Seat 4: Hero (108,337 in chips)
+Seat 5: 1d0ef762 (132,964 in chips)
+Seat 6: d611f592 (127,702 in chips)
+Seat 7: 97addb34 (76,560 in chips)
+97addb34: posts the ante 900
+7805bcea: posts the ante 900
+96ec65eb: posts the ante 900
+734f6f6: posts the ante 900
+d611f592: posts the ante 900
+1d0ef762: posts the ante 900
+Hero: posts the ante 900
+734f6f6: posts small blind 3,000
+96ec65eb: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to 96ec65eb 
+Dealt to 7805bcea 
+Dealt to Hero [7d 2c]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+7805bcea: folds
+Hero: folds
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+734f6f6: folds
+Uncalled bet (3,000) returned to 96ec65eb
+*** SHOWDOWN ***
+96ec65eb collected 12,300 from pot
+*** SUMMARY ***
+Total pot 12,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 734f6f6 (small blind) folded before Flop
+Seat 2: 96ec65eb (big blind) collected (12,300)
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 (button) folded before Flop
+
+
+Poker Hand #TM90232857: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level22(2,500/5,000) - 2026/01/02 00:51:10
+Table '29' 8-max Seat #6 is the button
+Seat 1: 734f6f6 (54,430 in chips)
+Seat 3: 7805bcea (47,998 in chips)
+Seat 4: Hero (109,087 in chips)
+Seat 5: 1d0ef762 (133,714 in chips)
+Seat 6: d611f592 (128,452 in chips)
+Seat 7: 97addb34 (36,780 in chips)
+97addb34: posts the ante 750
+7805bcea: posts the ante 750
+734f6f6: posts the ante 750
+d611f592: posts the ante 750
+1d0ef762: posts the ante 750
+Hero: posts the ante 750
+97addb34: posts small blind 2,500
+734f6f6: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to 7805bcea 
+Dealt to Hero [2c Ts]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+7805bcea: folds
+Hero: folds
+1d0ef762: folds
+d611f592: folds
+97addb34: raises 31,030 to 36,030 and is all-in
+734f6f6: calls 31,030
+97addb34: shows [7s 7c]
+734f6f6: shows [Qd Tc]
+*** FLOP *** [4h 8d 4s]
+*** TURN *** [4h 8d 4s] [7h]
+*** RIVER *** [4h 8d 4s 7h] [2s]
+1d0ef762: shows [7d] (two pair, Sevens and Fours)
+*** SHOWDOWN ***
+97addb34 collected 76,560 from pot
+*** SUMMARY ***
+Total pot 76,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 8d 4s 7h 2s]
+Seat 1: 734f6f6 (big blind) showed [Qd Tc] and lost with a pair of Fours
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 (button) folded before Flop
+Seat 7: 97addb34 (small blind) showed [7s 7c] and won (76,560) with a full house, Sevens full of Fours
+
+
+Poker Hand #TM90232854: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level22(2,500/5,000) - 2026/01/02 00:50:39
+Table '29' 8-max Seat #5 is the button
+Seat 1: 734f6f6 (55,180 in chips)
+Seat 3: 7805bcea (48,748 in chips)
+Seat 4: Hero (109,837 in chips)
+Seat 5: 1d0ef762 (122,464 in chips)
+Seat 6: d611f592 (131,702 in chips)
+Seat 7: 97addb34 (42,530 in chips)
+97addb34: posts the ante 750
+7805bcea: posts the ante 750
+734f6f6: posts the ante 750
+d611f592: posts the ante 750
+1d0ef762: posts the ante 750
+Hero: posts the ante 750
+d611f592: posts small blind 2,500
+97addb34: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to 7805bcea 
+Dealt to Hero [Td 2h]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+734f6f6: folds
+7805bcea: folds
+Hero: folds
+1d0ef762: raises 6,000 to 11,000
+d611f592: folds
+97addb34: folds
+Uncalled bet (6,000) returned to 1d0ef762
+*** SHOWDOWN ***
+1d0ef762 collected 17,000 from pot
+*** SUMMARY ***
+Total pot 17,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 734f6f6 folded before Flop
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 (button) collected (17,000)
+Seat 6: d611f592 (small blind) folded before Flop
+Seat 7: 97addb34 (big blind) folded before Flop
+
+
+Poker Hand #TM90232852: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level22(2,500/5,000) - 2026/01/02 00:49:56
+Table '29' 8-max Seat #4 is the button
+Seat 1: 734f6f6 (55,930 in chips)
+Seat 2: cd4c7a8a (24,813 in chips)
+Seat 3: 7805bcea (49,498 in chips)
+Seat 4: Hero (68,774 in chips)
+Seat 5: 1d0ef762 (125,714 in chips)
+Seat 6: d611f592 (137,452 in chips)
+Seat 7: 97addb34 (48,280 in chips)
+97addb34: posts the ante 750
+7805bcea: posts the ante 750
+734f6f6: posts the ante 750
+d611f592: posts the ante 750
+cd4c7a8a: posts the ante 750
+Hero: posts the ante 750
+1d0ef762: posts the ante 750
+1d0ef762: posts small blind 2,500
+d611f592: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [7h Kh]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+97addb34: calls 5,000
+734f6f6: folds
+cd4c7a8a: raises 19,063 to 24,063 and is all-in
+7805bcea: folds
+Hero: raises 43,961 to 68,024 and is all-in
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+Uncalled bet (43,961) returned to Hero
+Hero: shows [7h Kh]
+cd4c7a8a: shows [Ad 9h]
+*** FLOP *** [5s 6c As]
+*** TURN *** [5s 6c As] [8c]
+*** RIVER *** [5s 6c As 8c] [9d]
+97addb34: shows [Kd Jd] (Ace high)
+*** SHOWDOWN ***
+Hero collected 65,876 from pot
+*** SUMMARY ***
+Total pot 65,876 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 6c As 8c 9d]
+Seat 1: 734f6f6 folded before Flop
+Seat 2: cd4c7a8a showed [Ad 9h] and lost with two pair, Aces and Nines
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero (button) showed [7h Kh] and won (65,876) with a straight, Nine to Five
+Seat 5: 1d0ef762 (small blind) folded before Flop
+Seat 6: d611f592 (big blind) folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232849: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level22(2,500/5,000) - 2026/01/02 00:48:42
+Table '29' 8-max Seat #3 is the button
+Seat 1: 734f6f6 (56,680 in chips)
+Seat 2: cd4c7a8a (25,563 in chips)
+Seat 3: 7805bcea (50,248 in chips)
+Seat 4: Hero (90,099 in chips)
+Seat 5: 1d0ef762 (147,039 in chips)
+Seat 6: d611f592 (91,802 in chips)
+Seat 7: 97addb34 (49,030 in chips)
+97addb34: posts the ante 750
+7805bcea: posts the ante 750
+734f6f6: posts the ante 750
+d611f592: posts the ante 750
+cd4c7a8a: posts the ante 750
+1d0ef762: posts the ante 750
+Hero: posts the ante 750
+Hero: posts small blind 2,500
+1d0ef762: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [Kh Th]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+d611f592: raises 5,000 to 10,000
+97addb34: folds
+734f6f6: folds
+cd4c7a8a: folds
+7805bcea: folds
+Hero: calls 7,500
+1d0ef762: calls 5,000
+*** FLOP *** [4h 8s Ts]
+Hero: checks
+1d0ef762: checks
+d611f592: checks
+*** TURN *** [4h 8s Ts] [9s]
+Hero: bets 10,575
+1d0ef762: calls 10,575
+d611f592: calls 10,575
+*** RIVER *** [4h 8s Ts 9s] [Qh]
+Hero: checks
+1d0ef762: checks
+d611f592: checks
+Hero: shows [Kh Th] (a pair of Tens)
+1d0ef762: shows [9c 5h] (a pair of Nines)
+d611f592: shows [Ks Qd] (a pair of Queens)
+*** SHOWDOWN ***
+d611f592 collected 66,975 from pot
+*** SUMMARY ***
+Total pot 66,975 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 8s Ts 9s Qh]
+Seat 1: 734f6f6 folded before Flop
+Seat 2: cd4c7a8a folded before Flop
+Seat 3: 7805bcea (button) folded before Flop
+Seat 4: Hero (small blind) showed [Kh Th] and lost with a pair of Tens
+Seat 5: 1d0ef762 (big blind) showed [9c 5h] and lost with a pair of Nines
+Seat 6: d611f592 showed [Ks Qd] and won (66,975) with a pair of Queens
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232846: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level22(2,500/5,000) - 2026/01/02 00:47:40
+Table '29' 8-max Seat #2 is the button
+Seat 1: 734f6f6 (57,430 in chips)
+Seat 2: cd4c7a8a (26,313 in chips)
+Seat 3: 7805bcea (18,249 in chips)
+Seat 4: Hero (108,348 in chips)
+Seat 5: 1d0ef762 (147,789 in chips)
+Seat 6: d611f592 (102,552 in chips)
+Seat 7: 97addb34 (49,780 in chips)
+97addb34: posts the ante 750
+7805bcea: posts the ante 750
+734f6f6: posts the ante 750
+d611f592: posts the ante 750
+cd4c7a8a: posts the ante 750
+1d0ef762: posts the ante 750
+Hero: posts the ante 750
+7805bcea: posts small blind 2,500
+Hero: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [6d As]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+1d0ef762: folds
+d611f592: raises 5,000 to 10,000
+97addb34: folds
+734f6f6: folds
+cd4c7a8a: folds
+7805bcea: raises 7,499 to 17,499 and is all-in
+Hero: raises 90,099 to 107,598 and is all-in
+d611f592: folds
+Uncalled bet (90,099) returned to Hero
+Hero: shows [6d As]
+7805bcea: shows [Qd Qc]
+*** FLOP *** [Th 7h 8d]
+*** TURN *** [Th 7h 8d] [2c]
+*** RIVER *** [Th 7h 8d 2c] [Kd]
+*** SHOWDOWN ***
+7805bcea collected 50,248 from pot
+*** SUMMARY ***
+Total pot 50,248 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th 7h 8d 2c Kd]
+Seat 1: 734f6f6 folded before Flop
+Seat 2: cd4c7a8a (button) folded before Flop
+Seat 3: 7805bcea (small blind) showed [Qd Qc] and won (50,248) with a pair of Queens
+Seat 4: Hero (big blind) showed [6d As] and lost with Ace high
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232844: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level22(2,500/5,000) - 2026/01/02 00:46:49
+Table '29' 8-max Seat #1 is the button
+Seat 1: 734f6f6 (58,180 in chips)
+Seat 2: cd4c7a8a (76,112 in chips)
+Seat 3: 7805bcea (23,999 in chips)
+Seat 4: Hero (49,799 in chips)
+Seat 5: 1d0ef762 (148,539 in chips)
+Seat 6: d611f592 (103,302 in chips)
+Seat 7: 97addb34 (50,530 in chips)
+97addb34: posts the ante 750
+7805bcea: posts the ante 750
+734f6f6: posts the ante 750
+d611f592: posts the ante 750
+cd4c7a8a: posts the ante 750
+1d0ef762: posts the ante 750
+Hero: posts the ante 750
+cd4c7a8a: posts small blind 2,500
+7805bcea: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [7h As]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+Hero: raises 40,000 to 45,000
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+734f6f6: folds
+cd4c7a8a: raises 30,362 to 75,362 and is all-in
+7805bcea: folds
+Hero: calls 4,049 and is all-in
+Uncalled bet (26,313) returned to cd4c7a8a
+cd4c7a8a: shows [4s 4c]
+Hero: shows [7h As]
+*** FLOP *** [Tc 2d 2s]
+*** TURN *** [Tc 2d 2s] [Ad]
+*** RIVER *** [Tc 2d 2s Ad] [Ah]
+*** SHOWDOWN ***
+Hero collected 108,348 from pot
+*** SUMMARY ***
+Total pot 108,348 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 2d 2s Ad Ah]
+Seat 1: 734f6f6 (button) folded before Flop
+Seat 2: cd4c7a8a (small blind) showed [4s 4c] and lost with two pair, Aces and Fours
+Seat 3: 7805bcea (big blind) folded before Flop
+Seat 4: Hero showed [7h As] and won (108,348) with a full house, Aces full of Twos
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232842: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level21(2,000/4,000) - 2026/01/02 00:46:20
+Table '29' 8-max Seat #7 is the button
+Seat 1: 734f6f6 (62,780 in chips)
+Seat 2: cd4c7a8a (68,512 in chips)
+Seat 3: 7805bcea (24,599 in chips)
+Seat 4: Hero (50,399 in chips)
+Seat 5: 1d0ef762 (149,139 in chips)
+Seat 6: d611f592 (103,902 in chips)
+Seat 7: 97addb34 (51,130 in chips)
+97addb34: posts the ante 600
+7805bcea: posts the ante 600
+734f6f6: posts the ante 600
+d611f592: posts the ante 600
+cd4c7a8a: posts the ante 600
+1d0ef762: posts the ante 600
+Hero: posts the ante 600
+734f6f6: posts small blind 2,000
+cd4c7a8a: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [Qd 7d]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+7805bcea: folds
+Hero: folds
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+734f6f6: calls 2,000
+cd4c7a8a: checks
+*** FLOP *** [8d Ks 5c]
+734f6f6: checks
+cd4c7a8a: bets 4,000
+734f6f6: folds
+Uncalled bet (4,000) returned to cd4c7a8a
+*** SHOWDOWN ***
+cd4c7a8a collected 12,200 from pot
+*** SUMMARY ***
+Total pot 12,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d Ks 5c]
+Seat 1: 734f6f6 (small blind) folded on the Flop
+Seat 2: cd4c7a8a (big blind) won (12,200)
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 (button) folded before Flop
+
+
+Poker Hand #TM90232841: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level21(2,000/4,000) - 2026/01/02 00:45:59
+Table '29' 8-max Seat #6 is the button
+Seat 1: 734f6f6 (67,380 in chips)
+Seat 2: cd4c7a8a (69,112 in chips)
+Seat 3: 7805bcea (25,199 in chips)
+Seat 4: Hero (50,999 in chips)
+Seat 5: 1d0ef762 (149,739 in chips)
+Seat 6: d611f592 (104,502 in chips)
+Seat 7: 97addb34 (43,530 in chips)
+97addb34: posts the ante 600
+7805bcea: posts the ante 600
+734f6f6: posts the ante 600
+d611f592: posts the ante 600
+cd4c7a8a: posts the ante 600
+1d0ef762: posts the ante 600
+Hero: posts the ante 600
+97addb34: posts small blind 2,000
+734f6f6: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [3h 5c]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+cd4c7a8a: folds
+7805bcea: folds
+Hero: folds
+1d0ef762: folds
+d611f592: folds
+97addb34: calls 2,000
+734f6f6: checks
+*** FLOP *** [As 8c Jh]
+97addb34: bets 12,000
+734f6f6: folds
+Uncalled bet (12,000) returned to 97addb34
+*** SHOWDOWN ***
+97addb34 collected 12,200 from pot
+*** SUMMARY ***
+Total pot 12,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As 8c Jh]
+Seat 1: 734f6f6 (big blind) folded on the Flop
+Seat 2: cd4c7a8a folded before Flop
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 (button) folded before Flop
+Seat 7: 97addb34 (small blind) won (12,200)
+
+
+Poker Hand #TM90232839: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level21(2,000/4,000) - 2026/01/02 00:45:39
+Table '29' 8-max Seat #5 is the button
+Seat 1: 734f6f6 (67,980 in chips)
+Seat 2: cd4c7a8a (69,712 in chips)
+Seat 3: 7805bcea (25,799 in chips)
+Seat 4: Hero (51,599 in chips)
+Seat 5: 1d0ef762 (150,339 in chips)
+Seat 6: d611f592 (107,102 in chips)
+Seat 7: 97addb34 (37,930 in chips)
+97addb34: posts the ante 600
+7805bcea: posts the ante 600
+734f6f6: posts the ante 600
+d611f592: posts the ante 600
+cd4c7a8a: posts the ante 600
+1d0ef762: posts the ante 600
+Hero: posts the ante 600
+d611f592: posts small blind 2,000
+97addb34: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [Tc 3s]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+734f6f6: folds
+cd4c7a8a: folds
+7805bcea: folds
+Hero: folds
+1d0ef762: folds
+d611f592: folds
+Uncalled bet (2,000) returned to 97addb34
+*** SHOWDOWN ***
+97addb34 collected 8,200 from pot
+*** SUMMARY ***
+Total pot 8,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 734f6f6 folded before Flop
+Seat 2: cd4c7a8a folded before Flop
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 (button) folded before Flop
+Seat 6: d611f592 (small blind) folded before Flop
+Seat 7: 97addb34 (big blind) collected (8,200)
+
+
+Poker Hand #TM90232838: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level21(2,000/4,000) - 2026/01/02 00:45:09
+Table '29' 8-max Seat #4 is the button
+Seat 1: 734f6f6 (68,580 in chips)
+Seat 2: cd4c7a8a (70,312 in chips)
+Seat 3: 7805bcea (26,399 in chips)
+Seat 4: Hero (41,999 in chips)
+Seat 5: 1d0ef762 (152,939 in chips)
+Seat 6: d611f592 (111,702 in chips)
+Seat 7: 97addb34 (38,530 in chips)
+97addb34: posts the ante 600
+7805bcea: posts the ante 600
+734f6f6: posts the ante 600
+d611f592: posts the ante 600
+cd4c7a8a: posts the ante 600
+Hero: posts the ante 600
+1d0ef762: posts the ante 600
+1d0ef762: posts small blind 2,000
+d611f592: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [7c Ah]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+97addb34: folds
+734f6f6: folds
+cd4c7a8a: folds
+7805bcea: folds
+Hero: raises 36,000 to 40,000
+1d0ef762: folds
+d611f592: folds
+Uncalled bet (36,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 14,200 from pot
+*** SUMMARY ***
+Total pot 14,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 734f6f6 folded before Flop
+Seat 2: cd4c7a8a folded before Flop
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero (button) collected (14,200)
+Seat 5: 1d0ef762 (small blind) folded before Flop
+Seat 6: d611f592 (big blind) folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232834: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level21(2,000/4,000) - 2026/01/02 00:44:38
+Table '29' 8-max Seat #3 is the button
+Seat 1: 734f6f6 (69,180 in chips)
+Seat 2: cd4c7a8a (70,912 in chips)
+Seat 3: 7805bcea (26,999 in chips)
+Seat 4: Hero (46,599 in chips)
+Seat 5: 1d0ef762 (145,339 in chips)
+Seat 6: d611f592 (112,302 in chips)
+Seat 7: 97addb34 (39,130 in chips)
+97addb34: posts the ante 600
+7805bcea: posts the ante 600
+734f6f6: posts the ante 600
+d611f592: posts the ante 600
+cd4c7a8a: posts the ante 600
+1d0ef762: posts the ante 600
+Hero: posts the ante 600
+Hero: posts small blind 2,000
+1d0ef762: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [Td Qd]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+d611f592: folds
+97addb34: folds
+734f6f6: folds
+cd4c7a8a: folds
+7805bcea: folds
+Hero: calls 2,000
+1d0ef762: raises 8,000 to 12,000
+Hero: folds
+Uncalled bet (8,000) returned to 1d0ef762
+*** SHOWDOWN ***
+1d0ef762 collected 12,200 from pot
+*** SUMMARY ***
+Total pot 12,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 734f6f6 folded before Flop
+Seat 2: cd4c7a8a folded before Flop
+Seat 3: 7805bcea (button) folded before Flop
+Seat 4: Hero (small blind) folded before Flop
+Seat 5: 1d0ef762 (big blind) collected (12,200)
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232832: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level21(2,000/4,000) - 2026/01/02 00:44:15
+Table '29' 8-max Seat #2 is the button
+Seat 1: 734f6f6 (69,780 in chips)
+Seat 2: cd4c7a8a (71,512 in chips)
+Seat 3: 7805bcea (29,599 in chips)
+Seat 4: Hero (51,199 in chips)
+Seat 5: 1d0ef762 (145,939 in chips)
+Seat 6: d611f592 (112,902 in chips)
+Seat 7: 97addb34 (29,530 in chips)
+97addb34: posts the ante 600
+7805bcea: posts the ante 600
+734f6f6: posts the ante 600
+d611f592: posts the ante 600
+cd4c7a8a: posts the ante 600
+1d0ef762: posts the ante 600
+Hero: posts the ante 600
+7805bcea: posts small blind 2,000
+Hero: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [2d 5d]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+1d0ef762: folds
+d611f592: folds
+97addb34: raises 11,555 to 15,555
+734f6f6: folds
+cd4c7a8a: folds
+7805bcea: folds
+Hero: folds
+Uncalled bet (11,555) returned to 97addb34
+*** SHOWDOWN ***
+97addb34 collected 14,200 from pot
+*** SUMMARY ***
+Total pot 14,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 734f6f6 folded before Flop
+Seat 2: cd4c7a8a (button) folded before Flop
+Seat 3: 7805bcea (small blind) folded before Flop
+Seat 4: Hero (big blind) folded before Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 showed [Kh Kd] and collected (14,200)
+
+
+Poker Hand #TM90232830: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level21(2,000/4,000) - 2026/01/02 00:43:47
+Table '29' 8-max Seat #1 is the button
+Seat 1: 734f6f6 (60,180 in chips)
+Seat 2: cd4c7a8a (74,112 in chips)
+Seat 3: 7805bcea (34,199 in chips)
+Seat 4: Hero (51,799 in chips)
+Seat 5: 1d0ef762 (146,539 in chips)
+Seat 6: d611f592 (113,502 in chips)
+Seat 7: 97addb34 (30,130 in chips)
+97addb34: posts the ante 600
+7805bcea: posts the ante 600
+734f6f6: posts the ante 600
+d611f592: posts the ante 600
+cd4c7a8a: posts the ante 600
+1d0ef762: posts the ante 600
+Hero: posts the ante 600
+cd4c7a8a: posts small blind 2,000
+7805bcea: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [Kh 2c]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+Hero: folds
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+734f6f6: raises 8,000 to 12,000
+cd4c7a8a: folds
+7805bcea: folds
+Uncalled bet (8,000) returned to 734f6f6
+*** SHOWDOWN ***
+734f6f6 collected 14,200 from pot
+*** SUMMARY ***
+Total pot 14,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 734f6f6 (button) showed [As] and collected (14,200)
+Seat 2: cd4c7a8a (small blind) folded before Flop
+Seat 3: 7805bcea (big blind) folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 folded before Flop
+
+
+Poker Hand #TM90232827: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level21(2,000/4,000) - 2026/01/02 00:43:26
+Table '29' 8-max Seat #7 is the button
+Seat 1: 734f6f6 (62,780 in chips)
+Seat 2: cd4c7a8a (60,512 in chips)
+Seat 3: 7805bcea (34,799 in chips)
+Seat 4: Hero (52,399 in chips)
+Seat 5: 1d0ef762 (147,139 in chips)
+Seat 6: d611f592 (122,102 in chips)
+Seat 7: 97addb34 (30,730 in chips)
+97addb34: posts the ante 600
+7805bcea: posts the ante 600
+734f6f6: posts the ante 600
+d611f592: posts the ante 600
+cd4c7a8a: posts the ante 600
+1d0ef762: posts the ante 600
+Hero: posts the ante 600
+734f6f6: posts small blind 2,000
+cd4c7a8a: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [2h Kh]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+7805bcea: folds
+Hero: folds
+1d0ef762: folds
+d611f592: raises 4,000 to 8,000
+97addb34: folds
+734f6f6: folds
+cd4c7a8a: raises 51,912 to 59,912 and is all-in
+d611f592: folds
+Uncalled bet (51,912) returned to cd4c7a8a
+*** SHOWDOWN ***
+cd4c7a8a collected 22,200 from pot
+*** SUMMARY ***
+Total pot 22,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 734f6f6 (small blind) folded before Flop
+Seat 2: cd4c7a8a (big blind) collected (22,200)
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 folded before Flop
+Seat 7: 97addb34 (button) folded before Flop
+
+
+Poker Hand #TM90232823: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level21(2,000/4,000) - 2026/01/02 00:42:38
+Table '29' 8-max Seat #6 is the button
+Seat 1: 734f6f6 (63,380 in chips)
+Seat 2: cd4c7a8a (61,112 in chips)
+Seat 3: 7805bcea (35,399 in chips)
+Seat 4: Hero (28,392 in chips)
+Seat 5: 1d0ef762 (147,739 in chips)
+Seat 6: d611f592 (122,702 in chips)
+Seat 7: 97addb34 (33,330 in chips)
+Seat 8: a7b96b2a (18,407 in chips)
+97addb34: posts the ante 600
+7805bcea: posts the ante 600
+a7b96b2a: posts the ante 600
+734f6f6: posts the ante 600
+d611f592: posts the ante 600
+cd4c7a8a: posts the ante 600
+1d0ef762: posts the ante 600
+Hero: posts the ante 600
+97addb34: posts small blind 2,000
+a7b96b2a: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [As Qd]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+Dealt to a7b96b2a 
+734f6f6: folds
+cd4c7a8a: folds
+7805bcea: folds
+Hero: raises 23,792 to 27,792 and is all-in
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+a7b96b2a: calls 13,807 and is all-in
+Uncalled bet (9,985) returned to Hero
+Hero: shows [As Qd]
+a7b96b2a: shows [8h Ah]
+*** FLOP *** [5s Th Qh]
+*** TURN *** [5s Th Qh] [2s]
+*** RIVER *** [5s Th Qh 2s] [Ks]
+*** SHOWDOWN ***
+Hero collected 42,414 from pot
+*** SUMMARY ***
+Total pot 42,414 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s Th Qh 2s Ks]
+Seat 1: 734f6f6 folded before Flop
+Seat 2: cd4c7a8a folded before Flop
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero showed [As Qd] and won (42,414) with a pair of Queens
+Seat 5: 1d0ef762 folded before Flop
+Seat 6: d611f592 (button) folded before Flop
+Seat 7: 97addb34 (small blind) folded before Flop
+Seat 8: a7b96b2a (big blind) showed [8h Ah] and lost with Ace high
+
+
+Poker Hand #TM90232819: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level21(2,000/4,000) - 2026/01/02 00:41:55
+Table '29' 8-max Seat #5 is the button
+Seat 1: 734f6f6 (63,980 in chips)
+Seat 2: cd4c7a8a (25,756 in chips)
+Seat 3: 7805bcea (35,999 in chips)
+Seat 4: Hero (54,148 in chips)
+Seat 5: 1d0ef762 (148,339 in chips)
+Seat 6: d611f592 (125,302 in chips)
+Seat 7: 97addb34 (37,930 in chips)
+Seat 8: a7b96b2a (19,007 in chips)
+97addb34: posts the ante 600
+7805bcea: posts the ante 600
+a7b96b2a: posts the ante 600
+734f6f6: posts the ante 600
+d611f592: posts the ante 600
+cd4c7a8a: posts the ante 600
+1d0ef762: posts the ante 600
+Hero: posts the ante 600
+d611f592: posts small blind 2,000
+97addb34: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 734f6f6 
+Dealt to cd4c7a8a 
+Dealt to 7805bcea 
+Dealt to Hero [6h 8h]
+Dealt to 1d0ef762 
+Dealt to d611f592 
+Dealt to 97addb34 
+Dealt to a7b96b2a 
+a7b96b2a: folds
+734f6f6: folds
+cd4c7a8a: raises 21,156 to 25,156 and is all-in
+7805bcea: folds
+Hero: raises 28,392 to 53,548 and is all-in
+1d0ef762: folds
+d611f592: folds
+97addb34: folds
+Uncalled bet (28,392) returned to Hero
+Hero: shows [6h 8h]
+cd4c7a8a: shows [Ad 4s]
+*** FLOP *** [Ac 9h 3h]
+*** TURN *** [Ac 9h 3h] [Qs]
+*** RIVER *** [Ac 9h 3h Qs] [9s]
+1d0ef762: shows [6c 8s] (a pair of Nines)
+*** SHOWDOWN ***
+cd4c7a8a collected 61,112 from pot
+*** SUMMARY ***
+Total pot 61,112 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 9h 3h Qs 9s]
+Seat 1: 734f6f6 folded before Flop
+Seat 2: cd4c7a8a showed [Ad 4s] and won (61,112) with two pair, Aces and Nines
+Seat 3: 7805bcea folded before Flop
+Seat 4: Hero showed [6h 8h] and lost with a pair of Nines
+Seat 5: 1d0ef762 (button) folded before Flop
+Seat 6: d611f592 (small blind) folded before Flop
+Seat 7: 97addb34 (big blind) folded before Flop
+Seat 8: a7b96b2a folded before Flop
+
+
+Poker Hand #TM90280297: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level20(1,750/3,500) - 2026/01/02 00:40:30
+Table '18' 8-max Seat #8 is the button
+Seat 1: adc9aff9 (72,185 in chips)
+Seat 2: 21f93d27 (76,433 in chips)
+Seat 3: c3d5ae2e (49,338 in chips)
+Seat 5: 77ac8343 (9,490 in chips)
+Seat 6: c77ee2cf (220,165 in chips)
+Seat 7: Hero (54,648 in chips)
+Seat 8: a7b96b2a (19,507 in chips)
+77ac8343: posts the ante 500
+a7b96b2a: posts the ante 500
+c3d5ae2e: posts the ante 500
+adc9aff9: posts the ante 500
+Hero: posts the ante 500
+c77ee2cf: posts the ante 500
+21f93d27: posts the ante 500
+adc9aff9: posts small blind 1,750
+21f93d27: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 21f93d27 
+Dealt to c3d5ae2e 
+Dealt to 77ac8343 
+Dealt to c77ee2cf 
+Dealt to Hero [9c 2h]
+Dealt to a7b96b2a 
+c3d5ae2e: folds
+77ac8343: raises 5,490 to 8,990 and is all-in
+c77ee2cf: raises 210,675 to 219,665 and is all-in
+Hero: folds
+a7b96b2a: folds
+adc9aff9: folds
+21f93d27: folds
+Uncalled bet (210,675) returned to c77ee2cf
+c77ee2cf: shows [8s 8d]
+77ac8343: shows [Js Qh]
+*** FLOP *** [6h 3d 4h]
+*** TURN *** [6h 3d 4h] [3s]
+*** RIVER *** [6h 3d 4h 3s] [2c]
+*** SHOWDOWN ***
+c77ee2cf collected 26,730 from pot
+*** SUMMARY ***
+Total pot 26,730 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 3d 4h 3s 2c]
+Seat 1: adc9aff9 (small blind) folded before Flop
+Seat 2: 21f93d27 (big blind) folded before Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 5: 77ac8343 showed [Js Qh] and lost with a pair of Threes
+Seat 6: c77ee2cf showed [8s 8d] and won (26,730) with two pair, Eights and Threes
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a (button) folded before Flop
+
+
+Poker Hand #TM90280296: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level20(1,750/3,500) - 2026/01/02 00:39:44
+Table '18' 8-max Seat #7 is the button
+Seat 1: adc9aff9 (79,685 in chips)
+Seat 2: 21f93d27 (76,933 in chips)
+Seat 3: c3d5ae2e (49,838 in chips)
+Seat 5: 77ac8343 (9,990 in chips)
+Seat 6: c77ee2cf (220,665 in chips)
+Seat 7: Hero (42,898 in chips)
+Seat 8: a7b96b2a (21,757 in chips)
+77ac8343: posts the ante 500
+a7b96b2a: posts the ante 500
+c3d5ae2e: posts the ante 500
+adc9aff9: posts the ante 500
+Hero: posts the ante 500
+c77ee2cf: posts the ante 500
+21f93d27: posts the ante 500
+a7b96b2a: posts small blind 1,750
+adc9aff9: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 21f93d27 
+Dealt to c3d5ae2e 
+Dealt to 77ac8343 
+Dealt to c77ee2cf 
+Dealt to Hero [Qd As]
+Dealt to a7b96b2a 
+21f93d27: folds
+c3d5ae2e: folds
+77ac8343: folds
+c77ee2cf: folds
+Hero: raises 3,500 to 7,000
+a7b96b2a: folds
+adc9aff9: calls 3,500
+*** FLOP *** [9h Qh 3h]
+adc9aff9: checks
+Hero: checks
+*** TURN *** [9h Qh 3h] [9s]
+adc9aff9: checks
+Hero: bets 10,588
+adc9aff9: folds
+Uncalled bet (10,588) returned to Hero
+*** SHOWDOWN ***
+Hero collected 19,250 from pot
+*** SUMMARY ***
+Total pot 19,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Qh 3h 9s]
+Seat 1: adc9aff9 (big blind) folded on the Turn
+Seat 2: 21f93d27 folded before Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 5: 77ac8343 folded before Flop
+Seat 6: c77ee2cf folded before Flop
+Seat 7: Hero (button) won (19,250)
+Seat 8: a7b96b2a (small blind) folded before Flop
+
+
+Poker Hand #TM90280294: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level20(1,750/3,500) - 2026/01/02 00:38:55
+Table '18' 8-max Seat #6 is the button
+Seat 1: adc9aff9 (80,185 in chips)
+Seat 2: 21f93d27 (77,433 in chips)
+Seat 3: c3d5ae2e (50,338 in chips)
+Seat 5: 77ac8343 (10,490 in chips)
+Seat 6: c77ee2cf (212,415 in chips)
+Seat 7: Hero (45,148 in chips)
+Seat 8: a7b96b2a (25,757 in chips)
+77ac8343: posts the ante 500
+a7b96b2a: posts the ante 500
+c3d5ae2e: posts the ante 500
+adc9aff9: posts the ante 500
+c77ee2cf: posts the ante 500
+21f93d27: posts the ante 500
+Hero: posts the ante 500
+Hero: posts small blind 1,750
+a7b96b2a: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 21f93d27 
+Dealt to c3d5ae2e 
+Dealt to 77ac8343 
+Dealt to c77ee2cf 
+Dealt to Hero [5d 3h]
+Dealt to a7b96b2a 
+adc9aff9: folds
+21f93d27: folds
+c3d5ae2e: folds
+77ac8343: folds
+c77ee2cf: raises 208,415 to 211,915 and is all-in
+Hero: folds
+a7b96b2a: folds
+Uncalled bet (208,415) returned to c77ee2cf
+*** SHOWDOWN ***
+c77ee2cf collected 12,250 from pot
+*** SUMMARY ***
+Total pot 12,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 21f93d27 folded before Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 5: 77ac8343 folded before Flop
+Seat 6: c77ee2cf (button) collected (12,250)
+Seat 7: Hero (small blind) folded before Flop
+Seat 8: a7b96b2a (big blind) folded before Flop
+
+
+Poker Hand #TM90280292: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level20(1,750/3,500) - 2026/01/02 00:38:06
+Table '18' 8-max Seat #5 is the button
+Seat 1: adc9aff9 (80,685 in chips)
+Seat 2: 21f93d27 (77,933 in chips)
+Seat 3: c3d5ae2e (42,088 in chips)
+Seat 5: 77ac8343 (10,990 in chips)
+Seat 6: c77ee2cf (214,665 in chips)
+Seat 7: Hero (49,148 in chips)
+Seat 8: a7b96b2a (26,257 in chips)
+77ac8343: posts the ante 500
+a7b96b2a: posts the ante 500
+c3d5ae2e: posts the ante 500
+adc9aff9: posts the ante 500
+21f93d27: posts the ante 500
+Hero: posts the ante 500
+c77ee2cf: posts the ante 500
+c77ee2cf: posts small blind 1,750
+Hero: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 21f93d27 
+Dealt to c3d5ae2e 
+Dealt to 77ac8343 
+Dealt to c77ee2cf 
+Dealt to Hero [Qc 3h]
+Dealt to a7b96b2a 
+a7b96b2a: folds
+adc9aff9: folds
+21f93d27: folds
+c3d5ae2e: raises 7,000 to 10,500
+77ac8343: folds
+c77ee2cf: folds
+Hero: folds
+Uncalled bet (7,000) returned to c3d5ae2e
+*** SHOWDOWN ***
+c3d5ae2e collected 12,250 from pot
+*** SUMMARY ***
+Total pot 12,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 21f93d27 folded before Flop
+Seat 3: c3d5ae2e collected (12,250)
+Seat 5: 77ac8343 (button) folded before Flop
+Seat 6: c77ee2cf (small blind) folded before Flop
+Seat 7: Hero (big blind) folded before Flop
+Seat 8: a7b96b2a folded before Flop
+
+
+Poker Hand #TM90280289: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level20(1,750/3,500) - 2026/01/02 00:37:00
+Table '18' 8-max Seat #4 is the button
+Seat 1: adc9aff9 (81,185 in chips)
+Seat 2: 21f93d27 (78,433 in chips)
+Seat 3: c3d5ae2e (42,588 in chips)
+Seat 4: fcbc90f0 (59,656 in chips)
+Seat 5: 77ac8343 (13,240 in chips)
+Seat 6: c77ee2cf (150,259 in chips)
+Seat 7: Hero (49,648 in chips)
+Seat 8: a7b96b2a (26,757 in chips)
+77ac8343: posts the ante 500
+fcbc90f0: posts the ante 500
+a7b96b2a: posts the ante 500
+c3d5ae2e: posts the ante 500
+adc9aff9: posts the ante 500
+21f93d27: posts the ante 500
+Hero: posts the ante 500
+c77ee2cf: posts the ante 500
+77ac8343: posts small blind 1,750
+c77ee2cf: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 21f93d27 
+Dealt to c3d5ae2e 
+Dealt to fcbc90f0 
+Dealt to 77ac8343 
+Dealt to c77ee2cf 
+Dealt to Hero [9c 7s]
+Dealt to a7b96b2a 
+Hero: folds
+a7b96b2a: folds
+adc9aff9: folds
+21f93d27: folds
+c3d5ae2e: folds
+fcbc90f0: calls 3,500
+77ac8343: folds
+c77ee2cf: checks
+*** FLOP *** [4d 4c Ac]
+c77ee2cf: checks
+fcbc90f0: checks
+*** TURN *** [4d 4c Ac] [2c]
+c77ee2cf: checks
+fcbc90f0: bets 3,500
+c77ee2cf: raises 10,500 to 14,000
+fcbc90f0: calls 10,500
+*** RIVER *** [4d 4c Ac 2c] [9h]
+c77ee2cf: bets 132,259 and is all-in
+fcbc90f0: calls 41,656 and is all-in
+Uncalled bet (90,603) returned to c77ee2cf
+c77ee2cf: shows [Jc Qc] (a flush Ace high)
+fcbc90f0: shows [Ah 9s] (two pair, Aces and Nines)
+*** SHOWDOWN ***
+c77ee2cf collected 124,062 from pot
+*** SUMMARY ***
+Total pot 124,062 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 4c Ac 2c 9h]
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 21f93d27 folded before Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 4: fcbc90f0 (button) showed [Ah 9s] and lost with two pair, Aces and Nines
+Seat 5: 77ac8343 (small blind) folded before Flop
+Seat 6: c77ee2cf (big blind) showed [Jc Qc] and won (124,062) with a flush Ace high
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a folded before Flop
+
+
+Poker Hand #TM90280287: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level20(1,750/3,500) - 2026/01/02 00:36:40
+Table '18' 8-max Seat #3 is the button
+Seat 1: adc9aff9 (81,685 in chips)
+Seat 2: 21f93d27 (78,933 in chips)
+Seat 3: c3d5ae2e (43,088 in chips)
+Seat 4: fcbc90f0 (61,906 in chips)
+Seat 5: 77ac8343 (17,240 in chips)
+Seat 6: c77ee2cf (141,509 in chips)
+Seat 7: Hero (50,148 in chips)
+Seat 8: a7b96b2a (27,257 in chips)
+77ac8343: posts the ante 500
+fcbc90f0: posts the ante 500
+a7b96b2a: posts the ante 500
+c3d5ae2e: posts the ante 500
+adc9aff9: posts the ante 500
+21f93d27: posts the ante 500
+Hero: posts the ante 500
+c77ee2cf: posts the ante 500
+fcbc90f0: posts small blind 1,750
+77ac8343: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 21f93d27 
+Dealt to c3d5ae2e 
+Dealt to fcbc90f0 
+Dealt to 77ac8343 
+Dealt to c77ee2cf 
+Dealt to Hero [Ad 3s]
+Dealt to a7b96b2a 
+c77ee2cf: raises 3,500 to 7,000
+Hero: folds
+a7b96b2a: folds
+adc9aff9: folds
+21f93d27: folds
+c3d5ae2e: folds
+fcbc90f0: folds
+77ac8343: folds
+Uncalled bet (3,500) returned to c77ee2cf
+*** SHOWDOWN ***
+c77ee2cf collected 12,750 from pot
+*** SUMMARY ***
+Total pot 12,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 21f93d27 folded before Flop
+Seat 3: c3d5ae2e (button) folded before Flop
+Seat 4: fcbc90f0 (small blind) folded before Flop
+Seat 5: 77ac8343 (big blind) folded before Flop
+Seat 6: c77ee2cf collected (12,750)
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a folded before Flop
+
+
+Poker Hand #TM90280285: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level19(1,500/3,000) - 2026/01/02 00:35:42
+Table '18' 8-max Seat #2 is the button
+Seat 1: adc9aff9 (82,135 in chips)
+Seat 2: 21f93d27 (79,383 in chips)
+Seat 3: c3d5ae2e (45,038 in chips)
+Seat 4: fcbc90f0 (71,356 in chips)
+Seat 5: 77ac8343 (17,690 in chips)
+Seat 6: c77ee2cf (103,859 in chips)
+Seat 7: Hero (50,598 in chips)
+Seat 8: a7b96b2a (51,707 in chips)
+77ac8343: posts the ante 450
+fcbc90f0: posts the ante 450
+a7b96b2a: posts the ante 450
+c3d5ae2e: posts the ante 450
+adc9aff9: posts the ante 450
+21f93d27: posts the ante 450
+Hero: posts the ante 450
+c77ee2cf: posts the ante 450
+c3d5ae2e: posts small blind 1,500
+fcbc90f0: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 21f93d27 
+Dealt to c3d5ae2e 
+Dealt to fcbc90f0 
+Dealt to 77ac8343 
+Dealt to c77ee2cf 
+Dealt to Hero [Ks 5s]
+Dealt to a7b96b2a 
+77ac8343: folds
+c77ee2cf: calls 3,000
+Hero: folds
+a7b96b2a: calls 3,000
+adc9aff9: folds
+21f93d27: folds
+c3d5ae2e: folds
+fcbc90f0: raises 6,000 to 9,000
+c77ee2cf: calls 6,000
+a7b96b2a: calls 6,000
+*** FLOP *** [Tc 3c 5d]
+fcbc90f0: checks
+c77ee2cf: checks
+a7b96b2a: bets 15,000
+fcbc90f0: folds
+c77ee2cf: raises 36,000 to 51,000
+a7b96b2a: folds
+Uncalled bet (36,000) returned to c77ee2cf
+*** SHOWDOWN ***
+c77ee2cf collected 62,100 from pot
+*** SUMMARY ***
+Total pot 62,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 3c 5d]
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 21f93d27 (button) folded before Flop
+Seat 3: c3d5ae2e (small blind) folded before Flop
+Seat 4: fcbc90f0 (big blind) folded on the Flop
+Seat 5: 77ac8343 folded before Flop
+Seat 6: c77ee2cf won (62,100)
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a folded on the Flop
+
+
+Poker Hand #TM90280283: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level19(1,500/3,000) - 2026/01/02 00:35:11
+Table '18' 8-max Seat #1 is the button
+Seat 1: adc9aff9 (82,585 in chips)
+Seat 2: 21f93d27 (81,333 in chips)
+Seat 3: c3d5ae2e (48,488 in chips)
+Seat 4: fcbc90f0 (71,806 in chips)
+Seat 5: 77ac8343 (18,140 in chips)
+Seat 6: c77ee2cf (110,309 in chips)
+Seat 7: Hero (51,048 in chips)
+Seat 8: a7b96b2a (38,057 in chips)
+77ac8343: posts the ante 450
+fcbc90f0: posts the ante 450
+a7b96b2a: posts the ante 450
+c3d5ae2e: posts the ante 450
+adc9aff9: posts the ante 450
+Hero: posts the ante 450
+c77ee2cf: posts the ante 450
+21f93d27: posts the ante 450
+21f93d27: posts small blind 1,500
+c3d5ae2e: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 21f93d27 
+Dealt to c3d5ae2e 
+Dealt to fcbc90f0 
+Dealt to 77ac8343 
+Dealt to c77ee2cf 
+Dealt to Hero [5c Jd]
+Dealt to a7b96b2a 
+fcbc90f0: folds
+77ac8343: folds
+c77ee2cf: raises 3,000 to 6,000
+Hero: folds
+a7b96b2a: raises 6,000 to 12,000
+adc9aff9: folds
+21f93d27: folds
+c3d5ae2e: folds
+c77ee2cf: folds
+Uncalled bet (6,000) returned to a7b96b2a
+*** SHOWDOWN ***
+a7b96b2a collected 20,100 from pot
+*** SUMMARY ***
+Total pot 20,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 (button) folded before Flop
+Seat 2: 21f93d27 (small blind) folded before Flop
+Seat 3: c3d5ae2e (big blind) folded before Flop
+Seat 4: fcbc90f0 folded before Flop
+Seat 5: 77ac8343 folded before Flop
+Seat 6: c77ee2cf folded before Flop
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a collected (20,100)
+
+
+Poker Hand #TM90280282: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level19(1,500/3,000) - 2026/01/02 00:34:47
+Table '18' 8-max Seat #8 is the button
+Seat 1: adc9aff9 (84,535 in chips)
+Seat 2: 21f93d27 (84,783 in chips)
+Seat 3: c3d5ae2e (48,938 in chips)
+Seat 6: c77ee2cf (103,559 in chips)
+Seat 7: Hero (51,498 in chips)
+Seat 8: a7b96b2a (38,507 in chips)
+a7b96b2a: posts the ante 450
+c3d5ae2e: posts the ante 450
+adc9aff9: posts the ante 450
+Hero: posts the ante 450
+c77ee2cf: posts the ante 450
+21f93d27: posts the ante 450
+adc9aff9: posts small blind 1,500
+21f93d27: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 21f93d27 
+Dealt to c3d5ae2e 
+Dealt to c77ee2cf 
+Dealt to Hero [2d 8s]
+Dealt to a7b96b2a 
+c3d5ae2e: folds
+c77ee2cf: raises 3,000 to 6,000
+Hero: folds
+a7b96b2a: folds
+adc9aff9: folds
+21f93d27: folds
+Uncalled bet (3,000) returned to c77ee2cf
+*** SHOWDOWN ***
+c77ee2cf collected 10,200 from pot
+*** SUMMARY ***
+Total pot 10,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 (small blind) folded before Flop
+Seat 2: 21f93d27 (big blind) folded before Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 6: c77ee2cf showed [Qc Qd] and collected (10,200)
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a (button) folded before Flop
+
+
+Poker Hand #TM90280280: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level19(1,500/3,000) - 2026/01/02 00:34:13
+Table '18' 8-max Seat #7 is the button
+Seat 1: adc9aff9 (87,985 in chips)
+Seat 2: 21f93d27 (92,733 in chips)
+Seat 3: c3d5ae2e (49,388 in chips)
+Seat 6: c77ee2cf (104,009 in chips)
+Seat 7: Hero (37,248 in chips)
+Seat 8: a7b96b2a (40,457 in chips)
+a7b96b2a: posts the ante 450
+c3d5ae2e: posts the ante 450
+adc9aff9: posts the ante 450
+Hero: posts the ante 450
+c77ee2cf: posts the ante 450
+21f93d27: posts the ante 450
+a7b96b2a: posts small blind 1,500
+adc9aff9: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 21f93d27 
+Dealt to c3d5ae2e 
+Dealt to c77ee2cf 
+Dealt to Hero [As 6s]
+Dealt to a7b96b2a 
+21f93d27: raises 4,500 to 7,500
+c3d5ae2e: folds
+c77ee2cf: folds
+Hero: calls 7,500
+a7b96b2a: folds
+adc9aff9: folds
+*** FLOP *** [9c 6c 5s]
+21f93d27: checks
+Hero: bets 28,860
+21f93d27: folds
+Uncalled bet (28,860) returned to Hero
+*** SHOWDOWN ***
+Hero collected 22,200 from pot
+*** SUMMARY ***
+Total pot 22,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c 6c 5s]
+Seat 1: adc9aff9 (big blind) folded before Flop
+Seat 2: 21f93d27 folded on the Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 6: c77ee2cf folded before Flop
+Seat 7: Hero (button) won (22,200)
+Seat 8: a7b96b2a (small blind) folded before Flop
+
+
+Poker Hand #TM90280278: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level19(1,500/3,000) - 2026/01/02 00:33:30
+Table '18' 8-max Seat #6 is the button
+Seat 1: adc9aff9 (88,435 in chips)
+Seat 3: c3d5ae2e (49,838 in chips)
+Seat 6: c77ee2cf (79,551 in chips)
+Seat 7: Hero (39,198 in chips)
+Seat 8: a7b96b2a (62,065 in chips)
+a7b96b2a: posts the ante 450
+c3d5ae2e: posts the ante 450
+adc9aff9: posts the ante 450
+c77ee2cf: posts the ante 450
+Hero: posts the ante 450
+Hero: posts small blind 1,500
+a7b96b2a: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to c3d5ae2e 
+Dealt to c77ee2cf 
+Dealt to Hero [5d 8c]
+Dealt to a7b96b2a 
+adc9aff9: folds
+c3d5ae2e: folds
+c77ee2cf: raises 3,000 to 6,000
+Hero: folds
+a7b96b2a: calls 3,000
+*** FLOP *** [Ac 5h As]
+a7b96b2a: checks
+c77ee2cf: checks
+*** TURN *** [Ac 5h As] [4c]
+a7b96b2a: checks
+c77ee2cf: bets 6,000
+a7b96b2a: calls 6,000
+*** RIVER *** [Ac 5h As 4c] [7d]
+a7b96b2a: checks
+c77ee2cf: bets 9,158
+a7b96b2a: calls 9,158
+c77ee2cf: shows [Ad 3s] (three of a kind, Aces)
+a7b96b2a: shows [Qs 5s] (two pair, Aces and Fives)
+*** SHOWDOWN ***
+c77ee2cf collected 46,066 from pot
+*** SUMMARY ***
+Total pot 46,066 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 5h As 4c 7d]
+Seat 1: adc9aff9 folded before Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 6: c77ee2cf (button) showed [Ad 3s] and won (46,066) with three of a kind, Aces
+Seat 7: Hero (small blind) folded before Flop
+Seat 8: a7b96b2a (big blind) showed [Qs 5s] and lost with two pair, Aces and Fives
+
+
+Poker Hand #TM90280275: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level19(1,500/3,000) - 2026/01/02 00:32:32
+Table '18' 8-max Seat #3 is the button
+Seat 1: adc9aff9 (54,058 in chips)
+Seat 2: 65f79ddc (9,977 in chips)
+Seat 3: c3d5ae2e (50,288 in chips)
+Seat 5: fe53451 (19,600 in chips)
+Seat 6: c77ee2cf (83,001 in chips)
+Seat 7: Hero (39,648 in chips)
+Seat 8: a7b96b2a (62,515 in chips)
+a7b96b2a: posts the ante 450
+fe53451: posts the ante 450
+c3d5ae2e: posts the ante 450
+65f79ddc: posts the ante 450
+adc9aff9: posts the ante 450
+Hero: posts the ante 450
+c77ee2cf: posts the ante 450
+fe53451: posts small blind 1,500
+c77ee2cf: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [7c 3s]
+Dealt to a7b96b2a 
+Hero: folds
+a7b96b2a: folds
+adc9aff9: raises 3,000 to 6,000
+65f79ddc: raises 3,527 to 9,527 and is all-in
+c3d5ae2e: folds
+fe53451: raises 9,623 to 19,150 and is all-in
+c77ee2cf: folds
+adc9aff9: calls 13,150
+fe53451: shows [7h Ah]
+adc9aff9: shows [9d Jd]
+65f79ddc: shows [Ac Qs]
+*** FLOP *** [Qd 3d 9c]
+*** TURN *** [Qd 3d 9c] [Kd]
+*** RIVER *** [Qd 3d 9c Kd] [8d]
+*** SHOWDOWN ***
+adc9aff9 collected 34,731 from pot
+adc9aff9 collected 19,246 from pot
+*** SUMMARY ***
+Total pot 53,977 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 3d 9c Kd 8d]
+Seat 1: adc9aff9 showed [9d Jd] and won (53,977) with a flush King high
+Seat 2: 65f79ddc showed [Ac Qs] and lost with a pair of Queens
+Seat 3: c3d5ae2e (button) folded before Flop
+Seat 5: fe53451 (small blind) showed [7h Ah] and lost with Ace high
+Seat 6: c77ee2cf (big blind) folded before Flop
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a folded before Flop
+
+
+Poker Hand #TM90280273: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level19(1,500/3,000) - 2026/01/02 00:31:40
+Table '18' 8-max Seat #2 is the button
+Seat 1: adc9aff9 (54,508 in chips)
+Seat 2: 65f79ddc (10,427 in chips)
+Seat 3: c3d5ae2e (52,238 in chips)
+Seat 4: 266961e6 (9,157 in chips)
+Seat 5: fe53451 (20,050 in chips)
+Seat 6: c77ee2cf (69,644 in chips)
+Seat 7: Hero (40,098 in chips)
+Seat 8: a7b96b2a (62,965 in chips)
+a7b96b2a: posts the ante 450
+fe53451: posts the ante 450
+c3d5ae2e: posts the ante 450
+266961e6: posts the ante 450
+65f79ddc: posts the ante 450
+adc9aff9: posts the ante 450
+Hero: posts the ante 450
+c77ee2cf: posts the ante 450
+c3d5ae2e: posts small blind 1,500
+266961e6: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [5d 4s]
+Dealt to a7b96b2a 
+fe53451: folds
+c77ee2cf: raises 3,000 to 6,000
+Hero: folds
+a7b96b2a: folds
+adc9aff9: folds
+65f79ddc: folds
+c3d5ae2e: folds
+266961e6: raises 2,707 to 8,707 and is all-in
+c77ee2cf: calls 2,707
+266961e6: shows [Qh 4h]
+c77ee2cf: shows [9d Qd]
+*** FLOP *** [As 3h 8s]
+*** TURN *** [As 3h 8s] [Qc]
+*** RIVER *** [As 3h 8s Qc] [Ts]
+*** SHOWDOWN ***
+c77ee2cf collected 22,514 from pot
+*** SUMMARY ***
+Total pot 22,514 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As 3h 8s Qc Ts]
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 65f79ddc (button) folded before Flop
+Seat 3: c3d5ae2e (small blind) folded before Flop
+Seat 4: 266961e6 (big blind) showed [Qh 4h] and lost with a pair of Queens
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf showed [9d Qd] and won (22,514) with a pair of Queens
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a folded before Flop
+
+
+Poker Hand #TM90280272: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level19(1,500/3,000) - 2026/01/02 00:31:20
+Table '18' 8-max Seat #1 is the button
+Seat 1: adc9aff9 (54,958 in chips)
+Seat 2: 65f79ddc (12,377 in chips)
+Seat 3: c3d5ae2e (47,588 in chips)
+Seat 4: 266961e6 (9,607 in chips)
+Seat 5: fe53451 (20,500 in chips)
+Seat 6: c77ee2cf (70,094 in chips)
+Seat 7: Hero (40,548 in chips)
+Seat 8: a7b96b2a (63,415 in chips)
+a7b96b2a: posts the ante 450
+fe53451: posts the ante 450
+c3d5ae2e: posts the ante 450
+266961e6: posts the ante 450
+adc9aff9: posts the ante 450
+65f79ddc: posts the ante 450
+Hero: posts the ante 450
+c77ee2cf: posts the ante 450
+65f79ddc: posts small blind 1,500
+c3d5ae2e: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [5c 8s]
+Dealt to a7b96b2a 
+266961e6: folds
+fe53451: folds
+c77ee2cf: folds
+Hero: folds
+a7b96b2a: folds
+adc9aff9: folds
+65f79ddc: folds
+Uncalled bet (1,500) returned to c3d5ae2e
+*** SHOWDOWN ***
+c3d5ae2e collected 6,600 from pot
+*** SUMMARY ***
+Total pot 6,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 (button) folded before Flop
+Seat 2: 65f79ddc (small blind) folded before Flop
+Seat 3: c3d5ae2e (big blind) collected (6,600)
+Seat 4: 266961e6 folded before Flop
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf folded before Flop
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a folded before Flop
+
+
+Poker Hand #TM90280269: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level18(1,250/2,500) - 2026/01/02 00:30:10
+Table '18' 8-max Seat #8 is the button
+Seat 1: adc9aff9 (56,558 in chips)
+Seat 2: 65f79ddc (15,227 in chips)
+Seat 3: c3d5ae2e (28,794 in chips)
+Seat 4: 266961e6 (9,957 in chips)
+Seat 5: fe53451 (5,000 in chips)
+Seat 6: c77ee2cf (98,888 in chips)
+Seat 7: Hero (40,898 in chips)
+Seat 8: a7b96b2a (63,765 in chips)
+a7b96b2a: posts the ante 350
+fe53451: posts the ante 350
+c3d5ae2e: posts the ante 350
+266961e6: posts the ante 350
+65f79ddc: posts the ante 350
+adc9aff9: posts the ante 350
+Hero: posts the ante 350
+c77ee2cf: posts the ante 350
+adc9aff9: posts small blind 1,250
+65f79ddc: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [8d 2c]
+Dealt to a7b96b2a 
+c3d5ae2e: raises 7,500 to 10,000
+266961e6: folds
+fe53451: calls 4,650 and is all-in
+c77ee2cf: calls 10,000
+Hero: folds
+a7b96b2a: folds
+adc9aff9: folds
+65f79ddc: folds
+*** FLOP *** [Ks 8c 3d]
+c3d5ae2e: bets 18,444 and is all-in
+c77ee2cf: calls 18,444
+c3d5ae2e: shows [Qs Qd] (a pair of Queens)
+fe53451: shows [Kd Qc] (a pair of Kings)
+c77ee2cf: shows [7h 7c] (a pair of Sevens)
+*** TURN *** [Ks 8c 3d] [Ad]
+*** RIVER *** [Ks 8c 3d Ad] [Kh]
+*** SHOWDOWN ***
+fe53451 collected 20,500 from pot
+c3d5ae2e collected 47,588 from pot
+*** SUMMARY ***
+Total pot 68,088 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 8c 3d Ad Kh]
+Seat 1: adc9aff9 (small blind) folded before Flop
+Seat 2: 65f79ddc (big blind) folded before Flop
+Seat 3: c3d5ae2e showed [Qs Qd] and won (47,588) with two pair, Kings and Queens
+Seat 4: 266961e6 folded before Flop
+Seat 5: fe53451 showed [Kd Qc] and won (20,500) with three of a kind, Kings
+Seat 6: c77ee2cf showed [7h 7c] and lost with two pair, Kings and Sevens
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a (button) folded before Flop
+
+
+Poker Hand #TM90280266: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level18(1,250/2,500) - 2026/01/02 00:29:12
+Table '18' 8-max Seat #7 is the button
+Seat 1: adc9aff9 (59,408 in chips)
+Seat 2: 65f79ddc (15,577 in chips)
+Seat 3: c3d5ae2e (22,594 in chips)
+Seat 4: 266961e6 (10,307 in chips)
+Seat 5: fe53451 (5,350 in chips)
+Seat 6: c77ee2cf (99,238 in chips)
+Seat 7: Hero (41,248 in chips)
+Seat 8: a7b96b2a (65,365 in chips)
+a7b96b2a: posts the ante 350
+fe53451: posts the ante 350
+c3d5ae2e: posts the ante 350
+266961e6: posts the ante 350
+65f79ddc: posts the ante 350
+adc9aff9: posts the ante 350
+Hero: posts the ante 350
+c77ee2cf: posts the ante 350
+a7b96b2a: posts small blind 1,250
+adc9aff9: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [3c 2s]
+Dealt to a7b96b2a 
+65f79ddc: folds
+c3d5ae2e: raises 7,500 to 10,000
+266961e6: folds
+fe53451: folds
+c77ee2cf: folds
+Hero: folds
+a7b96b2a: folds
+adc9aff9: folds
+Uncalled bet (7,500) returned to c3d5ae2e
+*** SHOWDOWN ***
+c3d5ae2e collected 9,050 from pot
+*** SUMMARY ***
+Total pot 9,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 (big blind) folded before Flop
+Seat 2: 65f79ddc folded before Flop
+Seat 3: c3d5ae2e collected (9,050)
+Seat 4: 266961e6 folded before Flop
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf folded before Flop
+Seat 7: Hero (button) folded before Flop
+Seat 8: a7b96b2a (small blind) folded before Flop
+
+
+Poker Hand #TM90280265: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level18(1,250/2,500) - 2026/01/02 00:28:21
+Table '18' 8-max Seat #6 is the button
+Seat 1: adc9aff9 (59,758 in chips)
+Seat 2: 65f79ddc (15,927 in chips)
+Seat 3: c3d5ae2e (22,944 in chips)
+Seat 4: 266961e6 (13,157 in chips)
+Seat 5: fe53451 (5,700 in chips)
+Seat 6: c77ee2cf (99,588 in chips)
+Seat 7: Hero (42,848 in chips)
+Seat 8: a7b96b2a (59,165 in chips)
+a7b96b2a: posts the ante 350
+fe53451: posts the ante 350
+c3d5ae2e: posts the ante 350
+266961e6: posts the ante 350
+65f79ddc: posts the ante 350
+adc9aff9: posts the ante 350
+c77ee2cf: posts the ante 350
+Hero: posts the ante 350
+Hero: posts small blind 1,250
+a7b96b2a: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [6s Qc]
+Dealt to a7b96b2a 
+adc9aff9: folds
+65f79ddc: folds
+c3d5ae2e: folds
+266961e6: calls 2,500
+fe53451: folds
+c77ee2cf: folds
+Hero: folds
+a7b96b2a: checks
+*** FLOP *** [5c 9s 4s]
+a7b96b2a: checks
+266961e6: checks
+*** TURN *** [5c 9s 4s] [7h]
+a7b96b2a: bets 4,525
+266961e6: folds
+Uncalled bet (4,525) returned to a7b96b2a
+*** SHOWDOWN ***
+a7b96b2a collected 9,050 from pot
+*** SUMMARY ***
+Total pot 9,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 9s 4s 7h]
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 65f79ddc folded before Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 4: 266961e6 folded on the Turn
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf (button) folded before Flop
+Seat 7: Hero (small blind) folded before Flop
+Seat 8: a7b96b2a (big blind) won (9,050)
+
+
+Poker Hand #TM90280263: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level18(1,250/2,500) - 2026/01/02 00:27:31
+Table '18' 8-max Seat #5 is the button
+Seat 1: adc9aff9 (60,108 in chips)
+Seat 2: 65f79ddc (16,277 in chips)
+Seat 3: c3d5ae2e (23,294 in chips)
+Seat 4: 266961e6 (13,507 in chips)
+Seat 5: fe53451 (6,050 in chips)
+Seat 6: c77ee2cf (84,638 in chips)
+Seat 7: Hero (53,198 in chips)
+Seat 8: a7b96b2a (62,015 in chips)
+a7b96b2a: posts the ante 350
+fe53451: posts the ante 350
+c3d5ae2e: posts the ante 350
+266961e6: posts the ante 350
+65f79ddc: posts the ante 350
+adc9aff9: posts the ante 350
+Hero: posts the ante 350
+c77ee2cf: posts the ante 350
+c77ee2cf: posts small blind 1,250
+Hero: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [Td Qh]
+Dealt to a7b96b2a 
+a7b96b2a: calls 2,500
+adc9aff9: folds
+65f79ddc: folds
+c3d5ae2e: folds
+266961e6: folds
+fe53451: folds
+c77ee2cf: calls 1,250
+Hero: checks
+*** FLOP *** [8d Kc Th]
+c77ee2cf: checks
+Hero: checks
+a7b96b2a: checks
+*** TURN *** [8d Kc Th] [6c]
+c77ee2cf: bets 2,500
+Hero: raises 5,000 to 7,500
+a7b96b2a: folds
+c77ee2cf: calls 5,000
+*** RIVER *** [8d Kc Th 6c] [9s]
+c77ee2cf: checks
+Hero: checks
+c77ee2cf: shows [Ts 9c] (two pair, Tens and Nines)
+Hero: shows [Td Qh] (a pair of Tens)
+*** SHOWDOWN ***
+c77ee2cf collected 25,300 from pot
+*** SUMMARY ***
+Total pot 25,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d Kc Th 6c 9s]
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 65f79ddc folded before Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 4: 266961e6 folded before Flop
+Seat 5: fe53451 (button) folded before Flop
+Seat 6: c77ee2cf (small blind) showed [Ts 9c] and won (25,300) with two pair, Tens and Nines
+Seat 7: Hero (big blind) showed [Td Qh] and lost with a pair of Tens
+Seat 8: a7b96b2a folded on the Turn
+
+
+Poker Hand #TM90280259: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level18(1,250/2,500) - 2026/01/02 00:26:39
+Table '18' 8-max Seat #4 is the button
+Seat 1: adc9aff9 (60,458 in chips)
+Seat 2: 65f79ddc (39,951 in chips)
+Seat 3: c3d5ae2e (23,644 in chips)
+Seat 4: 266961e6 (13,857 in chips)
+Seat 5: fe53451 (7,650 in chips)
+Seat 6: c77ee2cf (87,488 in chips)
+Seat 7: Hero (23,674 in chips)
+Seat 8: a7b96b2a (62,365 in chips)
+a7b96b2a: posts the ante 350
+fe53451: posts the ante 350
+c3d5ae2e: posts the ante 350
+266961e6: posts the ante 350
+65f79ddc: posts the ante 350
+adc9aff9: posts the ante 350
+Hero: posts the ante 350
+c77ee2cf: posts the ante 350
+fe53451: posts small blind 1,250
+c77ee2cf: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [Th Ac]
+Dealt to a7b96b2a 
+Hero: raises 20,500 to 23,000
+a7b96b2a: folds
+adc9aff9: folds
+65f79ddc: raises 16,601 to 39,601 and is all-in
+c3d5ae2e: folds
+266961e6: folds
+fe53451: folds
+c77ee2cf: folds
+Hero: calls 324 and is all-in
+Uncalled bet (16,277) returned to 65f79ddc
+65f79ddc: shows [Qc Qh]
+Hero: shows [Th Ac]
+*** FLOP *** [6h 4c Ad]
+*** TURN *** [6h 4c Ad] [Tc]
+*** RIVER *** [6h 4c Ad Tc] [2s]
+*** SHOWDOWN ***
+Hero collected 53,198 from pot
+*** SUMMARY ***
+Total pot 53,198 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 4c Ad Tc 2s]
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 65f79ddc showed [Qc Qh] and lost with a pair of Queens
+Seat 3: c3d5ae2e folded before Flop
+Seat 4: 266961e6 (button) folded before Flop
+Seat 5: fe53451 (small blind) folded before Flop
+Seat 6: c77ee2cf (big blind) folded before Flop
+Seat 7: Hero showed [Th Ac] and won (53,198) with two pair, Aces and Tens
+Seat 8: a7b96b2a folded before Flop
+
+
+Poker Hand #TM90280258: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level18(1,250/2,500) - 2026/01/02 00:26:14
+Table '18' 8-max Seat #3 is the button
+Seat 1: adc9aff9 (54,258 in chips)
+Seat 2: 65f79ddc (40,301 in chips)
+Seat 3: c3d5ae2e (23,994 in chips)
+Seat 4: 266961e6 (15,457 in chips)
+Seat 5: fe53451 (10,500 in chips)
+Seat 6: c77ee2cf (87,838 in chips)
+Seat 7: Hero (24,024 in chips)
+Seat 8: a7b96b2a (62,715 in chips)
+a7b96b2a: posts the ante 350
+fe53451: posts the ante 350
+c3d5ae2e: posts the ante 350
+266961e6: posts the ante 350
+65f79ddc: posts the ante 350
+adc9aff9: posts the ante 350
+Hero: posts the ante 350
+c77ee2cf: posts the ante 350
+266961e6: posts small blind 1,250
+fe53451: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [2d Tc]
+Dealt to a7b96b2a 
+c77ee2cf: folds
+Hero: folds
+a7b96b2a: folds
+adc9aff9: raises 2,500 to 5,000
+65f79ddc: folds
+c3d5ae2e: folds
+266961e6: folds
+fe53451: folds
+Uncalled bet (2,500) returned to adc9aff9
+*** SHOWDOWN ***
+adc9aff9 collected 9,050 from pot
+*** SUMMARY ***
+Total pot 9,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 collected (9,050)
+Seat 2: 65f79ddc folded before Flop
+Seat 3: c3d5ae2e (button) folded before Flop
+Seat 4: 266961e6 (small blind) folded before Flop
+Seat 5: fe53451 (big blind) folded before Flop
+Seat 6: c77ee2cf folded before Flop
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a folded before Flop
+
+
+Poker Hand #TM90280254: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level17(1,000/2,000) - 2026/01/02 00:25:42
+Table '18' 8-max Seat #2 is the button
+Seat 1: adc9aff9 (54,558 in chips)
+Seat 2: 65f79ddc (35,201 in chips)
+Seat 3: c3d5ae2e (25,294 in chips)
+Seat 4: 266961e6 (17,757 in chips)
+Seat 5: fe53451 (10,800 in chips)
+Seat 6: c77ee2cf (88,138 in chips)
+Seat 7: Hero (24,324 in chips)
+Seat 8: a7b96b2a (63,015 in chips)
+a7b96b2a: posts the ante 300
+fe53451: posts the ante 300
+c3d5ae2e: posts the ante 300
+266961e6: posts the ante 300
+65f79ddc: posts the ante 300
+adc9aff9: posts the ante 300
+Hero: posts the ante 300
+c77ee2cf: posts the ante 300
+c3d5ae2e: posts small blind 1,000
+266961e6: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [9s 5d]
+Dealt to a7b96b2a 
+fe53451: folds
+c77ee2cf: folds
+Hero: folds
+a7b96b2a: folds
+adc9aff9: folds
+65f79ddc: raises 3,200 to 5,200
+c3d5ae2e: folds
+266961e6: folds
+Uncalled bet (3,200) returned to 65f79ddc
+*** SHOWDOWN ***
+65f79ddc collected 7,400 from pot
+*** SUMMARY ***
+Total pot 7,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 65f79ddc (button) collected (7,400)
+Seat 3: c3d5ae2e (small blind) folded before Flop
+Seat 4: 266961e6 (big blind) folded before Flop
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf folded before Flop
+Seat 7: Hero folded before Flop
+Seat 8: a7b96b2a folded before Flop
+
+
+Poker Hand #TM90280251: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level17(1,000/2,000) - 2026/01/02 00:25:00
+Table '18' 8-max Seat #1 is the button
+Seat 1: adc9aff9 (25,029 in chips)
+Seat 2: 65f79ddc (36,501 in chips)
+Seat 3: c3d5ae2e (27,594 in chips)
+Seat 4: 266961e6 (18,057 in chips)
+Seat 5: fe53451 (11,100 in chips)
+Seat 6: c77ee2cf (88,438 in chips)
+Seat 7: Hero (49,353 in chips)
+fe53451: posts the ante 300
+c3d5ae2e: posts the ante 300
+266961e6: posts the ante 300
+adc9aff9: posts the ante 300
+65f79ddc: posts the ante 300
+Hero: posts the ante 300
+c77ee2cf: posts the ante 300
+65f79ddc: posts small blind 1,000
+c3d5ae2e: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [7c Ac]
+266961e6: folds
+fe53451: folds
+c77ee2cf: folds
+Hero: raises 2,000 to 4,000
+adc9aff9: raises 20,729 to 24,729 and is all-in
+65f79ddc: folds
+c3d5ae2e: folds
+Hero: calls 20,729
+adc9aff9: shows [5s 5d]
+Hero: shows [7c Ac]
+*** FLOP *** [3s 9h 9d]
+*** TURN *** [3s 9h 9d] [Qd]
+*** RIVER *** [3s 9h 9d Qd] [Kh]
+*** SHOWDOWN ***
+adc9aff9 collected 54,558 from pot
+*** SUMMARY ***
+Total pot 54,558 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s 9h 9d Qd Kh]
+Seat 1: adc9aff9 (button) showed [5s 5d] and won (54,558) with two pair, Nines and Fives
+Seat 2: 65f79ddc (small blind) folded before Flop
+Seat 3: c3d5ae2e (big blind) folded before Flop
+Seat 4: 266961e6 folded before Flop
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf folded before Flop
+Seat 7: Hero showed [7c Ac] and lost with a pair of Nines
+
+
+Poker Hand #TM90280245: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level17(1,000/2,000) - 2026/01/02 00:23:50
+Table '18' 8-max Seat #7 is the button
+Seat 1: adc9aff9 (27,329 in chips)
+Seat 2: 65f79ddc (13,245 in chips)
+Seat 3: c3d5ae2e (27,894 in chips)
+Seat 4: 266961e6 (18,357 in chips)
+Seat 5: fe53451 (11,400 in chips)
+Seat 6: c77ee2cf (88,738 in chips)
+Seat 7: Hero (62,598 in chips)
+Seat 8: e36c635a (6,511 in chips)
+e36c635a: posts the ante 300
+fe53451: posts the ante 300
+c3d5ae2e: posts the ante 300
+266961e6: posts the ante 300
+65f79ddc: posts the ante 300
+adc9aff9: posts the ante 300
+Hero: posts the ante 300
+c77ee2cf: posts the ante 300
+e36c635a: posts small blind 1,000
+adc9aff9: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [Js Qh]
+Dealt to e36c635a 
+65f79ddc: raises 10,945 to 12,945 and is all-in
+c3d5ae2e: folds
+266961e6: folds
+fe53451: folds
+c77ee2cf: folds
+Hero: raises 10,945 to 23,890
+e36c635a: calls 5,211 and is all-in
+adc9aff9: folds
+Uncalled bet (10,945) returned to Hero
+Hero: shows [Js Qh]
+e36c635a: shows [2s Qd]
+65f79ddc: shows [Kc Qc]
+*** FLOP *** [4c Jd 3h]
+*** TURN *** [4c Jd 3h] [Kh]
+*** RIVER *** [4c Jd 3h Kh] [8c]
+*** SHOWDOWN ***
+65f79ddc collected 23,033 from pot
+65f79ddc collected 13,468 from pot
+*** SUMMARY ***
+Total pot 36,501 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Jd 3h Kh 8c]
+Seat 1: adc9aff9 (big blind) folded before Flop
+Seat 2: 65f79ddc showed [Kc Qc] and won (36,501) with a pair of Kings
+Seat 3: c3d5ae2e folded before Flop
+Seat 4: 266961e6 folded before Flop
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf folded before Flop
+Seat 7: Hero (button) showed [Js Qh] and lost with a pair of Jacks
+Seat 8: e36c635a (small blind) showed [2s Qd] and lost with King high
+
+
+Poker Hand #TM90280238: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level17(1,000/2,000) - 2026/01/02 00:22:37
+Table '18' 8-max Seat #6 is the button
+Seat 1: adc9aff9 (27,629 in chips)
+Seat 2: 65f79ddc (13,545 in chips)
+Seat 3: c3d5ae2e (28,194 in chips)
+Seat 4: 266961e6 (20,657 in chips)
+Seat 5: fe53451 (11,700 in chips)
+Seat 6: c77ee2cf (91,038 in chips)
+Seat 7: Hero (28,399 in chips)
+Seat 8: e36c635a (34,910 in chips)
+e36c635a: posts the ante 300
+fe53451: posts the ante 300
+c3d5ae2e: posts the ante 300
+266961e6: posts the ante 300
+65f79ddc: posts the ante 300
+adc9aff9: posts the ante 300
+c77ee2cf: posts the ante 300
+Hero: posts the ante 300
+Hero: posts small blind 1,000
+e36c635a: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [6d 8d]
+Dealt to e36c635a 
+adc9aff9: folds
+65f79ddc: folds
+c3d5ae2e: folds
+266961e6: calls 2,000
+fe53451: folds
+c77ee2cf: calls 2,000
+Hero: calls 1,000
+e36c635a: checks
+*** FLOP *** [5d 2d 9c]
+Hero: checks
+e36c635a: bets 7,800
+266961e6: folds
+c77ee2cf: folds
+Hero: raises 18,299 to 26,099 and is all-in
+e36c635a: calls 18,299
+Hero: shows [6d 8d] (Nine high)
+e36c635a: shows [7c 9h] (a pair of Nines)
+*** TURN *** [5d 2d 9c] [3d]
+*** RIVER *** [5d 2d 9c 3d] [As]
+c77ee2cf: shows [Ad] (a pair of Aces)
+*** SHOWDOWN ***
+Hero collected 62,598 from pot
+*** SUMMARY ***
+Total pot 62,598 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d 2d 9c 3d As]
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 65f79ddc folded before Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 4: 266961e6 folded on the Flop
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf (button) folded on the Flop
+Seat 7: Hero (small blind) showed [6d 8d] and won (62,598) with a flush Eight high
+Seat 8: e36c635a (big blind) showed [7c 9h] and lost with a pair of Nines
+
+
+Poker Hand #TM90280235: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level17(1,000/2,000) - 2026/01/02 00:21:49
+Table '18' 8-max Seat #5 is the button
+Seat 1: adc9aff9 (27,929 in chips)
+Seat 2: 65f79ddc (4,015 in chips)
+Seat 3: c3d5ae2e (28,494 in chips)
+Seat 4: 266961e6 (20,957 in chips)
+Seat 5: fe53451 (12,000 in chips)
+Seat 6: c77ee2cf (95,053 in chips)
+Seat 7: Hero (32,414 in chips)
+Seat 8: e36c635a (35,210 in chips)
+e36c635a: posts the ante 300
+fe53451: posts the ante 300
+c3d5ae2e: posts the ante 300
+266961e6: posts the ante 300
+65f79ddc: posts the ante 300
+adc9aff9: posts the ante 300
+Hero: posts the ante 300
+c77ee2cf: posts the ante 300
+c77ee2cf: posts small blind 1,000
+Hero: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [Th 4s]
+Dealt to e36c635a 
+e36c635a: folds
+adc9aff9: folds
+65f79ddc: raises 1,715 to 3,715 and is all-in
+c3d5ae2e: folds
+266961e6: folds
+fe53451: folds
+c77ee2cf: calls 2,715
+Hero: calls 1,715
+*** FLOP *** [Qd Ks 2d]
+c77ee2cf: checks
+Hero: checks
+*** TURN *** [Qd Ks 2d] [Jc]
+c77ee2cf: checks
+Hero: checks
+*** RIVER *** [Qd Ks 2d Jc] [7s]
+c77ee2cf: checks
+Hero: checks
+c77ee2cf: shows [4d 5d] (King high)
+Hero: shows [Th 4s] (King high)
+65f79ddc: shows [Js Jh] (three of a kind, Jacks)
+*** SHOWDOWN ***
+65f79ddc collected 13,545 from pot
+*** SUMMARY ***
+Total pot 13,545 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd Ks 2d Jc 7s]
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 65f79ddc showed [Js Jh] and won (13,545) with three of a kind, Jacks
+Seat 3: c3d5ae2e folded before Flop
+Seat 4: 266961e6 folded before Flop
+Seat 5: fe53451 (button) folded before Flop
+Seat 6: c77ee2cf (small blind) showed [4d 5d] and lost with King high
+Seat 7: Hero (big blind) showed [Th 4s] and lost with King high
+Seat 8: e36c635a folded before Flop
+
+
+Poker Hand #TM90280228: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level16(800/1,600) - 2026/01/02 00:20:53
+Table '18' 8-max Seat #4 is the button
+Seat 1: adc9aff9 (28,179 in chips)
+Seat 2: 65f79ddc (4,265 in chips)
+Seat 3: c3d5ae2e (24,344 in chips)
+Seat 4: 266961e6 (21,207 in chips)
+Seat 5: fe53451 (13,050 in chips)
+Seat 6: c77ee2cf (96,903 in chips)
+Seat 7: Hero (32,664 in chips)
+Seat 8: e36c635a (35,460 in chips)
+e36c635a: posts the ante 250
+fe53451: posts the ante 250
+c3d5ae2e: posts the ante 250
+266961e6: posts the ante 250
+65f79ddc: posts the ante 250
+adc9aff9: posts the ante 250
+Hero: posts the ante 250
+c77ee2cf: posts the ante 250
+fe53451: posts small blind 800
+c77ee2cf: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [8s 5c]
+Dealt to e36c635a 
+Hero: folds
+e36c635a: folds
+adc9aff9: folds
+65f79ddc: folds
+c3d5ae2e: raises 3,200 to 4,800
+266961e6: folds
+fe53451: folds
+c77ee2cf: folds
+Uncalled bet (3,200) returned to c3d5ae2e
+*** SHOWDOWN ***
+c3d5ae2e collected 6,000 from pot
+*** SUMMARY ***
+Total pot 6,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 65f79ddc folded before Flop
+Seat 3: c3d5ae2e collected (6,000)
+Seat 4: 266961e6 (button) folded before Flop
+Seat 5: fe53451 (small blind) folded before Flop
+Seat 6: c77ee2cf (big blind) folded before Flop
+Seat 7: Hero folded before Flop
+Seat 8: e36c635a folded before Flop
+
+
+Poker Hand #TM90280221: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level16(800/1,600) - 2026/01/02 00:19:32
+Table '18' 8-max Seat #3 is the button
+Seat 1: adc9aff9 (28,429 in chips)
+Seat 2: 65f79ddc (4,515 in chips)
+Seat 3: c3d5ae2e (27,794 in chips)
+Seat 4: 266961e6 (22,257 in chips)
+Seat 5: fe53451 (14,900 in chips)
+Seat 6: c77ee2cf (89,553 in chips)
+Seat 7: Hero (32,914 in chips)
+Seat 8: e36c635a (35,710 in chips)
+e36c635a: posts the ante 250
+fe53451: posts the ante 250
+c3d5ae2e: posts the ante 250
+266961e6: posts the ante 250
+65f79ddc: posts the ante 250
+adc9aff9: posts the ante 250
+Hero: posts the ante 250
+c77ee2cf: posts the ante 250
+266961e6: posts small blind 800
+fe53451: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [7h Qs]
+Dealt to e36c635a 
+c77ee2cf: raises 1,600 to 3,200
+Hero: folds
+e36c635a: folds
+adc9aff9: folds
+65f79ddc: folds
+c3d5ae2e: calls 3,200
+266961e6: folds
+fe53451: folds
+*** FLOP *** [8c 9h Ks]
+c77ee2cf: checks
+c3d5ae2e: checks
+*** TURN *** [8c 9h Ks] [3h]
+c77ee2cf: bets 8,100
+c3d5ae2e: folds
+Uncalled bet (8,100) returned to c77ee2cf
+*** SHOWDOWN ***
+c77ee2cf collected 10,800 from pot
+*** SUMMARY ***
+Total pot 10,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 9h Ks 3h]
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 65f79ddc folded before Flop
+Seat 3: c3d5ae2e (button) folded on the Turn
+Seat 4: 266961e6 (small blind) folded before Flop
+Seat 5: fe53451 (big blind) folded before Flop
+Seat 6: c77ee2cf showed [Kd] and won (10,800)
+Seat 7: Hero folded before Flop
+Seat 8: e36c635a folded before Flop
+
+
+Poker Hand #TM90280216: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level16(800/1,600) - 2026/01/02 00:18:47
+Table '18' 8-max Seat #2 is the button
+Seat 1: adc9aff9 (28,679 in chips)
+Seat 2: 65f79ddc (4,765 in chips)
+Seat 3: c3d5ae2e (24,444 in chips)
+Seat 4: 266961e6 (24,107 in chips)
+Seat 5: fe53451 (15,150 in chips)
+Seat 6: c77ee2cf (89,803 in chips)
+Seat 7: Hero (33,164 in chips)
+Seat 8: e36c635a (35,960 in chips)
+e36c635a: posts the ante 250
+fe53451: posts the ante 250
+c3d5ae2e: posts the ante 250
+266961e6: posts the ante 250
+65f79ddc: posts the ante 250
+adc9aff9: posts the ante 250
+Hero: posts the ante 250
+c77ee2cf: posts the ante 250
+c3d5ae2e: posts small blind 800
+266961e6: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [Qd 6s]
+Dealt to e36c635a 
+fe53451: folds
+c77ee2cf: folds
+Hero: folds
+e36c635a: folds
+adc9aff9: folds
+65f79ddc: folds
+c3d5ae2e: raises 3,200 to 4,800
+266961e6: folds
+Uncalled bet (3,200) returned to c3d5ae2e
+*** SHOWDOWN ***
+c3d5ae2e collected 5,200 from pot
+*** SUMMARY ***
+Total pot 5,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 folded before Flop
+Seat 2: 65f79ddc (button) folded before Flop
+Seat 3: c3d5ae2e (small blind) collected (5,200)
+Seat 4: 266961e6 (big blind) folded before Flop
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf folded before Flop
+Seat 7: Hero folded before Flop
+Seat 8: e36c635a folded before Flop
+
+
+Poker Hand #TM90280207: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level16(800/1,600) - 2026/01/02 00:17:30
+Table '18' 8-max Seat #1 is the button
+Seat 1: adc9aff9 (32,729 in chips)
+Seat 2: 65f79ddc (5,815 in chips)
+Seat 3: c3d5ae2e (28,494 in chips)
+Seat 4: 266961e6 (24,357 in chips)
+Seat 5: fe53451 (15,400 in chips)
+Seat 6: c77ee2cf (79,653 in chips)
+Seat 7: Hero (33,414 in chips)
+Seat 8: e36c635a (36,210 in chips)
+e36c635a: posts the ante 250
+fe53451: posts the ante 250
+c3d5ae2e: posts the ante 250
+266961e6: posts the ante 250
+adc9aff9: posts the ante 250
+65f79ddc: posts the ante 250
+Hero: posts the ante 250
+c77ee2cf: posts the ante 250
+65f79ddc: posts small blind 800
+c3d5ae2e: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [Qs 8d]
+Dealt to e36c635a 
+266961e6: folds
+fe53451: folds
+c77ee2cf: raises 2,200 to 3,800
+Hero: folds
+e36c635a: folds
+adc9aff9: calls 3,800
+65f79ddc: folds
+c3d5ae2e: calls 2,200
+*** FLOP *** [Ts Kh 6h]
+c3d5ae2e: checks
+c77ee2cf: bets 3,200
+adc9aff9: folds
+c3d5ae2e: folds
+Uncalled bet (3,200) returned to c77ee2cf
+*** SHOWDOWN ***
+c77ee2cf collected 14,200 from pot
+*** SUMMARY ***
+Total pot 14,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts Kh 6h]
+Seat 1: adc9aff9 (button) folded on the Flop
+Seat 2: 65f79ddc (small blind) folded before Flop
+Seat 3: c3d5ae2e (big blind) folded on the Flop
+Seat 4: 266961e6 folded before Flop
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf won (14,200)
+Seat 7: Hero folded before Flop
+Seat 8: e36c635a folded before Flop
+
+
+Poker Hand #TM90280201: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level16(800/1,600) - 2026/01/02 00:16:43
+Table '18' 8-max Seat #8 is the button
+Seat 1: adc9aff9 (33,779 in chips)
+Seat 2: 65f79ddc (7,665 in chips)
+Seat 3: c3d5ae2e (28,744 in chips)
+Seat 4: 266961e6 (24,607 in chips)
+Seat 5: fe53451 (15,650 in chips)
+Seat 6: c77ee2cf (75,503 in chips)
+Seat 7: Hero (33,664 in chips)
+Seat 8: e36c635a (36,460 in chips)
+e36c635a: posts the ante 250
+fe53451: posts the ante 250
+c3d5ae2e: posts the ante 250
+266961e6: posts the ante 250
+65f79ddc: posts the ante 250
+adc9aff9: posts the ante 250
+Hero: posts the ante 250
+c77ee2cf: posts the ante 250
+adc9aff9: posts small blind 800
+65f79ddc: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to adc9aff9 
+Dealt to 65f79ddc 
+Dealt to c3d5ae2e 
+Dealt to 266961e6 
+Dealt to fe53451 
+Dealt to c77ee2cf 
+Dealt to Hero [6s Js]
+Dealt to e36c635a 
+c3d5ae2e: folds
+266961e6: folds
+fe53451: folds
+c77ee2cf: raises 2,200 to 3,800
+Hero: folds
+e36c635a: folds
+adc9aff9: folds
+65f79ddc: folds
+Uncalled bet (2,200) returned to c77ee2cf
+*** SHOWDOWN ***
+c77ee2cf collected 6,000 from pot
+*** SUMMARY ***
+Total pot 6,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: adc9aff9 (small blind) folded before Flop
+Seat 2: 65f79ddc (big blind) folded before Flop
+Seat 3: c3d5ae2e folded before Flop
+Seat 4: 266961e6 folded before Flop
+Seat 5: fe53451 folded before Flop
+Seat 6: c77ee2cf collected (6,000)
+Seat 7: Hero folded before Flop
+Seat 8: e36c635a (button) folded before Flop
+
+
+Poker Hand #TM90280184: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level15(600/1,200) - 2026/01/02 00:14:23
+Table '3' 8-max Seat #1 is the button
+Seat 1: faa5ab64 (63,597 in chips)
+Seat 2: b19d883d (94,058 in chips)
+Seat 3: a7b96b2a (42,716 in chips)
+Seat 4: c69ab8ab (15,823 in chips)
+Seat 5: 5adcff94 (40,727 in chips)
+Seat 6: 77ac8343 (38,990 in chips)
+Seat 7: 9b16dd0c (19,128 in chips)
+Seat 8: Hero (33,844 in chips)
+77ac8343: posts the ante 180
+b19d883d: posts the ante 180
+a7b96b2a: posts the ante 180
+faa5ab64: posts the ante 180
+9b16dd0c: posts the ante 180
+5adcff94: posts the ante 180
+c69ab8ab: posts the ante 180
+Hero: posts the ante 180
+b19d883d: posts small blind 600
+a7b96b2a: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to a7b96b2a 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 77ac8343 
+Dealt to 9b16dd0c 
+Dealt to Hero [Js 2h]
+c69ab8ab: folds
+5adcff94: folds
+77ac8343: folds
+9b16dd0c: raises 3,600 to 4,800
+Hero: folds
+faa5ab64: folds
+b19d883d: folds
+a7b96b2a: raises 11,640 to 16,440
+9b16dd0c: raises 2,508 to 18,948 and is all-in
+a7b96b2a: calls 2,508
+9b16dd0c: shows [9s Ac]
+a7b96b2a: shows [Qs Qh]
+*** FLOP *** [3c 6d 6s]
+*** TURN *** [3c 6d 6s] [Td]
+*** RIVER *** [3c 6d 6s Td] [Qd]
+*** SHOWDOWN ***
+a7b96b2a collected 39,936 from pot
+*** SUMMARY ***
+Total pot 39,936 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 6d 6s Td Qd]
+Seat 1: faa5ab64 (button) folded before Flop
+Seat 2: b19d883d (small blind) folded before Flop
+Seat 3: a7b96b2a (big blind) showed [Qs Qh] and won (39,936) with a full house, Queens full of Sixes
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 folded before Flop
+Seat 6: 77ac8343 folded before Flop
+Seat 7: 9b16dd0c showed [9s Ac] and lost with a pair of Sixes
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90280180: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level15(600/1,200) - 2026/01/02 00:13:31
+Table '3' 8-max Seat #8 is the button
+Seat 1: faa5ab64 (64,377 in chips)
+Seat 2: b19d883d (96,758 in chips)
+Seat 3: a7b96b2a (42,896 in chips)
+Seat 4: c69ab8ab (16,003 in chips)
+Seat 5: 5adcff94 (36,347 in chips)
+Seat 6: 77ac8343 (39,170 in chips)
+Seat 7: 9b16dd0c (19,308 in chips)
+Seat 8: Hero (34,024 in chips)
+77ac8343: posts the ante 180
+b19d883d: posts the ante 180
+a7b96b2a: posts the ante 180
+faa5ab64: posts the ante 180
+9b16dd0c: posts the ante 180
+5adcff94: posts the ante 180
+c69ab8ab: posts the ante 180
+Hero: posts the ante 180
+faa5ab64: posts small blind 600
+b19d883d: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to a7b96b2a 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 77ac8343 
+Dealt to 9b16dd0c 
+Dealt to Hero [2h 6d]
+a7b96b2a: folds
+c69ab8ab: folds
+5adcff94: raises 1,320 to 2,520
+77ac8343: folds
+9b16dd0c: folds
+Hero: folds
+faa5ab64: folds
+b19d883d: calls 1,320
+*** FLOP *** [8d Kh 4h]
+b19d883d: checks
+5adcff94: bets 2,400
+b19d883d: folds
+Uncalled bet (2,400) returned to 5adcff94
+*** SHOWDOWN ***
+5adcff94 collected 7,080 from pot
+*** SUMMARY ***
+Total pot 7,080 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d Kh 4h]
+Seat 1: faa5ab64 (small blind) folded before Flop
+Seat 2: b19d883d (big blind) folded on the Flop
+Seat 3: a7b96b2a folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 won (7,080)
+Seat 6: 77ac8343 folded before Flop
+Seat 7: 9b16dd0c folded before Flop
+Seat 8: Hero (button) folded before Flop
+
+
+Poker Hand #TM90280175: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level15(600/1,200) - 2026/01/02 00:12:34
+Table '3' 8-max Seat #7 is the button
+Seat 1: faa5ab64 (60,297 in chips)
+Seat 2: b19d883d (96,938 in chips)
+Seat 4: c69ab8ab (16,183 in chips)
+Seat 5: 5adcff94 (36,527 in chips)
+Seat 6: 77ac8343 (39,350 in chips)
+Seat 7: 9b16dd0c (19,488 in chips)
+Seat 8: Hero (37,204 in chips)
+77ac8343: posts the ante 180
+b19d883d: posts the ante 180
+faa5ab64: posts the ante 180
+9b16dd0c: posts the ante 180
+5adcff94: posts the ante 180
+c69ab8ab: posts the ante 180
+Hero: posts the ante 180
+Hero: posts small blind 600
+faa5ab64: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 77ac8343 
+Dealt to 9b16dd0c 
+Dealt to Hero [Kh Th]
+b19d883d: folds
+c69ab8ab: folds
+5adcff94: folds
+77ac8343: folds
+9b16dd0c: folds
+Hero: raises 1,800 to 3,000
+faa5ab64: calls 1,800
+*** FLOP *** [4c 9c 9d]
+Hero: checks
+faa5ab64: checks
+*** TURN *** [4c 9c 9d] [2d]
+Hero: checks
+faa5ab64: checks
+*** RIVER *** [4c 9c 9d 2d] [6s]
+Hero: checks
+faa5ab64: checks
+Hero: shows [Kh Th] (a pair of Nines)
+faa5ab64: shows [Ah 7s] (a pair of Nines)
+*** SHOWDOWN ***
+faa5ab64 collected 7,260 from pot
+*** SUMMARY ***
+Total pot 7,260 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 9c 9d 2d 6s]
+Seat 1: faa5ab64 (big blind) showed [Ah 7s] and won (7,260) with a pair of Nines
+Seat 2: b19d883d folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 folded before Flop
+Seat 6: 77ac8343 folded before Flop
+Seat 7: 9b16dd0c (button) folded before Flop
+Seat 8: Hero (small blind) showed [Kh Th] and lost with a pair of Nines
+
+
+Poker Hand #TM90280170: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level15(600/1,200) - 2026/01/02 00:11:59
+Table '3' 8-max Seat #6 is the button
+Seat 1: faa5ab64 (60,477 in chips)
+Seat 2: b19d883d (97,118 in chips)
+Seat 4: c69ab8ab (16,363 in chips)
+Seat 5: 5adcff94 (36,707 in chips)
+Seat 6: 77ac8343 (39,530 in chips)
+Seat 7: 9b16dd0c (20,868 in chips)
+Seat 8: Hero (34,924 in chips)
+77ac8343: posts the ante 180
+b19d883d: posts the ante 180
+faa5ab64: posts the ante 180
+5adcff94: posts the ante 180
+9b16dd0c: posts the ante 180
+c69ab8ab: posts the ante 180
+Hero: posts the ante 180
+9b16dd0c: posts small blind 600
+Hero: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 77ac8343 
+Dealt to 9b16dd0c 
+Dealt to Hero [8s 2d]
+faa5ab64: folds
+b19d883d: folds
+c69ab8ab: folds
+5adcff94: folds
+77ac8343: folds
+9b16dd0c: calls 600
+Hero: checks
+*** FLOP *** [3d Jd 8h]
+9b16dd0c: checks
+Hero: bets 2,400
+9b16dd0c: folds
+Uncalled bet (2,400) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,660 from pot
+*** SUMMARY ***
+Total pot 3,660 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d Jd 8h]
+Seat 1: faa5ab64 folded before Flop
+Seat 2: b19d883d folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 folded before Flop
+Seat 6: 77ac8343 (button) folded before Flop
+Seat 7: 9b16dd0c (small blind) folded on the Flop
+Seat 8: Hero (big blind) won (3,660)
+
+
+Poker Hand #TM90280160: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:10:37
+Table '3' 8-max Seat #5 is the button
+Seat 1: faa5ab64 (60,627 in chips)
+Seat 2: b19d883d (97,268 in chips)
+Seat 3: ccea7c78 (10,980 in chips)
+Seat 4: c69ab8ab (16,513 in chips)
+Seat 5: 5adcff94 (41,357 in chips)
+Seat 6: 77ac8343 (40,180 in chips)
+Seat 7: 9b16dd0c (25,518 in chips)
+Seat 8: Hero (24,374 in chips)
+77ac8343: posts the ante 150
+b19d883d: posts the ante 150
+faa5ab64: posts the ante 150
+5adcff94: posts the ante 150
+9b16dd0c: posts the ante 150
+c69ab8ab: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+77ac8343: posts small blind 500
+9b16dd0c: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 77ac8343 
+Dealt to 9b16dd0c 
+Dealt to Hero [8s Js]
+Hero: raises 1,000 to 2,000
+faa5ab64: folds
+b19d883d: folds
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: calls 2,000
+77ac8343: folds
+9b16dd0c: calls 1,000
+*** FLOP *** [3d Qc 8h]
+9b16dd0c: checks
+Hero: checks
+5adcff94: bets 2,500
+9b16dd0c: calls 2,500
+Hero: calls 2,500
+*** TURN *** [3d Qc 8h] [9d]
+9b16dd0c: checks
+Hero: checks
+5adcff94: checks
+*** RIVER *** [3d Qc 8h 9d] [Th]
+9b16dd0c: checks
+Hero: bets 4,560
+5adcff94: folds
+9b16dd0c: folds
+Uncalled bet (4,560) returned to Hero
+*** SHOWDOWN ***
+Hero collected 15,200 from pot
+*** SUMMARY ***
+Total pot 15,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d Qc 8h 9d Th]
+Seat 1: faa5ab64 folded before Flop
+Seat 2: b19d883d folded before Flop
+Seat 3: ccea7c78 folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 (button) folded on the River
+Seat 6: 77ac8343 (small blind) folded before Flop
+Seat 7: 9b16dd0c (big blind) folded on the River
+Seat 8: Hero won (15,200)
+
+
+Poker Hand #TM90280153: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:09:39
+Table '3' 8-max Seat #4 is the button
+Seat 1: faa5ab64 (60,777 in chips)
+Seat 2: b19d883d (97,418 in chips)
+Seat 3: ccea7c78 (11,130 in chips)
+Seat 4: c69ab8ab (16,663 in chips)
+Seat 5: 5adcff94 (21,011 in chips)
+Seat 6: 77ac8343 (41,330 in chips)
+Seat 7: 9b16dd0c (25,668 in chips)
+Seat 8: Hero (42,820 in chips)
+77ac8343: posts the ante 150
+b19d883d: posts the ante 150
+faa5ab64: posts the ante 150
+9b16dd0c: posts the ante 150
+5adcff94: posts the ante 150
+c69ab8ab: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+5adcff94: posts small blind 500
+77ac8343: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 77ac8343 
+Dealt to 9b16dd0c 
+Dealt to Hero [9d Jd]
+9b16dd0c: folds
+Hero: raises 1,000 to 2,000
+faa5ab64: folds
+b19d883d: folds
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: calls 1,500
+77ac8343: folds
+*** FLOP *** [4c 8h 5s]
+5adcff94: checks
+Hero: bets 2,360
+5adcff94: calls 2,360
+*** TURN *** [4c 8h 5s] [Kd]
+5adcff94: checks
+Hero: bets 3,776
+5adcff94: calls 3,776
+*** RIVER *** [4c 8h 5s Kd] [Ah]
+5adcff94: checks
+Hero: bets 10,160
+5adcff94: calls 10,160
+Hero: shows [9d Jd] (Ace high)
+5adcff94: shows [Kc Js] (a pair of Kings)
+*** SHOWDOWN ***
+5adcff94 collected 38,792 from pot
+*** SUMMARY ***
+Total pot 38,792 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 8h 5s Kd Ah]
+Seat 1: faa5ab64 folded before Flop
+Seat 2: b19d883d folded before Flop
+Seat 3: ccea7c78 folded before Flop
+Seat 4: c69ab8ab (button) folded before Flop
+Seat 5: 5adcff94 (small blind) showed [Kc Js] and won (38,792) with a pair of Kings
+Seat 6: 77ac8343 (big blind) folded before Flop
+Seat 7: 9b16dd0c folded before Flop
+Seat 8: Hero showed [9d Jd] and lost with Ace high
+
+
+Poker Hand #TM90280147: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:08:54
+Table '3' 8-max Seat #3 is the button
+Seat 1: faa5ab64 (60,927 in chips)
+Seat 2: b19d883d (97,568 in chips)
+Seat 3: ccea7c78 (4,865 in chips)
+Seat 4: c69ab8ab (17,313 in chips)
+Seat 5: 5adcff94 (25,876 in chips)
+Seat 6: 77ac8343 (41,480 in chips)
+Seat 7: 9b16dd0c (25,818 in chips)
+Seat 8: Hero (42,970 in chips)
+77ac8343: posts the ante 150
+b19d883d: posts the ante 150
+faa5ab64: posts the ante 150
+9b16dd0c: posts the ante 150
+5adcff94: posts the ante 150
+c69ab8ab: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+c69ab8ab: posts small blind 500
+5adcff94: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 77ac8343 
+Dealt to 9b16dd0c 
+Dealt to Hero [As 2c]
+77ac8343: folds
+9b16dd0c: folds
+Hero: folds
+faa5ab64: folds
+b19d883d: folds
+ccea7c78: raises 3,715 to 4,715 and is all-in
+c69ab8ab: folds
+5adcff94: calls 3,715
+ccea7c78: shows [Ad Ac]
+5adcff94: shows [Td Qh]
+*** FLOP *** [Jd Kh 2d]
+*** TURN *** [Jd Kh 2d] [6h]
+*** RIVER *** [Jd Kh 2d 6h] [Qc]
+*** SHOWDOWN ***
+ccea7c78 collected 11,130 from pot
+*** SUMMARY ***
+Total pot 11,130 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd Kh 2d 6h Qc]
+Seat 1: faa5ab64 folded before Flop
+Seat 2: b19d883d folded before Flop
+Seat 3: ccea7c78 (button) showed [Ad Ac] and won (11,130) with a pair of Aces
+Seat 4: c69ab8ab (small blind) folded before Flop
+Seat 5: 5adcff94 (big blind) showed [Td Qh] and lost with a pair of Queens
+Seat 6: 77ac8343 folded before Flop
+Seat 7: 9b16dd0c folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90280141: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:08:12
+Table '3' 8-max Seat #2 is the button
+Seat 1: faa5ab64 (61,077 in chips)
+Seat 2: b19d883d (97,718 in chips)
+Seat 3: ccea7c78 (5,515 in chips)
+Seat 4: c69ab8ab (18,463 in chips)
+Seat 5: 5adcff94 (28,026 in chips)
+Seat 6: 77ac8343 (36,930 in chips)
+Seat 7: 9b16dd0c (25,968 in chips)
+Seat 8: Hero (43,120 in chips)
+77ac8343: posts the ante 150
+b19d883d: posts the ante 150
+faa5ab64: posts the ante 150
+9b16dd0c: posts the ante 150
+5adcff94: posts the ante 150
+c69ab8ab: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+ccea7c78: posts small blind 500
+c69ab8ab: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 77ac8343 
+Dealt to 9b16dd0c 
+Dealt to Hero [Kc Ts]
+5adcff94: raises 1,000 to 2,000
+77ac8343: raises 4,623 to 6,623
+9b16dd0c: folds
+Hero: folds
+faa5ab64: folds
+b19d883d: folds
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: folds
+Uncalled bet (4,623) returned to 77ac8343
+*** SHOWDOWN ***
+77ac8343 collected 6,700 from pot
+*** SUMMARY ***
+Total pot 6,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: faa5ab64 folded before Flop
+Seat 2: b19d883d (button) folded before Flop
+Seat 3: ccea7c78 (small blind) folded before Flop
+Seat 4: c69ab8ab (big blind) folded before Flop
+Seat 5: 5adcff94 folded before Flop
+Seat 6: 77ac8343 collected (6,700)
+Seat 7: 9b16dd0c folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90280133: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:07:14
+Table '3' 8-max Seat #1 is the button
+Seat 1: faa5ab64 (61,227 in chips)
+Seat 2: b19d883d (98,868 in chips)
+Seat 3: ccea7c78 (6,665 in chips)
+Seat 4: c69ab8ab (18,613 in chips)
+Seat 5: 5adcff94 (28,176 in chips)
+Seat 7: 9b16dd0c (23,068 in chips)
+Seat 8: Hero (43,270 in chips)
+b19d883d: posts the ante 150
+faa5ab64: posts the ante 150
+9b16dd0c: posts the ante 150
+5adcff94: posts the ante 150
+c69ab8ab: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+b19d883d: posts small blind 500
+ccea7c78: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 9b16dd0c 
+Dealt to Hero [2s 7d]
+c69ab8ab: folds
+5adcff94: folds
+9b16dd0c: calls 1,000
+Hero: folds
+faa5ab64: folds
+b19d883d: calls 500
+ccea7c78: checks
+*** FLOP *** [9c Ac Jc]
+b19d883d: checks
+ccea7c78: checks
+9b16dd0c: checks
+*** TURN *** [9c Ac Jc] [Kd]
+b19d883d: checks
+ccea7c78: checks
+9b16dd0c: bets 3,038
+b19d883d: folds
+ccea7c78: folds
+Uncalled bet (3,038) returned to 9b16dd0c
+*** SHOWDOWN ***
+9b16dd0c collected 4,050 from pot
+*** SUMMARY ***
+Total pot 4,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c Ac Jc Kd]
+Seat 1: faa5ab64 (button) folded before Flop
+Seat 2: b19d883d (small blind) folded on the Turn
+Seat 3: ccea7c78 (big blind) folded on the Turn
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 folded before Flop
+Seat 7: 9b16dd0c won (4,050)
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90280129: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:06:36
+Table '3' 8-max Seat #8 is the button
+Seat 1: faa5ab64 (61,877 in chips)
+Seat 2: b19d883d (100,018 in chips)
+Seat 3: ccea7c78 (6,815 in chips)
+Seat 4: c69ab8ab (18,763 in chips)
+Seat 5: 5adcff94 (28,326 in chips)
+Seat 7: 9b16dd0c (26,218 in chips)
+Seat 8: Hero (37,870 in chips)
+b19d883d: posts the ante 150
+faa5ab64: posts the ante 150
+9b16dd0c: posts the ante 150
+5adcff94: posts the ante 150
+c69ab8ab: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+faa5ab64: posts small blind 500
+b19d883d: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 9b16dd0c 
+Dealt to Hero [As Ks]
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: folds
+9b16dd0c: raises 2,000 to 3,000
+Hero: calls 3,000
+faa5ab64: folds
+b19d883d: folds
+*** FLOP *** [7h 4d Td]
+9b16dd0c: checks
+Hero: bets 4,703
+9b16dd0c: folds
+Uncalled bet (4,703) returned to Hero
+*** SHOWDOWN ***
+Hero collected 8,550 from pot
+*** SUMMARY ***
+Total pot 8,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h 4d Td]
+Seat 1: faa5ab64 (small blind) folded before Flop
+Seat 2: b19d883d (big blind) folded before Flop
+Seat 3: ccea7c78 folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 folded before Flop
+Seat 7: 9b16dd0c folded on the Flop
+Seat 8: Hero (button) won (8,550)
+
+
+Poker Hand #TM90280120: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:05:50
+Table '3' 8-max Seat #7 is the button
+Seat 1: faa5ab64 (49,702 in chips)
+Seat 2: b19d883d (100,168 in chips)
+Seat 3: ccea7c78 (6,965 in chips)
+Seat 4: c69ab8ab (18,913 in chips)
+Seat 5: 5adcff94 (28,476 in chips)
+Seat 7: 9b16dd0c (37,143 in chips)
+Seat 8: Hero (38,520 in chips)
+b19d883d: posts the ante 150
+faa5ab64: posts the ante 150
+9b16dd0c: posts the ante 150
+5adcff94: posts the ante 150
+c69ab8ab: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+Hero: posts small blind 500
+faa5ab64: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to faa5ab64 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 9b16dd0c 
+Dealt to Hero [3c Qs]
+b19d883d: folds
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: folds
+9b16dd0c: raises 1,000 to 2,000
+Hero: folds
+faa5ab64: calls 1,000
+*** FLOP *** [Th Ks Jd]
+faa5ab64: checks
+9b16dd0c: checks
+*** TURN *** [Th Ks Jd] [2c]
+faa5ab64: bets 3,000
+9b16dd0c: calls 3,000
+*** RIVER *** [Th Ks Jd 2c] [2d]
+faa5ab64: checks
+9b16dd0c: bets 5,775
+faa5ab64: calls 5,775
+9b16dd0c: shows [8h 9h] (a pair of Twos)
+faa5ab64: shows [3s Js] (two pair, Jacks and Twos)
+*** SHOWDOWN ***
+faa5ab64 collected 23,100 from pot
+*** SUMMARY ***
+Total pot 23,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th Ks Jd 2c 2d]
+Seat 1: faa5ab64 (big blind) showed [3s Js] and won (23,100) with two pair, Jacks and Twos
+Seat 2: b19d883d folded before Flop
+Seat 3: ccea7c78 folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 folded before Flop
+Seat 7: 9b16dd0c (button) showed [8h 9h] and lost with a pair of Twos
+Seat 8: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM90280112: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:04:47
+Table '3' 8-max Seat #6 is the button
+Seat 1: 173c6f27 (15,500 in chips)
+Seat 2: b19d883d (74,728 in chips)
+Seat 3: ccea7c78 (7,115 in chips)
+Seat 4: c69ab8ab (19,063 in chips)
+Seat 5: 5adcff94 (28,626 in chips)
+Seat 6: ea48a8e (7,690 in chips)
+Seat 7: 9b16dd0c (37,793 in chips)
+Seat 8: Hero (39,670 in chips)
+b19d883d: posts the ante 150
+173c6f27: posts the ante 150
+5adcff94: posts the ante 150
+9b16dd0c: posts the ante 150
+c69ab8ab: posts the ante 150
+ea48a8e: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+9b16dd0c: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 173c6f27 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to ea48a8e 
+Dealt to 9b16dd0c 
+Dealt to Hero [Kd 4d]
+173c6f27: raises 1,000 to 2,000
+b19d883d: calls 2,000
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: folds
+ea48a8e: raises 5,540 to 7,540 and is all-in
+9b16dd0c: folds
+Hero: folds
+173c6f27: raises 7,810 to 15,350 and is all-in
+b19d883d: calls 13,350
+173c6f27: shows [8d 8c]
+b19d883d: shows [Ah 5h]
+ea48a8e: shows [Kh Ks]
+*** FLOP *** [7h Ac 2h]
+*** TURN *** [7h Ac 2h] [7d]
+*** RIVER *** [7h Ac 2h 7d] [5d]
+*** SHOWDOWN ***
+b19d883d collected 25,320 from pot
+b19d883d collected 15,620 from pot
+*** SUMMARY ***
+Total pot 40,940 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Ac 2h 7d 5d]
+Seat 1: 173c6f27 showed [8d 8c] and lost with two pair, Eights and Sevens
+Seat 2: b19d883d showed [Ah 5h] and won (40,940) with two pair, Aces and Sevens
+Seat 3: ccea7c78 folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 folded before Flop
+Seat 6: ea48a8e (button) showed [Kh Ks] and lost with two pair, Kings and Sevens
+Seat 7: 9b16dd0c (small blind) folded before Flop
+Seat 8: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM90280109: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:04:26
+Table '3' 8-max Seat #5 is the button
+Seat 1: 173c6f27 (12,950 in chips)
+Seat 2: b19d883d (74,878 in chips)
+Seat 3: ccea7c78 (7,265 in chips)
+Seat 4: c69ab8ab (19,213 in chips)
+Seat 5: 5adcff94 (28,776 in chips)
+Seat 6: ea48a8e (8,340 in chips)
+Seat 7: 9b16dd0c (38,943 in chips)
+Seat 8: Hero (39,820 in chips)
+b19d883d: posts the ante 150
+173c6f27: posts the ante 150
+5adcff94: posts the ante 150
+9b16dd0c: posts the ante 150
+c69ab8ab: posts the ante 150
+ea48a8e: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+ea48a8e: posts small blind 500
+9b16dd0c: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 173c6f27 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to ea48a8e 
+Dealt to 9b16dd0c 
+Dealt to Hero [2h 3s]
+Hero: folds
+173c6f27: raises 11,800 to 12,800 and is all-in
+b19d883d: folds
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: folds
+ea48a8e: folds
+9b16dd0c: folds
+Uncalled bet (11,800) returned to 173c6f27
+*** SHOWDOWN ***
+173c6f27 collected 3,700 from pot
+*** SUMMARY ***
+Total pot 3,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 173c6f27 collected (3,700)
+Seat 2: b19d883d folded before Flop
+Seat 3: ccea7c78 folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 (button) folded before Flop
+Seat 6: ea48a8e (small blind) folded before Flop
+Seat 7: 9b16dd0c (big blind) folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90280101: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:03:41
+Table '3' 8-max Seat #4 is the button
+Seat 1: 173c6f27 (13,100 in chips)
+Seat 2: b19d883d (75,028 in chips)
+Seat 3: ccea7c78 (7,415 in chips)
+Seat 4: c69ab8ab (21,863 in chips)
+Seat 5: 5adcff94 (24,226 in chips)
+Seat 6: ea48a8e (9,490 in chips)
+Seat 7: 9b16dd0c (39,093 in chips)
+Seat 8: Hero (39,970 in chips)
+b19d883d: posts the ante 150
+173c6f27: posts the ante 150
+9b16dd0c: posts the ante 150
+5adcff94: posts the ante 150
+c69ab8ab: posts the ante 150
+ea48a8e: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+5adcff94: posts small blind 500
+ea48a8e: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 173c6f27 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to ea48a8e 
+Dealt to 9b16dd0c 
+Dealt to Hero [9d 5d]
+9b16dd0c: folds
+Hero: folds
+173c6f27: folds
+b19d883d: folds
+ccea7c78: folds
+c69ab8ab: raises 1,500 to 2,500
+5adcff94: raises 21,576 to 24,076 and is all-in
+ea48a8e: folds
+c69ab8ab: folds
+Uncalled bet (21,576) returned to 5adcff94
+*** SHOWDOWN ***
+5adcff94 collected 7,200 from pot
+*** SUMMARY ***
+Total pot 7,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 173c6f27 folded before Flop
+Seat 2: b19d883d folded before Flop
+Seat 3: ccea7c78 folded before Flop
+Seat 4: c69ab8ab (button) folded before Flop
+Seat 5: 5adcff94 (small blind) collected (7,200)
+Seat 6: ea48a8e (big blind) folded before Flop
+Seat 7: 9b16dd0c folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90280098: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level14(500/1,000) - 2026/01/02 00:03:20
+Table '3' 8-max Seat #3 is the button
+Seat 1: 173c6f27 (13,250 in chips)
+Seat 2: b19d883d (75,178 in chips)
+Seat 3: ccea7c78 (7,565 in chips)
+Seat 4: c69ab8ab (22,513 in chips)
+Seat 5: 5adcff94 (22,676 in chips)
+Seat 6: ea48a8e (9,640 in chips)
+Seat 7: 9b16dd0c (39,243 in chips)
+Seat 8: Hero (40,120 in chips)
+b19d883d: posts the ante 150
+173c6f27: posts the ante 150
+9b16dd0c: posts the ante 150
+5adcff94: posts the ante 150
+c69ab8ab: posts the ante 150
+ea48a8e: posts the ante 150
+ccea7c78: posts the ante 150
+Hero: posts the ante 150
+c69ab8ab: posts small blind 500
+5adcff94: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 173c6f27 
+Dealt to b19d883d 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to ea48a8e 
+Dealt to 9b16dd0c 
+Dealt to Hero [6d Th]
+ea48a8e: folds
+9b16dd0c: folds
+Hero: folds
+173c6f27: folds
+b19d883d: folds
+ccea7c78: folds
+c69ab8ab: folds
+Uncalled bet (500) returned to 5adcff94
+*** SHOWDOWN ***
+5adcff94 collected 2,200 from pot
+*** SUMMARY ***
+Total pot 2,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 173c6f27 folded before Flop
+Seat 2: b19d883d folded before Flop
+Seat 3: ccea7c78 (button) folded before Flop
+Seat 4: c69ab8ab (small blind) folded before Flop
+Seat 5: 5adcff94 (big blind) collected (2,200)
+Seat 6: ea48a8e folded before Flop
+Seat 7: 9b16dd0c folded before Flop
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90280088: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level13(400/800) - 2026/01/02 00:02:33
+Table '3' 8-max Seat #1 is the button
+Seat 1: 173c6f27 (13,370 in chips)
+Seat 3: ccea7c78 (8,085 in chips)
+Seat 4: c69ab8ab (23,433 in chips)
+Seat 5: 5adcff94 (28,526 in chips)
+Seat 6: ea48a8e (9,760 in chips)
+Seat 7: 9b16dd0c (31,593 in chips)
+Seat 8: Hero (40,240 in chips)
+173c6f27: posts the ante 120
+9b16dd0c: posts the ante 120
+5adcff94: posts the ante 120
+c69ab8ab: posts the ante 120
+ea48a8e: posts the ante 120
+ccea7c78: posts the ante 120
+Hero: posts the ante 120
+ccea7c78: posts small blind 400
+c69ab8ab: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 173c6f27 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to ea48a8e 
+Dealt to 9b16dd0c 
+Dealt to Hero [Qd 5s]
+5adcff94: raises 880 to 1,680
+ea48a8e: folds
+9b16dd0c: raises 4,050 to 5,730
+Hero: folds
+173c6f27: folds
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: calls 4,050
+*** FLOP *** [Kh 6c 4s]
+5adcff94: checks
+9b16dd0c: bets 4,455
+5adcff94: folds
+Uncalled bet (4,455) returned to 9b16dd0c
+*** SHOWDOWN ***
+9b16dd0c collected 13,500 from pot
+*** SUMMARY ***
+Total pot 13,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 6c 4s]
+Seat 1: 173c6f27 (button) folded before Flop
+Seat 3: ccea7c78 (small blind) folded before Flop
+Seat 4: c69ab8ab (big blind) folded before Flop
+Seat 5: 5adcff94 folded on the Flop
+Seat 6: ea48a8e folded before Flop
+Seat 7: 9b16dd0c won (13,500)
+Seat 8: Hero folded before Flop
+
+
+Poker Hand #TM90280087: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level13(400/800) - 2026/01/02 00:02:08
+Table '3' 8-max Seat #8 is the button
+Seat 1: 173c6f27 (13,890 in chips)
+Seat 3: ccea7c78 (9,005 in chips)
+Seat 4: c69ab8ab (23,553 in chips)
+Seat 5: 5adcff94 (28,646 in chips)
+Seat 6: ea48a8e (9,880 in chips)
+Seat 7: 9b16dd0c (29,673 in chips)
+Seat 8: Hero (40,360 in chips)
+173c6f27: posts the ante 120
+9b16dd0c: posts the ante 120
+5adcff94: posts the ante 120
+c69ab8ab: posts the ante 120
+ea48a8e: posts the ante 120
+ccea7c78: posts the ante 120
+Hero: posts the ante 120
+173c6f27: posts small blind 400
+ccea7c78: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 173c6f27 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to ea48a8e 
+Dealt to 9b16dd0c 
+Dealt to Hero [Ks 3c]
+c69ab8ab: folds
+5adcff94: folds
+ea48a8e: folds
+9b16dd0c: raises 2,400 to 3,200
+Hero: folds
+173c6f27: folds
+ccea7c78: folds
+Uncalled bet (2,400) returned to 9b16dd0c
+*** SHOWDOWN ***
+9b16dd0c collected 2,840 from pot
+*** SUMMARY ***
+Total pot 2,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 173c6f27 (small blind) folded before Flop
+Seat 3: ccea7c78 (big blind) folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 folded before Flop
+Seat 6: ea48a8e folded before Flop
+Seat 7: 9b16dd0c collected (2,840)
+Seat 8: Hero (button) folded before Flop
+
+
+Poker Hand #TM90280076: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level13(400/800) - 2026/01/02 00:01:34
+Table '3' 8-max Seat #7 is the button
+Seat 1: 173c6f27 (14,810 in chips)
+Seat 2: 9fffcd7b (5,483 in chips)
+Seat 3: ccea7c78 (9,125 in chips)
+Seat 4: c69ab8ab (23,673 in chips)
+Seat 5: 5adcff94 (28,766 in chips)
+Seat 6: ea48a8e (10,000 in chips)
+Seat 7: 9b16dd0c (29,793 in chips)
+Seat 8: Hero (37,120 in chips)
+9fffcd7b: posts the ante 120
+173c6f27: posts the ante 120
+9b16dd0c: posts the ante 120
+5adcff94: posts the ante 120
+c69ab8ab: posts the ante 120
+ea48a8e: posts the ante 120
+ccea7c78: posts the ante 120
+Hero: posts the ante 120
+Hero: posts small blind 400
+173c6f27: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 173c6f27 
+Dealt to 9fffcd7b 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to ea48a8e 
+Dealt to 9b16dd0c 
+Dealt to Hero [As 9c]
+9fffcd7b: raises 800 to 1,600
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: folds
+ea48a8e: folds
+9b16dd0c: folds
+Hero: raises 6,448 to 8,048
+173c6f27: folds
+9fffcd7b: folds
+Uncalled bet (6,448) returned to Hero
+*** SHOWDOWN ***
+Hero collected 4,960 from pot
+*** SUMMARY ***
+Total pot 4,960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 173c6f27 (big blind) folded before Flop
+Seat 2: 9fffcd7b folded before Flop
+Seat 3: ccea7c78 folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 folded before Flop
+Seat 6: ea48a8e folded before Flop
+Seat 7: 9b16dd0c (button) folded before Flop
+Seat 8: Hero (small blind) collected (4,960)
+
+
+Poker Hand #TM90280066: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level13(400/800) - 2026/01/01 23:54:28
+Table '3' 8-max Seat #6 is the button
+Seat 1: 173c6f27 (14,930 in chips)
+Seat 2: 9fffcd7b (5,603 in chips)
+Seat 3: ccea7c78 (9,245 in chips)
+Seat 4: c69ab8ab (23,793 in chips)
+Seat 5: 5adcff94 (40,166 in chips)
+Seat 6: 67d54f40 (12,680 in chips)
+Seat 7: 9b16dd0c (30,313 in chips)
+Seat 8: Hero (12,040 in chips)
+9fffcd7b: posts the ante 120
+173c6f27: posts the ante 120
+5adcff94: posts the ante 120
+9b16dd0c: posts the ante 120
+c69ab8ab: posts the ante 120
+67d54f40: posts the ante 120
+ccea7c78: posts the ante 120
+Hero: posts the ante 120
+9b16dd0c: posts small blind 400
+Hero: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 173c6f27 
+Dealt to 9fffcd7b 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 67d54f40 
+Dealt to 9b16dd0c 
+Dealt to Hero [Js Jc]
+173c6f27: folds
+9fffcd7b: folds
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: raises 880 to 1,680
+67d54f40: calls 1,680
+9b16dd0c: folds
+Hero: raises 10,240 to 11,920 and is all-in
+5adcff94: raises 26,080 to 38,000
+67d54f40: calls 10,880 and is all-in
+Uncalled bet (25,440) returned to 5adcff94
+5adcff94: shows [Qc 9c]
+67d54f40: shows [9d Td]
+Hero: shows [Js Jc]
+*** FLOP *** [8s 2s Ac]
+*** TURN *** [8s 2s Ac] [6d]
+*** RIVER *** [8s 2s Ac 6d] [2c]
+*** SHOWDOWN ***
+Hero collected 37,120 from pot
+5adcff94 collected 1,280 from pot
+*** SUMMARY ***
+Total pot 38,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 2s Ac 6d 2c]
+Seat 1: 173c6f27 folded before Flop
+Seat 2: 9fffcd7b folded before Flop
+Seat 3: ccea7c78 folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 showed [Qc 9c] and won (1,280) with a pair of Twos
+Seat 6: 67d54f40 (button) showed [9d Td] and lost with a pair of Twos
+Seat 7: 9b16dd0c (small blind) folded before Flop
+Seat 8: Hero (big blind) showed [Js Jc] and won (37,120) with two pair, Jacks and Twos
+
+
+Poker Hand #TM90280060: Tournament #5405259, Thursday Heater $25 [Bounty Turbo] Hold'em No Limit - Level13(400/800) - 2026/01/01 23:54:01
+Table '3' 8-max Seat #5 is the button
+Seat 1: 173c6f27 (15,050 in chips)
+Seat 2: 9fffcd7b (5,723 in chips)
+Seat 3: ccea7c78 (9,365 in chips)
+Seat 4: c69ab8ab (23,913 in chips)
+Seat 5: 5adcff94 (40,286 in chips)
+Seat 6: 67d54f40 (13,200 in chips)
+Seat 7: 9b16dd0c (31,233 in chips)
+Seat 8: Hero (10,000 in chips)
+9fffcd7b: posts the ante 120
+173c6f27: posts the ante 120
+5adcff94: posts the ante 120
+9b16dd0c: posts the ante 120
+c69ab8ab: posts the ante 120
+67d54f40: posts the ante 120
+ccea7c78: posts the ante 120
+Hero: posts the ante 120
+67d54f40: posts small blind 400
+9b16dd0c: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 173c6f27 
+Dealt to 9fffcd7b 
+Dealt to ccea7c78 
+Dealt to c69ab8ab 
+Dealt to 5adcff94 
+Dealt to 67d54f40 
+Dealt to 9b16dd0c 
+Dealt to Hero [Qh Kh]
+Hero: raises 9,080 to 9,880 and is all-in
+173c6f27: folds
+9fffcd7b: folds
+ccea7c78: folds
+c69ab8ab: folds
+5adcff94: folds
+67d54f40: folds
+9b16dd0c: folds
+Uncalled bet (9,080) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,960 from pot
+*** SUMMARY ***
+Total pot 2,960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 173c6f27 folded before Flop
+Seat 2: 9fffcd7b folded before Flop
+Seat 3: ccea7c78 folded before Flop
+Seat 4: c69ab8ab folded before Flop
+Seat 5: 5adcff94 (button) folded before Flop
+Seat 6: 67d54f40 (small blind) folded before Flop
+Seat 7: 9b16dd0c (big blind) folded before Flop
+Seat 8: Hero collected (2,960)
+
+

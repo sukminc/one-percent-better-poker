@@ -1,0 +1,3743 @@
+Poker Hand #TM90826492: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level15(2,000/4,000) - 2026/01/07 17:47:16
+Table '10' 9-max Seat #8 is the button
+Seat 3: Hero (36,698 in chips)
+Seat 5: 138ab6a9 (42,337 in chips)
+Seat 8: d83050e2 (40,965 in chips)
+d83050e2: posts the ante 400
+138ab6a9: posts the ante 400
+Hero: posts the ante 400
+Hero: posts small blind 2,000
+138ab6a9: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [5h Kh]
+Dealt to 138ab6a9 
+Dealt to d83050e2 
+d83050e2: folds
+Hero: raises 32,298 to 36,298 and is all-in
+138ab6a9: calls 32,298
+Hero: shows [5h Kh]
+138ab6a9: shows [As 2s]
+*** FLOP *** [Qh 8c 9h]
+*** TURN *** [Qh 8c 9h] [2d]
+*** RIVER *** [Qh 8c 9h 2d] [Qs]
+*** SHOWDOWN ***
+138ab6a9 collected 73,796 from pot
+*** SUMMARY ***
+Total pot 73,796 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh 8c 9h 2d Qs]
+Seat 3: Hero (small blind) showed [5h Kh] and lost with a pair of Queens
+Seat 5: 138ab6a9 (big blind) showed [As 2s] and won (73,796) with two pair, Queens and Twos
+Seat 8: d83050e2 (button) folded before Flop
+
+
+Poker Hand #TM90826489: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level15(2,000/4,000) - 2026/01/07 17:46:59
+Table '10' 9-max Seat #5 is the button
+Seat 3: Hero (41,098 in chips)
+Seat 5: 138ab6a9 (42,737 in chips)
+Seat 8: d83050e2 (36,165 in chips)
+d83050e2: posts the ante 400
+138ab6a9: posts the ante 400
+Hero: posts the ante 400
+d83050e2: posts small blind 2,000
+Hero: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [3s 8d]
+Dealt to 138ab6a9 
+Dealt to d83050e2 
+138ab6a9: folds
+d83050e2: raises 31,765 to 35,765 and is all-in
+Hero: folds
+Uncalled bet (31,765) returned to d83050e2
+*** SHOWDOWN ***
+d83050e2 collected 9,200 from pot
+*** SUMMARY ***
+Total pot 9,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 3: Hero (big blind) folded before Flop
+Seat 5: 138ab6a9 (button) folded before Flop
+Seat 8: d83050e2 (small blind) collected (9,200)
+
+
+Poker Hand #TM90826487: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level15(2,000/4,000) - 2026/01/07 17:46:46
+Table '10' 9-max Seat #3 is the button
+Seat 3: Hero (34,298 in chips)
+Seat 5: 138ab6a9 (45,137 in chips)
+Seat 8: d83050e2 (40,565 in chips)
+d83050e2: posts the ante 400
+138ab6a9: posts the ante 400
+Hero: posts the ante 400
+138ab6a9: posts small blind 2,000
+d83050e2: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [Jc Ts]
+Dealt to 138ab6a9 
+Dealt to d83050e2 
+Hero: raises 29,898 to 33,898 and is all-in
+138ab6a9: folds
+d83050e2: folds
+Uncalled bet (29,898) returned to Hero
+*** SHOWDOWN ***
+Hero collected 11,200 from pot
+*** SUMMARY ***
+Total pot 11,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 3: Hero (button) collected (11,200)
+Seat 5: 138ab6a9 (small blind) folded before Flop
+Seat 8: d83050e2 (big blind) folded before Flop
+
+
+Poker Hand #TM90826485: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level15(2,000/4,000) - 2026/01/07 17:46:31
+Table '10' 9-max Seat #8 is the button
+Seat 3: Hero (36,698 in chips)
+Seat 5: 138ab6a9 (42,337 in chips)
+Seat 8: d83050e2 (40,965 in chips)
+d83050e2: posts the ante 400
+138ab6a9: posts the ante 400
+Hero: posts the ante 400
+Hero: posts small blind 2,000
+138ab6a9: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to Hero [4c 9d]
+Dealt to 138ab6a9 
+Dealt to d83050e2 
+d83050e2: folds
+Hero: folds
+Uncalled bet (2,000) returned to 138ab6a9
+*** SHOWDOWN ***
+138ab6a9 collected 5,200 from pot
+*** SUMMARY ***
+Total pot 5,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 3: Hero (small blind) folded before Flop
+Seat 5: 138ab6a9 (big blind) collected (5,200)
+Seat 8: d83050e2 (button) folded before Flop
+
+
+Poker Hand #TM90826482: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level14(1,500/3,000) - 2026/01/07 17:46:04
+Table '10' 9-max Seat #5 is the button
+Seat 3: Hero (39,998 in chips)
+Seat 5: 138ab6a9 (37,237 in chips)
+Seat 8: d83050e2 (42,765 in chips)
+d83050e2: posts the ante 300
+138ab6a9: posts the ante 300
+Hero: posts the ante 300
+d83050e2: posts small blind 1,500
+Hero: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [5s Ks]
+Dealt to 138ab6a9 
+Dealt to d83050e2 
+138ab6a9: raises 33,937 to 36,937 and is all-in
+d83050e2: folds
+Hero: folds
+Uncalled bet (33,937) returned to 138ab6a9
+*** SHOWDOWN ***
+138ab6a9 collected 8,400 from pot
+*** SUMMARY ***
+Total pot 8,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 3: Hero (big blind) folded before Flop
+Seat 5: 138ab6a9 (button) collected (8,400)
+Seat 8: d83050e2 (small blind) folded before Flop
+
+
+Poker Hand #TM90826480: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level14(1,500/3,000) - 2026/01/07 17:45:45
+Table '10' 9-max Seat #3 is the button
+Seat 3: Hero (43,298 in chips)
+Seat 5: 138ab6a9 (30,637 in chips)
+Seat 8: d83050e2 (46,065 in chips)
+d83050e2: posts the ante 300
+138ab6a9: posts the ante 300
+Hero: posts the ante 300
+138ab6a9: posts small blind 1,500
+d83050e2: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [5s 9d]
+Dealt to 138ab6a9 
+Dealt to d83050e2 
+Hero: calls 3,000
+138ab6a9: raises 27,337 to 30,337 and is all-in
+d83050e2: folds
+Hero: folds
+Uncalled bet (27,337) returned to 138ab6a9
+*** SHOWDOWN ***
+138ab6a9 collected 9,900 from pot
+*** SUMMARY ***
+Total pot 9,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 3: Hero (button) folded before Flop
+Seat 5: 138ab6a9 (small blind) collected (9,900)
+Seat 8: d83050e2 (big blind) folded before Flop
+
+
+Poker Hand #TM90826479: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level14(1,500/3,000) - 2026/01/07 17:45:05
+Table '10' 9-max Seat #8 is the button
+Seat 3: Hero (43,148 in chips)
+Seat 5: 138ab6a9 (30,487 in chips)
+Seat 8: d83050e2 (46,365 in chips)
+d83050e2: posts the ante 300
+138ab6a9: posts the ante 300
+Hero: posts the ante 300
+Hero: posts small blind 1,500
+138ab6a9: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [6d Jd]
+Dealt to 138ab6a9 
+Dealt to d83050e2 
+d83050e2: folds
+Hero: calls 1,500
+138ab6a9: checks
+*** FLOP *** [7d 3c Qd]
+Hero: checks
+138ab6a9: checks
+*** TURN *** [7d 3c Qd] [Ah]
+Hero: checks
+138ab6a9: checks
+*** RIVER *** [7d 3c Qd Ah] [7s]
+Hero: checks
+138ab6a9: checks
+Hero: shows [6d Jd] (a pair of Sevens)
+138ab6a9: shows [Jc 8h] (a pair of Sevens)
+*** SHOWDOWN ***
+138ab6a9 collected 3,450 from pot
+Hero collected 3,450 from pot
+*** SUMMARY ***
+Total pot 6,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d 3c Qd Ah 7s]
+Seat 3: Hero (small blind) showed [6d Jd] and won (3,450) with a pair of Sevens
+Seat 5: 138ab6a9 (big blind) showed [Jc 8h] and won (3,450) with a pair of Sevens
+Seat 8: d83050e2 (button) folded before Flop
+
+
+Poker Hand #TM90826476: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level14(1,500/3,000) - 2026/01/07 17:44:38
+Table '10' 9-max Seat #5 is the button
+Seat 3: Hero (49,122 in chips)
+Seat 5: 138ab6a9 (30,461 in chips)
+Seat 8: d83050e2 (47,837 in chips)
+Seat 9: de7846e1 (47,580 in chips)
+d83050e2: posts the ante 300
+de7846e1: posts the ante 300
+138ab6a9: posts the ante 300
+Hero: posts the ante 300
+d83050e2: posts small blind 1,500
+de7846e1: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [6c Ac]
+Dealt to 138ab6a9 
+Dealt to d83050e2 
+Dealt to de7846e1 
+Hero: raises 3,000 to 6,000
+138ab6a9: folds
+d83050e2: folds
+de7846e1: raises 41,280 to 47,280 and is all-in
+Hero: folds
+Uncalled bet (41,280) returned to de7846e1
+*** SHOWDOWN ***
+de7846e1 collected 14,700 from pot
+*** SUMMARY ***
+Total pot 14,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 3: Hero folded before Flop
+Seat 5: 138ab6a9 (button) folded before Flop
+Seat 8: d83050e2 (small blind) folded before Flop
+Seat 9: de7846e1 (big blind) collected (14,700)
+
+
+Poker Hand #TM90826473: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level14(1,500/3,000) - 2026/01/07 17:43:41
+Table '10' 9-max Seat #3 is the button
+Seat 3: Hero (40,422 in chips)
+Seat 5: 138ab6a9 (23,258 in chips)
+Seat 6: 6d799682 (53,746 in chips)
+Seat 7: 4c240192 (34,557 in chips)
+Seat 8: d83050e2 (39,137 in chips)
+Seat 9: de7846e1 (38,880 in chips)
+6d799682: posts the ante 300
+d83050e2: posts the ante 300
+4c240192: posts the ante 300
+de7846e1: posts the ante 300
+138ab6a9: posts the ante 300
+Hero: posts the ante 300
+138ab6a9: posts small blind 1,500
+6d799682: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [7c 8s]
+Dealt to 138ab6a9 
+Dealt to 6d799682 
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to de7846e1 
+4c240192: raises 6,000 to 9,000
+d83050e2: folds
+de7846e1: folds
+Hero: folds
+138ab6a9: folds
+6d799682: raises 44,446 to 53,446 and is all-in
+4c240192: calls 25,257 and is all-in
+Uncalled bet (19,189) returned to 6d799682
+6d799682: shows [Jd Ac]
+4c240192: shows [9h 9c]
+*** FLOP *** [3d Kd Ah]
+*** TURN *** [3d Kd Ah] [Ad]
+*** RIVER *** [3d Kd Ah Ad] [7h]
+*** SHOWDOWN ***
+6d799682 collected 71,814 from pot
+*** SUMMARY ***
+Total pot 71,814 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d Kd Ah Ad 7h]
+Seat 3: Hero (button) folded before Flop
+Seat 5: 138ab6a9 (small blind) folded before Flop
+Seat 6: 6d799682 (big blind) showed [Jd Ac] and won (71,814) with three of a kind, Aces
+Seat 7: 4c240192 showed [9h 9c] and lost with two pair, Aces and Nines
+Seat 8: d83050e2 folded before Flop
+Seat 9: de7846e1 folded before Flop
+
+
+Poker Hand #TM90826470: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level14(1,500/3,000) - 2026/01/07 17:43:05
+Table '10' 9-max Seat #9 is the button
+Seat 1: 2ea5362e (651 in chips)
+Seat 3: Hero (43,722 in chips)
+Seat 5: 138ab6a9 (18,107 in chips)
+Seat 6: 6d799682 (54,046 in chips)
+Seat 7: 4c240192 (34,857 in chips)
+Seat 8: d83050e2 (39,437 in chips)
+Seat 9: de7846e1 (39,180 in chips)
+6d799682: posts the ante 300
+d83050e2: posts the ante 300
+4c240192: posts the ante 300
+de7846e1: posts the ante 300
+2ea5362e: posts the ante 300
+138ab6a9: posts the ante 300
+Hero: posts the ante 300
+2ea5362e: posts small blind 351
+Hero: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 2ea5362e 
+Dealt to Hero [3h Jd]
+Dealt to 138ab6a9 
+Dealt to 6d799682 
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to de7846e1 
+138ab6a9: raises 14,807 to 17,807 and is all-in
+6d799682: folds
+4c240192: folds
+d83050e2: folds
+de7846e1: folds
+Hero: folds
+Uncalled bet (14,807) returned to 138ab6a9
+138ab6a9: shows [9h Ks]
+2ea5362e: shows [Qd 8s]
+*** FLOP *** [Tc Js Td]
+*** TURN *** [Tc Js Td] [8c]
+*** RIVER *** [Tc Js Td 8c] [Kh]
+*** SHOWDOWN ***
+138ab6a9 collected 3,153 from pot
+138ab6a9 collected 5,298 from pot
+*** SUMMARY ***
+Total pot 8,451 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc Js Td 8c Kh]
+Seat 1: 2ea5362e (small blind) showed [Qd 8s] and lost with two pair, Tens and Eights
+Seat 3: Hero (big blind) folded before Flop
+Seat 5: 138ab6a9 showed [9h Ks] and won (8,451) with two pair, Kings and Tens
+Seat 6: 6d799682 folded before Flop
+Seat 7: 4c240192 folded before Flop
+Seat 8: d83050e2 folded before Flop
+Seat 9: de7846e1 (button) folded before Flop
+
+
+Poker Hand #TM90826465: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level14(1,500/3,000) - 2026/01/07 17:42:17
+Table '10' 9-max Seat #6 is the button
+Seat 1: 2ea5362e (26,474 in chips)
+Seat 3: Hero (44,022 in chips)
+Seat 5: 138ab6a9 (18,407 in chips)
+Seat 6: 6d799682 (25,823 in chips)
+Seat 9: de7846e1 (40,980 in chips)
+6d799682: posts the ante 300
+de7846e1: posts the ante 300
+2ea5362e: posts the ante 300
+138ab6a9: posts the ante 300
+Hero: posts the ante 300
+de7846e1: posts small blind 1,500
+2ea5362e: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 2ea5362e 
+Dealt to Hero [9c Jh]
+Dealt to 138ab6a9 
+Dealt to 6d799682 
+Dealt to de7846e1 
+Hero: folds
+138ab6a9: folds
+6d799682: raises 22,523 to 25,523 and is all-in
+de7846e1: folds
+2ea5362e: calls 22,523
+6d799682: shows [Qs Ad]
+2ea5362e: shows [8s 8d]
+*** FLOP *** [Ac 9h 5h]
+*** TURN *** [Ac 9h 5h] [2h]
+*** RIVER *** [Ac 9h 5h 2h] [Ts]
+*** SHOWDOWN ***
+6d799682 collected 54,046 from pot
+*** SUMMARY ***
+Total pot 54,046 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 9h 5h 2h Ts]
+Seat 1: 2ea5362e (big blind) showed [8s 8d] and lost with a pair of Eights
+Seat 3: Hero folded before Flop
+Seat 5: 138ab6a9 folded before Flop
+Seat 6: 6d799682 (button) showed [Qs Ad] and won (54,046) with a pair of Aces
+Seat 9: de7846e1 (small blind) folded before Flop
+
+
+Poker Hand #TM90882080: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level14(1,500/3,000) - 2026/01/07 17:41:36
+Table '9' 9-max Seat #9 is the button
+Seat 1: 4c240192 (35,631 in chips)
+Seat 2: d83050e2 (41,715 in chips)
+Seat 3: 138ab6a9 (17,685 in chips)
+Seat 4: 2ea5362e (25,752 in chips)
+Seat 8: fe0003eb (54,114 in chips)
+Seat 9: Hero (43,300 in chips)
+d83050e2: posts the ante 300
+4c240192: posts the ante 300
+2ea5362e: posts the ante 300
+138ab6a9: posts the ante 300
+fe0003eb: posts the ante 300
+Hero: posts the ante 300
+4c240192: posts small blind 1,500
+d83050e2: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to fe0003eb 
+Dealt to Hero [Kh 2s]
+138ab6a9: folds
+2ea5362e: folds
+fe0003eb: raises 3,600 to 6,600
+Hero: folds
+4c240192: folds
+d83050e2: folds
+Uncalled bet (3,600) returned to fe0003eb
+*** SHOWDOWN ***
+fe0003eb collected 9,300 from pot
+*** SUMMARY ***
+Total pot 9,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 (small blind) folded before Flop
+Seat 2: d83050e2 (big blind) folded before Flop
+Seat 3: 138ab6a9 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 8: fe0003eb collected (9,300)
+Seat 9: Hero (button) folded before Flop
+
+
+Poker Hand #TM90882079: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level14(1,500/3,000) - 2026/01/07 17:41:16
+Table '9' 9-max Seat #8 is the button
+Seat 1: 4c240192 (38,931 in chips)
+Seat 2: d83050e2 (42,015 in chips)
+Seat 3: 138ab6a9 (17,985 in chips)
+Seat 4: 2ea5362e (26,052 in chips)
+Seat 8: fe0003eb (48,114 in chips)
+Seat 9: Hero (45,100 in chips)
+d83050e2: posts the ante 300
+4c240192: posts the ante 300
+2ea5362e: posts the ante 300
+138ab6a9: posts the ante 300
+fe0003eb: posts the ante 300
+Hero: posts the ante 300
+Hero: posts small blind 1,500
+4c240192: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to fe0003eb 
+Dealt to Hero [Js 6d]
+d83050e2: folds
+138ab6a9: folds
+2ea5362e: folds
+fe0003eb: raises 44,814 to 47,814 and is all-in
+Hero: folds
+4c240192: folds
+Uncalled bet (44,814) returned to fe0003eb
+*** SHOWDOWN ***
+fe0003eb collected 9,300 from pot
+*** SUMMARY ***
+Total pot 9,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 (big blind) folded before Flop
+Seat 2: d83050e2 folded before Flop
+Seat 3: 138ab6a9 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 8: fe0003eb (button) collected (9,300)
+Seat 9: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM90882077: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/07 17:40:30
+Table '9' 9-max Seat #4 is the button
+Seat 1: 4c240192 (39,131 in chips)
+Seat 2: d83050e2 (42,215 in chips)
+Seat 3: 138ab6a9 (18,185 in chips)
+Seat 4: 2ea5362e (26,252 in chips)
+Seat 7: d8d7e8cf (3,990 in chips)
+Seat 8: fe0003eb (50,314 in chips)
+Seat 9: Hero (38,110 in chips)
+d83050e2: posts the ante 200
+4c240192: posts the ante 200
+d8d7e8cf: posts the ante 200
+2ea5362e: posts the ante 200
+138ab6a9: posts the ante 200
+fe0003eb: posts the ante 200
+Hero: posts the ante 200
+d8d7e8cf: posts small blind 1,000
+fe0003eb: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [3c 3h]
+Hero: raises 2,000 to 4,000
+4c240192: folds
+d83050e2: folds
+138ab6a9: folds
+2ea5362e: folds
+d8d7e8cf: calls 2,790 and is all-in
+fe0003eb: folds
+Uncalled bet (210) returned to Hero
+Hero: shows [3c 3h]
+d8d7e8cf: shows [Ks 6d]
+*** FLOP *** [5s 4s 8h]
+*** TURN *** [5s 4s 8h] [8d]
+*** RIVER *** [5s 4s 8h 8d] [Jd]
+4c240192: shows [4h 3s] (two pair, Eights and Fours)
+*** SHOWDOWN ***
+Hero collected 10,980 from pot
+*** SUMMARY ***
+Total pot 10,980 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 4s 8h 8d Jd]
+Seat 1: 4c240192 folded before Flop
+Seat 2: d83050e2 folded before Flop
+Seat 3: 138ab6a9 folded before Flop
+Seat 4: 2ea5362e (button) folded before Flop
+Seat 7: d8d7e8cf (small blind) showed [Ks 6d] and lost with a pair of Eights
+Seat 8: fe0003eb (big blind) folded before Flop
+Seat 9: Hero showed [3c 3h] and won (10,980) with two pair, Eights and Threes
+
+
+Poker Hand #TM90882075: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/07 17:40:01
+Table '9' 9-max Seat #3 is the button
+Seat 1: 4c240192 (39,331 in chips)
+Seat 2: d83050e2 (38,015 in chips)
+Seat 3: 138ab6a9 (18,385 in chips)
+Seat 4: 2ea5362e (27,452 in chips)
+Seat 7: d8d7e8cf (6,190 in chips)
+Seat 8: fe0003eb (50,514 in chips)
+Seat 9: Hero (38,310 in chips)
+d83050e2: posts the ante 200
+4c240192: posts the ante 200
+d8d7e8cf: posts the ante 200
+2ea5362e: posts the ante 200
+138ab6a9: posts the ante 200
+fe0003eb: posts the ante 200
+Hero: posts the ante 200
+2ea5362e: posts small blind 1,000
+d8d7e8cf: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [7h 6c]
+fe0003eb: folds
+Hero: folds
+4c240192: folds
+d83050e2: raises 2,000 to 4,000
+138ab6a9: folds
+2ea5362e: folds
+d8d7e8cf: folds
+Uncalled bet (2,000) returned to d83050e2
+*** SHOWDOWN ***
+d83050e2 collected 6,400 from pot
+*** SUMMARY ***
+Total pot 6,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 folded before Flop
+Seat 2: d83050e2 collected (6,400)
+Seat 3: 138ab6a9 (button) folded before Flop
+Seat 4: 2ea5362e (small blind) folded before Flop
+Seat 7: d8d7e8cf (big blind) folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882073: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/07 17:39:15
+Table '9' 9-max Seat #2 is the button
+Seat 1: 4c240192 (33,131 in chips)
+Seat 2: d83050e2 (38,215 in chips)
+Seat 3: 138ab6a9 (19,585 in chips)
+Seat 4: 2ea5362e (31,652 in chips)
+Seat 7: d8d7e8cf (6,390 in chips)
+Seat 8: fe0003eb (50,714 in chips)
+Seat 9: Hero (38,510 in chips)
+d83050e2: posts the ante 200
+4c240192: posts the ante 200
+d8d7e8cf: posts the ante 200
+2ea5362e: posts the ante 200
+138ab6a9: posts the ante 200
+fe0003eb: posts the ante 200
+Hero: posts the ante 200
+138ab6a9: posts small blind 1,000
+2ea5362e: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Qd 3s]
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: folds
+4c240192: raises 2,000 to 4,000
+d83050e2: folds
+138ab6a9: folds
+2ea5362e: calls 2,000
+*** FLOP *** [9c Td 2h]
+2ea5362e: checks
+4c240192: bets 3,432
+2ea5362e: folds
+Uncalled bet (3,432) returned to 4c240192
+*** SHOWDOWN ***
+4c240192 collected 10,400 from pot
+*** SUMMARY ***
+Total pot 10,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c Td 2h]
+Seat 1: 4c240192 won (10,400)
+Seat 2: d83050e2 (button) folded before Flop
+Seat 3: 138ab6a9 (small blind) folded before Flop
+Seat 4: 2ea5362e (big blind) folded on the Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882072: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/07 17:38:46
+Table '9' 9-max Seat #1 is the button
+Seat 1: 4c240192 (33,331 in chips)
+Seat 2: d83050e2 (39,415 in chips)
+Seat 3: 138ab6a9 (21,785 in chips)
+Seat 4: 2ea5362e (31,852 in chips)
+Seat 7: d8d7e8cf (6,590 in chips)
+Seat 8: fe0003eb (46,514 in chips)
+Seat 9: Hero (38,710 in chips)
+d83050e2: posts the ante 200
+4c240192: posts the ante 200
+d8d7e8cf: posts the ante 200
+2ea5362e: posts the ante 200
+138ab6a9: posts the ante 200
+fe0003eb: posts the ante 200
+Hero: posts the ante 200
+d83050e2: posts small blind 1,000
+138ab6a9: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Qs 2h]
+2ea5362e: folds
+d8d7e8cf: folds
+fe0003eb: raises 2,000 to 4,000
+Hero: folds
+4c240192: folds
+d83050e2: folds
+138ab6a9: folds
+Uncalled bet (2,000) returned to fe0003eb
+*** SHOWDOWN ***
+fe0003eb collected 6,400 from pot
+*** SUMMARY ***
+Total pot 6,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 (button) folded before Flop
+Seat 2: d83050e2 (small blind) folded before Flop
+Seat 3: 138ab6a9 (big blind) folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb collected (6,400)
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882070: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/07 17:38:01
+Table '9' 9-max Seat #9 is the button
+Seat 1: 4c240192 (37,531 in chips)
+Seat 2: d83050e2 (43,615 in chips)
+Seat 3: 138ab6a9 (21,985 in chips)
+Seat 4: 2ea5362e (32,052 in chips)
+Seat 7: d8d7e8cf (6,790 in chips)
+Seat 8: fe0003eb (46,714 in chips)
+Seat 9: Hero (29,510 in chips)
+d83050e2: posts the ante 200
+4c240192: posts the ante 200
+d8d7e8cf: posts the ante 200
+2ea5362e: posts the ante 200
+138ab6a9: posts the ante 200
+fe0003eb: posts the ante 200
+Hero: posts the ante 200
+4c240192: posts small blind 1,000
+d83050e2: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [9h Td]
+138ab6a9: folds
+2ea5362e: folds
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: raises 2,000 to 4,000
+4c240192: calls 3,000
+d83050e2: calls 2,000
+*** FLOP *** [2h 3c Tc]
+4c240192: checks
+d83050e2: checks
+Hero: bets 5,400
+4c240192: folds
+d83050e2: folds
+Uncalled bet (5,400) returned to Hero
+*** SHOWDOWN ***
+Hero collected 13,400 from pot
+*** SUMMARY ***
+Total pot 13,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 3c Tc]
+Seat 1: 4c240192 (small blind) folded on the Flop
+Seat 2: d83050e2 (big blind) folded on the Flop
+Seat 3: 138ab6a9 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero (button) won (13,400)
+
+
+Poker Hand #TM90882067: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/07 17:37:37
+Table '9' 9-max Seat #8 is the button
+Seat 1: 4c240192 (39,731 in chips)
+Seat 2: d83050e2 (43,815 in chips)
+Seat 3: 138ab6a9 (22,185 in chips)
+Seat 4: 2ea5362e (27,852 in chips)
+Seat 7: d8d7e8cf (6,990 in chips)
+Seat 8: fe0003eb (46,914 in chips)
+Seat 9: Hero (30,710 in chips)
+d83050e2: posts the ante 200
+4c240192: posts the ante 200
+d8d7e8cf: posts the ante 200
+2ea5362e: posts the ante 200
+138ab6a9: posts the ante 200
+fe0003eb: posts the ante 200
+Hero: posts the ante 200
+Hero: posts small blind 1,000
+4c240192: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [6c Th]
+d83050e2: folds
+138ab6a9: folds
+2ea5362e: raises 25,652 to 27,652 and is all-in
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: folds
+4c240192: folds
+Uncalled bet (25,652) returned to 2ea5362e
+*** SHOWDOWN ***
+2ea5362e collected 6,400 from pot
+*** SUMMARY ***
+Total pot 6,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 (big blind) folded before Flop
+Seat 2: d83050e2 folded before Flop
+Seat 3: 138ab6a9 folded before Flop
+Seat 4: 2ea5362e collected (6,400)
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb (button) folded before Flop
+Seat 9: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM90882065: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/07 17:37:08
+Table '9' 9-max Seat #7 is the button
+Seat 1: 4c240192 (39,931 in chips)
+Seat 2: d83050e2 (44,015 in chips)
+Seat 3: 138ab6a9 (22,385 in chips)
+Seat 4: 2ea5362e (28,052 in chips)
+Seat 7: d8d7e8cf (7,190 in chips)
+Seat 8: fe0003eb (43,714 in chips)
+Seat 9: Hero (32,910 in chips)
+d83050e2: posts the ante 200
+4c240192: posts the ante 200
+d8d7e8cf: posts the ante 200
+2ea5362e: posts the ante 200
+138ab6a9: posts the ante 200
+fe0003eb: posts the ante 200
+Hero: posts the ante 200
+fe0003eb: posts small blind 1,000
+Hero: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Qh 3s]
+4c240192: folds
+d83050e2: folds
+138ab6a9: folds
+2ea5362e: folds
+d8d7e8cf: folds
+fe0003eb: raises 3,400 to 5,400
+Hero: folds
+Uncalled bet (3,400) returned to fe0003eb
+*** SHOWDOWN ***
+fe0003eb collected 5,400 from pot
+*** SUMMARY ***
+Total pot 5,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 folded before Flop
+Seat 2: d83050e2 folded before Flop
+Seat 3: 138ab6a9 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 7: d8d7e8cf (button) folded before Flop
+Seat 8: fe0003eb (small blind) collected (5,400)
+Seat 9: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM90882064: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/07 17:36:37
+Table '9' 9-max Seat #4 is the button
+Seat 1: 4c240192 (40,131 in chips)
+Seat 2: d83050e2 (44,215 in chips)
+Seat 3: 138ab6a9 (22,585 in chips)
+Seat 4: 2ea5362e (19,852 in chips)
+Seat 7: d8d7e8cf (8,390 in chips)
+Seat 8: fe0003eb (45,914 in chips)
+Seat 9: Hero (37,110 in chips)
+d83050e2: posts the ante 200
+4c240192: posts the ante 200
+d8d7e8cf: posts the ante 200
+2ea5362e: posts the ante 200
+138ab6a9: posts the ante 200
+fe0003eb: posts the ante 200
+Hero: posts the ante 200
+d8d7e8cf: posts small blind 1,000
+fe0003eb: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [6h Ah]
+Hero: raises 2,000 to 4,000
+4c240192: folds
+d83050e2: folds
+138ab6a9: folds
+2ea5362e: raises 15,652 to 19,652 and is all-in
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: folds
+Uncalled bet (15,652) returned to 2ea5362e
+*** SHOWDOWN ***
+2ea5362e collected 12,400 from pot
+*** SUMMARY ***
+Total pot 12,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 folded before Flop
+Seat 2: d83050e2 folded before Flop
+Seat 3: 138ab6a9 folded before Flop
+Seat 4: 2ea5362e (button) showed [Ac] and collected (12,400)
+Seat 7: d8d7e8cf (small blind) folded before Flop
+Seat 8: fe0003eb (big blind) folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882063: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/07 17:35:50
+Table '9' 9-max Seat #3 is the button
+Seat 1: 4c240192 (35,481 in chips)
+Seat 2: d83050e2 (44,365 in chips)
+Seat 3: 138ab6a9 (22,735 in chips)
+Seat 4: 2ea5362e (20,752 in chips)
+Seat 7: d8d7e8cf (11,540 in chips)
+Seat 8: fe0003eb (46,064 in chips)
+Seat 9: Hero (37,260 in chips)
+d83050e2: posts the ante 150
+4c240192: posts the ante 150
+d8d7e8cf: posts the ante 150
+2ea5362e: posts the ante 150
+138ab6a9: posts the ante 150
+fe0003eb: posts the ante 150
+Hero: posts the ante 150
+2ea5362e: posts small blind 750
+d8d7e8cf: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [6s 5d]
+fe0003eb: folds
+Hero: folds
+4c240192: calls 1,500
+d83050e2: folds
+138ab6a9: folds
+2ea5362e: folds
+d8d7e8cf: checks
+*** FLOP *** [Ts 4s 2h]
+d8d7e8cf: checks
+4c240192: bets 1,500
+d8d7e8cf: calls 1,500
+*** TURN *** [Ts 4s 2h] [8c]
+d8d7e8cf: checks
+4c240192: checks
+*** RIVER *** [Ts 4s 2h 8c] [7c]
+d8d7e8cf: checks
+4c240192: checks
+d8d7e8cf: shows [Qs 9s] (Queen high)
+4c240192: shows [6d Ah] (Ace high)
+*** SHOWDOWN ***
+4c240192 collected 7,800 from pot
+*** SUMMARY ***
+Total pot 7,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 4s 2h 8c 7c]
+Seat 1: 4c240192 showed [6d Ah] and won (7,800) with Ace high
+Seat 2: d83050e2 folded before Flop
+Seat 3: 138ab6a9 (button) folded before Flop
+Seat 4: 2ea5362e (small blind) folded before Flop
+Seat 7: d8d7e8cf (big blind) showed [Qs 9s] and lost with Queen high
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882062: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/07 17:34:46
+Table '9' 9-max Seat #2 is the button
+Seat 1: 4c240192 (35,631 in chips)
+Seat 2: d83050e2 (44,515 in chips)
+Seat 3: 138ab6a9 (23,635 in chips)
+Seat 4: 2ea5362e (24,052 in chips)
+Seat 7: d8d7e8cf (11,690 in chips)
+Seat 8: fe0003eb (41,264 in chips)
+Seat 9: Hero (37,410 in chips)
+d83050e2: posts the ante 150
+4c240192: posts the ante 150
+d8d7e8cf: posts the ante 150
+2ea5362e: posts the ante 150
+138ab6a9: posts the ante 150
+fe0003eb: posts the ante 150
+Hero: posts the ante 150
+138ab6a9: posts small blind 750
+2ea5362e: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [3h 7h]
+d8d7e8cf: folds
+fe0003eb: raises 1,650 to 3,150
+Hero: folds
+4c240192: folds
+d83050e2: folds
+138ab6a9: folds
+2ea5362e: calls 1,650
+*** FLOP *** [Tc 2d Jh]
+2ea5362e: checks
+fe0003eb: checks
+*** TURN *** [Tc 2d Jh] [5h]
+2ea5362e: checks
+fe0003eb: checks
+*** RIVER *** [Tc 2d Jh 5h] [8h]
+2ea5362e: checks
+fe0003eb: checks
+2ea5362e: shows [2c 3c] (a pair of Twos)
+fe0003eb: shows [6h 6d] (a pair of Sixes)
+*** SHOWDOWN ***
+fe0003eb collected 8,100 from pot
+*** SUMMARY ***
+Total pot 8,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 2d Jh 5h 8h]
+Seat 1: 4c240192 folded before Flop
+Seat 2: d83050e2 (button) folded before Flop
+Seat 3: 138ab6a9 (small blind) folded before Flop
+Seat 4: 2ea5362e (big blind) showed [2c 3c] and lost with a pair of Twos
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb showed [6h 6d] and won (8,100) with a pair of Sixes
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882060: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/07 17:34:04
+Table '9' 9-max Seat #1 is the button
+Seat 1: 4c240192 (35,781 in chips)
+Seat 2: d83050e2 (45,415 in chips)
+Seat 3: 138ab6a9 (25,285 in chips)
+Seat 4: 2ea5362e (24,202 in chips)
+Seat 6: 2ce38877 (9,871 in chips)
+Seat 7: d8d7e8cf (11,840 in chips)
+Seat 8: fe0003eb (28,243 in chips)
+Seat 9: Hero (37,560 in chips)
+d83050e2: posts the ante 150
+4c240192: posts the ante 150
+2ce38877: posts the ante 150
+d8d7e8cf: posts the ante 150
+2ea5362e: posts the ante 150
+138ab6a9: posts the ante 150
+fe0003eb: posts the ante 150
+Hero: posts the ante 150
+d83050e2: posts small blind 750
+138ab6a9: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Jc 2h]
+2ea5362e: folds
+2ce38877: raises 8,221 to 9,721 and is all-in
+d8d7e8cf: folds
+fe0003eb: raises 18,372 to 28,093 and is all-in
+Hero: folds
+4c240192: folds
+d83050e2: folds
+138ab6a9: folds
+Uncalled bet (18,372) returned to fe0003eb
+fe0003eb: shows [Qd Ah]
+2ce38877: shows [Js Jd]
+*** FLOP *** [Ks 4h 3d]
+*** TURN *** [Ks 4h 3d] [Qh]
+*** RIVER *** [Ks 4h 3d Qh] [7c]
+*** SHOWDOWN ***
+fe0003eb collected 22,892 from pot
+*** SUMMARY ***
+Total pot 22,892 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 4h 3d Qh 7c]
+Seat 1: 4c240192 (button) folded before Flop
+Seat 2: d83050e2 (small blind) folded before Flop
+Seat 3: 138ab6a9 (big blind) folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 6: 2ce38877 showed [Js Jd] and lost with a pair of Jacks
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb showed [Qd Ah] and won (22,892) with a pair of Queens
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882057: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/07 17:33:23
+Table '9' 9-max Seat #9 is the button
+Seat 1: 4c240192 (36,681 in chips)
+Seat 2: d83050e2 (47,065 in chips)
+Seat 3: 138ab6a9 (25,435 in chips)
+Seat 4: 2ea5362e (24,352 in chips)
+Seat 6: 2ce38877 (8,296 in chips)
+Seat 7: d8d7e8cf (11,990 in chips)
+Seat 8: fe0003eb (26,668 in chips)
+Seat 9: Hero (37,710 in chips)
+d83050e2: posts the ante 150
+2ce38877: posts the ante 150
+4c240192: posts the ante 150
+d8d7e8cf: posts the ante 150
+2ea5362e: posts the ante 150
+138ab6a9: posts the ante 150
+fe0003eb: posts the ante 150
+Hero: posts the ante 150
+4c240192: posts small blind 750
+d83050e2: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [8s Qd]
+138ab6a9: folds
+2ea5362e: folds
+2ce38877: raises 6,646 to 8,146 and is all-in
+d8d7e8cf: folds
+fe0003eb: raises 18,372 to 26,518 and is all-in
+Hero: folds
+4c240192: folds
+d83050e2: folds
+Uncalled bet (18,372) returned to fe0003eb
+fe0003eb: shows [Qs Jh]
+2ce38877: shows [9c Qc]
+*** FLOP *** [Kc Kh Qh]
+*** TURN *** [Kc Kh Qh] [3d]
+*** RIVER *** [Kc Kh Qh 3d] [Ks]
+*** SHOWDOWN ***
+fe0003eb collected 9,871 from pot
+2ce38877 collected 9,871 from pot
+*** SUMMARY ***
+Total pot 19,742 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc Kh Qh 3d Ks]
+Seat 1: 4c240192 (small blind) folded before Flop
+Seat 2: d83050e2 (big blind) folded before Flop
+Seat 3: 138ab6a9 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 6: 2ce38877 showed [9c Qc] and won (9,871) with a full house, Kings full of Queens
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb showed [Qs Jh] and won (9,871) with a full house, Kings full of Queens
+Seat 9: Hero (button) folded before Flop
+
+
+Poker Hand #TM90882055: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/07 17:32:30
+Table '9' 9-max Seat #8 is the button
+Seat 1: 4c240192 (24,134 in chips)
+Seat 2: d83050e2 (47,215 in chips)
+Seat 3: 138ab6a9 (25,585 in chips)
+Seat 4: 2ea5362e (24,502 in chips)
+Seat 6: 2ce38877 (8,446 in chips)
+Seat 7: d8d7e8cf (12,140 in chips)
+Seat 8: fe0003eb (26,818 in chips)
+Seat 9: Hero (49,357 in chips)
+d83050e2: posts the ante 150
+2ce38877: posts the ante 150
+4c240192: posts the ante 150
+d8d7e8cf: posts the ante 150
+2ea5362e: posts the ante 150
+138ab6a9: posts the ante 150
+fe0003eb: posts the ante 150
+Hero: posts the ante 150
+Hero: posts small blind 750
+4c240192: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to d83050e2 
+Dealt to 138ab6a9 
+Dealt to 2ea5362e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Ac 5s]
+d83050e2: folds
+138ab6a9: folds
+2ea5362e: folds
+2ce38877: folds
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: raises 1,500 to 3,000
+4c240192: calls 1,500
+*** FLOP *** [6h 7d 3s]
+Hero: bets 2,160
+4c240192: calls 2,160
+*** TURN *** [6h 7d 3s] [Jd]
+Hero: checks
+4c240192: checks
+*** RIVER *** [6h 7d 3s Jd] [Kh]
+Hero: bets 6,337
+4c240192: calls 6,337
+Hero: shows [Ac 5s] (Ace high)
+4c240192: shows [Kd 4d] (a pair of Kings)
+*** SHOWDOWN ***
+4c240192 collected 24,194 from pot
+*** SUMMARY ***
+Total pot 24,194 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 7d 3s Jd Kh]
+Seat 1: 4c240192 (big blind) showed [Kd 4d] and won (24,194) with a pair of Kings
+Seat 2: d83050e2 folded before Flop
+Seat 3: 138ab6a9 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb (button) folded before Flop
+Seat 9: Hero (small blind) showed [Ac 5s] and lost with Ace high
+
+
+Poker Hand #TM90882052: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/07 17:31:35
+Table '9' 9-max Seat #7 is the button
+Seat 1: 4c240192 (24,284 in chips)
+Seat 4: 2ea5362e (24,652 in chips)
+Seat 5: 1248dc9e (19,797 in chips)
+Seat 6: 2ce38877 (8,596 in chips)
+Seat 7: d8d7e8cf (12,290 in chips)
+Seat 8: fe0003eb (27,718 in chips)
+Seat 9: Hero (28,060 in chips)
+2ce38877: posts the ante 150
+4c240192: posts the ante 150
+d8d7e8cf: posts the ante 150
+1248dc9e: posts the ante 150
+2ea5362e: posts the ante 150
+fe0003eb: posts the ante 150
+Hero: posts the ante 150
+fe0003eb: posts small blind 750
+Hero: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Ts Th]
+4c240192: folds
+2ea5362e: folds
+1248dc9e: raises 18,147 to 19,647 and is all-in
+2ce38877: folds
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: calls 18,147
+1248dc9e: shows [Td Ad]
+Hero: shows [Ts Th]
+*** FLOP *** [Jc 9h 6c]
+*** TURN *** [Jc 9h 6c] [4h]
+*** RIVER *** [Jc 9h 6c 4h] [Tc]
+*** SHOWDOWN ***
+Hero collected 41,094 from pot
+*** SUMMARY ***
+Total pot 41,094 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc 9h 6c 4h Tc]
+Seat 1: 4c240192 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 1248dc9e showed [Td Ad] and lost with a pair of Tens
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf (button) folded before Flop
+Seat 8: fe0003eb (small blind) folded before Flop
+Seat 9: Hero (big blind) showed [Ts Th] and won (41,094) with three of a kind, Tens
+
+
+Poker Hand #TM90882049: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/07 17:31:08
+Table '9' 9-max Seat #6 is the button
+Seat 1: 4c240192 (24,384 in chips)
+Seat 4: 2ea5362e (24,752 in chips)
+Seat 5: 1248dc9e (21,897 in chips)
+Seat 6: 2ce38877 (8,696 in chips)
+Seat 7: d8d7e8cf (12,890 in chips)
+Seat 8: fe0003eb (24,618 in chips)
+Seat 9: Hero (28,160 in chips)
+2ce38877: posts the ante 100
+4c240192: posts the ante 100
+1248dc9e: posts the ante 100
+d8d7e8cf: posts the ante 100
+2ea5362e: posts the ante 100
+fe0003eb: posts the ante 100
+Hero: posts the ante 100
+d8d7e8cf: posts small blind 500
+fe0003eb: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [8d 2h]
+Hero: folds
+4c240192: folds
+2ea5362e: folds
+1248dc9e: raises 1,000 to 2,000
+2ce38877: folds
+d8d7e8cf: folds
+fe0003eb: raises 22,518 to 24,518 and is all-in
+1248dc9e: folds
+Uncalled bet (22,518) returned to fe0003eb
+*** SHOWDOWN ***
+fe0003eb collected 5,200 from pot
+*** SUMMARY ***
+Total pot 5,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 1248dc9e folded before Flop
+Seat 6: 2ce38877 (button) folded before Flop
+Seat 7: d8d7e8cf (small blind) folded before Flop
+Seat 8: fe0003eb (big blind) collected (5,200)
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882046: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/07 17:30:48
+Table '9' 9-max Seat #5 is the button
+Seat 1: 4c240192 (24,484 in chips)
+Seat 4: 2ea5362e (24,852 in chips)
+Seat 5: 1248dc9e (21,997 in chips)
+Seat 6: 2ce38877 (7,096 in chips)
+Seat 7: d8d7e8cf (13,990 in chips)
+Seat 8: fe0003eb (24,718 in chips)
+Seat 9: Hero (28,260 in chips)
+4c240192: posts the ante 100
+2ce38877: posts the ante 100
+1248dc9e: posts the ante 100
+d8d7e8cf: posts the ante 100
+2ea5362e: posts the ante 100
+fe0003eb: posts the ante 100
+Hero: posts the ante 100
+2ce38877: posts small blind 500
+d8d7e8cf: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Td 6s]
+fe0003eb: folds
+Hero: folds
+4c240192: folds
+2ea5362e: folds
+1248dc9e: folds
+2ce38877: raises 5,996 to 6,996 and is all-in
+d8d7e8cf: folds
+Uncalled bet (5,996) returned to 2ce38877
+*** SHOWDOWN ***
+2ce38877 collected 2,700 from pot
+*** SUMMARY ***
+Total pot 2,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 1248dc9e (button) folded before Flop
+Seat 6: 2ce38877 (small blind) collected (2,700)
+Seat 7: d8d7e8cf (big blind) folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882044: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/07 17:30:06
+Table '9' 9-max Seat #4 is the button
+Seat 1: 4c240192 (24,584 in chips)
+Seat 4: 2ea5362e (22,752 in chips)
+Seat 5: 1248dc9e (22,597 in chips)
+Seat 6: 2ce38877 (8,196 in chips)
+Seat 7: d8d7e8cf (14,090 in chips)
+Seat 8: fe0003eb (24,818 in chips)
+Seat 9: Hero (28,360 in chips)
+4c240192: posts the ante 100
+2ce38877: posts the ante 100
+d8d7e8cf: posts the ante 100
+1248dc9e: posts the ante 100
+2ea5362e: posts the ante 100
+fe0003eb: posts the ante 100
+Hero: posts the ante 100
+1248dc9e: posts small blind 500
+2ce38877: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Ac 2h]
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: folds
+4c240192: folds
+2ea5362e: calls 1,000
+1248dc9e: folds
+2ce38877: checks
+*** FLOP *** [7c 5c 4d]
+2ce38877: checks
+2ea5362e: bets 1,056
+2ce38877: folds
+Uncalled bet (1,056) returned to 2ea5362e
+*** SHOWDOWN ***
+2ea5362e collected 3,200 from pot
+*** SUMMARY ***
+Total pot 3,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 5c 4d]
+Seat 1: 4c240192 folded before Flop
+Seat 4: 2ea5362e (button) won (3,200)
+Seat 5: 1248dc9e (small blind) folded before Flop
+Seat 6: 2ce38877 (big blind) folded on the Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882041: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/07 17:29:12
+Table '9' 9-max Seat #1 is the button
+Seat 1: 4c240192 (24,684 in chips)
+Seat 3: ef2d4820 (4,170 in chips)
+Seat 4: 2ea5362e (17,982 in chips)
+Seat 5: 1248dc9e (22,697 in chips)
+Seat 6: 2ce38877 (8,296 in chips)
+Seat 7: d8d7e8cf (14,190 in chips)
+Seat 8: fe0003eb (24,918 in chips)
+Seat 9: Hero (28,460 in chips)
+4c240192: posts the ante 100
+2ce38877: posts the ante 100
+d8d7e8cf: posts the ante 100
+1248dc9e: posts the ante 100
+2ea5362e: posts the ante 100
+fe0003eb: posts the ante 100
+Hero: posts the ante 100
+ef2d4820: posts the ante 100
+ef2d4820: posts small blind 500
+2ea5362e: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [3s Qh]
+1248dc9e: folds
+2ce38877: folds
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: folds
+4c240192: folds
+ef2d4820: raises 3,070 to 4,070 and is all-in
+2ea5362e: calls 3,070
+ef2d4820: shows [Tc 3h]
+2ea5362e: shows [Ts Kc]
+*** FLOP *** [Th 9d Qs]
+*** TURN *** [Th 9d Qs] [9h]
+*** RIVER *** [Th 9d Qs 9h] [5h]
+*** SHOWDOWN ***
+2ea5362e collected 8,940 from pot
+*** SUMMARY ***
+Total pot 8,940 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th 9d Qs 9h 5h]
+Seat 1: 4c240192 (button) folded before Flop
+Seat 3: ef2d4820 (small blind) showed [Tc 3h] and lost with two pair, Tens and Nines
+Seat 4: 2ea5362e (big blind) showed [Ts Kc] and won (8,940) with two pair, Tens and Nines
+Seat 5: 1248dc9e folded before Flop
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882037: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/07 17:28:16
+Table '9' 9-max Seat #9 is the button
+Seat 1: 4c240192 (25,284 in chips)
+Seat 3: ef2d4820 (6,270 in chips)
+Seat 4: 2ea5362e (18,082 in chips)
+Seat 5: 1248dc9e (22,797 in chips)
+Seat 6: 2ce38877 (8,396 in chips)
+Seat 7: d8d7e8cf (14,290 in chips)
+Seat 8: fe0003eb (25,018 in chips)
+Seat 9: Hero (25,260 in chips)
+2ce38877: posts the ante 100
+4c240192: posts the ante 100
+d8d7e8cf: posts the ante 100
+1248dc9e: posts the ante 100
+2ea5362e: posts the ante 100
+fe0003eb: posts the ante 100
+Hero: posts the ante 100
+ef2d4820: posts the ante 100
+4c240192: posts small blind 500
+ef2d4820: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Th 7h]
+2ea5362e: folds
+1248dc9e: folds
+2ce38877: folds
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: raises 1,000 to 2,000
+4c240192: folds
+ef2d4820: calls 1,000
+*** FLOP *** [Tc Jh As]
+ef2d4820: checks
+Hero: bets 1,000
+ef2d4820: folds
+Uncalled bet (1,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 5,300 from pot
+*** SUMMARY ***
+Total pot 5,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc Jh As]
+Seat 1: 4c240192 (small blind) folded before Flop
+Seat 3: ef2d4820 (big blind) folded on the Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 1248dc9e folded before Flop
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero (button) won (5,300)
+
+
+Poker Hand #TM90882034: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/07 17:27:26
+Table '9' 9-max Seat #8 is the button
+Seat 1: 4c240192 (20,706 in chips)
+Seat 3: ef2d4820 (6,370 in chips)
+Seat 4: 2ea5362e (18,182 in chips)
+Seat 5: 1248dc9e (22,897 in chips)
+Seat 6: 2ce38877 (8,496 in chips)
+Seat 7: d8d7e8cf (17,768 in chips)
+Seat 8: fe0003eb (25,118 in chips)
+Seat 9: Hero (25,860 in chips)
+2ce38877: posts the ante 100
+4c240192: posts the ante 100
+d8d7e8cf: posts the ante 100
+1248dc9e: posts the ante 100
+2ea5362e: posts the ante 100
+fe0003eb: posts the ante 100
+ef2d4820: posts the ante 100
+Hero: posts the ante 100
+Hero: posts small blind 500
+4c240192: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [4d 5s]
+ef2d4820: folds
+2ea5362e: folds
+1248dc9e: folds
+2ce38877: folds
+d8d7e8cf: raises 1,000 to 2,000
+fe0003eb: folds
+Hero: folds
+4c240192: calls 1,000
+*** FLOP *** [Qc 2c 2h]
+4c240192: checks
+d8d7e8cf: bets 1,378
+4c240192: calls 1,378
+*** TURN *** [Qc 2c 2h] [Ac]
+4c240192: checks
+d8d7e8cf: checks
+*** RIVER *** [Qc 2c 2h Ac] [8d]
+4c240192: checks
+d8d7e8cf: checks
+4c240192: shows [Ks 8h] (two pair, Eights and Twos)
+d8d7e8cf: shows [Jd Kc] (a pair of Twos)
+*** SHOWDOWN ***
+4c240192 collected 8,056 from pot
+*** SUMMARY ***
+Total pot 8,056 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc 2c 2h Ac 8d]
+Seat 1: 4c240192 (big blind) showed [Ks 8h] and won (8,056) with two pair, Eights and Twos
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 1248dc9e folded before Flop
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf showed [Jd Kc] and lost with a pair of Twos
+Seat 8: fe0003eb (button) folded before Flop
+Seat 9: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM90882031: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/07 17:26:54
+Table '9' 9-max Seat #7 is the button
+Seat 1: 4c240192 (18,506 in chips)
+Seat 3: ef2d4820 (6,470 in chips)
+Seat 4: 2ea5362e (18,282 in chips)
+Seat 5: 1248dc9e (22,997 in chips)
+Seat 6: 2ce38877 (8,596 in chips)
+Seat 7: d8d7e8cf (17,868 in chips)
+Seat 8: fe0003eb (25,718 in chips)
+Seat 9: Hero (26,960 in chips)
+2ce38877: posts the ante 100
+4c240192: posts the ante 100
+d8d7e8cf: posts the ante 100
+1248dc9e: posts the ante 100
+2ea5362e: posts the ante 100
+fe0003eb: posts the ante 100
+ef2d4820: posts the ante 100
+Hero: posts the ante 100
+fe0003eb: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [6h 7s]
+4c240192: calls 1,000
+ef2d4820: folds
+2ea5362e: folds
+1248dc9e: folds
+2ce38877: folds
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: checks
+*** FLOP *** [7c 9c Ac]
+Hero: checks
+4c240192: bets 1,650
+Hero: folds
+Uncalled bet (1,650) returned to 4c240192
+*** SHOWDOWN ***
+4c240192 collected 3,300 from pot
+*** SUMMARY ***
+Total pot 3,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 9c Ac]
+Seat 1: 4c240192 won (3,300)
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 1248dc9e folded before Flop
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf (button) folded before Flop
+Seat 8: fe0003eb (small blind) folded before Flop
+Seat 9: Hero (big blind) folded on the Flop
+
+
+Poker Hand #TM90882028: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/07 17:26:20
+Table '9' 9-max Seat #6 is the button
+Seat 1: 4c240192 (15,806 in chips)
+Seat 3: ef2d4820 (6,570 in chips)
+Seat 4: 2ea5362e (18,382 in chips)
+Seat 5: 1248dc9e (23,097 in chips)
+Seat 6: 2ce38877 (8,696 in chips)
+Seat 7: d8d7e8cf (18,968 in chips)
+Seat 8: fe0003eb (26,818 in chips)
+Seat 9: Hero (27,060 in chips)
+2ce38877: posts the ante 100
+4c240192: posts the ante 100
+1248dc9e: posts the ante 100
+d8d7e8cf: posts the ante 100
+2ea5362e: posts the ante 100
+fe0003eb: posts the ante 100
+ef2d4820: posts the ante 100
+Hero: posts the ante 100
+d8d7e8cf: posts small blind 500
+fe0003eb: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Qc 6c]
+Hero: folds
+4c240192: calls 1,000
+ef2d4820: folds
+2ea5362e: folds
+1248dc9e: folds
+2ce38877: folds
+d8d7e8cf: calls 500
+fe0003eb: checks
+*** FLOP *** [3h Qd 9h]
+d8d7e8cf: checks
+fe0003eb: checks
+4c240192: bets 1,254
+d8d7e8cf: folds
+fe0003eb: folds
+Uncalled bet (1,254) returned to 4c240192
+*** SHOWDOWN ***
+4c240192 collected 3,800 from pot
+*** SUMMARY ***
+Total pot 3,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h Qd 9h]
+Seat 1: 4c240192 won (3,800)
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 1248dc9e folded before Flop
+Seat 6: 2ce38877 (button) folded before Flop
+Seat 7: d8d7e8cf (small blind) folded on the Flop
+Seat 8: fe0003eb (big blind) folded on the Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882027: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level10(400/800) - 2026/01/07 17:26:04
+Table '9' 9-max Seat #5 is the button
+Seat 1: 4c240192 (15,886 in chips)
+Seat 3: ef2d4820 (6,650 in chips)
+Seat 4: 2ea5362e (18,462 in chips)
+Seat 5: 1248dc9e (23,177 in chips)
+Seat 6: 2ce38877 (9,176 in chips)
+Seat 7: d8d7e8cf (18,008 in chips)
+Seat 8: fe0003eb (26,898 in chips)
+Seat 9: Hero (27,140 in chips)
+4c240192: posts the ante 80
+2ce38877: posts the ante 80
+1248dc9e: posts the ante 80
+d8d7e8cf: posts the ante 80
+2ea5362e: posts the ante 80
+fe0003eb: posts the ante 80
+ef2d4820: posts the ante 80
+Hero: posts the ante 80
+2ce38877: posts small blind 400
+d8d7e8cf: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [8d 2h]
+fe0003eb: folds
+Hero: folds
+4c240192: folds
+ef2d4820: folds
+2ea5362e: folds
+1248dc9e: folds
+2ce38877: folds
+Uncalled bet (400) returned to d8d7e8cf
+*** SHOWDOWN ***
+d8d7e8cf collected 1,440 from pot
+*** SUMMARY ***
+Total pot 1,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 folded before Flop
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 1248dc9e (button) folded before Flop
+Seat 6: 2ce38877 (small blind) folded before Flop
+Seat 7: d8d7e8cf (big blind) collected (1,440)
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882026: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level10(400/800) - 2026/01/07 17:25:36
+Table '9' 9-max Seat #4 is the button
+Seat 1: 4c240192 (15,966 in chips)
+Seat 3: ef2d4820 (4,890 in chips)
+Seat 4: 2ea5362e (18,542 in chips)
+Seat 5: 1248dc9e (23,657 in chips)
+Seat 6: 2ce38877 (10,056 in chips)
+Seat 7: d8d7e8cf (18,088 in chips)
+Seat 8: fe0003eb (26,978 in chips)
+Seat 9: Hero (27,220 in chips)
+4c240192: posts the ante 80
+2ce38877: posts the ante 80
+d8d7e8cf: posts the ante 80
+1248dc9e: posts the ante 80
+2ea5362e: posts the ante 80
+fe0003eb: posts the ante 80
+ef2d4820: posts the ante 80
+Hero: posts the ante 80
+1248dc9e: posts small blind 400
+2ce38877: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Qh 2d]
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: folds
+4c240192: folds
+ef2d4820: raises 4,010 to 4,810 and is all-in
+2ea5362e: folds
+1248dc9e: folds
+2ce38877: folds
+Uncalled bet (4,010) returned to ef2d4820
+*** SHOWDOWN ***
+ef2d4820 collected 2,640 from pot
+*** SUMMARY ***
+Total pot 2,640 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 folded before Flop
+Seat 3: ef2d4820 collected (2,640)
+Seat 4: 2ea5362e (button) folded before Flop
+Seat 5: 1248dc9e (small blind) folded before Flop
+Seat 6: 2ce38877 (big blind) folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882022: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level10(400/800) - 2026/01/07 17:24:39
+Table '9' 9-max Seat #3 is the button
+Seat 1: 4c240192 (16,046 in chips)
+Seat 3: ef2d4820 (4,450 in chips)
+Seat 4: 2ea5362e (19,022 in chips)
+Seat 5: 1248dc9e (23,217 in chips)
+Seat 6: 2ce38877 (10,136 in chips)
+Seat 7: d8d7e8cf (18,168 in chips)
+Seat 8: fe0003eb (27,058 in chips)
+Seat 9: Hero (27,300 in chips)
+4c240192: posts the ante 80
+2ce38877: posts the ante 80
+d8d7e8cf: posts the ante 80
+1248dc9e: posts the ante 80
+2ea5362e: posts the ante 80
+fe0003eb: posts the ante 80
+ef2d4820: posts the ante 80
+Hero: posts the ante 80
+2ea5362e: posts small blind 400
+1248dc9e: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [Jd 4c]
+2ce38877: folds
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: folds
+4c240192: folds
+ef2d4820: raises 3,200 to 4,000
+2ea5362e: folds
+1248dc9e: calls 3,200
+*** FLOP *** [Ks Jh Kc]
+1248dc9e: checks
+ef2d4820: bets 370 and is all-in
+1248dc9e: calls 370
+ef2d4820: shows [Ts Td] (two pair, Kings and Tens)
+1248dc9e: shows [5c Ah] (a pair of Kings)
+*** TURN *** [Ks Jh Kc] [Js]
+*** RIVER *** [Ks Jh Kc Js] [Kh]
+*** SHOWDOWN ***
+ef2d4820 collected 4,890 from pot
+1248dc9e collected 4,890 from pot
+*** SUMMARY ***
+Total pot 9,780 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks Jh Kc Js Kh]
+Seat 1: 4c240192 folded before Flop
+Seat 3: ef2d4820 (button) showed [Ts Td] and won (4,890) with a full house, Kings full of Jacks
+Seat 4: 2ea5362e (small blind) folded before Flop
+Seat 5: 1248dc9e (big blind) showed [5c Ah] and won (4,890) with a full house, Kings full of Jacks
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882020: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level10(400/800) - 2026/01/07 17:23:47
+Table '9' 9-max Seat #1 is the button
+Seat 1: 4c240192 (16,126 in chips)
+Seat 3: ef2d4820 (4,930 in chips)
+Seat 4: 2ea5362e (15,062 in chips)
+Seat 5: 1248dc9e (26,297 in chips)
+Seat 6: 2ce38877 (10,216 in chips)
+Seat 7: d8d7e8cf (18,248 in chips)
+Seat 8: fe0003eb (27,138 in chips)
+Seat 9: Hero (27,380 in chips)
+4c240192: posts the ante 80
+2ce38877: posts the ante 80
+d8d7e8cf: posts the ante 80
+1248dc9e: posts the ante 80
+2ea5362e: posts the ante 80
+fe0003eb: posts the ante 80
+Hero: posts the ante 80
+ef2d4820: posts the ante 80
+ef2d4820: posts small blind 400
+2ea5362e: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [3c Qs]
+1248dc9e: raises 800 to 1,600
+2ce38877: folds
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: folds
+4c240192: folds
+ef2d4820: folds
+2ea5362e: calls 800
+*** FLOP *** [4c Ks 7c]
+2ea5362e: checks
+1248dc9e: bets 1,400
+2ea5362e: raises 1,960 to 3,360
+1248dc9e: folds
+Uncalled bet (1,960) returned to 2ea5362e
+*** SHOWDOWN ***
+2ea5362e collected 7,040 from pot
+*** SUMMARY ***
+Total pot 7,040 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Ks 7c]
+Seat 1: 4c240192 (button) folded before Flop
+Seat 3: ef2d4820 (small blind) folded before Flop
+Seat 4: 2ea5362e (big blind) won (7,040)
+Seat 5: 1248dc9e folded on the Flop
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882016: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level10(400/800) - 2026/01/07 17:22:46
+Table '9' 9-max Seat #9 is the button
+Seat 1: 4c240192 (16,606 in chips)
+Seat 2: 7b391950 (8,830 in chips)
+Seat 3: ef2d4820 (5,010 in chips)
+Seat 4: 2ea5362e (15,142 in chips)
+Seat 5: 1248dc9e (16,507 in chips)
+Seat 6: 2ce38877 (10,296 in chips)
+Seat 7: d8d7e8cf (18,328 in chips)
+Seat 8: fe0003eb (27,218 in chips)
+Seat 9: Hero (27,460 in chips)
+2ce38877: posts the ante 80
+4c240192: posts the ante 80
+d8d7e8cf: posts the ante 80
+1248dc9e: posts the ante 80
+2ea5362e: posts the ante 80
+fe0003eb: posts the ante 80
+Hero: posts the ante 80
+ef2d4820: posts the ante 80
+7b391950: posts the ante 80
+4c240192: posts small blind 400
+7b391950: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to fe0003eb 
+Dealt to Hero [2d 4s]
+ef2d4820: folds
+2ea5362e: folds
+1248dc9e: raises 800 to 1,600
+2ce38877: folds
+d8d7e8cf: folds
+fe0003eb: folds
+Hero: folds
+4c240192: folds
+7b391950: calls 800
+*** FLOP *** [5d 3d 5c]
+7b391950: checks
+1248dc9e: bets 800
+7b391950: raises 6,350 to 7,150 and is all-in
+1248dc9e: calls 6,350
+7b391950: shows [3c 2c] (two pair, Fives and Threes)
+1248dc9e: shows [Ah Ac] (two pair, Aces and Fives)
+*** TURN *** [5d 3d 5c] [8c]
+*** RIVER *** [5d 3d 5c 8c] [7s]
+*** SHOWDOWN ***
+1248dc9e collected 18,620 from pot
+*** SUMMARY ***
+Total pot 18,620 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d 3d 5c 8c 7s]
+Seat 1: 4c240192 (small blind) folded before Flop
+Seat 2: 7b391950 (big blind) showed [3c 2c] and lost with two pair, Fives and Threes
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 1248dc9e showed [Ah Ac] and won (18,620) with two pair, Aces and Fives
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: fe0003eb folded before Flop
+Seat 9: Hero (button) folded before Flop
+
+
+Poker Hand #TM90882012: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level10(400/800) - 2026/01/07 17:21:48
+Table '9' 9-max Seat #7 is the button
+Seat 1: 4c240192 (17,486 in chips)
+Seat 2: 7b391950 (8,910 in chips)
+Seat 3: ef2d4820 (18,100 in chips)
+Seat 4: 2ea5362e (15,222 in chips)
+Seat 5: 1248dc9e (16,587 in chips)
+Seat 6: 2ce38877 (10,376 in chips)
+Seat 7: d8d7e8cf (18,408 in chips)
+Seat 9: Hero (13,090 in chips)
+2ce38877: posts the ante 80
+4c240192: posts the ante 80
+d8d7e8cf: posts the ante 80
+1248dc9e: posts the ante 80
+2ea5362e: posts the ante 80
+ef2d4820: posts the ante 80
+Hero: posts the ante 80
+7b391950: posts the ante 80
+Hero: posts small blind 400
+4c240192: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 1248dc9e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to Hero [Qs Qh]
+7b391950: folds
+ef2d4820: raises 800 to 1,600
+2ea5362e: folds
+1248dc9e: folds
+2ce38877: folds
+d8d7e8cf: folds
+Hero: raises 4,400 to 6,000
+4c240192: folds
+ef2d4820: raises 12,020 to 18,020 and is all-in
+Hero: calls 7,010 and is all-in
+Uncalled bet (5,010) returned to ef2d4820
+ef2d4820: shows [Ad Qc]
+Hero: shows [Qs Qh]
+*** FLOP *** [Ah 9h 8s]
+*** TURN *** [Ah 9h 8s] [5h]
+*** RIVER *** [Ah 9h 8s 5h] [2h]
+*** SHOWDOWN ***
+Hero collected 27,460 from pot
+*** SUMMARY ***
+Total pot 27,460 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah 9h 8s 5h 2h]
+Seat 1: 4c240192 (big blind) folded before Flop
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 showed [Ad Qc] and lost with a pair of Aces
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 1248dc9e folded before Flop
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf (button) folded before Flop
+Seat 9: Hero (small blind) showed [Qs Qh] and won (27,460) with a flush Ace high
+
+
+Poker Hand #TM90882010: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level9(300/600) - 2026/01/07 17:21:01
+Table '9' 9-max Seat #6 is the button
+Seat 1: 4c240192 (11,196 in chips)
+Seat 2: 7b391950 (8,970 in chips)
+Seat 3: ef2d4820 (18,160 in chips)
+Seat 4: 2ea5362e (15,282 in chips)
+Seat 6: 2ce38877 (10,436 in chips)
+Seat 7: d8d7e8cf (19,668 in chips)
+Seat 9: Hero (17,880 in chips)
+2ce38877: posts the ante 60
+4c240192: posts the ante 60
+d8d7e8cf: posts the ante 60
+2ea5362e: posts the ante 60
+ef2d4820: posts the ante 60
+Hero: posts the ante 60
+7b391950: posts the ante 60
+d8d7e8cf: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to Hero [5h 4h]
+4c240192: raises 600 to 1,200
+7b391950: folds
+ef2d4820: folds
+2ea5362e: folds
+2ce38877: folds
+d8d7e8cf: calls 900
+Hero: calls 600
+*** FLOP *** [8s 2h 5c]
+d8d7e8cf: checks
+Hero: checks
+4c240192: bets 1,327
+d8d7e8cf: folds
+Hero: calls 1,327
+*** TURN *** [8s 2h 5c] [Kh]
+Hero: checks
+4c240192: bets 2,203
+Hero: calls 2,203
+*** RIVER *** [8s 2h 5c Kh] [3c]
+Hero: checks
+4c240192: checks
+Hero: shows [5h 4h] (a pair of Fives)
+4c240192: shows [Qc Qs] (a pair of Queens)
+*** SHOWDOWN ***
+4c240192 collected 11,080 from pot
+*** SUMMARY ***
+Total pot 11,080 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 2h 5c Kh 3c]
+Seat 1: 4c240192 showed [Qc Qs] and won (11,080) with a pair of Queens
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 6: 2ce38877 (button) folded before Flop
+Seat 7: d8d7e8cf (small blind) folded on the Flop
+Seat 9: Hero (big blind) showed [5h 4h] and lost with a pair of Fives
+
+
+Poker Hand #TM90882006: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level9(300/600) - 2026/01/07 17:20:14
+Table '9' 9-max Seat #4 is the button
+Seat 1: 4c240192 (13,585 in chips)
+Seat 2: 7b391950 (9,030 in chips)
+Seat 3: ef2d4820 (18,220 in chips)
+Seat 4: 2ea5362e (15,342 in chips)
+Seat 6: 2ce38877 (7,147 in chips)
+Seat 7: d8d7e8cf (20,328 in chips)
+Seat 9: Hero (17,940 in chips)
+4c240192: posts the ante 60
+2ce38877: posts the ante 60
+d8d7e8cf: posts the ante 60
+2ea5362e: posts the ante 60
+ef2d4820: posts the ante 60
+Hero: posts the ante 60
+7b391950: posts the ante 60
+2ce38877: posts small blind 300
+d8d7e8cf: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to Hero [4s 7h]
+Hero: folds
+4c240192: raises 600 to 1,200
+7b391950: folds
+ef2d4820: folds
+2ea5362e: folds
+2ce38877: calls 900
+d8d7e8cf: folds
+*** FLOP *** [6s 4d Jc]
+2ce38877: checks
+4c240192: bets 1,129
+2ce38877: raises 4,758 to 5,887 and is all-in
+4c240192: folds
+Uncalled bet (4,758) returned to 2ce38877
+*** SHOWDOWN ***
+2ce38877 collected 5,678 from pot
+*** SUMMARY ***
+Total pot 5,678 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s 4d Jc]
+Seat 1: 4c240192 folded on the Flop
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e (button) folded before Flop
+Seat 6: 2ce38877 (small blind) won (5,678)
+Seat 7: d8d7e8cf (big blind) folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90882003: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level9(300/600) - 2026/01/07 17:19:48
+Table '9' 9-max Seat #3 is the button
+Seat 1: 4c240192 (13,645 in chips)
+Seat 2: 7b391950 (9,090 in chips)
+Seat 3: ef2d4820 (19,480 in chips)
+Seat 4: 2ea5362e (15,702 in chips)
+Seat 6: 2ce38877 (7,807 in chips)
+Seat 7: d8d7e8cf (20,388 in chips)
+Seat 9: Hero (15,480 in chips)
+4c240192: posts the ante 60
+2ce38877: posts the ante 60
+d8d7e8cf: posts the ante 60
+2ea5362e: posts the ante 60
+ef2d4820: posts the ante 60
+Hero: posts the ante 60
+7b391950: posts the ante 60
+2ea5362e: posts small blind 300
+2ce38877: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to Hero [Ac Kc]
+d8d7e8cf: folds
+Hero: raises 600 to 1,200
+4c240192: folds
+7b391950: folds
+ef2d4820: calls 1,200
+2ea5362e: folds
+2ce38877: folds
+*** FLOP *** [4c Kd 3c]
+Hero: bets 2,047
+ef2d4820: folds
+Uncalled bet (2,047) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,720 from pot
+*** SUMMARY ***
+Total pot 3,720 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Kd 3c]
+Seat 1: 4c240192 folded before Flop
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 (button) folded on the Flop
+Seat 4: 2ea5362e (small blind) folded before Flop
+Seat 6: 2ce38877 (big blind) folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 9: Hero won (3,720)
+
+
+Poker Hand #TM90881995: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level9(300/600) - 2026/01/07 17:18:30
+Table '9' 9-max Seat #2 is the button
+Seat 1: 4c240192 (17,725 in chips)
+Seat 2: 7b391950 (9,150 in chips)
+Seat 3: ef2d4820 (19,840 in chips)
+Seat 4: 2ea5362e (10,962 in chips)
+Seat 6: 2ce38877 (7,867 in chips)
+Seat 7: d8d7e8cf (20,448 in chips)
+Seat 8: 3f887de5 (17,874 in chips)
+Seat 9: Hero (15,540 in chips)
+4c240192: posts the ante 60
+2ce38877: posts the ante 60
+d8d7e8cf: posts the ante 60
+2ea5362e: posts the ante 60
+Hero: posts the ante 60
+ef2d4820: posts the ante 60
+7b391950: posts the ante 60
+3f887de5: posts the ante 60
+ef2d4820: posts small blind 300
+2ea5362e: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to 3f887de5 
+Dealt to Hero [8c 2c]
+2ce38877: folds
+d8d7e8cf: folds
+3f887de5: folds
+Hero: folds
+4c240192: raises 600 to 1,200
+7b391950: folds
+ef2d4820: folds
+2ea5362e: raises 1,320 to 2,520
+4c240192: calls 1,320
+*** FLOP *** [Ah 4c Ks]
+2ea5362e: bets 1,500
+4c240192: calls 1,500
+*** TURN *** [Ah 4c Ks] [7c]
+2ea5362e: checks
+4c240192: checks
+*** RIVER *** [Ah 4c Ks 7c] [3c]
+2ea5362e: bets 6,882 and is all-in
+4c240192: folds
+Uncalled bet (6,882) returned to 2ea5362e
+*** SHOWDOWN ***
+2ea5362e collected 8,820 from pot
+*** SUMMARY ***
+Total pot 8,820 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah 4c Ks 7c 3c]
+Seat 1: 4c240192 folded on the River
+Seat 2: 7b391950 (button) folded before Flop
+Seat 3: ef2d4820 (small blind) folded before Flop
+Seat 4: 2ea5362e (big blind) won (8,820)
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: 3f887de5 folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90881988: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level9(300/600) - 2026/01/07 17:17:01
+Table '9' 9-max Seat #1 is the button
+Seat 1: 4c240192 (18,985 in chips)
+Seat 2: 7b391950 (9,510 in chips)
+Seat 3: ef2d4820 (21,100 in chips)
+Seat 4: 2ea5362e (12,222 in chips)
+Seat 5: 3659755 (15,967 in chips)
+Seat 6: 2ce38877 (7,927 in chips)
+Seat 7: d8d7e8cf (20,508 in chips)
+Seat 8: 3f887de5 (19,134 in chips)
+Seat 9: Hero (9,960 in chips)
+4c240192: posts the ante 60
+2ce38877: posts the ante 60
+d8d7e8cf: posts the ante 60
+2ea5362e: posts the ante 60
+3659755: posts the ante 60
+Hero: posts the ante 60
+ef2d4820: posts the ante 60
+3f887de5: posts the ante 60
+7b391950: posts the ante 60
+7b391950: posts small blind 300
+ef2d4820: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 3659755 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to 3f887de5 
+Dealt to Hero [Td Ah]
+2ea5362e: raises 600 to 1,200
+3659755: folds
+2ce38877: folds
+d8d7e8cf: folds
+3f887de5: calls 1,200
+Hero: calls 1,200
+4c240192: calls 1,200
+7b391950: folds
+ef2d4820: calls 600
+*** FLOP *** [2s 7d 8h]
+ef2d4820: checks
+2ea5362e: checks
+3f887de5: checks
+Hero: checks
+4c240192: checks
+*** TURN *** [2s 7d 8h] [9s]
+ef2d4820: checks
+2ea5362e: checks
+3f887de5: checks
+Hero: bets 3,763
+4c240192: folds
+ef2d4820: folds
+2ea5362e: folds
+3f887de5: folds
+Uncalled bet (3,763) returned to Hero
+*** SHOWDOWN ***
+Hero collected 6,840 from pot
+*** SUMMARY ***
+Total pot 6,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s 7d 8h 9s]
+Seat 1: 4c240192 (button) folded on the Turn
+Seat 2: 7b391950 (small blind) folded before Flop
+Seat 3: ef2d4820 (big blind) folded on the Turn
+Seat 4: 2ea5362e folded on the Turn
+Seat 5: 3659755 folded before Flop
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: 3f887de5 folded on the Turn
+Seat 9: Hero won (6,840)
+
+
+Poker Hand #TM90881986: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level9(300/600) - 2026/01/07 17:16:22
+Table '9' 9-max Seat #9 is the button
+Seat 1: 4c240192 (19,645 in chips)
+Seat 2: 7b391950 (8,430 in chips)
+Seat 3: ef2d4820 (21,160 in chips)
+Seat 4: 2ea5362e (12,282 in chips)
+Seat 5: 3659755 (16,027 in chips)
+Seat 6: 2ce38877 (7,987 in chips)
+Seat 7: d8d7e8cf (20,568 in chips)
+Seat 8: 3f887de5 (19,194 in chips)
+Seat 9: Hero (10,020 in chips)
+2ce38877: posts the ante 60
+4c240192: posts the ante 60
+d8d7e8cf: posts the ante 60
+2ea5362e: posts the ante 60
+3659755: posts the ante 60
+Hero: posts the ante 60
+ef2d4820: posts the ante 60
+3f887de5: posts the ante 60
+7b391950: posts the ante 60
+4c240192: posts small blind 300
+7b391950: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 3659755 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to 3f887de5 
+Dealt to Hero [9s 3d]
+ef2d4820: folds
+2ea5362e: folds
+3659755: folds
+2ce38877: folds
+d8d7e8cf: folds
+3f887de5: folds
+Hero: folds
+4c240192: calls 300
+7b391950: raises 7,770 to 8,370 and is all-in
+4c240192: folds
+Uncalled bet (7,770) returned to 7b391950
+*** SHOWDOWN ***
+7b391950 collected 1,740 from pot
+*** SUMMARY ***
+Total pot 1,740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 (small blind) folded before Flop
+Seat 2: 7b391950 (big blind) collected (1,740)
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 3659755 folded before Flop
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: 3f887de5 folded before Flop
+Seat 9: Hero (button) folded before Flop
+
+
+Poker Hand #TM90881980: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:15:36
+Table '9' 9-max Seat #8 is the button
+Seat 1: 4c240192 (28,942 in chips)
+Seat 2: 7b391950 (8,480 in chips)
+Seat 3: ef2d4820 (21,210 in chips)
+Seat 4: 2ea5362e (12,332 in chips)
+Seat 5: 3659755 (16,077 in chips)
+Seat 6: 2ce38877 (8,037 in chips)
+Seat 7: d8d7e8cf (20,618 in chips)
+Seat 8: 3f887de5 (9,297 in chips)
+Seat 9: Hero (10,320 in chips)
+2ce38877: posts the ante 50
+4c240192: posts the ante 50
+d8d7e8cf: posts the ante 50
+2ea5362e: posts the ante 50
+3659755: posts the ante 50
+ef2d4820: posts the ante 50
+Hero: posts the ante 50
+3f887de5: posts the ante 50
+7b391950: posts the ante 50
+Hero: posts small blind 250
+4c240192: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 3659755 
+Dealt to 2ce38877 
+Dealt to d8d7e8cf 
+Dealt to 3f887de5 
+Dealt to Hero [4d Kc]
+7b391950: folds
+ef2d4820: folds
+2ea5362e: folds
+3659755: folds
+2ce38877: folds
+d8d7e8cf: folds
+3f887de5: raises 8,747 to 9,247 and is all-in
+Hero: folds
+4c240192: calls 8,747
+3f887de5: shows [6c 6s]
+4c240192: shows [Qs As]
+*** FLOP *** [6h 3d 8c]
+*** TURN *** [6h 3d 8c] [Td]
+*** RIVER *** [6h 3d 8c Td] [Ac]
+*** SHOWDOWN ***
+3f887de5 collected 19,194 from pot
+*** SUMMARY ***
+Total pot 19,194 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 3d 8c Td Ac]
+Seat 1: 4c240192 (big blind) showed [Qs As] and lost with a pair of Aces
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e folded before Flop
+Seat 5: 3659755 folded before Flop
+Seat 6: 2ce38877 folded before Flop
+Seat 7: d8d7e8cf folded before Flop
+Seat 8: 3f887de5 (button) showed [6c 6s] and won (19,194) with three of a kind, Sixes
+Seat 9: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM90881975: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:14:54
+Table '9' 9-max Seat #5 is the button
+Seat 1: 4c240192 (29,492 in chips)
+Seat 2: 7b391950 (8,530 in chips)
+Seat 3: ef2d4820 (21,260 in chips)
+Seat 4: 2ea5362e (5,416 in chips)
+Seat 5: 3659755 (21,493 in chips)
+Seat 8: 3f887de5 (9,597 in chips)
+Seat 9: Hero (10,870 in chips)
+4c240192: posts the ante 50
+2ea5362e: posts the ante 50
+3659755: posts the ante 50
+ef2d4820: posts the ante 50
+Hero: posts the ante 50
+7b391950: posts the ante 50
+3f887de5: posts the ante 50
+3f887de5: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 3659755 
+Dealt to 3f887de5 
+Dealt to Hero [Jh 2s]
+4c240192: calls 500
+7b391950: folds
+ef2d4820: folds
+2ea5362e: raises 4,866 to 5,366 and is all-in
+3659755: raises 6,166 to 11,532
+3f887de5: folds
+Hero: folds
+4c240192: folds
+Uncalled bet (6,166) returned to 3659755
+3659755: shows [Qs Ts]
+2ea5362e: shows [Tc Td]
+*** FLOP *** [3d 3c 4c]
+*** TURN *** [3d 3c 4c] [8d]
+*** RIVER *** [3d 3c 4c 8d] [2c]
+4c240192: shows [Qc] (a pair of Threes)
+*** SHOWDOWN ***
+2ea5362e collected 12,332 from pot
+*** SUMMARY ***
+Total pot 12,332 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d 3c 4c 8d 2c]
+Seat 1: 4c240192 folded before Flop
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e showed [Tc Td] and won (12,332) with two pair, Tens and Threes
+Seat 5: 3659755 (button) showed [Qs Ts] and lost with a pair of Threes
+Seat 8: 3f887de5 (small blind) folded before Flop
+Seat 9: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM90881973: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:14:31
+Table '9' 9-max Seat #4 is the button
+Seat 1: 4c240192 (30,042 in chips)
+Seat 2: 7b391950 (6,980 in chips)
+Seat 3: ef2d4820 (21,310 in chips)
+Seat 4: 2ea5362e (5,466 in chips)
+Seat 5: 3659755 (21,793 in chips)
+Seat 8: 3f887de5 (10,147 in chips)
+Seat 9: Hero (10,920 in chips)
+4c240192: posts the ante 50
+2ea5362e: posts the ante 50
+3659755: posts the ante 50
+ef2d4820: posts the ante 50
+Hero: posts the ante 50
+7b391950: posts the ante 50
+3f887de5: posts the ante 50
+3659755: posts small blind 250
+3f887de5: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 3659755 
+Dealt to 3f887de5 
+Dealt to Hero [7d Kc]
+Hero: folds
+4c240192: calls 500
+7b391950: raises 6,430 to 6,930 and is all-in
+ef2d4820: folds
+2ea5362e: folds
+3659755: folds
+3f887de5: folds
+4c240192: folds
+Uncalled bet (6,430) returned to 7b391950
+*** SHOWDOWN ***
+7b391950 collected 2,100 from pot
+*** SUMMARY ***
+Total pot 2,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 folded before Flop
+Seat 2: 7b391950 collected (2,100)
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 2ea5362e (button) folded before Flop
+Seat 5: 3659755 (small blind) folded before Flop
+Seat 8: 3f887de5 (big blind) folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90881968: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:13:38
+Table '9' 9-max Seat #3 is the button
+Seat 1: 4c240192 (30,092 in chips)
+Seat 2: 7b391950 (7,030 in chips)
+Seat 3: ef2d4820 (21,360 in chips)
+Seat 4: 2ea5362e (5,766 in chips)
+Seat 5: 3659755 (27,003 in chips)
+Seat 8: 3f887de5 (10,197 in chips)
+Seat 9: Hero (5,210 in chips)
+4c240192: posts the ante 50
+2ea5362e: posts the ante 50
+3659755: posts the ante 50
+ef2d4820: posts the ante 50
+Hero: posts the ante 50
+7b391950: posts the ante 50
+3f887de5: posts the ante 50
+2ea5362e: posts small blind 250
+3659755: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 3659755 
+Dealt to 3f887de5 
+Dealt to Hero [Ah Qh]
+3f887de5: folds
+Hero: raises 4,660 to 5,160 and is all-in
+4c240192: folds
+7b391950: folds
+ef2d4820: folds
+2ea5362e: folds
+3659755: calls 4,660
+Hero: shows [Ah Qh]
+3659755: shows [9h 9s]
+*** FLOP *** [5h 6c 2d]
+*** TURN *** [5h 6c 2d] [4h]
+*** RIVER *** [5h 6c 2d 4h] [Kh]
+2ea5362e: shows [Qd 9c] (King high)
+4c240192: shows [2h 6d] (two pair, Sixes and Twos)
+*** SHOWDOWN ***
+Hero collected 10,920 from pot
+*** SUMMARY ***
+Total pot 10,920 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 6c 2d 4h Kh]
+Seat 1: 4c240192 folded before Flop
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 (button) folded before Flop
+Seat 4: 2ea5362e (small blind) folded before Flop
+Seat 5: 3659755 (big blind) showed [9h 9s] and lost with a pair of Nines
+Seat 8: 3f887de5 folded before Flop
+Seat 9: Hero showed [Ah Qh] and won (10,920) with a flush Ace high
+
+
+Poker Hand #TM90881966: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:13:15
+Table '9' 9-max Seat #2 is the button
+Seat 1: 4c240192 (29,042 in chips)
+Seat 2: 7b391950 (7,080 in chips)
+Seat 3: ef2d4820 (21,660 in chips)
+Seat 4: 2ea5362e (6,316 in chips)
+Seat 5: 3659755 (27,053 in chips)
+Seat 8: 3f887de5 (10,247 in chips)
+Seat 9: Hero (5,260 in chips)
+4c240192: posts the ante 50
+2ea5362e: posts the ante 50
+3659755: posts the ante 50
+Hero: posts the ante 50
+ef2d4820: posts the ante 50
+7b391950: posts the ante 50
+3f887de5: posts the ante 50
+ef2d4820: posts small blind 250
+2ea5362e: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 3659755 
+Dealt to 3f887de5 
+Dealt to Hero [8s 7h]
+3659755: folds
+3f887de5: folds
+Hero: folds
+4c240192: raises 1,000 to 1,500
+7b391950: folds
+ef2d4820: folds
+2ea5362e: folds
+Uncalled bet (1,000) returned to 4c240192
+*** SHOWDOWN ***
+4c240192 collected 1,600 from pot
+*** SUMMARY ***
+Total pot 1,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 collected (1,600)
+Seat 2: 7b391950 (button) folded before Flop
+Seat 3: ef2d4820 (small blind) folded before Flop
+Seat 4: 2ea5362e (big blind) folded before Flop
+Seat 5: 3659755 folded before Flop
+Seat 8: 3f887de5 folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90881964: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:12:26
+Table '9' 9-max Seat #1 is the button
+Seat 1: 4c240192 (25,442 in chips)
+Seat 2: 7b391950 (7,380 in chips)
+Seat 3: ef2d4820 (22,210 in chips)
+Seat 4: 2ea5362e (8,916 in chips)
+Seat 5: 3659755 (27,103 in chips)
+Seat 8: 3f887de5 (10,297 in chips)
+Seat 9: Hero (5,310 in chips)
+4c240192: posts the ante 50
+2ea5362e: posts the ante 50
+3659755: posts the ante 50
+Hero: posts the ante 50
+ef2d4820: posts the ante 50
+3f887de5: posts the ante 50
+7b391950: posts the ante 50
+7b391950: posts small blind 250
+ef2d4820: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 2ea5362e 
+Dealt to 3659755 
+Dealt to 3f887de5 
+Dealt to Hero [Kc 4s]
+2ea5362e: raises 500 to 1,000
+3659755: folds
+3f887de5: folds
+Hero: folds
+4c240192: raises 1,550 to 2,550
+7b391950: folds
+ef2d4820: folds
+2ea5362e: calls 1,550
+*** FLOP *** [4h 9s 5c]
+2ea5362e: checks
+4c240192: bets 3,100
+2ea5362e: folds
+Uncalled bet (3,100) returned to 4c240192
+*** SHOWDOWN ***
+4c240192 collected 6,200 from pot
+*** SUMMARY ***
+Total pot 6,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 9s 5c]
+Seat 1: 4c240192 (button) won (6,200)
+Seat 2: 7b391950 (small blind) folded before Flop
+Seat 3: ef2d4820 (big blind) folded before Flop
+Seat 4: 2ea5362e folded on the Flop
+Seat 5: 3659755 folded before Flop
+Seat 8: 3f887de5 folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90881962: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:11:49
+Table '9' 9-max Seat #9 is the button
+Seat 1: 4c240192 (21,592 in chips)
+Seat 2: 7b391950 (7,930 in chips)
+Seat 3: ef2d4820 (22,260 in chips)
+Seat 5: 3659755 (27,153 in chips)
+Seat 8: 3f887de5 (10,347 in chips)
+Seat 9: Hero (8,460 in chips)
+4c240192: posts the ante 50
+3659755: posts the ante 50
+Hero: posts the ante 50
+ef2d4820: posts the ante 50
+3f887de5: posts the ante 50
+7b391950: posts the ante 50
+4c240192: posts small blind 250
+7b391950: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 3659755 
+Dealt to 3f887de5 
+Dealt to Hero [Qc Jd]
+ef2d4820: folds
+3659755: folds
+3f887de5: folds
+Hero: calls 500
+4c240192: calls 250
+7b391950: checks
+*** FLOP *** [Kh 7c Js]
+4c240192: checks
+7b391950: checks
+Hero: bets 500
+4c240192: calls 500
+7b391950: folds
+*** TURN *** [Kh 7c Js] [6s]
+4c240192: checks
+Hero: checks
+*** RIVER *** [Kh 7c Js 6s] [Th]
+4c240192: bets 2,100
+Hero: calls 2,100
+4c240192: shows [9d 8s] (a straight, Jack to Seven)
+Hero: shows [Qc Jd] (a pair of Jacks)
+*** SHOWDOWN ***
+4c240192 collected 7,000 from pot
+*** SUMMARY ***
+Total pot 7,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 7c Js 6s Th]
+Seat 1: 4c240192 (small blind) showed [9d 8s] and won (7,000) with a straight, Jack to Seven
+Seat 2: 7b391950 (big blind) folded on the Flop
+Seat 3: ef2d4820 folded before Flop
+Seat 5: 3659755 folded before Flop
+Seat 8: 3f887de5 folded before Flop
+Seat 9: Hero (button) showed [Qc Jd] and lost with a pair of Jacks
+
+
+Poker Hand #TM90881960: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:11:03
+Table '9' 9-max Seat #8 is the button
+Seat 1: 4c240192 (22,142 in chips)
+Seat 2: 7b391950 (7,980 in chips)
+Seat 3: ef2d4820 (9,520 in chips)
+Seat 4: 5d094a59 (2,690 in chips)
+Seat 5: 3659755 (27,203 in chips)
+Seat 6: 26d11032 (5,000 in chips)
+Seat 7: 6a560e0d (4,050 in chips)
+Seat 8: 3f887de5 (10,397 in chips)
+Seat 9: Hero (8,760 in chips)
+26d11032: posts the ante 50
+6a560e0d: posts the ante 50
+5d094a59: posts the ante 50
+4c240192: posts the ante 50
+3659755: posts the ante 50
+ef2d4820: posts the ante 50
+Hero: posts the ante 50
+3f887de5: posts the ante 50
+7b391950: posts the ante 50
+Hero: posts small blind 250
+4c240192: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 5d094a59 
+Dealt to 3659755 
+Dealt to 26d11032 
+Dealt to 6a560e0d 
+Dealt to 3f887de5 
+Dealt to Hero [7s 2d]
+7b391950: folds
+ef2d4820: raises 500 to 1,000
+5d094a59: raises 1,640 to 2,640 and is all-in
+3659755: folds
+26d11032: raises 2,310 to 4,950 and is all-in
+6a560e0d: calls 4,000 and is all-in
+3f887de5: folds
+Hero: folds
+4c240192: folds
+ef2d4820: calls 3,950
+26d11032: shows [Tc Th]
+6a560e0d: shows [8h 8c]
+ef2d4820: shows [Ac As]
+5d094a59: shows [9c Qd]
+*** FLOP *** [3h 3s Ad]
+*** TURN *** [3h 3s Ad] [9h]
+*** RIVER *** [3h 3s Ad 9h] [3c]
+*** SHOWDOWN ***
+ef2d4820 collected 11,760 from pot
+ef2d4820 collected 4,080 from pot
+ef2d4820 collected 1,900 from pot
+*** SUMMARY ***
+Total pot 17,740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 3s Ad 9h 3c]
+Seat 1: 4c240192 (big blind) folded before Flop
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 showed [Ac As] and won (17,740) with a full house, Aces full of Threes
+Seat 4: 5d094a59 showed [9c Qd] and lost with a full house, Threes full of Nines
+Seat 5: 3659755 folded before Flop
+Seat 6: 26d11032 showed [Tc Th] and lost with a full house, Threes full of Tens
+Seat 7: 6a560e0d showed [8h 8c] and lost with a full house, Threes full of Eights
+Seat 8: 3f887de5 (button) folded before Flop
+Seat 9: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM90881958: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:10:23
+Table '9' 9-max Seat #7 is the button
+Seat 1: 4c240192 (22,192 in chips)
+Seat 2: 7b391950 (8,030 in chips)
+Seat 3: ef2d4820 (9,570 in chips)
+Seat 4: 5d094a59 (3,240 in chips)
+Seat 5: 3659755 (25,603 in chips)
+Seat 7: 6a560e0d (4,100 in chips)
+Seat 8: 3f887de5 (10,697 in chips)
+Seat 9: Hero (9,310 in chips)
+6a560e0d: posts the ante 50
+5d094a59: posts the ante 50
+4c240192: posts the ante 50
+3659755: posts the ante 50
+ef2d4820: posts the ante 50
+Hero: posts the ante 50
+7b391950: posts the ante 50
+3f887de5: posts the ante 50
+3f887de5: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 5d094a59 
+Dealt to 3659755 
+Dealt to 6a560e0d 
+Dealt to 3f887de5 
+Dealt to Hero [4d Qd]
+4c240192: folds
+7b391950: folds
+ef2d4820: folds
+5d094a59: calls 500
+3659755: raises 1,000 to 1,500
+6a560e0d: folds
+3f887de5: folds
+Hero: folds
+5d094a59: folds
+Uncalled bet (1,000) returned to 3659755
+*** SHOWDOWN ***
+3659755 collected 2,150 from pot
+*** SUMMARY ***
+Total pot 2,150 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 folded before Flop
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 5d094a59 folded before Flop
+Seat 5: 3659755 collected (2,150)
+Seat 7: 6a560e0d (button) folded before Flop
+Seat 8: 3f887de5 (small blind) folded before Flop
+Seat 9: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM90881956: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:10:00
+Table '9' 9-max Seat #5 is the button
+Seat 1: 4c240192 (21,092 in chips)
+Seat 2: 7b391950 (8,080 in chips)
+Seat 3: ef2d4820 (9,620 in chips)
+Seat 4: 5d094a59 (3,290 in chips)
+Seat 5: 3659755 (25,653 in chips)
+Seat 7: 6a560e0d (4,400 in chips)
+Seat 8: 3f887de5 (11,247 in chips)
+Seat 9: Hero (9,360 in chips)
+5d094a59: posts the ante 50
+4c240192: posts the ante 50
+6a560e0d: posts the ante 50
+3659755: posts the ante 50
+ef2d4820: posts the ante 50
+Hero: posts the ante 50
+7b391950: posts the ante 50
+3f887de5: posts the ante 50
+6a560e0d: posts small blind 250
+3f887de5: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 5d094a59 
+Dealt to 3659755 
+Dealt to 6a560e0d 
+Dealt to 3f887de5 
+Dealt to Hero [Jh 9c]
+Hero: folds
+4c240192: raises 1,000 to 1,500
+7b391950: folds
+ef2d4820: folds
+5d094a59: folds
+3659755: folds
+6a560e0d: folds
+3f887de5: folds
+Uncalled bet (1,000) returned to 4c240192
+*** SHOWDOWN ***
+4c240192 collected 1,650 from pot
+*** SUMMARY ***
+Total pot 1,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 collected (1,650)
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 5d094a59 folded before Flop
+Seat 5: 3659755 (button) folded before Flop
+Seat 7: 6a560e0d (small blind) folded before Flop
+Seat 8: 3f887de5 (big blind) folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90881954: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:09:39
+Table '9' 9-max Seat #4 is the button
+Seat 1: 4c240192 (19,992 in chips)
+Seat 2: 7b391950 (8,130 in chips)
+Seat 3: ef2d4820 (9,670 in chips)
+Seat 4: 5d094a59 (3,340 in chips)
+Seat 5: 3659755 (25,953 in chips)
+Seat 7: 6a560e0d (4,950 in chips)
+Seat 8: 3f887de5 (11,297 in chips)
+Seat 9: Hero (9,410 in chips)
+5d094a59: posts the ante 50
+4c240192: posts the ante 50
+6a560e0d: posts the ante 50
+3659755: posts the ante 50
+ef2d4820: posts the ante 50
+Hero: posts the ante 50
+7b391950: posts the ante 50
+3f887de5: posts the ante 50
+3659755: posts small blind 250
+6a560e0d: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 4c240192 
+Dealt to 7b391950 
+Dealt to ef2d4820 
+Dealt to 5d094a59 
+Dealt to 3659755 
+Dealt to 6a560e0d 
+Dealt to 3f887de5 
+Dealt to Hero [9s Jc]
+3f887de5: folds
+Hero: folds
+4c240192: raises 1,000 to 1,500
+7b391950: folds
+ef2d4820: folds
+5d094a59: folds
+3659755: folds
+6a560e0d: folds
+Uncalled bet (1,000) returned to 4c240192
+*** SHOWDOWN ***
+4c240192 collected 1,650 from pot
+*** SUMMARY ***
+Total pot 1,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 4c240192 collected (1,650)
+Seat 2: 7b391950 folded before Flop
+Seat 3: ef2d4820 folded before Flop
+Seat 4: 5d094a59 (button) folded before Flop
+Seat 5: 3659755 (small blind) folded before Flop
+Seat 7: 6a560e0d (big blind) folded before Flop
+Seat 8: 3f887de5 folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90881951: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level8(250/500) - 2026/01/07 17:08:46
+Table '9' 9-max Seat #3 is the button
+Seat 1: c4e7a3ce (4,200 in chips)
+Seat 3: ef2d4820 (9,720 in chips)
+Seat 4: 5d094a59 (3,640 in chips)
+Seat 5: 3659755 (15,785 in chips)
+Seat 6: 730f63da (5,468 in chips)
+Seat 7: 6a560e0d (5,000 in chips)
+Seat 8: 3f887de5 (11,347 in chips)
+Seat 9: Hero (9,460 in chips)
+6a560e0d: posts the ante 50
+5d094a59: posts the ante 50
+c4e7a3ce: posts the ante 50
+3659755: posts the ante 50
+ef2d4820: posts the ante 50
+Hero: posts the ante 50
+730f63da: posts the ante 50
+3f887de5: posts the ante 50
+5d094a59: posts small blind 250
+3659755: posts big blind 500
+*** HOLE CARDS ***
+Dealt to c4e7a3ce 
+Dealt to ef2d4820 
+Dealt to 5d094a59 
+Dealt to 3659755 
+Dealt to 730f63da 
+Dealt to 6a560e0d 
+Dealt to 3f887de5 
+Dealt to Hero [7c 9c]
+730f63da: raises 4,918 to 5,418 and is all-in
+6a560e0d: folds
+3f887de5: folds
+Hero: folds
+c4e7a3ce: calls 4,150 and is all-in
+ef2d4820: folds
+5d094a59: folds
+3659755: calls 4,918
+730f63da: shows [Qh 8h]
+c4e7a3ce: shows [As Kh]
+3659755: shows [5s 7s]
+*** FLOP *** [2s 9h Qs]
+*** TURN *** [2s 9h Qs] [4c]
+*** RIVER *** [2s 9h Qs 4c] [Ks]
+*** SHOWDOWN ***
+3659755 collected 13,100 from pot
+3659755 collected 2,536 from pot
+*** SUMMARY ***
+Total pot 15,636 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s 9h Qs 4c Ks]
+Seat 1: c4e7a3ce showed [As Kh] and lost with a pair of Kings
+Seat 3: ef2d4820 (button) folded before Flop
+Seat 4: 5d094a59 (small blind) folded before Flop
+Seat 5: 3659755 (big blind) showed [5s 7s] and won (15,636) with a flush King high
+Seat 6: 730f63da showed [Qh 8h] and lost with a pair of Queens
+Seat 7: 6a560e0d folded before Flop
+Seat 8: 3f887de5 folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90881946: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level7(200/400) - 2026/01/07 17:07:36
+Table '9' 9-max Seat #2 is the button
+Seat 1: c4e7a3ce (4,240 in chips)
+Seat 2: 1f55dc54 (2,147 in chips)
+Seat 3: ef2d4820 (9,960 in chips)
+Seat 4: 5d094a59 (4,080 in chips)
+Seat 5: 3659755 (15,825 in chips)
+Seat 6: 730f63da (5,508 in chips)
+Seat 8: 3f887de5 (8,360 in chips)
+Seat 9: Hero (9,500 in chips)
+5d094a59: posts the ante 40
+1f55dc54: posts the ante 40
+c4e7a3ce: posts the ante 40
+3659755: posts the ante 40
+Hero: posts the ante 40
+730f63da: posts the ante 40
+ef2d4820: posts the ante 40
+3f887de5: posts the ante 40
+ef2d4820: posts small blind 200
+5d094a59: posts big blind 400
+*** HOLE CARDS ***
+Dealt to c4e7a3ce 
+Dealt to 1f55dc54 
+Dealt to ef2d4820 
+Dealt to 5d094a59 
+Dealt to 3659755 
+Dealt to 730f63da 
+Dealt to 3f887de5 
+Dealt to Hero [4h 3s]
+3659755: folds
+730f63da: folds
+3f887de5: raises 400 to 800
+Hero: folds
+c4e7a3ce: folds
+1f55dc54: raises 1,307 to 2,107 and is all-in
+ef2d4820: folds
+5d094a59: folds
+3f887de5: calls 1,307
+1f55dc54: shows [Kc Ad]
+3f887de5: shows [Ah Ac]
+*** FLOP *** [Qc 7c 6s]
+*** TURN *** [Qc 7c 6s] [As]
+*** RIVER *** [Qc 7c 6s As] [Jc]
+*** SHOWDOWN ***
+3f887de5 collected 5,134 from pot
+*** SUMMARY ***
+Total pot 5,134 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc 7c 6s As Jc]
+Seat 1: c4e7a3ce folded before Flop
+Seat 2: 1f55dc54 (button) showed [Kc Ad] and lost with a pair of Aces
+Seat 3: ef2d4820 (small blind) folded before Flop
+Seat 4: 5d094a59 (big blind) folded before Flop
+Seat 5: 3659755 folded before Flop
+Seat 6: 730f63da folded before Flop
+Seat 8: 3f887de5 showed [Ah Ac] and won (5,134) with three of a kind, Aces
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90881945: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level7(200/400) - 2026/01/07 17:07:18
+Table '9' 9-max Seat #1 is the button
+Seat 1: c4e7a3ce (4,280 in chips)
+Seat 2: 1f55dc54 (2,387 in chips)
+Seat 3: ef2d4820 (9,480 in chips)
+Seat 4: 5d094a59 (4,120 in chips)
+Seat 5: 3659755 (15,865 in chips)
+Seat 6: 730f63da (5,548 in chips)
+Seat 8: 3f887de5 (8,400 in chips)
+Seat 9: Hero (9,540 in chips)
+5d094a59: posts the ante 40
+1f55dc54: posts the ante 40
+c4e7a3ce: posts the ante 40
+3659755: posts the ante 40
+Hero: posts the ante 40
+730f63da: posts the ante 40
+ef2d4820: posts the ante 40
+3f887de5: posts the ante 40
+1f55dc54: posts small blind 200
+ef2d4820: posts big blind 400
+*** HOLE CARDS ***
+Dealt to c4e7a3ce 
+Dealt to 1f55dc54 
+Dealt to ef2d4820 
+Dealt to 5d094a59 
+Dealt to 3659755 
+Dealt to 730f63da 
+Dealt to 3f887de5 
+Dealt to Hero [Kc 6c]
+5d094a59: folds
+3659755: folds
+730f63da: folds
+3f887de5: folds
+Hero: folds
+c4e7a3ce: folds
+1f55dc54: folds
+Uncalled bet (200) returned to ef2d4820
+*** SHOWDOWN ***
+ef2d4820 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: c4e7a3ce (button) folded before Flop
+Seat 2: 1f55dc54 (small blind) folded before Flop
+Seat 3: ef2d4820 (big blind) collected (720)
+Seat 4: 5d094a59 folded before Flop
+Seat 5: 3659755 folded before Flop
+Seat 6: 730f63da folded before Flop
+Seat 8: 3f887de5 folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90891721: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level7(200/400) - 2026/01/07 17:05:52
+Table '6' 9-max Seat #8 is the button
+Seat 1: 8c2c493d (3,480 in chips)
+Seat 2: dfc43f1 (5,000 in chips)
+Seat 3: 797fa709 (19,606 in chips)
+Seat 4: 408534c (11,080 in chips)
+Seat 5: d44adea4 (5,000 in chips)
+Seat 6: cd51efe5 (4,960 in chips)
+Seat 7: b977efa6 (10,526 in chips)
+Seat 8: a85aa46d (5,455 in chips)
+Seat 9: Hero (9,780 in chips)
+408534c: posts the ante 40
+cd51efe5: posts the ante 40
+dfc43f1: posts the ante 40
+a85aa46d: posts the ante 40
+d44adea4: posts the ante 40
+797fa709: posts the ante 40
+8c2c493d: posts the ante 40
+b977efa6: posts the ante 40
+Hero: posts the ante 40
+Hero: posts small blind 200
+8c2c493d: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 8c2c493d 
+Dealt to dfc43f1 
+Dealt to 797fa709 
+Dealt to 408534c 
+Dealt to d44adea4 
+Dealt to cd51efe5 
+Dealt to b977efa6 
+Dealt to a85aa46d 
+Dealt to Hero [7c Kc]
+dfc43f1: folds
+797fa709: raises 480 to 880
+408534c: folds
+d44adea4: folds
+cd51efe5: folds
+b977efa6: folds
+a85aa46d: raises 4,535 to 5,415 and is all-in
+Hero: folds
+8c2c493d: folds
+797fa709: calls 4,535
+a85aa46d: shows [Ks Ad]
+797fa709: shows [Ah Qh]
+*** FLOP *** [Jd Ac Qs]
+*** TURN *** [Jd Ac Qs] [9s]
+*** RIVER *** [Jd Ac Qs 9s] [4c]
+*** SHOWDOWN ***
+797fa709 collected 11,790 from pot
+*** SUMMARY ***
+Total pot 11,790 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd Ac Qs 9s 4c]
+Seat 1: 8c2c493d (big blind) folded before Flop
+Seat 2: dfc43f1 folded before Flop
+Seat 3: 797fa709 showed [Ah Qh] and won (11,790) with two pair, Aces and Queens
+Seat 4: 408534c folded before Flop
+Seat 5: d44adea4 folded before Flop
+Seat 6: cd51efe5 folded before Flop
+Seat 7: b977efa6 folded before Flop
+Seat 8: a85aa46d (button) showed [Ks Ad] and lost with a pair of Aces
+Seat 9: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM90891713: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level7(200/400) - 2026/01/07 17:04:57
+Table '6' 9-max Seat #7 is the button
+Seat 1: 8c2c493d (3,520 in chips)
+Seat 2: a7011afe (4,170 in chips)
+Seat 3: 797fa709 (19,646 in chips)
+Seat 4: 408534c (6,070 in chips)
+Seat 6: cd51efe5 (5,000 in chips)
+Seat 7: b977efa6 (10,566 in chips)
+Seat 8: a85aa46d (5,695 in chips)
+Seat 9: Hero (10,220 in chips)
+408534c: posts the ante 40
+cd51efe5: posts the ante 40
+a7011afe: posts the ante 40
+a85aa46d: posts the ante 40
+797fa709: posts the ante 40
+8c2c493d: posts the ante 40
+b977efa6: posts the ante 40
+Hero: posts the ante 40
+a85aa46d: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 8c2c493d 
+Dealt to a7011afe 
+Dealt to 797fa709 
+Dealt to 408534c 
+Dealt to cd51efe5 
+Dealt to b977efa6 
+Dealt to a85aa46d 
+Dealt to Hero [Kc 3h]
+8c2c493d: folds
+a7011afe: raises 3,730 to 4,130 and is all-in
+797fa709: folds
+408534c: raises 1,900 to 6,030 and is all-in
+cd51efe5: folds
+b977efa6: folds
+a85aa46d: folds
+Hero: folds
+Uncalled bet (1,900) returned to 408534c
+408534c: shows [Qd Ah]
+a7011afe: shows [4c 4h]
+*** FLOP *** [As 3d Qh]
+*** TURN *** [As 3d Qh] [8c]
+*** RIVER *** [As 3d Qh 8c] [2h]
+*** SHOWDOWN ***
+408534c collected 9,180 from pot
+*** SUMMARY ***
+Total pot 9,180 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As 3d Qh 8c 2h]
+Seat 1: 8c2c493d folded before Flop
+Seat 2: a7011afe showed [4c 4h] and lost with a pair of Fours
+Seat 3: 797fa709 folded before Flop
+Seat 4: 408534c showed [Qd Ah] and won (9,180) with two pair, Aces and Queens
+Seat 6: cd51efe5 folded before Flop
+Seat 7: b977efa6 (button) folded before Flop
+Seat 8: a85aa46d (small blind) folded before Flop
+Seat 9: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM90891702: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level7(200/400) - 2026/01/07 17:04:01
+Table '6' 9-max Seat #4 is the button
+Seat 1: 8c2c493d (3,560 in chips)
+Seat 2: a7011afe (4,210 in chips)
+Seat 3: 797fa709 (19,686 in chips)
+Seat 4: 408534c (6,910 in chips)
+Seat 5: 7ab92ff1 (4,566 in chips)
+Seat 7: b977efa6 (4,960 in chips)
+Seat 8: a85aa46d (5,735 in chips)
+Seat 9: Hero (10,260 in chips)
+408534c: posts the ante 40
+a7011afe: posts the ante 40
+a85aa46d: posts the ante 40
+797fa709: posts the ante 40
+7ab92ff1: posts the ante 40
+8c2c493d: posts the ante 40
+b977efa6: posts the ante 40
+Hero: posts the ante 40
+7ab92ff1: posts small blind 200
+b977efa6: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 8c2c493d 
+Dealt to a7011afe 
+Dealt to 797fa709 
+Dealt to 408534c 
+Dealt to 7ab92ff1 
+Dealt to b977efa6 
+Dealt to a85aa46d 
+Dealt to Hero [9d Qs]
+a85aa46d: folds
+Hero: folds
+8c2c493d: folds
+a7011afe: folds
+797fa709: folds
+408534c: raises 400 to 800
+7ab92ff1: calls 600
+b977efa6: raises 4,120 to 4,920 and is all-in
+408534c: folds
+7ab92ff1: calls 3,726 and is all-in
+Uncalled bet (394) returned to b977efa6
+b977efa6: shows [3d Ah]
+7ab92ff1: shows [Jh 7s]
+*** FLOP *** [7d Ac Ad]
+*** TURN *** [7d Ac Ad] [9h]
+*** RIVER *** [7d Ac Ad 9h] [Th]
+*** SHOWDOWN ***
+b977efa6 collected 10,172 from pot
+*** SUMMARY ***
+Total pot 10,172 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d Ac Ad 9h Th]
+Seat 1: 8c2c493d folded before Flop
+Seat 2: a7011afe folded before Flop
+Seat 3: 797fa709 folded before Flop
+Seat 4: 408534c (button) folded before Flop
+Seat 5: 7ab92ff1 (small blind) showed [Jh 7s] and lost with two pair, Aces and Sevens
+Seat 7: b977efa6 (big blind) showed [3d Ah] and won (10,172) with three of a kind, Aces
+Seat 8: a85aa46d folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90891698: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level7(200/400) - 2026/01/07 17:03:36
+Table '6' 9-max Seat #3 is the button
+Seat 1: 8c2c493d (3,600 in chips)
+Seat 2: a7011afe (4,250 in chips)
+Seat 3: 797fa709 (19,726 in chips)
+Seat 4: 408534c (7,150 in chips)
+Seat 5: 7ab92ff1 (5,006 in chips)
+Seat 7: b977efa6 (4,080 in chips)
+Seat 8: a85aa46d (5,775 in chips)
+Seat 9: Hero (10,300 in chips)
+408534c: posts the ante 40
+a7011afe: posts the ante 40
+a85aa46d: posts the ante 40
+797fa709: posts the ante 40
+7ab92ff1: posts the ante 40
+8c2c493d: posts the ante 40
+b977efa6: posts the ante 40
+Hero: posts the ante 40
+408534c: posts small blind 200
+7ab92ff1: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 8c2c493d 
+Dealt to a7011afe 
+Dealt to 797fa709 
+Dealt to 408534c 
+Dealt to 7ab92ff1 
+Dealt to b977efa6 
+Dealt to a85aa46d 
+Dealt to Hero [5s 2h]
+b977efa6: raises 3,640 to 4,040 and is all-in
+a85aa46d: folds
+Hero: folds
+8c2c493d: folds
+a7011afe: folds
+797fa709: folds
+408534c: folds
+7ab92ff1: folds
+Uncalled bet (3,640) returned to b977efa6
+*** SHOWDOWN ***
+b977efa6 collected 1,320 from pot
+*** SUMMARY ***
+Total pot 1,320 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8c2c493d folded before Flop
+Seat 2: a7011afe folded before Flop
+Seat 3: 797fa709 (button) folded before Flop
+Seat 4: 408534c (small blind) folded before Flop
+Seat 5: 7ab92ff1 (big blind) folded before Flop
+Seat 7: b977efa6 collected (1,320)
+Seat 8: a85aa46d folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90891690: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level7(200/400) - 2026/01/07 17:02:36
+Table '6' 9-max Seat #2 is the button
+Seat 1: 8c2c493d (3,640 in chips)
+Seat 2: a7011afe (4,290 in chips)
+Seat 3: 797fa709 (19,966 in chips)
+Seat 4: 408534c (7,590 in chips)
+Seat 5: 7ab92ff1 (5,446 in chips)
+Seat 7: b977efa6 (4,120 in chips)
+Seat 8: a85aa46d (10,305 in chips)
+Seat 9: Hero (4,530 in chips)
+408534c: posts the ante 40
+a7011afe: posts the ante 40
+a85aa46d: posts the ante 40
+7ab92ff1: posts the ante 40
+797fa709: posts the ante 40
+8c2c493d: posts the ante 40
+b977efa6: posts the ante 40
+Hero: posts the ante 40
+797fa709: posts small blind 200
+408534c: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 8c2c493d 
+Dealt to a7011afe 
+Dealt to 797fa709 
+Dealt to 408534c 
+Dealt to 7ab92ff1 
+Dealt to b977efa6 
+Dealt to a85aa46d 
+Dealt to Hero [Tc Ts]
+7ab92ff1: calls 400
+b977efa6: folds
+a85aa46d: calls 400
+Hero: raises 4,090 to 4,490 and is all-in
+8c2c493d: folds
+a7011afe: folds
+797fa709: folds
+408534c: folds
+7ab92ff1: folds
+a85aa46d: calls 4,090
+Hero: shows [Tc Ts]
+a85aa46d: shows [5s 5h]
+*** FLOP *** [Ah Js 9h]
+*** TURN *** [Ah Js 9h] [3c]
+*** RIVER *** [Ah Js 9h 3c] [6h]
+*** SHOWDOWN ***
+Hero collected 10,300 from pot
+*** SUMMARY ***
+Total pot 10,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah Js 9h 3c 6h]
+Seat 1: 8c2c493d folded before Flop
+Seat 2: a7011afe (button) folded before Flop
+Seat 3: 797fa709 (small blind) folded before Flop
+Seat 4: 408534c (big blind) folded before Flop
+Seat 5: 7ab92ff1 folded before Flop
+Seat 7: b977efa6 folded before Flop
+Seat 8: a85aa46d showed [5s 5h] and lost with a pair of Fives
+Seat 9: Hero showed [Tc Ts] and won (10,300) with a pair of Tens
+
+
+Poker Hand #TM90891677: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level7(200/400) - 2026/01/07 17:01:16
+Table '6' 9-max Seat #1 is the button
+Seat 1: 8c2c493d (3,680 in chips)
+Seat 2: a7011afe (4,530 in chips)
+Seat 3: 797fa709 (20,406 in chips)
+Seat 4: 408534c (7,630 in chips)
+Seat 5: 7ab92ff1 (3,326 in chips)
+Seat 6: 6d799682 (10,893 in chips)
+Seat 7: b977efa6 (4,160 in chips)
+Seat 8: a85aa46d (11,545 in chips)
+Seat 9: Hero (4,570 in chips)
+408534c: posts the ante 40
+6d799682: posts the ante 40
+a7011afe: posts the ante 40
+a85aa46d: posts the ante 40
+7ab92ff1: posts the ante 40
+797fa709: posts the ante 40
+8c2c493d: posts the ante 40
+b977efa6: posts the ante 40
+Hero: posts the ante 40
+a7011afe: posts small blind 200
+797fa709: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 8c2c493d 
+Dealt to a7011afe 
+Dealt to 797fa709 
+Dealt to 408534c 
+Dealt to 7ab92ff1 
+Dealt to 6d799682 
+Dealt to b977efa6 
+Dealt to a85aa46d 
+Dealt to Hero [Qc 2h]
+408534c: folds
+7ab92ff1: calls 400
+6d799682: folds
+b977efa6: folds
+a85aa46d: raises 800 to 1,200
+Hero: folds
+8c2c493d: folds
+a7011afe: folds
+797fa709: folds
+7ab92ff1: calls 800
+*** FLOP *** [6s Qd Ah]
+7ab92ff1: checks
+a85aa46d: checks
+*** TURN *** [6s Qd Ah] [Kc]
+7ab92ff1: bets 1,109
+a85aa46d: folds
+Uncalled bet (1,109) returned to 7ab92ff1
+*** SHOWDOWN ***
+7ab92ff1 collected 3,360 from pot
+*** SUMMARY ***
+Total pot 3,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Qd Ah Kc]
+Seat 1: 8c2c493d (button) folded before Flop
+Seat 2: a7011afe (small blind) folded before Flop
+Seat 3: 797fa709 (big blind) folded before Flop
+Seat 4: 408534c folded before Flop
+Seat 5: 7ab92ff1 won (3,360)
+Seat 6: 6d799682 folded before Flop
+Seat 7: b977efa6 folded before Flop
+Seat 8: a85aa46d folded on the Turn
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90891668: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level7(200/400) - 2026/01/07 16:54:50
+Table '6' 9-max Seat #9 is the button
+Seat 1: 8c2c493d (3,920 in chips)
+Seat 2: a7011afe (4,970 in chips)
+Seat 3: 797fa709 (9,363 in chips)
+Seat 4: 408534c (7,670 in chips)
+Seat 5: 7ab92ff1 (12,689 in chips)
+Seat 6: 6d799682 (10,933 in chips)
+Seat 7: b977efa6 (5,000 in chips)
+Seat 8: a85aa46d (11,585 in chips)
+Seat 9: Hero (4,610 in chips)
+408534c: posts the ante 40
+6d799682: posts the ante 40
+a7011afe: posts the ante 40
+a85aa46d: posts the ante 40
+7ab92ff1: posts the ante 40
+797fa709: posts the ante 40
+8c2c493d: posts the ante 40
+b977efa6: posts the ante 40
+Hero: posts the ante 40
+8c2c493d: posts small blind 200
+a7011afe: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 8c2c493d 
+Dealt to a7011afe 
+Dealt to 797fa709 
+Dealt to 408534c 
+Dealt to 7ab92ff1 
+Dealt to 6d799682 
+Dealt to b977efa6 
+Dealt to a85aa46d 
+Dealt to Hero [2c Ks]
+797fa709: raises 400 to 800
+408534c: folds
+7ab92ff1: calls 800
+6d799682: folds
+b977efa6: calls 800
+a85aa46d: folds
+Hero: folds
+8c2c493d: folds
+a7011afe: folds
+*** FLOP *** [4d 8h 2s]
+797fa709: bets 2,520
+7ab92ff1: raises 9,329 to 11,849 and is all-in
+b977efa6: folds
+797fa709: calls 6,003 and is all-in
+Uncalled bet (3,326) returned to 7ab92ff1
+7ab92ff1: shows [7d 7s] (a pair of Sevens)
+797fa709: shows [Jh Jd] (a pair of Jacks)
+*** TURN *** [4d 8h 2s] [4s]
+*** RIVER *** [4d 8h 2s 4s] [5d]
+*** SHOWDOWN ***
+797fa709 collected 20,406 from pot
+*** SUMMARY ***
+Total pot 20,406 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 8h 2s 4s 5d]
+Seat 1: 8c2c493d (small blind) folded before Flop
+Seat 2: a7011afe (big blind) folded before Flop
+Seat 3: 797fa709 showed [Jh Jd] and won (20,406) with two pair, Jacks and Fours
+Seat 4: 408534c folded before Flop
+Seat 5: 7ab92ff1 showed [7d 7s] and lost with two pair, Sevens and Fours
+Seat 6: 6d799682 folded before Flop
+Seat 7: b977efa6 folded on the Flop
+Seat 8: a85aa46d folded before Flop
+Seat 9: Hero (button) folded before Flop
+
+
+Poker Hand #TM90891657: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level6(150/300) - 2026/01/07 16:53:29
+Table '6' 9-max Seat #8 is the button
+Seat 1: 8c2c493d (4,250 in chips)
+Seat 2: a7011afe (5,000 in chips)
+Seat 3: 797fa709 (9,393 in chips)
+Seat 4: 408534c (7,700 in chips)
+Seat 5: 7ab92ff1 (11,579 in chips)
+Seat 6: 6d799682 (11,263 in chips)
+Seat 8: a85aa46d (11,615 in chips)
+Seat 9: Hero (4,940 in chips)
+408534c: posts the ante 30
+6d799682: posts the ante 30
+a7011afe: posts the ante 30
+a85aa46d: posts the ante 30
+7ab92ff1: posts the ante 30
+797fa709: posts the ante 30
+8c2c493d: posts the ante 30
+Hero: posts the ante 30
+Hero: posts small blind 150
+8c2c493d: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 8c2c493d 
+Dealt to a7011afe 
+Dealt to 797fa709 
+Dealt to 408534c 
+Dealt to 7ab92ff1 
+Dealt to 6d799682 
+Dealt to a85aa46d 
+Dealt to Hero [Jd Tc]
+a7011afe: folds
+797fa709: folds
+408534c: folds
+7ab92ff1: calls 300
+6d799682: calls 300
+a85aa46d: folds
+Hero: calls 150
+8c2c493d: checks
+*** FLOP *** [8c As Ac]
+Hero: checks
+8c2c493d: checks
+7ab92ff1: checks
+6d799682: checks
+*** TURN *** [8c As Ac] [8h]
+Hero: checks
+8c2c493d: checks
+7ab92ff1: bets 1,440
+6d799682: folds
+Hero: folds
+8c2c493d: folds
+Uncalled bet (1,440) returned to 7ab92ff1
+*** SHOWDOWN ***
+7ab92ff1 collected 1,440 from pot
+*** SUMMARY ***
+Total pot 1,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c As Ac 8h]
+Seat 1: 8c2c493d (big blind) folded on the Turn
+Seat 2: a7011afe folded before Flop
+Seat 3: 797fa709 folded before Flop
+Seat 4: 408534c folded before Flop
+Seat 5: 7ab92ff1 won (1,440)
+Seat 6: 6d799682 folded on the Turn
+Seat 8: a85aa46d (button) folded before Flop
+Seat 9: Hero (small blind) folded on the Turn
+
+
+Poker Hand #TM90891650: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level6(150/300) - 2026/01/07 16:52:33
+Table '6' 9-max Seat #6 is the button
+Seat 1: 8c2c493d (4,280 in chips)
+Seat 3: 797fa709 (9,423 in chips)
+Seat 4: 408534c (7,730 in chips)
+Seat 5: 7ab92ff1 (7,488 in chips)
+Seat 6: 6d799682 (11,593 in chips)
+Seat 7: c646a5ba (3,311 in chips)
+Seat 8: a85aa46d (11,945 in chips)
+Seat 9: Hero (4,970 in chips)
+408534c: posts the ante 30
+6d799682: posts the ante 30
+a85aa46d: posts the ante 30
+7ab92ff1: posts the ante 30
+797fa709: posts the ante 30
+c646a5ba: posts the ante 30
+8c2c493d: posts the ante 30
+Hero: posts the ante 30
+c646a5ba: posts small blind 150
+a85aa46d: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 8c2c493d 
+Dealt to 797fa709 
+Dealt to 408534c 
+Dealt to 7ab92ff1 
+Dealt to 6d799682 
+Dealt to c646a5ba 
+Dealt to a85aa46d 
+Dealt to Hero [3c 9d]
+Hero: folds
+8c2c493d: folds
+797fa709: folds
+408534c: folds
+7ab92ff1: calls 300
+6d799682: calls 300
+c646a5ba: raises 2,981 to 3,281 and is all-in
+a85aa46d: folds
+7ab92ff1: calls 2,981
+6d799682: folds
+c646a5ba: shows [2h Ad]
+7ab92ff1: shows [Jc 8c]
+*** FLOP *** [Ac 7s 6c]
+*** TURN *** [Ac 7s 6c] [5c]
+*** RIVER *** [Ac 7s 6c 5c] [Kh]
+*** SHOWDOWN ***
+7ab92ff1 collected 7,402 from pot
+*** SUMMARY ***
+Total pot 7,402 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 7s 6c 5c Kh]
+Seat 1: 8c2c493d folded before Flop
+Seat 3: 797fa709 folded before Flop
+Seat 4: 408534c folded before Flop
+Seat 5: 7ab92ff1 showed [Jc 8c] and won (7,402) with a flush Ace high
+Seat 6: 6d799682 (button) folded before Flop
+Seat 7: c646a5ba (small blind) showed [2h Ad] and lost with a pair of Aces
+Seat 8: a85aa46d (big blind) folded before Flop
+Seat 9: Hero folded before Flop
+
+
+Poker Hand #TM90891638: Tournament #5512448, $10 Satellite to #25: $100 Winter Classic 9-Max, 5 Seats Hold'em No Limit - Level6(150/300) - 2026/01/07 16:50:47
+Table '6' 9-max Seat #5 is the button
+Seat 1: 8c2c493d (4,970 in chips)
+Seat 2: fe0003eb (14,171 in chips)
+Seat 3: 797fa709 (9,453 in chips)
+Seat 4: 408534c (7,760 in chips)
+Seat 5: 7ab92ff1 (3,234 in chips)
+Seat 6: 6d799682 (11,773 in chips)
+Seat 7: c646a5ba (6,545 in chips)
+Seat 8: a85aa46d (11,975 in chips)
+Seat 9: Hero (5,000 in chips)
+408534c: posts the ante 30
+6d799682: posts the ante 30
+a85aa46d: posts the ante 30
+7ab92ff1: posts the ante 30
+797fa709: posts the ante 30
+c646a5ba: posts the ante 30
+8c2c493d: posts the ante 30
+fe0003eb: posts the ante 30
+Hero: posts the ante 30
+6d799682: posts small blind 150
+c646a5ba: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 8c2c493d 
+Dealt to fe0003eb 
+Dealt to 797fa709 
+Dealt to 408534c 
+Dealt to 7ab92ff1 
+Dealt to 6d799682 
+Dealt to c646a5ba 
+Dealt to a85aa46d 
+Dealt to Hero [Qd 7c]
+a85aa46d: folds
+Hero: folds
+8c2c493d: raises 360 to 660
+fe0003eb: folds
+797fa709: folds
+408534c: folds
+7ab92ff1: calls 660
+6d799682: folds
+c646a5ba: calls 360
+*** FLOP *** [Qs Th Ks]
+c646a5ba: checks
+8c2c493d: checks
+7ab92ff1: bets 2,544 and is all-in
+c646a5ba: calls 2,544
+8c2c493d: folds
+7ab92ff1: shows [Qc 3h] (a pair of Queens)
+c646a5ba: shows [Tc Jh] (a pair of Tens)
+*** TURN *** [Qs Th Ks] [4c]
+*** RIVER *** [Qs Th Ks 4c] [Kc]
+*** SHOWDOWN ***
+7ab92ff1 collected 7,488 from pot
+*** SUMMARY ***
+Total pot 7,488 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs Th Ks 4c Kc]
+Seat 1: 8c2c493d folded on the Flop
+Seat 2: fe0003eb folded before Flop
+Seat 3: 797fa709 folded before Flop
+Seat 4: 408534c folded before Flop
+Seat 5: 7ab92ff1 (button) showed [Qc 3h] and won (7,488) with two pair, Kings and Queens
+Seat 6: 6d799682 (small blind) folded before Flop
+Seat 7: c646a5ba (big blind) showed [Tc Jh] and lost with two pair, Kings and Tens
+Seat 8: a85aa46d folded before Flop
+Seat 9: Hero folded before Flop
+
+

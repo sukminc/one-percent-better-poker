@@ -1,0 +1,6181 @@
+Poker Hand #TM91629245: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/15 14:37:15
+Table '5' 8-max Seat #6 is the button
+Seat 1: 3276b99b (40,840 in chips)
+Seat 3: Hero (56,683 in chips)
+Seat 4: be7a3be3 (46,149 in chips)
+Seat 6: 5a60f2d9 (50,706 in chips)
+Seat 7: 96b7d08b (10,505 in chips)
+Seat 8: 3cad31a9 (8,840 in chips)
+3276b99b: posts the ante 200
+96b7d08b: posts the ante 200
+be7a3be3: posts the ante 200
+5a60f2d9: posts the ante 200
+3cad31a9: posts the ante 200
+Hero: posts the ante 200
+96b7d08b: posts small blind 1,000
+3cad31a9: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 3276b99b 
+Dealt to Hero [As 9c]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3276b99b: folds
+Hero: raises 2,000 to 4,000
+be7a3be3: folds
+5a60f2d9: folds
+96b7d08b: folds
+3cad31a9: folds
+Uncalled bet (2,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 6,200 from pot
+*** SUMMARY ***
+Total pot 6,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3276b99b folded before Flop
+Seat 3: Hero collected (6,200)
+Seat 4: be7a3be3 folded before Flop
+Seat 6: 5a60f2d9 (button) folded before Flop
+Seat 7: 96b7d08b (small blind) folded before Flop
+Seat 8: 3cad31a9 (big blind) folded before Flop
+
+
+Poker Hand #TM91629241: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/15 14:36:51
+Table '5' 8-max Seat #4 is the button
+Seat 1: 3276b99b (41,040 in chips)
+Seat 3: Hero (56,883 in chips)
+Seat 4: be7a3be3 (46,349 in chips)
+Seat 6: 5a60f2d9 (47,706 in chips)
+Seat 7: 96b7d08b (12,705 in chips)
+Seat 8: 3cad31a9 (9,040 in chips)
+3276b99b: posts the ante 200
+96b7d08b: posts the ante 200
+be7a3be3: posts the ante 200
+3cad31a9: posts the ante 200
+5a60f2d9: posts the ante 200
+Hero: posts the ante 200
+5a60f2d9: posts small blind 1,000
+96b7d08b: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 3276b99b 
+Dealt to Hero [Qc 8h]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3cad31a9: folds
+3276b99b: folds
+Hero: folds
+be7a3be3: folds
+5a60f2d9: raises 45,506 to 47,506 and is all-in
+96b7d08b: folds
+Uncalled bet (45,506) returned to 5a60f2d9
+*** SHOWDOWN ***
+5a60f2d9 collected 5,200 from pot
+*** SUMMARY ***
+Total pot 5,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3276b99b folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 (button) folded before Flop
+Seat 6: 5a60f2d9 (small blind) collected (5,200)
+Seat 7: 96b7d08b (big blind) folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629233: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/15 14:36:15
+Table '5' 8-max Seat #3 is the button
+Seat 1: 3276b99b (41,240 in chips)
+Seat 3: Hero (49,883 in chips)
+Seat 4: be7a3be3 (50,549 in chips)
+Seat 6: 5a60f2d9 (49,906 in chips)
+Seat 7: 96b7d08b (12,905 in chips)
+Seat 8: 3cad31a9 (9,240 in chips)
+3276b99b: posts the ante 200
+96b7d08b: posts the ante 200
+be7a3be3: posts the ante 200
+3cad31a9: posts the ante 200
+5a60f2d9: posts the ante 200
+Hero: posts the ante 200
+be7a3be3: posts small blind 1,000
+5a60f2d9: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 3276b99b 
+Dealt to Hero [Jd Tc]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+96b7d08b: folds
+3cad31a9: folds
+3276b99b: folds
+Hero: raises 2,000 to 4,000
+be7a3be3: calls 3,000
+5a60f2d9: folds
+*** FLOP *** [Ac Kh 4d]
+be7a3be3: checks
+Hero: bets 3,248
+be7a3be3: folds
+Uncalled bet (3,248) returned to Hero
+*** SHOWDOWN ***
+Hero collected 11,200 from pot
+*** SUMMARY ***
+Total pot 11,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac Kh 4d]
+Seat 1: 3276b99b folded before Flop
+Seat 3: Hero (button) won (11,200)
+Seat 4: be7a3be3 (small blind) folded on the Flop
+Seat 6: 5a60f2d9 (big blind) folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629226: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level13(1,000/2,000) - 2026/01/15 14:35:32
+Table '5' 8-max Seat #1 is the button
+Seat 1: 3276b99b (32,240 in chips)
+Seat 3: Hero (54,083 in chips)
+Seat 4: be7a3be3 (54,749 in chips)
+Seat 6: 5a60f2d9 (50,106 in chips)
+Seat 7: 96b7d08b (13,105 in chips)
+Seat 8: 3cad31a9 (9,440 in chips)
+3276b99b: posts the ante 200
+96b7d08b: posts the ante 200
+be7a3be3: posts the ante 200
+3cad31a9: posts the ante 200
+5a60f2d9: posts the ante 200
+Hero: posts the ante 200
+Hero: posts small blind 1,000
+be7a3be3: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 3276b99b 
+Dealt to Hero [5c Qc]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+5a60f2d9: folds
+96b7d08b: folds
+3cad31a9: folds
+3276b99b: raises 2,000 to 4,000
+Hero: calls 3,000
+be7a3be3: calls 2,000
+*** FLOP *** [Ad 4c 8h]
+Hero: checks
+be7a3be3: checks
+3276b99b: bets 4,356
+Hero: folds
+be7a3be3: folds
+Uncalled bet (4,356) returned to 3276b99b
+*** SHOWDOWN ***
+3276b99b collected 13,200 from pot
+*** SUMMARY ***
+Total pot 13,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad 4c 8h]
+Seat 1: 3276b99b (button) won (13,200)
+Seat 3: Hero (small blind) folded on the Flop
+Seat 4: be7a3be3 (big blind) folded on the Flop
+Seat 6: 5a60f2d9 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629221: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:35:02
+Table '5' 8-max Seat #8 is the button
+Seat 1: 3276b99b (33,140 in chips)
+Seat 3: Hero (52,583 in chips)
+Seat 4: be7a3be3 (54,899 in chips)
+Seat 6: 5a60f2d9 (50,256 in chips)
+Seat 7: 96b7d08b (13,255 in chips)
+Seat 8: 3cad31a9 (9,590 in chips)
+96b7d08b: posts the ante 150
+3276b99b: posts the ante 150
+be7a3be3: posts the ante 150
+3cad31a9: posts the ante 150
+5a60f2d9: posts the ante 150
+Hero: posts the ante 150
+3276b99b: posts small blind 750
+Hero: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to 3276b99b 
+Dealt to Hero [2d 8c]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+be7a3be3: folds
+5a60f2d9: folds
+96b7d08b: folds
+3cad31a9: folds
+3276b99b: folds
+Uncalled bet (750) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,400 from pot
+*** SUMMARY ***
+Total pot 2,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3276b99b (small blind) folded before Flop
+Seat 3: Hero (big blind) collected (2,400)
+Seat 4: be7a3be3 folded before Flop
+Seat 6: 5a60f2d9 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 (button) folded before Flop
+
+
+Poker Hand #TM91629214: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:34:26
+Table '5' 8-max Seat #7 is the button
+Seat 1: 3276b99b (15,895 in chips)
+Seat 3: Hero (52,733 in chips)
+Seat 4: be7a3be3 (55,049 in chips)
+Seat 6: 5a60f2d9 (50,406 in chips)
+Seat 7: 96b7d08b (29,150 in chips)
+Seat 8: 3cad31a9 (10,490 in chips)
+96b7d08b: posts the ante 150
+3276b99b: posts the ante 150
+be7a3be3: posts the ante 150
+5a60f2d9: posts the ante 150
+3cad31a9: posts the ante 150
+Hero: posts the ante 150
+3cad31a9: posts small blind 750
+3276b99b: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to 3276b99b 
+Dealt to Hero [8h Qd]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+Hero: folds
+be7a3be3: folds
+5a60f2d9: folds
+96b7d08b: raises 4,500 to 6,000
+3cad31a9: folds
+3276b99b: raises 9,745 to 15,745 and is all-in
+96b7d08b: calls 9,745
+3276b99b: shows [Ac 6s]
+96b7d08b: shows [Qc Jc]
+*** FLOP *** [8s 5c Ad]
+*** TURN *** [8s 5c Ad] [9d]
+*** RIVER *** [8s 5c Ad 9d] [7c]
+*** SHOWDOWN ***
+3276b99b collected 33,140 from pot
+*** SUMMARY ***
+Total pot 33,140 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 5c Ad 9d 7c]
+Seat 1: 3276b99b (big blind) showed [Ac 6s] and won (33,140) with a straight, Nine to Five
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 6: 5a60f2d9 folded before Flop
+Seat 7: 96b7d08b (button) showed [Qc Jc] and lost with Ace high
+Seat 8: 3cad31a9 (small blind) folded before Flop
+
+
+Poker Hand #TM91629211: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:34:08
+Table '5' 8-max Seat #6 is the button
+Seat 1: 3276b99b (12,895 in chips)
+Seat 3: Hero (52,883 in chips)
+Seat 4: be7a3be3 (55,199 in chips)
+Seat 6: 5a60f2d9 (50,556 in chips)
+Seat 7: 96b7d08b (30,050 in chips)
+Seat 8: 3cad31a9 (12,140 in chips)
+3276b99b: posts the ante 150
+96b7d08b: posts the ante 150
+be7a3be3: posts the ante 150
+5a60f2d9: posts the ante 150
+3cad31a9: posts the ante 150
+Hero: posts the ante 150
+96b7d08b: posts small blind 750
+3cad31a9: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to 3276b99b 
+Dealt to Hero [6d Qd]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3276b99b: raises 11,245 to 12,745 and is all-in
+Hero: folds
+be7a3be3: folds
+5a60f2d9: folds
+96b7d08b: folds
+3cad31a9: folds
+Uncalled bet (11,245) returned to 3276b99b
+*** SHOWDOWN ***
+3276b99b collected 4,650 from pot
+*** SUMMARY ***
+Total pot 4,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3276b99b collected (4,650)
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 6: 5a60f2d9 (button) folded before Flop
+Seat 7: 96b7d08b (small blind) folded before Flop
+Seat 8: 3cad31a9 (big blind) folded before Flop
+
+
+Poker Hand #TM91629208: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:33:55
+Table '5' 8-max Seat #4 is the button
+Seat 3: Hero (53,033 in chips)
+Seat 4: be7a3be3 (55,349 in chips)
+Seat 6: 5a60f2d9 (51,456 in chips)
+Seat 7: 96b7d08b (31,700 in chips)
+Seat 8: 3cad31a9 (9,290 in chips)
+96b7d08b: posts the ante 150
+be7a3be3: posts the ante 150
+3cad31a9: posts the ante 150
+5a60f2d9: posts the ante 150
+Hero: posts the ante 150
+5a60f2d9: posts small blind 750
+96b7d08b: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to Hero [Ah 9d]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3cad31a9: raises 7,640 to 9,140 and is all-in
+Hero: folds
+be7a3be3: folds
+5a60f2d9: folds
+96b7d08b: folds
+Uncalled bet (7,640) returned to 3cad31a9
+*** SHOWDOWN ***
+3cad31a9 collected 4,500 from pot
+*** SUMMARY ***
+Total pot 4,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 (button) folded before Flop
+Seat 6: 5a60f2d9 (small blind) folded before Flop
+Seat 7: 96b7d08b (big blind) folded before Flop
+Seat 8: 3cad31a9 collected (4,500)
+
+
+Poker Hand #TM91629203: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:33:20
+Table '5' 8-max Seat #3 is the button
+Seat 3: Hero (53,183 in chips)
+Seat 4: be7a3be3 (56,249 in chips)
+Seat 6: 5a60f2d9 (46,356 in chips)
+Seat 7: 96b7d08b (35,600 in chips)
+Seat 8: 3cad31a9 (9,440 in chips)
+96b7d08b: posts the ante 150
+be7a3be3: posts the ante 150
+3cad31a9: posts the ante 150
+5a60f2d9: posts the ante 150
+Hero: posts the ante 150
+be7a3be3: posts small blind 750
+5a60f2d9: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to Hero [7s 4h]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+96b7d08b: calls 1,500
+3cad31a9: folds
+Hero: folds
+be7a3be3: folds
+5a60f2d9: checks
+*** FLOP *** [7c 9d 4s]
+5a60f2d9: checks
+96b7d08b: bets 2,250
+5a60f2d9: calls 2,250
+*** TURN *** [7c 9d 4s] [3d]
+5a60f2d9: checks
+96b7d08b: checks
+*** RIVER *** [7c 9d 4s 3d] [As]
+5a60f2d9: bets 2,250
+96b7d08b: folds
+Uncalled bet (2,250) returned to 5a60f2d9
+*** SHOWDOWN ***
+5a60f2d9 collected 9,000 from pot
+*** SUMMARY ***
+Total pot 9,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 9d 4s 3d As]
+Seat 3: Hero (button) folded before Flop
+Seat 4: be7a3be3 (small blind) folded before Flop
+Seat 6: 5a60f2d9 (big blind) won (9,000)
+Seat 7: 96b7d08b folded on the River
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629198: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:32:38
+Table '5' 8-max Seat #1 is the button
+Seat 1: e4c88fec (5,833 in chips)
+Seat 2: 5c6ab84c (18,210 in chips)
+Seat 3: Hero (28,540 in chips)
+Seat 4: be7a3be3 (56,399 in chips)
+Seat 6: 5a60f2d9 (46,506 in chips)
+Seat 7: 96b7d08b (35,750 in chips)
+Seat 8: 3cad31a9 (9,590 in chips)
+96b7d08b: posts the ante 150
+5c6ab84c: posts the ante 150
+be7a3be3: posts the ante 150
+3cad31a9: posts the ante 150
+5a60f2d9: posts the ante 150
+Hero: posts the ante 150
+e4c88fec: posts the ante 150
+5c6ab84c: posts small blind 750
+Hero: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to 5c6ab84c 
+Dealt to Hero [Ah Ad]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+be7a3be3: folds
+5a60f2d9: folds
+96b7d08b: folds
+3cad31a9: folds
+e4c88fec: raises 4,183 to 5,683 and is all-in
+5c6ab84c: raises 12,377 to 18,060 and is all-in
+Hero: calls 16,560
+5c6ab84c: shows [Ac 7c]
+Hero: shows [Ah Ad]
+e4c88fec: shows [Kd 6d]
+*** FLOP *** [Jd 6s 9s]
+*** TURN *** [Jd 6s 9s] [7d]
+*** RIVER *** [Jd 6s 9s 7d] [8h]
+*** SHOWDOWN ***
+Hero collected 18,099 from pot
+Hero collected 24,754 from pot
+*** SUMMARY ***
+Total pot 42,853 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 6s 9s 7d 8h]
+Seat 1: e4c88fec (button) showed [Kd 6d] and lost with a pair of Sixes
+Seat 2: 5c6ab84c (small blind) showed [Ac 7c] and lost with a pair of Sevens
+Seat 3: Hero (big blind) showed [Ah Ad] and won (42,853) with a pair of Aces
+Seat 4: be7a3be3 folded before Flop
+Seat 6: 5a60f2d9 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629193: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:32:15
+Table '5' 8-max Seat #8 is the button
+Seat 1: e4c88fec (6,733 in chips)
+Seat 2: 5c6ab84c (19,860 in chips)
+Seat 3: Hero (28,690 in chips)
+Seat 4: be7a3be3 (56,549 in chips)
+Seat 6: 5a60f2d9 (43,356 in chips)
+Seat 7: 96b7d08b (35,900 in chips)
+Seat 8: 3cad31a9 (9,740 in chips)
+96b7d08b: posts the ante 150
+5c6ab84c: posts the ante 150
+be7a3be3: posts the ante 150
+3cad31a9: posts the ante 150
+5a60f2d9: posts the ante 150
+Hero: posts the ante 150
+e4c88fec: posts the ante 150
+e4c88fec: posts small blind 750
+5c6ab84c: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to 5c6ab84c 
+Dealt to Hero [7s Qc]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+Hero: folds
+be7a3be3: folds
+5a60f2d9: raises 1,500 to 3,000
+96b7d08b: folds
+3cad31a9: folds
+e4c88fec: folds
+5c6ab84c: folds
+Uncalled bet (1,500) returned to 5a60f2d9
+*** SHOWDOWN ***
+5a60f2d9 collected 4,800 from pot
+*** SUMMARY ***
+Total pot 4,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec (small blind) folded before Flop
+Seat 2: 5c6ab84c (big blind) folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 6: 5a60f2d9 collected (4,800)
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 (button) folded before Flop
+
+
+Poker Hand #TM91629191: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:32:00
+Table '5' 8-max Seat #7 is the button
+Seat 1: e4c88fec (8,383 in chips)
+Seat 2: 5c6ab84c (20,010 in chips)
+Seat 3: Hero (28,840 in chips)
+Seat 4: be7a3be3 (56,699 in chips)
+Seat 6: 5a60f2d9 (40,206 in chips)
+Seat 7: 96b7d08b (36,050 in chips)
+Seat 8: 3cad31a9 (10,640 in chips)
+96b7d08b: posts the ante 150
+5c6ab84c: posts the ante 150
+be7a3be3: posts the ante 150
+5a60f2d9: posts the ante 150
+3cad31a9: posts the ante 150
+Hero: posts the ante 150
+e4c88fec: posts the ante 150
+3cad31a9: posts small blind 750
+e4c88fec: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to 5c6ab84c 
+Dealt to Hero [Jc 6h]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+5c6ab84c: folds
+Hero: folds
+be7a3be3: folds
+5a60f2d9: raises 1,500 to 3,000
+96b7d08b: folds
+3cad31a9: folds
+e4c88fec: folds
+Uncalled bet (1,500) returned to 5a60f2d9
+*** SHOWDOWN ***
+5a60f2d9 collected 4,800 from pot
+*** SUMMARY ***
+Total pot 4,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec (big blind) folded before Flop
+Seat 2: 5c6ab84c folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 6: 5a60f2d9 collected (4,800)
+Seat 7: 96b7d08b (button) folded before Flop
+Seat 8: 3cad31a9 (small blind) folded before Flop
+
+
+Poker Hand #TM91629187: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:31:44
+Table '5' 8-max Seat #6 is the button
+Seat 1: e4c88fec (8,533 in chips)
+Seat 2: 5c6ab84c (20,160 in chips)
+Seat 3: Hero (28,990 in chips)
+Seat 4: be7a3be3 (56,849 in chips)
+Seat 6: 5a60f2d9 (40,356 in chips)
+Seat 7: 96b7d08b (36,950 in chips)
+Seat 8: 3cad31a9 (8,990 in chips)
+96b7d08b: posts the ante 150
+5c6ab84c: posts the ante 150
+be7a3be3: posts the ante 150
+5a60f2d9: posts the ante 150
+3cad31a9: posts the ante 150
+Hero: posts the ante 150
+e4c88fec: posts the ante 150
+96b7d08b: posts small blind 750
+3cad31a9: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to 5c6ab84c 
+Dealt to Hero [8s Ts]
+Dealt to be7a3be3 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+e4c88fec: folds
+5c6ab84c: folds
+Hero: folds
+be7a3be3: folds
+5a60f2d9: folds
+96b7d08b: folds
+Uncalled bet (750) returned to 3cad31a9
+*** SHOWDOWN ***
+3cad31a9 collected 2,550 from pot
+*** SUMMARY ***
+Total pot 2,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec folded before Flop
+Seat 2: 5c6ab84c folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 6: 5a60f2d9 (button) folded before Flop
+Seat 7: 96b7d08b (small blind) folded before Flop
+Seat 8: 3cad31a9 (big blind) collected (2,550)
+
+
+Poker Hand #TM91629182: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:31:08
+Table '5' 8-max Seat #5 is the button
+Seat 1: e4c88fec (8,683 in chips)
+Seat 2: 5c6ab84c (20,310 in chips)
+Seat 3: Hero (29,140 in chips)
+Seat 4: be7a3be3 (19,633 in chips)
+Seat 5: bcbf5152 (14,583 in chips)
+Seat 6: 5a60f2d9 (41,256 in chips)
+Seat 7: 96b7d08b (38,600 in chips)
+Seat 8: 3cad31a9 (28,623 in chips)
+96b7d08b: posts the ante 150
+5c6ab84c: posts the ante 150
+be7a3be3: posts the ante 150
+3cad31a9: posts the ante 150
+5a60f2d9: posts the ante 150
+bcbf5152: posts the ante 150
+Hero: posts the ante 150
+e4c88fec: posts the ante 150
+5a60f2d9: posts small blind 750
+96b7d08b: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to 5c6ab84c 
+Dealt to Hero [Qc Th]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3cad31a9: raises 4,500 to 6,000
+e4c88fec: folds
+5c6ab84c: folds
+Hero: folds
+be7a3be3: raises 13,483 to 19,483 and is all-in
+bcbf5152: calls 14,433 and is all-in
+5a60f2d9: folds
+96b7d08b: folds
+3cad31a9: calls 13,483
+be7a3be3: shows [Ad Kh]
+bcbf5152: shows [Qh Ah]
+3cad31a9: shows [Td Tc]
+*** FLOP *** [Kc 6d 3s]
+*** TURN *** [Kc 6d 3s] [9s]
+*** RIVER *** [Kc 6d 3s 9s] [4d]
+*** SHOWDOWN ***
+be7a3be3 collected 46,749 from pot
+be7a3be3 collected 10,100 from pot
+*** SUMMARY ***
+Total pot 56,849 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 6d 3s 9s 4d]
+Seat 1: e4c88fec folded before Flop
+Seat 2: 5c6ab84c folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 showed [Ad Kh] and won (56,849) with a pair of Kings
+Seat 5: bcbf5152 (button) showed [Qh Ah] and lost with Ace high
+Seat 6: 5a60f2d9 (small blind) folded before Flop
+Seat 7: 96b7d08b (big blind) folded before Flop
+Seat 8: 3cad31a9 showed [Td Tc] and lost with a pair of Tens
+
+
+Poker Hand #TM91629178: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level12(750/1,500) - 2026/01/15 14:30:27
+Table '5' 8-max Seat #4 is the button
+Seat 1: e4c88fec (8,833 in chips)
+Seat 2: 5c6ab84c (20,460 in chips)
+Seat 3: Hero (29,290 in chips)
+Seat 4: be7a3be3 (19,783 in chips)
+Seat 5: bcbf5152 (15,483 in chips)
+Seat 6: 5a60f2d9 (42,906 in chips)
+Seat 7: 96b7d08b (35,300 in chips)
+Seat 8: 3cad31a9 (28,773 in chips)
+96b7d08b: posts the ante 150
+5c6ab84c: posts the ante 150
+be7a3be3: posts the ante 150
+3cad31a9: posts the ante 150
+5a60f2d9: posts the ante 150
+bcbf5152: posts the ante 150
+Hero: posts the ante 150
+e4c88fec: posts the ante 150
+bcbf5152: posts small blind 750
+5a60f2d9: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to 5c6ab84c 
+Dealt to Hero [7c 3h]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+96b7d08b: calls 1,500
+3cad31a9: folds
+e4c88fec: folds
+5c6ab84c: folds
+Hero: folds
+be7a3be3: folds
+bcbf5152: folds
+5a60f2d9: checks
+*** FLOP *** [9h 2d 4s]
+5a60f2d9: checks
+96b7d08b: bets 2,475
+5a60f2d9: folds
+Uncalled bet (2,475) returned to 96b7d08b
+*** SHOWDOWN ***
+96b7d08b collected 4,950 from pot
+*** SUMMARY ***
+Total pot 4,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h 2d 4s]
+Seat 1: e4c88fec folded before Flop
+Seat 2: 5c6ab84c folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 (button) folded before Flop
+Seat 5: bcbf5152 (small blind) folded before Flop
+Seat 6: 5a60f2d9 (big blind) folded on the Flop
+Seat 7: 96b7d08b won (4,950)
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629173: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:29:57
+Table '5' 8-max Seat #3 is the button
+Seat 1: e4c88fec (8,933 in chips)
+Seat 2: 5c6ab84c (23,560 in chips)
+Seat 3: Hero (29,390 in chips)
+Seat 4: be7a3be3 (20,383 in chips)
+Seat 5: bcbf5152 (16,583 in chips)
+Seat 6: 5a60f2d9 (43,006 in chips)
+Seat 7: 96b7d08b (30,100 in chips)
+Seat 8: 3cad31a9 (28,873 in chips)
+96b7d08b: posts the ante 100
+5c6ab84c: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+5a60f2d9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+e4c88fec: posts the ante 100
+be7a3be3: posts small blind 500
+bcbf5152: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to 5c6ab84c 
+Dealt to Hero [6c 8s]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+5a60f2d9: folds
+96b7d08b: raises 2,000 to 3,000
+3cad31a9: folds
+e4c88fec: folds
+5c6ab84c: calls 3,000
+Hero: folds
+be7a3be3: folds
+bcbf5152: folds
+*** FLOP *** [Ac 7s 6s]
+96b7d08b: bets 27,000 and is all-in
+5c6ab84c: folds
+Uncalled bet (27,000) returned to 96b7d08b
+*** SHOWDOWN ***
+96b7d08b collected 8,300 from pot
+*** SUMMARY ***
+Total pot 8,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 7s 6s]
+Seat 1: e4c88fec folded before Flop
+Seat 2: 5c6ab84c folded on the Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: be7a3be3 (small blind) folded before Flop
+Seat 5: bcbf5152 (big blind) folded before Flop
+Seat 6: 5a60f2d9 folded before Flop
+Seat 7: 96b7d08b won (8,300)
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629170: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:29:45
+Table '5' 8-max Seat #1 is the button
+Seat 1: e4c88fec (9,033 in chips)
+Seat 3: Hero (29,990 in chips)
+Seat 4: be7a3be3 (19,283 in chips)
+Seat 5: bcbf5152 (16,683 in chips)
+Seat 6: 5a60f2d9 (43,106 in chips)
+Seat 7: 96b7d08b (30,200 in chips)
+Seat 8: 3cad31a9 (28,973 in chips)
+96b7d08b: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+5a60f2d9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+e4c88fec: posts the ante 100
+Hero: posts small blind 500
+be7a3be3: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to Hero [5h Jd]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 5a60f2d9 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+bcbf5152: folds
+5a60f2d9: folds
+96b7d08b: folds
+3cad31a9: folds
+e4c88fec: folds
+Hero: folds
+Uncalled bet (500) returned to be7a3be3
+*** SHOWDOWN ***
+be7a3be3 collected 1,700 from pot
+*** SUMMARY ***
+Total pot 1,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: be7a3be3 (big blind) collected (1,700)
+Seat 5: bcbf5152 folded before Flop
+Seat 6: 5a60f2d9 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629165: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:29:12
+Table '5' 8-max Seat #8 is the button
+Seat 1: e4c88fec (9,633 in chips)
+Seat 3: Hero (38,415 in chips)
+Seat 4: be7a3be3 (19,383 in chips)
+Seat 5: bcbf5152 (16,783 in chips)
+Seat 7: 96b7d08b (20,875 in chips)
+Seat 8: 3cad31a9 (29,073 in chips)
+96b7d08b: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+e4c88fec: posts the ante 100
+e4c88fec: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to Hero [Ks Jc]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+be7a3be3: folds
+bcbf5152: folds
+96b7d08b: raises 2,000 to 3,000
+3cad31a9: folds
+e4c88fec: folds
+Hero: calls 2,000
+*** FLOP *** [5h 9d Qd]
+Hero: checks
+96b7d08b: bets 5,325
+Hero: calls 5,325
+*** TURN *** [5h 9d Qd] [Jh]
+Hero: checks
+96b7d08b: bets 12,450 and is all-in
+Hero: folds
+Uncalled bet (12,450) returned to 96b7d08b
+*** SHOWDOWN ***
+96b7d08b collected 17,750 from pot
+*** SUMMARY ***
+Total pot 17,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 9d Qd Jh]
+Seat 1: e4c88fec (small blind) folded before Flop
+Seat 3: Hero (big blind) folded on the Turn
+Seat 4: be7a3be3 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 7: 96b7d08b won (17,750)
+Seat 8: 3cad31a9 (button) folded before Flop
+
+
+Poker Hand #TM91629160: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:28:54
+Table '5' 8-max Seat #7 is the button
+Seat 1: e4c88fec (10,733 in chips)
+Seat 3: Hero (38,515 in chips)
+Seat 4: be7a3be3 (19,483 in chips)
+Seat 5: bcbf5152 (16,883 in chips)
+Seat 7: 96b7d08b (18,875 in chips)
+Seat 8: 3cad31a9 (29,673 in chips)
+96b7d08b: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+e4c88fec: posts the ante 100
+3cad31a9: posts small blind 500
+e4c88fec: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to Hero [2s 2h]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+Hero: folds
+be7a3be3: folds
+bcbf5152: folds
+96b7d08b: raises 3,000 to 4,000
+3cad31a9: folds
+e4c88fec: folds
+Uncalled bet (3,000) returned to 96b7d08b
+*** SHOWDOWN ***
+96b7d08b collected 3,100 from pot
+*** SUMMARY ***
+Total pot 3,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec (big blind) folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 7: 96b7d08b (button) collected (3,100)
+Seat 8: 3cad31a9 (small blind) folded before Flop
+
+
+Poker Hand #TM91629159: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:28:34
+Table '5' 8-max Seat #5 is the button
+Seat 1: e4c88fec (10,833 in chips)
+Seat 3: Hero (38,615 in chips)
+Seat 4: be7a3be3 (19,583 in chips)
+Seat 5: bcbf5152 (16,983 in chips)
+Seat 7: 96b7d08b (19,475 in chips)
+Seat 8: 3cad31a9 (28,673 in chips)
+96b7d08b: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+e4c88fec: posts the ante 100
+96b7d08b: posts small blind 500
+3cad31a9: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to Hero [3s Ac]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+e4c88fec: folds
+Hero: folds
+be7a3be3: folds
+bcbf5152: folds
+96b7d08b: folds
+Uncalled bet (500) returned to 3cad31a9
+*** SHOWDOWN ***
+3cad31a9 collected 1,600 from pot
+*** SUMMARY ***
+Total pot 1,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 5: bcbf5152 (button) folded before Flop
+Seat 7: 96b7d08b (small blind) folded before Flop
+Seat 8: 3cad31a9 (big blind) collected (1,600)
+
+
+Poker Hand #TM91629154: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:28:16
+Table '5' 8-max Seat #4 is the button
+Seat 1: e4c88fec (10,933 in chips)
+Seat 3: Hero (38,715 in chips)
+Seat 4: be7a3be3 (19,683 in chips)
+Seat 5: bcbf5152 (17,583 in chips)
+Seat 7: 96b7d08b (20,575 in chips)
+Seat 8: 3cad31a9 (26,673 in chips)
+96b7d08b: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+e4c88fec: posts the ante 100
+bcbf5152: posts small blind 500
+96b7d08b: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to Hero [8h 6d]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3cad31a9: raises 2,000 to 3,000
+e4c88fec: folds
+Hero: folds
+be7a3be3: folds
+bcbf5152: folds
+96b7d08b: folds
+Uncalled bet (2,000) returned to 3cad31a9
+*** SHOWDOWN ***
+3cad31a9 collected 3,100 from pot
+*** SUMMARY ***
+Total pot 3,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 (button) folded before Flop
+Seat 5: bcbf5152 (small blind) folded before Flop
+Seat 7: 96b7d08b (big blind) folded before Flop
+Seat 8: 3cad31a9 collected (3,100)
+
+
+Poker Hand #TM91629151: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:27:57
+Table '5' 8-max Seat #3 is the button
+Seat 1: e4c88fec (8,933 in chips)
+Seat 3: Hero (38,815 in chips)
+Seat 4: be7a3be3 (20,283 in chips)
+Seat 5: bcbf5152 (18,683 in chips)
+Seat 7: 96b7d08b (20,675 in chips)
+Seat 8: 3cad31a9 (26,773 in chips)
+96b7d08b: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+e4c88fec: posts the ante 100
+be7a3be3: posts small blind 500
+bcbf5152: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to Hero [Kh 3d]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+96b7d08b: folds
+3cad31a9: folds
+e4c88fec: raises 7,833 to 8,833 and is all-in
+Hero: folds
+be7a3be3: folds
+bcbf5152: folds
+Uncalled bet (7,833) returned to e4c88fec
+*** SHOWDOWN ***
+e4c88fec collected 3,100 from pot
+*** SUMMARY ***
+Total pot 3,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec collected (3,100)
+Seat 3: Hero (button) folded before Flop
+Seat 4: be7a3be3 (small blind) folded before Flop
+Seat 5: bcbf5152 (big blind) folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629147: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:27:32
+Table '5' 8-max Seat #1 is the button
+Seat 1: e4c88fec (6,933 in chips)
+Seat 3: Hero (39,415 in chips)
+Seat 4: be7a3be3 (21,383 in chips)
+Seat 5: bcbf5152 (18,783 in chips)
+Seat 7: 96b7d08b (20,775 in chips)
+Seat 8: 3cad31a9 (26,873 in chips)
+96b7d08b: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+e4c88fec: posts the ante 100
+Hero: posts small blind 500
+be7a3be3: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to Hero [8c Kh]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+bcbf5152: folds
+96b7d08b: folds
+3cad31a9: folds
+e4c88fec: raises 5,833 to 6,833 and is all-in
+Hero: folds
+be7a3be3: folds
+Uncalled bet (5,833) returned to e4c88fec
+*** SHOWDOWN ***
+e4c88fec collected 3,100 from pot
+*** SUMMARY ***
+Total pot 3,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec (button) collected (3,100)
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: be7a3be3 (big blind) folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629146: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:27:15
+Table '5' 8-max Seat #8 is the button
+Seat 1: e4c88fec (5,433 in chips)
+Seat 3: Hero (40,515 in chips)
+Seat 4: be7a3be3 (21,483 in chips)
+Seat 5: bcbf5152 (18,883 in chips)
+Seat 7: 96b7d08b (20,875 in chips)
+Seat 8: 3cad31a9 (26,973 in chips)
+96b7d08b: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+e4c88fec: posts the ante 100
+e4c88fec: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to Hero [3d Kd]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+be7a3be3: folds
+bcbf5152: folds
+96b7d08b: folds
+3cad31a9: folds
+e4c88fec: raises 4,333 to 5,333 and is all-in
+Hero: folds
+Uncalled bet (4,333) returned to e4c88fec
+*** SHOWDOWN ***
+e4c88fec collected 2,600 from pot
+*** SUMMARY ***
+Total pot 2,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec (small blind) collected (2,600)
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 (button) folded before Flop
+
+
+Poker Hand #TM91629142: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:27:01
+Table '5' 8-max Seat #7 is the button
+Seat 1: e4c88fec (6,533 in chips)
+Seat 3: Hero (38,515 in chips)
+Seat 4: be7a3be3 (21,583 in chips)
+Seat 5: bcbf5152 (18,983 in chips)
+Seat 7: 96b7d08b (20,975 in chips)
+Seat 8: 3cad31a9 (27,573 in chips)
+96b7d08b: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+e4c88fec: posts the ante 100
+3cad31a9: posts small blind 500
+e4c88fec: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to e4c88fec 
+Dealt to Hero [9d Qd]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+Hero: raises 1,000 to 2,000
+be7a3be3: folds
+bcbf5152: folds
+96b7d08b: folds
+3cad31a9: folds
+e4c88fec: folds
+Uncalled bet (1,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,100 from pot
+*** SUMMARY ***
+Total pot 3,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: e4c88fec (big blind) folded before Flop
+Seat 3: Hero collected (3,100)
+Seat 4: be7a3be3 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 7: 96b7d08b (button) folded before Flop
+Seat 8: 3cad31a9 (small blind) folded before Flop
+
+
+Poker Hand #TM91629138: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level11(500/1,000) - 2026/01/15 14:26:24
+Table '5' 8-max Seat #5 is the button
+Seat 3: Hero (42,355 in chips)
+Seat 4: be7a3be3 (15,943 in chips)
+Seat 5: bcbf5152 (19,083 in chips)
+Seat 7: 96b7d08b (21,575 in chips)
+Seat 8: 3cad31a9 (28,673 in chips)
+96b7d08b: posts the ante 100
+be7a3be3: posts the ante 100
+3cad31a9: posts the ante 100
+bcbf5152: posts the ante 100
+Hero: posts the ante 100
+96b7d08b: posts small blind 500
+3cad31a9: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [Qc Jc]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+Hero: raises 1,000 to 2,000
+be7a3be3: calls 2,000
+bcbf5152: folds
+96b7d08b: folds
+3cad31a9: folds
+*** FLOP *** [6s Kd 5s]
+Hero: bets 1,740
+be7a3be3: raises 4,740 to 6,480
+Hero: folds
+Uncalled bet (4,740) returned to be7a3be3
+*** SHOWDOWN ***
+be7a3be3 collected 9,480 from pot
+*** SUMMARY ***
+Total pot 9,480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Kd 5s]
+Seat 3: Hero folded on the Flop
+Seat 4: be7a3be3 won (9,480)
+Seat 5: bcbf5152 (button) folded before Flop
+Seat 7: 96b7d08b (small blind) folded before Flop
+Seat 8: 3cad31a9 (big blind) folded before Flop
+
+
+Poker Hand #TM91629129: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level10(400/800) - 2026/01/15 14:25:24
+Table '5' 8-max Seat #4 is the button
+Seat 1: 3961f3c4 (38,408 in chips)
+Seat 3: Hero (36,962 in chips)
+Seat 4: be7a3be3 (10,550 in chips)
+Seat 5: bcbf5152 (14,090 in chips)
+Seat 6: c2abc954 (48,157 in chips)
+Seat 7: 96b7d08b (16,182 in chips)
+Seat 8: 3cad31a9 (23,280 in chips)
+96b7d08b: posts the ante 80
+be7a3be3: posts the ante 80
+3cad31a9: posts the ante 80
+3961f3c4: posts the ante 80
+c2abc954: posts the ante 80
+bcbf5152: posts the ante 80
+Hero: posts the ante 80
+bcbf5152: posts small blind 400
+c2abc954: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to Hero [Jh Tc]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: calls 800
+Hero: folds
+be7a3be3: folds
+bcbf5152: folds
+c2abc954: checks
+*** FLOP *** [Ks 9h 6s]
+c2abc954: checks
+3961f3c4: bets 800
+c2abc954: calls 800
+*** TURN *** [Ks 9h 6s] [Kh]
+c2abc954: checks
+3961f3c4: bets 800
+c2abc954: calls 800
+*** RIVER *** [Ks 9h 6s Kh] [7s]
+c2abc954: checks
+3961f3c4: bets 5,760
+c2abc954: raises 13,040 to 18,800
+3961f3c4: raises 13,040 to 31,840
+c2abc954: raises 13,040 to 44,880
+3961f3c4: calls 4,088 and is all-in
+Uncalled bet (8,952) returned to c2abc954
+c2abc954: shows [6h Kc] (a full house, Kings full of Sixes)
+3961f3c4: shows [6c 6d] (a full house, Sixes full of Kings)
+*** SHOWDOWN ***
+c2abc954 collected 77,616 from pot
+*** SUMMARY ***
+Total pot 77,616 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 9h 6s Kh 7s]
+Seat 1: 3961f3c4 showed [6c 6d] and lost with a full house, Sixes full of Kings
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 (button) folded before Flop
+Seat 5: bcbf5152 (small blind) folded before Flop
+Seat 6: c2abc954 (big blind) showed [6h Kc] and won (77,616) with a full house, Kings full of Sixes
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629127: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level10(400/800) - 2026/01/15 14:24:57
+Table '5' 8-max Seat #3 is the button
+Seat 1: 3961f3c4 (38,488 in chips)
+Seat 3: Hero (37,042 in chips)
+Seat 4: be7a3be3 (11,030 in chips)
+Seat 5: bcbf5152 (14,970 in chips)
+Seat 6: c2abc954 (46,477 in chips)
+Seat 7: 96b7d08b (16,262 in chips)
+Seat 8: 3cad31a9 (23,360 in chips)
+96b7d08b: posts the ante 80
+be7a3be3: posts the ante 80
+3cad31a9: posts the ante 80
+3961f3c4: posts the ante 80
+c2abc954: posts the ante 80
+bcbf5152: posts the ante 80
+Hero: posts the ante 80
+be7a3be3: posts small blind 400
+bcbf5152: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to Hero [7c Td]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+c2abc954: calls 800
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: folds
+Hero: folds
+be7a3be3: folds
+bcbf5152: checks
+*** FLOP *** [6s Jd 4d]
+bcbf5152: checks
+c2abc954: bets 2,000
+bcbf5152: folds
+Uncalled bet (2,000) returned to c2abc954
+*** SHOWDOWN ***
+c2abc954 collected 2,560 from pot
+*** SUMMARY ***
+Total pot 2,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Jd 4d]
+Seat 1: 3961f3c4 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: be7a3be3 (small blind) folded before Flop
+Seat 5: bcbf5152 (big blind) folded on the Flop
+Seat 6: c2abc954 won (2,560)
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629122: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level10(400/800) - 2026/01/15 14:24:40
+Table '5' 8-max Seat #1 is the button
+Seat 1: 3961f3c4 (38,568 in chips)
+Seat 3: Hero (37,522 in chips)
+Seat 4: be7a3be3 (11,910 in chips)
+Seat 5: bcbf5152 (15,050 in chips)
+Seat 6: c2abc954 (46,557 in chips)
+Seat 7: 96b7d08b (14,582 in chips)
+Seat 8: 3cad31a9 (23,440 in chips)
+96b7d08b: posts the ante 80
+be7a3be3: posts the ante 80
+3cad31a9: posts the ante 80
+3961f3c4: posts the ante 80
+c2abc954: posts the ante 80
+bcbf5152: posts the ante 80
+Hero: posts the ante 80
+Hero: posts small blind 400
+be7a3be3: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to Hero [7c 5d]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: raises 13,702 to 14,502 and is all-in
+3cad31a9: folds
+3961f3c4: folds
+Hero: folds
+be7a3be3: folds
+Uncalled bet (13,702) returned to 96b7d08b
+*** SHOWDOWN ***
+96b7d08b collected 2,560 from pot
+*** SUMMARY ***
+Total pot 2,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: be7a3be3 (big blind) folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b collected (2,560)
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629117: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level10(400/800) - 2026/01/15 14:24:18
+Table '5' 8-max Seat #8 is the button
+Seat 1: 3961f3c4 (37,288 in chips)
+Seat 3: Hero (38,402 in chips)
+Seat 4: be7a3be3 (11,990 in chips)
+Seat 5: bcbf5152 (15,130 in chips)
+Seat 6: c2abc954 (46,637 in chips)
+Seat 7: 96b7d08b (14,662 in chips)
+Seat 8: 3cad31a9 (23,520 in chips)
+96b7d08b: posts the ante 80
+be7a3be3: posts the ante 80
+3cad31a9: posts the ante 80
+3961f3c4: posts the ante 80
+c2abc954: posts the ante 80
+bcbf5152: posts the ante 80
+Hero: posts the ante 80
+3961f3c4: posts small blind 400
+Hero: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to Hero [Jd 3d]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+be7a3be3: folds
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: calls 400
+Hero: checks
+*** FLOP *** [6h 7h Kd]
+3961f3c4: bets 2,160
+Hero: folds
+Uncalled bet (2,160) returned to 3961f3c4
+*** SHOWDOWN ***
+3961f3c4 collected 2,160 from pot
+*** SUMMARY ***
+Total pot 2,160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 7h Kd]
+Seat 1: 3961f3c4 (small blind) won (2,160)
+Seat 3: Hero (big blind) folded on the Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 (button) folded before Flop
+
+
+Poker Hand #TM91629104: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level10(400/800) - 2026/01/15 14:23:10
+Table '5' 8-max Seat #7 is the button
+Seat 1: 3961f3c4 (38,168 in chips)
+Seat 3: Hero (38,482 in chips)
+Seat 4: be7a3be3 (12,070 in chips)
+Seat 5: bcbf5152 (17,610 in chips)
+Seat 6: c2abc954 (46,717 in chips)
+Seat 7: 96b7d08b (17,142 in chips)
+Seat 8: 3cad31a9 (17,440 in chips)
+96b7d08b: posts the ante 80
+be7a3be3: posts the ante 80
+3cad31a9: posts the ante 80
+3961f3c4: posts the ante 80
+c2abc954: posts the ante 80
+bcbf5152: posts the ante 80
+Hero: posts the ante 80
+3cad31a9: posts small blind 400
+3961f3c4: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to Hero [8h 4c]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+Hero: folds
+be7a3be3: folds
+bcbf5152: raises 1,600 to 2,400
+c2abc954: folds
+96b7d08b: calls 2,400
+3cad31a9: calls 2,000
+3961f3c4: folds
+*** FLOP *** [As 7c 4h]
+3cad31a9: checks
+bcbf5152: checks
+96b7d08b: checks
+*** TURN *** [As 7c 4h] [7d]
+3cad31a9: checks
+bcbf5152: checks
+96b7d08b: checks
+*** RIVER *** [As 7c 4h 7d] [Tc]
+3cad31a9: checks
+bcbf5152: checks
+96b7d08b: checks
+3cad31a9: shows [9c 9s] (two pair, Nines and Sevens)
+bcbf5152: shows [Jh Kh] (a pair of Sevens)
+96b7d08b: shows [Ks Qh] (a pair of Sevens)
+*** SHOWDOWN ***
+3cad31a9 collected 8,560 from pot
+*** SUMMARY ***
+Total pot 8,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As 7c 4h 7d Tc]
+Seat 1: 3961f3c4 (big blind) folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 5: bcbf5152 showed [Jh Kh] and lost with a pair of Sevens
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b (button) showed [Ks Qh] and lost with a pair of Sevens
+Seat 8: 3cad31a9 (small blind) showed [9c 9s] and won (8,560) with two pair, Nines and Sevens
+
+
+Poker Hand #TM91629098: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level10(400/800) - 2026/01/15 14:22:31
+Table '5' 8-max Seat #6 is the button
+Seat 1: 3961f3c4 (38,248 in chips)
+Seat 3: Hero (38,562 in chips)
+Seat 4: be7a3be3 (9,590 in chips)
+Seat 5: bcbf5152 (17,690 in chips)
+Seat 6: c2abc954 (47,597 in chips)
+Seat 7: 96b7d08b (17,622 in chips)
+Seat 8: 3cad31a9 (18,320 in chips)
+96b7d08b: posts the ante 80
+be7a3be3: posts the ante 80
+3cad31a9: posts the ante 80
+3961f3c4: posts the ante 80
+c2abc954: posts the ante 80
+bcbf5152: posts the ante 80
+Hero: posts the ante 80
+96b7d08b: posts small blind 400
+3cad31a9: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to Hero [Ts 5d]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3961f3c4: folds
+Hero: folds
+be7a3be3: calls 800
+bcbf5152: folds
+c2abc954: calls 800
+96b7d08b: folds
+3cad31a9: checks
+*** FLOP *** [Js 7c 4h]
+3cad31a9: checks
+be7a3be3: checks
+c2abc954: checks
+*** TURN *** [Js 7c 4h] [2h]
+3cad31a9: checks
+be7a3be3: checks
+c2abc954: checks
+*** RIVER *** [Js 7c 4h 2h] [2d]
+3cad31a9: checks
+be7a3be3: checks
+c2abc954: checks
+3cad31a9: shows [Qc 6d] (a pair of Twos)
+be7a3be3: shows [Td Kc] (a pair of Twos)
+c2abc954: shows [9h Tc] (a pair of Twos)
+*** SHOWDOWN ***
+be7a3be3 collected 3,360 from pot
+*** SUMMARY ***
+Total pot 3,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js 7c 4h 2h 2d]
+Seat 1: 3961f3c4 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 showed [Td Kc] and won (3,360) with a pair of Twos
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 (button) showed [9h Tc] and lost with a pair of Twos
+Seat 7: 96b7d08b (small blind) folded before Flop
+Seat 8: 3cad31a9 (big blind) showed [Qc 6d] and lost with a pair of Twos
+
+
+Poker Hand #TM91629096: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level10(400/800) - 2026/01/15 14:22:06
+Table '5' 8-max Seat #5 is the button
+Seat 1: 3961f3c4 (38,328 in chips)
+Seat 3: Hero (40,242 in chips)
+Seat 4: be7a3be3 (6,310 in chips)
+Seat 5: bcbf5152 (17,770 in chips)
+Seat 6: c2abc954 (48,077 in chips)
+Seat 7: 96b7d08b (18,502 in chips)
+Seat 8: 3cad31a9 (18,400 in chips)
+96b7d08b: posts the ante 80
+be7a3be3: posts the ante 80
+3cad31a9: posts the ante 80
+3961f3c4: posts the ante 80
+bcbf5152: posts the ante 80
+c2abc954: posts the ante 80
+Hero: posts the ante 80
+c2abc954: posts small blind 400
+96b7d08b: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to Hero [9d 8d]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3cad31a9: folds
+3961f3c4: folds
+Hero: raises 800 to 1,600
+be7a3be3: raises 4,630 to 6,230 and is all-in
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: folds
+Hero: folds
+Uncalled bet (4,630) returned to be7a3be3
+*** SHOWDOWN ***
+be7a3be3 collected 4,960 from pot
+*** SUMMARY ***
+Total pot 4,960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 collected (4,960)
+Seat 5: bcbf5152 (button) folded before Flop
+Seat 6: c2abc954 (small blind) folded before Flop
+Seat 7: 96b7d08b (big blind) folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629083: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level10(400/800) - 2026/01/15 14:20:49
+Table '5' 8-max Seat #4 is the button
+Seat 1: 3961f3c4 (29,048 in chips)
+Seat 3: Hero (40,322 in chips)
+Seat 4: be7a3be3 (7,990 in chips)
+Seat 5: bcbf5152 (18,650 in chips)
+Seat 6: c2abc954 (54,557 in chips)
+Seat 7: 96b7d08b (18,582 in chips)
+Seat 8: 3cad31a9 (18,480 in chips)
+96b7d08b: posts the ante 80
+be7a3be3: posts the ante 80
+3cad31a9: posts the ante 80
+3961f3c4: posts the ante 80
+c2abc954: posts the ante 80
+bcbf5152: posts the ante 80
+Hero: posts the ante 80
+bcbf5152: posts small blind 400
+c2abc954: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to Hero [Ah 6s]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: calls 800
+Hero: folds
+be7a3be3: calls 800
+bcbf5152: calls 400
+c2abc954: checks
+*** FLOP *** [8h Kc Ts]
+bcbf5152: checks
+c2abc954: checks
+3961f3c4: bets 800
+be7a3be3: calls 800
+bcbf5152: folds
+c2abc954: calls 800
+*** TURN *** [8h Kc Ts] [Kh]
+c2abc954: checks
+3961f3c4: checks
+be7a3be3: checks
+*** RIVER *** [8h Kc Ts Kh] [Tc]
+c2abc954: bets 4,800
+3961f3c4: raises 12,800 to 17,600
+be7a3be3: folds
+c2abc954: folds
+Uncalled bet (12,800) returned to 3961f3c4
+*** SHOWDOWN ***
+3961f3c4 collected 15,760 from pot
+*** SUMMARY ***
+Total pot 15,760 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h Kc Ts Kh Tc]
+Seat 1: 3961f3c4 won (15,760)
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 (button) folded on the River
+Seat 5: bcbf5152 (small blind) folded on the Flop
+Seat 6: c2abc954 (big blind) folded on the River
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629077: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level9(300/600) - 2026/01/15 14:19:58
+Table '5' 8-max Seat #3 is the button
+Seat 1: 3961f3c4 (29,108 in chips)
+Seat 2: ef4d587c (18,840 in chips)
+Seat 3: Hero (20,222 in chips)
+Seat 4: be7a3be3 (8,350 in chips)
+Seat 5: bcbf5152 (19,310 in chips)
+Seat 6: c2abc954 (54,617 in chips)
+Seat 7: 96b7d08b (18,642 in chips)
+Seat 8: 3cad31a9 (18,540 in chips)
+96b7d08b: posts the ante 60
+be7a3be3: posts the ante 60
+3cad31a9: posts the ante 60
+ef4d587c: posts the ante 60
+3961f3c4: posts the ante 60
+c2abc954: posts the ante 60
+bcbf5152: posts the ante 60
+Hero: posts the ante 60
+be7a3be3: posts small blind 300
+bcbf5152: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to ef4d587c 
+Dealt to Hero [Ah Ks]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: folds
+ef4d587c: raises 18,180 to 18,780 and is all-in
+Hero: raises 1,382 to 20,162 and is all-in
+be7a3be3: folds
+bcbf5152: folds
+Uncalled bet (1,382) returned to Hero
+Hero: shows [Ah Ks]
+ef4d587c: shows [Jc Js]
+*** FLOP *** [8s Kc Qh]
+*** TURN *** [8s Kc Qh] [Kh]
+*** RIVER *** [8s Kc Qh Kh] [3h]
+*** SHOWDOWN ***
+Hero collected 38,940 from pot
+*** SUMMARY ***
+Total pot 38,940 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s Kc Qh Kh 3h]
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: ef4d587c showed [Jc Js] and lost with two pair, Kings and Jacks
+Seat 3: Hero (button) showed [Ah Ks] and won (38,940) with three of a kind, Kings
+Seat 4: be7a3be3 (small blind) folded before Flop
+Seat 5: bcbf5152 (big blind) folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629071: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level9(300/600) - 2026/01/15 14:19:10
+Table '5' 8-max Seat #2 is the button
+Seat 1: 3961f3c4 (29,168 in chips)
+Seat 2: ef4d587c (8,820 in chips)
+Seat 3: Hero (20,582 in chips)
+Seat 4: be7a3be3 (9,010 in chips)
+Seat 6: c2abc954 (54,677 in chips)
+Seat 7: 96b7d08b (18,702 in chips)
+Seat 8: 3cad31a9 (27,360 in chips)
+96b7d08b: posts the ante 60
+be7a3be3: posts the ante 60
+3cad31a9: posts the ante 60
+ef4d587c: posts the ante 60
+3961f3c4: posts the ante 60
+c2abc954: posts the ante 60
+Hero: posts the ante 60
+Hero: posts small blind 300
+be7a3be3: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to ef4d587c 
+Dealt to Hero [Jc 4s]
+Dealt to be7a3be3 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: raises 1,200 to 1,800
+3961f3c4: folds
+ef4d587c: calls 1,800
+Hero: folds
+be7a3be3: folds
+*** FLOP *** [Qh 2c Js]
+3cad31a9: bets 1,624
+ef4d587c: raises 5,336 to 6,960 and is all-in
+3cad31a9: calls 5,336
+ef4d587c: shows [6c Qc] (a pair of Queens)
+3cad31a9: shows [Ac Jh] (a pair of Jacks)
+*** TURN *** [Qh 2c Js] [3c]
+*** RIVER *** [Qh 2c Js 3c] [6h]
+*** SHOWDOWN ***
+ef4d587c collected 18,840 from pot
+*** SUMMARY ***
+Total pot 18,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh 2c Js 3c 6h]
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: ef4d587c (button) showed [6c Qc] and won (18,840) with two pair, Queens and Sixes
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: be7a3be3 (big blind) folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 showed [Ac Jh] and lost with a pair of Jacks
+
+
+Poker Hand #TM91629065: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level9(300/600) - 2026/01/15 14:18:34
+Table '5' 8-max Seat #1 is the button
+Seat 1: 3961f3c4 (29,228 in chips)
+Seat 2: ef4d587c (9,180 in chips)
+Seat 3: Hero (21,242 in chips)
+Seat 4: be7a3be3 (9,070 in chips)
+Seat 6: c2abc954 (54,737 in chips)
+Seat 7: 96b7d08b (21,162 in chips)
+Seat 8: 3cad31a9 (23,700 in chips)
+96b7d08b: posts the ante 60
+be7a3be3: posts the ante 60
+3cad31a9: posts the ante 60
+ef4d587c: posts the ante 60
+3961f3c4: posts the ante 60
+c2abc954: posts the ante 60
+Hero: posts the ante 60
+ef4d587c: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to ef4d587c 
+Dealt to Hero [8c 4c]
+Dealt to be7a3be3 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+be7a3be3: folds
+c2abc954: folds
+96b7d08b: raises 1,800 to 2,400
+3cad31a9: raises 6,120 to 8,520
+3961f3c4: folds
+ef4d587c: folds
+Hero: folds
+96b7d08b: folds
+Uncalled bet (6,120) returned to 3cad31a9
+*** SHOWDOWN ***
+3cad31a9 collected 6,120 from pot
+*** SUMMARY ***
+Total pot 6,120 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 (button) folded before Flop
+Seat 2: ef4d587c (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 collected (6,120)
+
+
+Poker Hand #TM91629058: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level9(300/600) - 2026/01/15 14:17:55
+Table '5' 8-max Seat #8 is the button
+Seat 1: 3961f3c4 (29,888 in chips)
+Seat 2: ef4d587c (8,220 in chips)
+Seat 3: Hero (21,302 in chips)
+Seat 4: be7a3be3 (9,130 in chips)
+Seat 6: c2abc954 (54,797 in chips)
+Seat 7: 96b7d08b (21,222 in chips)
+Seat 8: 3cad31a9 (23,760 in chips)
+96b7d08b: posts the ante 60
+be7a3be3: posts the ante 60
+3cad31a9: posts the ante 60
+ef4d587c: posts the ante 60
+3961f3c4: posts the ante 60
+c2abc954: posts the ante 60
+Hero: posts the ante 60
+3961f3c4: posts small blind 300
+ef4d587c: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to ef4d587c 
+Dealt to Hero [Th 2s]
+Dealt to be7a3be3 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+Hero: folds
+be7a3be3: folds
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: calls 300
+ef4d587c: raises 7,560 to 8,160 and is all-in
+3961f3c4: folds
+Uncalled bet (7,560) returned to ef4d587c
+*** SHOWDOWN ***
+ef4d587c collected 1,620 from pot
+*** SUMMARY ***
+Total pot 1,620 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 (small blind) folded before Flop
+Seat 2: ef4d587c (big blind) collected (1,620)
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 (button) folded before Flop
+
+
+Poker Hand #TM91629055: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level9(300/600) - 2026/01/15 14:17:34
+Table '5' 8-max Seat #7 is the button
+Seat 1: 3961f3c4 (29,228 in chips)
+Seat 2: ef4d587c (8,280 in chips)
+Seat 3: Hero (21,362 in chips)
+Seat 4: be7a3be3 (9,190 in chips)
+Seat 6: c2abc954 (54,857 in chips)
+Seat 7: 96b7d08b (21,282 in chips)
+Seat 8: 3cad31a9 (24,120 in chips)
+96b7d08b: posts the ante 60
+be7a3be3: posts the ante 60
+3cad31a9: posts the ante 60
+ef4d587c: posts the ante 60
+3961f3c4: posts the ante 60
+c2abc954: posts the ante 60
+Hero: posts the ante 60
+3cad31a9: posts small blind 300
+3961f3c4: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to ef4d587c 
+Dealt to Hero [7s 6h]
+Dealt to be7a3be3 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+ef4d587c: folds
+Hero: folds
+be7a3be3: folds
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: folds
+Uncalled bet (300) returned to 3961f3c4
+*** SHOWDOWN ***
+3961f3c4 collected 1,020 from pot
+*** SUMMARY ***
+Total pot 1,020 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 (big blind) collected (1,020)
+Seat 2: ef4d587c folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b (button) folded before Flop
+Seat 8: 3cad31a9 (small blind) folded before Flop
+
+
+Poker Hand #TM91629045: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level9(300/600) - 2026/01/15 14:16:32
+Table '5' 8-max Seat #6 is the button
+Seat 1: 3961f3c4 (32,048 in chips)
+Seat 3: Hero (21,422 in chips)
+Seat 4: be7a3be3 (9,250 in chips)
+Seat 6: c2abc954 (54,917 in chips)
+Seat 7: 96b7d08b (17,622 in chips)
+Seat 8: 3cad31a9 (24,780 in chips)
+96b7d08b: posts the ante 60
+be7a3be3: posts the ante 60
+3cad31a9: posts the ante 60
+3961f3c4: posts the ante 60
+c2abc954: posts the ante 60
+Hero: posts the ante 60
+96b7d08b: posts small blind 300
+3cad31a9: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to Hero [8d 2s]
+Dealt to be7a3be3 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3961f3c4: calls 600
+Hero: folds
+be7a3be3: folds
+c2abc954: folds
+96b7d08b: raises 2,160 to 2,760
+3cad31a9: folds
+3961f3c4: calls 2,160
+*** FLOP *** [2h 7s 6s]
+96b7d08b: bets 14,802 and is all-in
+3961f3c4: folds
+Uncalled bet (14,802) returned to 96b7d08b
+*** SHOWDOWN ***
+96b7d08b collected 6,480 from pot
+*** SUMMARY ***
+Total pot 6,480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 7s 6s]
+Seat 1: 3961f3c4 folded on the Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 6: c2abc954 (button) folded before Flop
+Seat 7: 96b7d08b (small blind) won (6,480)
+Seat 8: 3cad31a9 (big blind) folded before Flop
+
+
+Poker Hand #TM91629035: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:15:20
+Table '5' 8-max Seat #4 is the button
+Seat 1: 3961f3c4 (32,098 in chips)
+Seat 2: 982e042f (11,074 in chips)
+Seat 3: Hero (21,472 in chips)
+Seat 4: be7a3be3 (10,350 in chips)
+Seat 6: c2abc954 (41,493 in chips)
+Seat 7: 96b7d08b (18,722 in chips)
+Seat 8: 3cad31a9 (24,830 in chips)
+96b7d08b: posts the ante 50
+be7a3be3: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+c2abc954: posts the ante 50
+Hero: posts the ante 50
+c2abc954: posts small blind 250
+96b7d08b: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [8d Qs]
+Dealt to be7a3be3 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3cad31a9: folds
+3961f3c4: folds
+982e042f: raises 550 to 1,050
+Hero: folds
+be7a3be3: calls 1,050
+c2abc954: calls 800
+96b7d08b: calls 550
+*** FLOP *** [Kc 7s 2c]
+c2abc954: bets 500
+96b7d08b: folds
+982e042f: raises 1,250 to 1,750
+be7a3be3: folds
+c2abc954: calls 1,250
+*** TURN *** [Kc 7s 2c] [Kd]
+c2abc954: bets 500
+982e042f: raises 7,724 to 8,224 and is all-in
+c2abc954: calls 7,724
+982e042f: shows [As 2s] (two pair, Kings and Twos)
+c2abc954: shows [Qc Tc] (a pair of Kings)
+*** RIVER *** [Kc 7s 2c Kd] [4c]
+*** SHOWDOWN ***
+c2abc954 collected 24,498 from pot
+*** SUMMARY ***
+Total pot 24,498 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 7s 2c Kd 4c]
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f showed [As 2s] and lost with two pair, Kings and Twos
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 (button) folded on the Flop
+Seat 6: c2abc954 (small blind) showed [Qc Tc] and won (24,498) with a flush King high
+Seat 7: 96b7d08b (big blind) folded on the Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629028: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:14:16
+Table '5' 8-max Seat #3 is the button
+Seat 1: 3961f3c4 (32,648 in chips)
+Seat 2: 982e042f (11,624 in chips)
+Seat 3: Hero (25,772 in chips)
+Seat 4: be7a3be3 (4,300 in chips)
+Seat 6: c2abc954 (42,043 in chips)
+Seat 7: 96b7d08b (18,772 in chips)
+Seat 8: 3cad31a9 (24,880 in chips)
+96b7d08b: posts the ante 50
+be7a3be3: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+c2abc954: posts the ante 50
+Hero: posts the ante 50
+be7a3be3: posts small blind 250
+c2abc954: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Kc Qd]
+Dealt to be7a3be3 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: calls 500
+982e042f: calls 500
+Hero: raises 1,500 to 2,000
+be7a3be3: raises 2,250 to 4,250 and is all-in
+c2abc954: folds
+3961f3c4: folds
+982e042f: folds
+Hero: calls 2,250
+be7a3be3: shows [4s Ks]
+Hero: shows [Kc Qd]
+*** FLOP *** [4c 7h Kd]
+*** TURN *** [4c 7h Kd] [5s]
+*** RIVER *** [4c 7h Kd 5s] [2c]
+*** SHOWDOWN ***
+be7a3be3 collected 10,350 from pot
+*** SUMMARY ***
+Total pot 10,350 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 7h Kd 5s 2c]
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: Hero (button) showed [Kc Qd] and lost with a pair of Kings
+Seat 4: be7a3be3 (small blind) showed [4s Ks] and won (10,350) with two pair, Kings and Fours
+Seat 6: c2abc954 (big blind) folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629019: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:13:34
+Table '5' 8-max Seat #2 is the button
+Seat 1: 3961f3c4 (33,198 in chips)
+Seat 2: 982e042f (11,674 in chips)
+Seat 3: Hero (30,954 in chips)
+Seat 4: be7a3be3 (4,850 in chips)
+Seat 6: c2abc954 (35,611 in chips)
+Seat 7: 96b7d08b (18,822 in chips)
+Seat 8: 3cad31a9 (24,930 in chips)
+96b7d08b: posts the ante 50
+be7a3be3: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+c2abc954: posts the ante 50
+Hero: posts the ante 50
+Hero: posts small blind 250
+be7a3be3: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Kc Jc]
+Dealt to be7a3be3 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+c2abc954: calls 500
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: calls 500
+982e042f: folds
+Hero: raises 2,500 to 3,000
+be7a3be3: folds
+c2abc954: calls 2,500
+3961f3c4: folds
+*** FLOP *** [9h 6h Ah]
+Hero: bets 2,132
+c2abc954: calls 2,132
+*** TURN *** [9h 6h Ah] [Kh]
+Hero: checks
+c2abc954: bets 8,750
+Hero: folds
+Uncalled bet (8,750) returned to c2abc954
+*** SHOWDOWN ***
+c2abc954 collected 11,614 from pot
+*** SUMMARY ***
+Total pot 11,614 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h 6h Ah Kh]
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f (button) folded before Flop
+Seat 3: Hero (small blind) folded on the Turn
+Seat 4: be7a3be3 (big blind) folded before Flop
+Seat 6: c2abc954 won (11,614)
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629010: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:12:43
+Table '5' 8-max Seat #1 is the button
+Seat 1: 3961f3c4 (33,748 in chips)
+Seat 2: 982e042f (12,224 in chips)
+Seat 3: Hero (29,604 in chips)
+Seat 4: be7a3be3 (4,900 in chips)
+Seat 5: bcbf5152 (20,550 in chips)
+Seat 6: c2abc954 (35,661 in chips)
+Seat 7: 96b7d08b (18,872 in chips)
+Seat 8: 3cad31a9 (24,980 in chips)
+96b7d08b: posts the ante 50
+be7a3be3: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+c2abc954: posts the ante 50
+bcbf5152: posts the ante 50
+Hero: posts the ante 50
+982e042f: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Qh 5s]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+be7a3be3: folds
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: calls 500
+982e042f: calls 250
+Hero: checks
+*** FLOP *** [Td 5c Qd]
+982e042f: checks
+Hero: bets 1,026
+3961f3c4: folds
+982e042f: folds
+Uncalled bet (1,026) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,900 from pot
+*** SUMMARY ***
+Total pot 1,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 5c Qd]
+Seat 1: 3961f3c4 (button) folded on the Flop
+Seat 2: 982e042f (small blind) folded on the Flop
+Seat 3: Hero (big blind) won (1,900)
+Seat 4: be7a3be3 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91629006: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:12:21
+Table '5' 8-max Seat #8 is the button
+Seat 1: 3961f3c4 (34,048 in chips)
+Seat 2: 982e042f (12,774 in chips)
+Seat 3: Hero (29,654 in chips)
+Seat 4: be7a3be3 (4,950 in chips)
+Seat 5: bcbf5152 (20,600 in chips)
+Seat 6: c2abc954 (35,711 in chips)
+Seat 7: 96b7d08b (17,772 in chips)
+Seat 8: 3cad31a9 (25,030 in chips)
+96b7d08b: posts the ante 50
+be7a3be3: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+c2abc954: posts the ante 50
+bcbf5152: posts the ante 50
+Hero: posts the ante 50
+3961f3c4: posts small blind 250
+982e042f: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Ad 6c]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+Hero: folds
+be7a3be3: folds
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: raises 1,500 to 2,000
+3cad31a9: folds
+3961f3c4: folds
+982e042f: folds
+Uncalled bet (1,500) returned to 96b7d08b
+*** SHOWDOWN ***
+96b7d08b collected 1,650 from pot
+*** SUMMARY ***
+Total pot 1,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 (small blind) folded before Flop
+Seat 2: 982e042f (big blind) folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b collected (1,650)
+Seat 8: 3cad31a9 (button) folded before Flop
+
+
+Poker Hand #TM91628995: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:11:30
+Table '5' 8-max Seat #7 is the button
+Seat 1: 3961f3c4 (34,598 in chips)
+Seat 2: 982e042f (20,585 in chips)
+Seat 3: Hero (29,704 in chips)
+Seat 4: be7a3be3 (5,000 in chips)
+Seat 5: bcbf5152 (20,650 in chips)
+Seat 6: c2abc954 (36,861 in chips)
+Seat 7: 96b7d08b (7,811 in chips)
+Seat 8: 3cad31a9 (25,330 in chips)
+96b7d08b: posts the ante 50
+be7a3be3: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+c2abc954: posts the ante 50
+bcbf5152: posts the ante 50
+Hero: posts the ante 50
+3cad31a9: posts small blind 250
+3961f3c4: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Ks 4h]
+Dealt to be7a3be3 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+982e042f: raises 600 to 1,100
+Hero: folds
+be7a3be3: folds
+bcbf5152: folds
+c2abc954: calls 1,100
+96b7d08b: raises 6,661 to 7,761 and is all-in
+3cad31a9: folds
+3961f3c4: folds
+982e042f: raises 12,774 to 20,535 and is all-in
+c2abc954: folds
+Uncalled bet (12,774) returned to 982e042f
+982e042f: shows [Jc Jh]
+96b7d08b: shows [Kd Qh]
+*** FLOP *** [4s 5c 6h]
+*** TURN *** [4s 5c 6h] [4d]
+*** RIVER *** [4s 5c 6h 4d] [Qc]
+3961f3c4: shows [7s] (a pair of Fours)
+*** SHOWDOWN ***
+96b7d08b collected 17,772 from pot
+*** SUMMARY ***
+Total pot 17,772 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4s 5c 6h 4d Qc]
+Seat 1: 3961f3c4 (big blind) folded before Flop
+Seat 2: 982e042f showed [Jc Jh] and lost with two pair, Jacks and Fours
+Seat 3: Hero folded before Flop
+Seat 4: be7a3be3 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b (button) showed [Kd Qh] and won (17,772) with two pair, Queens and Fours
+Seat 8: 3cad31a9 (small blind) folded before Flop
+
+
+Poker Hand #TM91628983: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:10:23
+Table '5' 8-max Seat #6 is the button
+Seat 1: 3961f3c4 (34,648 in chips)
+Seat 2: 982e042f (20,635 in chips)
+Seat 3: Hero (29,754 in chips)
+Seat 5: bcbf5152 (20,700 in chips)
+Seat 6: c2abc954 (36,911 in chips)
+Seat 7: 96b7d08b (20,351 in chips)
+Seat 8: 3cad31a9 (12,540 in chips)
+96b7d08b: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+c2abc954: posts the ante 50
+bcbf5152: posts the ante 50
+Hero: posts the ante 50
+96b7d08b: posts small blind 250
+3cad31a9: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [4h 9s]
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3961f3c4: folds
+982e042f: folds
+Hero: folds
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: raises 1,350 to 1,850
+3cad31a9: calls 1,350
+*** FLOP *** [8d 4s 9c]
+96b7d08b: bets 18,451 and is all-in
+3cad31a9: calls 10,640 and is all-in
+Uncalled bet (7,811) returned to 96b7d08b
+96b7d08b: shows [As 4d] (a pair of Fours)
+3cad31a9: shows [Ad 9h] (a pair of Nines)
+*** TURN *** [8d 4s 9c] [Jd]
+*** RIVER *** [8d 4s 9c Jd] [2h]
+*** SHOWDOWN ***
+3cad31a9 collected 25,330 from pot
+*** SUMMARY ***
+Total pot 25,330 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 4s 9c Jd 2h]
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: Hero folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 (button) folded before Flop
+Seat 7: 96b7d08b (small blind) showed [As 4d] and lost with a pair of Fours
+Seat 8: 3cad31a9 (big blind) showed [Ad 9h] and won (25,330) with a pair of Nines
+
+
+Poker Hand #TM91628976: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:09:49
+Table '5' 8-max Seat #5 is the button
+Seat 1: 3961f3c4 (34,698 in chips)
+Seat 2: 982e042f (20,685 in chips)
+Seat 3: Hero (29,804 in chips)
+Seat 5: bcbf5152 (20,750 in chips)
+Seat 6: c2abc954 (35,611 in chips)
+Seat 7: 96b7d08b (21,401 in chips)
+Seat 8: 3cad31a9 (12,590 in chips)
+96b7d08b: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+bcbf5152: posts the ante 50
+c2abc954: posts the ante 50
+Hero: posts the ante 50
+c2abc954: posts small blind 250
+96b7d08b: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [9s 7d]
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3cad31a9: folds
+3961f3c4: folds
+982e042f: folds
+Hero: folds
+bcbf5152: folds
+c2abc954: raises 500 to 1,000
+96b7d08b: calls 500
+*** FLOP *** [6d Jd 4s]
+c2abc954: bets 500
+96b7d08b: folds
+Uncalled bet (500) returned to c2abc954
+*** SHOWDOWN ***
+c2abc954 collected 2,350 from pot
+*** SUMMARY ***
+Total pot 2,350 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d Jd 4s]
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: Hero folded before Flop
+Seat 5: bcbf5152 (button) folded before Flop
+Seat 6: c2abc954 (small blind) won (2,350)
+Seat 7: 96b7d08b (big blind) folded on the Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91628973: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:09:13
+Table '5' 8-max Seat #3 is the button
+Seat 1: 3961f3c4 (34,748 in chips)
+Seat 2: 982e042f (20,735 in chips)
+Seat 3: Hero (28,754 in chips)
+Seat 5: bcbf5152 (21,050 in chips)
+Seat 6: c2abc954 (36,161 in chips)
+Seat 7: 96b7d08b (21,451 in chips)
+Seat 8: 3cad31a9 (12,640 in chips)
+96b7d08b: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+c2abc954: posts the ante 50
+bcbf5152: posts the ante 50
+Hero: posts the ante 50
+bcbf5152: posts small blind 250
+c2abc954: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [7c Jc]
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: folds
+982e042f: folds
+Hero: raises 500 to 1,000
+bcbf5152: folds
+c2abc954: folds
+Uncalled bet (500) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,600 from pot
+*** SUMMARY ***
+Total pot 1,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: Hero (button) collected (1,600)
+Seat 5: bcbf5152 (small blind) folded before Flop
+Seat 6: c2abc954 (big blind) folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91628964: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:08:24
+Table '5' 8-max Seat #2 is the button
+Seat 1: 3961f3c4 (34,798 in chips)
+Seat 2: 982e042f (21,285 in chips)
+Seat 3: Hero (29,054 in chips)
+Seat 5: bcbf5152 (19,500 in chips)
+Seat 6: c2abc954 (36,711 in chips)
+Seat 7: 96b7d08b (21,501 in chips)
+Seat 8: 3cad31a9 (12,690 in chips)
+96b7d08b: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+c2abc954: posts the ante 50
+bcbf5152: posts the ante 50
+Hero: posts the ante 50
+Hero: posts small blind 250
+bcbf5152: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [4h 3s]
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+c2abc954: calls 500
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: folds
+982e042f: calls 500
+Hero: folds
+bcbf5152: checks
+*** FLOP *** [4c Kd Qh]
+bcbf5152: bets 1,050
+c2abc954: folds
+982e042f: folds
+Uncalled bet (1,050) returned to bcbf5152
+*** SHOWDOWN ***
+bcbf5152 collected 2,100 from pot
+*** SUMMARY ***
+Total pot 2,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Kd Qh]
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f (button) folded on the Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 5: bcbf5152 (big blind) won (2,100)
+Seat 6: c2abc954 folded on the Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91628959: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level8(250/500) - 2026/01/15 14:07:59
+Table '5' 8-max Seat #1 is the button
+Seat 1: 3961f3c4 (34,848 in chips)
+Seat 2: 982e042f (21,585 in chips)
+Seat 3: Hero (30,104 in chips)
+Seat 5: bcbf5152 (17,950 in chips)
+Seat 6: c2abc954 (36,761 in chips)
+Seat 7: 96b7d08b (21,551 in chips)
+Seat 8: 3cad31a9 (12,740 in chips)
+96b7d08b: posts the ante 50
+3cad31a9: posts the ante 50
+3961f3c4: posts the ante 50
+982e042f: posts the ante 50
+c2abc954: posts the ante 50
+bcbf5152: posts the ante 50
+Hero: posts the ante 50
+982e042f: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Ah 6c]
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+bcbf5152: raises 500 to 1,000
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: folds
+982e042f: folds
+Hero: calls 500
+*** FLOP *** [Kh Jc 4d]
+Hero: checks
+bcbf5152: bets 2,600
+Hero: folds
+Uncalled bet (2,600) returned to bcbf5152
+*** SHOWDOWN ***
+bcbf5152 collected 2,600 from pot
+*** SUMMARY ***
+Total pot 2,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh Jc 4d]
+Seat 1: 3961f3c4 (button) folded before Flop
+Seat 2: 982e042f (small blind) folded before Flop
+Seat 3: Hero (big blind) folded on the Flop
+Seat 5: bcbf5152 won (2,600)
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91628944: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 14:06:46
+Table '5' 8-max Seat #8 is the button
+Seat 1: 3961f3c4 (37,568 in chips)
+Seat 2: 982e042f (18,665 in chips)
+Seat 3: Hero (30,144 in chips)
+Seat 5: bcbf5152 (17,990 in chips)
+Seat 6: c2abc954 (36,801 in chips)
+Seat 7: 96b7d08b (21,591 in chips)
+Seat 8: 3cad31a9 (12,780 in chips)
+96b7d08b: posts the ante 40
+3cad31a9: posts the ante 40
+3961f3c4: posts the ante 40
+982e042f: posts the ante 40
+c2abc954: posts the ante 40
+bcbf5152: posts the ante 40
+Hero: posts the ante 40
+3961f3c4: posts small blind 200
+982e042f: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [9h 6s]
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+Hero: folds
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: calls 200
+982e042f: checks
+*** FLOP *** [4d Tc 6h]
+3961f3c4: checks
+982e042f: checks
+*** TURN *** [4d Tc 6h] [8d]
+3961f3c4: bets 400
+982e042f: calls 400
+*** RIVER *** [4d Tc 6h 8d] [9c]
+3961f3c4: bets 1,880
+982e042f: calls 1,880
+3961f3c4: shows [2c 4c] (a pair of Fours)
+982e042f: shows [4s 7d] (a straight, Ten to Six)
+*** SHOWDOWN ***
+982e042f collected 5,640 from pot
+*** SUMMARY ***
+Total pot 5,640 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d Tc 6h 8d 9c]
+Seat 1: 3961f3c4 (small blind) showed [2c 4c] and lost with a pair of Fours
+Seat 2: 982e042f (big blind) showed [4s 7d] and won (5,640) with a straight, Ten to Six
+Seat 3: Hero folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 (button) folded before Flop
+
+
+Poker Hand #TM91628935: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 14:06:01
+Table '5' 8-max Seat #7 is the button
+Seat 1: 3961f3c4 (38,008 in chips)
+Seat 2: 982e042f (18,705 in chips)
+Seat 3: Hero (24,384 in chips)
+Seat 4: c5e399a (4,920 in chips)
+Seat 5: bcbf5152 (18,030 in chips)
+Seat 6: c2abc954 (36,841 in chips)
+Seat 7: 96b7d08b (21,631 in chips)
+Seat 8: 3cad31a9 (13,020 in chips)
+96b7d08b: posts the ante 40
+c5e399a: posts the ante 40
+3cad31a9: posts the ante 40
+3961f3c4: posts the ante 40
+982e042f: posts the ante 40
+c2abc954: posts the ante 40
+bcbf5152: posts the ante 40
+Hero: posts the ante 40
+3cad31a9: posts small blind 200
+3961f3c4: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Js Ad]
+Dealt to c5e399a 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+982e042f: folds
+Hero: raises 400 to 800
+c5e399a: raises 4,080 to 4,880 and is all-in
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: folds
+Hero: calls 4,080
+c5e399a: shows [Ah Td]
+Hero: shows [Js Ad]
+*** FLOP *** [4c 8c As]
+*** TURN *** [4c 8c As] [Ks]
+*** RIVER *** [4c 8c As Ks] [7s]
+*** SHOWDOWN ***
+Hero collected 10,680 from pot
+*** SUMMARY ***
+Total pot 10,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 8c As Ks 7s]
+Seat 1: 3961f3c4 (big blind) folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: Hero showed [Js Ad] and won (10,680) with a pair of Aces
+Seat 4: c5e399a showed [Ah Td] and lost with a pair of Aces
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b (button) folded before Flop
+Seat 8: 3cad31a9 (small blind) folded before Flop
+
+
+Poker Hand #TM91628932: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 14:05:44
+Table '5' 8-max Seat #6 is the button
+Seat 1: 3961f3c4 (38,048 in chips)
+Seat 2: 982e042f (18,745 in chips)
+Seat 3: Hero (24,424 in chips)
+Seat 4: c5e399a (4,960 in chips)
+Seat 5: bcbf5152 (18,070 in chips)
+Seat 6: c2abc954 (36,881 in chips)
+Seat 7: 96b7d08b (21,871 in chips)
+Seat 8: 3cad31a9 (12,540 in chips)
+96b7d08b: posts the ante 40
+c5e399a: posts the ante 40
+3cad31a9: posts the ante 40
+3961f3c4: posts the ante 40
+982e042f: posts the ante 40
+c2abc954: posts the ante 40
+bcbf5152: posts the ante 40
+Hero: posts the ante 40
+96b7d08b: posts small blind 200
+3cad31a9: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Qh 4s]
+Dealt to c5e399a 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3961f3c4: folds
+982e042f: folds
+Hero: folds
+c5e399a: folds
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: folds
+Uncalled bet (200) returned to 3cad31a9
+*** SHOWDOWN ***
+3cad31a9 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: c5e399a folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 (button) folded before Flop
+Seat 7: 96b7d08b (small blind) folded before Flop
+Seat 8: 3cad31a9 (big blind) collected (720)
+
+
+Poker Hand #TM91628920: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 14:04:42
+Table '5' 8-max Seat #5 is the button
+Seat 1: 3961f3c4 (36,049 in chips)
+Seat 2: 982e042f (19,704 in chips)
+Seat 3: Hero (24,464 in chips)
+Seat 4: c5e399a (5,000 in chips)
+Seat 5: bcbf5152 (18,110 in chips)
+Seat 6: c2abc954 (37,321 in chips)
+Seat 7: 96b7d08b (22,311 in chips)
+Seat 8: 3cad31a9 (12,580 in chips)
+96b7d08b: posts the ante 40
+c5e399a: posts the ante 40
+3cad31a9: posts the ante 40
+3961f3c4: posts the ante 40
+982e042f: posts the ante 40
+bcbf5152: posts the ante 40
+c2abc954: posts the ante 40
+Hero: posts the ante 40
+c2abc954: posts small blind 200
+96b7d08b: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [2h 7h]
+Dealt to c5e399a 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+3cad31a9: folds
+3961f3c4: calls 400
+982e042f: calls 400
+Hero: folds
+c5e399a: folds
+bcbf5152: folds
+c2abc954: calls 200
+96b7d08b: checks
+*** FLOP *** [5s 5h 2d]
+c2abc954: checks
+96b7d08b: checks
+3961f3c4: checks
+982e042f: checks
+*** TURN *** [5s 5h 2d] [4d]
+c2abc954: checks
+96b7d08b: checks
+3961f3c4: checks
+982e042f: bets 519
+c2abc954: folds
+96b7d08b: folds
+3961f3c4: calls 519
+*** RIVER *** [5s 5h 2d 4d] [As]
+3961f3c4: bets 2,958
+982e042f: folds
+Uncalled bet (2,958) returned to 3961f3c4
+*** SHOWDOWN ***
+3961f3c4 collected 2,958 from pot
+*** SUMMARY ***
+Total pot 2,958 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 5h 2d 4d As]
+Seat 1: 3961f3c4 won (2,958)
+Seat 2: 982e042f folded on the River
+Seat 3: Hero folded before Flop
+Seat 4: c5e399a folded before Flop
+Seat 5: bcbf5152 (button) folded before Flop
+Seat 6: c2abc954 (small blind) folded on the Turn
+Seat 7: 96b7d08b (big blind) folded on the Turn
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91628915: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 14:04:18
+Table '5' 8-max Seat #3 is the button
+Seat 1: 3961f3c4 (36,489 in chips)
+Seat 2: 982e042f (18,464 in chips)
+Seat 3: Hero (24,504 in chips)
+Seat 5: bcbf5152 (18,350 in chips)
+Seat 6: c2abc954 (37,761 in chips)
+Seat 7: 96b7d08b (22,351 in chips)
+Seat 8: 3cad31a9 (12,620 in chips)
+96b7d08b: posts the ante 40
+3cad31a9: posts the ante 40
+3961f3c4: posts the ante 40
+982e042f: posts the ante 40
+c2abc954: posts the ante 40
+bcbf5152: posts the ante 40
+Hero: posts the ante 40
+bcbf5152: posts small blind 200
+c2abc954: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [9d 5s]
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: calls 400
+982e042f: raises 854 to 1,254
+Hero: folds
+bcbf5152: folds
+c2abc954: folds
+3961f3c4: folds
+Uncalled bet (854) returned to 982e042f
+*** SHOWDOWN ***
+982e042f collected 1,680 from pot
+*** SUMMARY ***
+Total pot 1,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f collected (1,680)
+Seat 3: Hero (button) folded before Flop
+Seat 5: bcbf5152 (small blind) folded before Flop
+Seat 6: c2abc954 (big blind) folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91628908: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 14:03:47
+Table '5' 8-max Seat #2 is the button
+Seat 1: 3961f3c4 (36,529 in chips)
+Seat 2: 982e042f (18,504 in chips)
+Seat 3: Hero (24,744 in chips)
+Seat 5: bcbf5152 (18,790 in chips)
+Seat 6: c2abc954 (37,801 in chips)
+Seat 7: 96b7d08b (22,391 in chips)
+Seat 8: 3cad31a9 (11,780 in chips)
+96b7d08b: posts the ante 40
+3cad31a9: posts the ante 40
+3961f3c4: posts the ante 40
+982e042f: posts the ante 40
+c2abc954: posts the ante 40
+bcbf5152: posts the ante 40
+Hero: posts the ante 40
+Hero: posts small blind 200
+bcbf5152: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [7s Js]
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: raises 1,200 to 1,600
+3961f3c4: folds
+982e042f: folds
+Hero: folds
+bcbf5152: folds
+Uncalled bet (1,200) returned to 3cad31a9
+*** SHOWDOWN ***
+3cad31a9 collected 1,280 from pot
+*** SUMMARY ***
+Total pot 1,280 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 5: bcbf5152 (big blind) folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 collected (1,280)
+
+
+Poker Hand #TM91628898: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 14:02:50
+Table '5' 8-max Seat #1 is the button
+Seat 1: 3961f3c4 (36,569 in chips)
+Seat 2: 982e042f (18,744 in chips)
+Seat 3: Hero (17,074 in chips)
+Seat 4: da729222 (5,583 in chips)
+Seat 5: bcbf5152 (18,830 in chips)
+Seat 6: c2abc954 (37,841 in chips)
+Seat 7: 96b7d08b (28,021 in chips)
+Seat 8: 3cad31a9 (13,420 in chips)
+96b7d08b: posts the ante 40
+3cad31a9: posts the ante 40
+3961f3c4: posts the ante 40
+982e042f: posts the ante 40
+c2abc954: posts the ante 40
+bcbf5152: posts the ante 40
+Hero: posts the ante 40
+da729222: posts the ante 40
+982e042f: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Jh Kc]
+Dealt to da729222 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+da729222: folds
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: raises 1,200 to 1,600
+3cad31a9: calls 1,600
+3961f3c4: folds
+982e042f: folds
+Hero: calls 1,200
+*** FLOP *** [8h 2s Kd]
+Hero: checks
+96b7d08b: bets 3,990
+3cad31a9: folds
+Hero: raises 11,444 to 15,434 and is all-in
+96b7d08b: folds
+Uncalled bet (11,444) returned to Hero
+*** SHOWDOWN ***
+Hero collected 13,300 from pot
+*** SUMMARY ***
+Total pot 13,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 2s Kd]
+Seat 1: 3961f3c4 (button) folded before Flop
+Seat 2: 982e042f (small blind) folded before Flop
+Seat 3: Hero (big blind) won (13,300)
+Seat 4: da729222 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded on the Flop
+Seat 8: 3cad31a9 folded on the Flop
+
+
+Poker Hand #TM91628895: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 14:02:32
+Table '5' 8-max Seat #8 is the button
+Seat 1: 3961f3c4 (36,809 in chips)
+Seat 2: 982e042f (18,264 in chips)
+Seat 3: Hero (17,114 in chips)
+Seat 4: da729222 (5,623 in chips)
+Seat 5: bcbf5152 (18,870 in chips)
+Seat 6: c2abc954 (37,881 in chips)
+Seat 7: 96b7d08b (28,061 in chips)
+Seat 8: 3cad31a9 (13,460 in chips)
+96b7d08b: posts the ante 40
+3cad31a9: posts the ante 40
+3961f3c4: posts the ante 40
+982e042f: posts the ante 40
+c2abc954: posts the ante 40
+bcbf5152: posts the ante 40
+Hero: posts the ante 40
+da729222: posts the ante 40
+3961f3c4: posts small blind 200
+982e042f: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Kc 7h]
+Dealt to da729222 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 96b7d08b 
+Dealt to 3cad31a9 
+Hero: folds
+da729222: folds
+bcbf5152: folds
+c2abc954: folds
+96b7d08b: folds
+3cad31a9: folds
+3961f3c4: folds
+Uncalled bet (200) returned to 982e042f
+*** SHOWDOWN ***
+982e042f collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 3961f3c4 (small blind) folded before Flop
+Seat 2: 982e042f (big blind) collected (720)
+Seat 3: Hero folded before Flop
+Seat 4: da729222 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 folded before Flop
+Seat 7: 96b7d08b folded before Flop
+Seat 8: 3cad31a9 (button) folded before Flop
+
+
+Poker Hand #TM91628888: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 14:01:43
+Table '5' 8-max Seat #6 is the button
+Seat 1: 3961f3c4 (36,169 in chips)
+Seat 2: 982e042f (18,304 in chips)
+Seat 3: Hero (17,154 in chips)
+Seat 4: da729222 (5,663 in chips)
+Seat 5: bcbf5152 (18,910 in chips)
+Seat 6: c2abc954 (37,921 in chips)
+Seat 8: 3cad31a9 (13,900 in chips)
+3cad31a9: posts the ante 40
+3961f3c4: posts the ante 40
+982e042f: posts the ante 40
+c2abc954: posts the ante 40
+bcbf5152: posts the ante 40
+Hero: posts the ante 40
+da729222: posts the ante 40
+3cad31a9: posts small blind 200
+3961f3c4: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [8d 2d]
+Dealt to da729222 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to 3cad31a9 
+982e042f: folds
+Hero: folds
+da729222: folds
+bcbf5152: folds
+c2abc954: folds
+3cad31a9: calls 200
+3961f3c4: checks
+*** FLOP *** [3c 4h 2h]
+3cad31a9: checks
+3961f3c4: checks
+*** TURN *** [3c 4h 2h] [3d]
+3cad31a9: checks
+3961f3c4: checks
+*** RIVER *** [3c 4h 2h 3d] [6d]
+3cad31a9: checks
+3961f3c4: bets 1,080
+3cad31a9: folds
+Uncalled bet (1,080) returned to 3961f3c4
+*** SHOWDOWN ***
+3961f3c4 collected 1,080 from pot
+*** SUMMARY ***
+Total pot 1,080 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 4h 2h 3d 6d]
+Seat 1: 3961f3c4 (big blind) won (1,080)
+Seat 2: 982e042f folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: da729222 folded before Flop
+Seat 5: bcbf5152 folded before Flop
+Seat 6: c2abc954 (button) folded before Flop
+Seat 8: 3cad31a9 (small blind) folded on the River
+
+
+Poker Hand #TM91628876: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 14:00:36
+Table '5' 8-max Seat #5 is the button
+Seat 1: 3961f3c4 (36,609 in chips)
+Seat 2: 982e042f (18,744 in chips)
+Seat 3: Hero (17,194 in chips)
+Seat 4: da729222 (5,703 in chips)
+Seat 5: bcbf5152 (12,670 in chips)
+Seat 6: c2abc954 (38,161 in chips)
+Seat 7: f656693d (5,000 in chips)
+Seat 8: 3cad31a9 (13,940 in chips)
+3cad31a9: posts the ante 40
+3961f3c4: posts the ante 40
+982e042f: posts the ante 40
+bcbf5152: posts the ante 40
+c2abc954: posts the ante 40
+Hero: posts the ante 40
+f656693d: posts the ante 40
+da729222: posts the ante 40
+c2abc954: posts small blind 200
+f656693d: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 3961f3c4 
+Dealt to 982e042f 
+Dealt to Hero [Ts 4s]
+Dealt to da729222 
+Dealt to bcbf5152 
+Dealt to c2abc954 
+Dealt to f656693d 
+Dealt to 3cad31a9 
+3cad31a9: folds
+3961f3c4: calls 400
+982e042f: calls 400
+Hero: folds
+da729222: folds
+bcbf5152: raises 12,230 to 12,630 and is all-in
+c2abc954: folds
+f656693d: calls 4,560 and is all-in
+3961f3c4: folds
+982e042f: folds
+Uncalled bet (7,670) returned to bcbf5152
+bcbf5152: shows [Ac Qc]
+f656693d: shows [Qs Jc]
+*** FLOP *** [8s 5s 7h]
+*** TURN *** [8s 5s 7h] [4d]
+*** RIVER *** [8s 5s 7h 4d] [Kc]
+982e042f: shows [Ad 7d] (a pair of Sevens)
+*** SHOWDOWN ***
+bcbf5152 collected 11,240 from pot
+*** SUMMARY ***
+Total pot 11,240 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 5s 7h 4d Kc]
+Seat 1: 3961f3c4 folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: da729222 folded before Flop
+Seat 5: bcbf5152 (button) showed [Ac Qc] and won (11,240) with Ace high
+Seat 6: c2abc954 (small blind) folded before Flop
+Seat 7: f656693d (big blind) showed [Qs Jc] and lost with King high
+Seat 8: 3cad31a9 folded before Flop
+
+
+Poker Hand #TM91628870: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 13:54:49
+Table '4' 8-max Seat #8 is the button
+Seat 1: 9d4722f9 (8,216 in chips)
+Seat 3: 96b7d08b (17,046 in chips)
+Seat 4: Hero (17,234 in chips)
+Seat 5: e0728a2a (5,335 in chips)
+Seat 6: 8e6e8bfd (8,895 in chips)
+Seat 7: 22dbc4f1 (5,000 in chips)
+Seat 8: 3c4a8984 (12,865 in chips)
+96b7d08b: posts the ante 40
+e0728a2a: posts the ante 40
+9d4722f9: posts the ante 40
+22dbc4f1: posts the ante 40
+8e6e8bfd: posts the ante 40
+Hero: posts the ante 40
+3c4a8984: posts the ante 40
+9d4722f9: posts small blind 200
+96b7d08b: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to 96b7d08b 
+Dealt to Hero [7c 4d]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to 22dbc4f1 
+Dealt to 3c4a8984 
+Hero: folds
+e0728a2a: folds
+8e6e8bfd: folds
+22dbc4f1: folds
+3c4a8984: folds
+9d4722f9: folds
+Uncalled bet (200) returned to 96b7d08b
+*** SHOWDOWN ***
+96b7d08b collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 9d4722f9 (small blind) folded before Flop
+Seat 3: 96b7d08b (big blind) collected (680)
+Seat 4: Hero folded before Flop
+Seat 5: e0728a2a folded before Flop
+Seat 6: 8e6e8bfd folded before Flop
+Seat 7: 22dbc4f1 folded before Flop
+Seat 8: 3c4a8984 (button) folded before Flop
+
+
+Poker Hand #TM91628864: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level7(200/400) - 2026/01/15 13:54:13
+Table '4' 8-max Seat #6 is the button
+Seat 1: 9d4722f9 (8,656 in chips)
+Seat 2: 3961f3c4 (36,649 in chips)
+Seat 3: 96b7d08b (20,426 in chips)
+Seat 4: Hero (17,274 in chips)
+Seat 5: e0728a2a (6,575 in chips)
+Seat 6: 8e6e8bfd (8,935 in chips)
+Seat 8: 3c4a8984 (7,685 in chips)
+96b7d08b: posts the ante 40
+e0728a2a: posts the ante 40
+9d4722f9: posts the ante 40
+3961f3c4: posts the ante 40
+8e6e8bfd: posts the ante 40
+Hero: posts the ante 40
+3c4a8984: posts the ante 40
+3c4a8984: posts small blind 200
+9d4722f9: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to 3961f3c4 
+Dealt to 96b7d08b 
+Dealt to Hero [4d Td]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to 3c4a8984 
+3961f3c4: folds
+96b7d08b: raises 800 to 1,200
+Hero: folds
+e0728a2a: calls 1,200
+8e6e8bfd: folds
+3c4a8984: calls 1,000
+9d4722f9: folds
+*** FLOP *** [8d 3d Ts]
+3c4a8984: bets 2,140
+96b7d08b: calls 2,140
+e0728a2a: folds
+*** TURN *** [8d 3d Ts] [Ad]
+3c4a8984: bets 4,305 and is all-in
+96b7d08b: folds
+Uncalled bet (4,305) returned to 3c4a8984
+*** SHOWDOWN ***
+3c4a8984 collected 8,560 from pot
+*** SUMMARY ***
+Total pot 8,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 3d Ts Ad]
+Seat 1: 9d4722f9 (big blind) folded before Flop
+Seat 2: 3961f3c4 folded before Flop
+Seat 3: 96b7d08b folded on the Turn
+Seat 4: Hero folded before Flop
+Seat 5: e0728a2a folded on the Flop
+Seat 6: 8e6e8bfd (button) folded before Flop
+Seat 8: 3c4a8984 (small blind) won (8,560)
+
+
+Poker Hand #TM91628847: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level6(150/300) - 2026/01/15 13:52:40
+Table '4' 8-max Seat #5 is the button
+Seat 1: 9d4722f9 (5,866 in chips)
+Seat 2: 3961f3c4 (37,759 in chips)
+Seat 3: 96b7d08b (20,456 in chips)
+Seat 4: Hero (17,304 in chips)
+Seat 5: e0728a2a (6,905 in chips)
+Seat 6: 8e6e8bfd (9,115 in chips)
+Seat 8: 3c4a8984 (8,795 in chips)
+96b7d08b: posts the ante 30
+e0728a2a: posts the ante 30
+9d4722f9: posts the ante 30
+3961f3c4: posts the ante 30
+8e6e8bfd: posts the ante 30
+Hero: posts the ante 30
+3c4a8984: posts the ante 30
+8e6e8bfd: posts small blind 150
+3c4a8984: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to 3961f3c4 
+Dealt to 96b7d08b 
+Dealt to Hero [3h 5c]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to 3c4a8984 
+9d4722f9: calls 300
+3961f3c4: calls 300
+96b7d08b: folds
+Hero: folds
+e0728a2a: calls 300
+8e6e8bfd: folds
+3c4a8984: checks
+*** FLOP *** [Kd Ks 4s]
+3c4a8984: checks
+9d4722f9: checks
+3961f3c4: checks
+e0728a2a: checks
+*** TURN *** [Kd Ks 4s] [Jc]
+3c4a8984: bets 780
+9d4722f9: calls 780
+3961f3c4: calls 780
+e0728a2a: folds
+*** RIVER *** [Kd Ks 4s Jc] [7d]
+3c4a8984: checks
+9d4722f9: bets 2,925
+3961f3c4: folds
+3c4a8984: folds
+Uncalled bet (2,925) returned to 9d4722f9
+*** SHOWDOWN ***
+9d4722f9 collected 3,900 from pot
+*** SUMMARY ***
+Total pot 3,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd Ks 4s Jc 7d]
+Seat 1: 9d4722f9 won (3,900)
+Seat 2: 3961f3c4 folded on the River
+Seat 3: 96b7d08b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: e0728a2a (button) folded on the Turn
+Seat 6: 8e6e8bfd (small blind) folded before Flop
+Seat 8: 3c4a8984 (big blind) folded on the River
+
+
+Poker Hand #TM91628837: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level6(150/300) - 2026/01/15 13:51:55
+Table '4' 8-max Seat #4 is the button
+Seat 1: 9d4722f9 (6,796 in chips)
+Seat 2: 3961f3c4 (35,329 in chips)
+Seat 3: 96b7d08b (20,486 in chips)
+Seat 4: Hero (17,334 in chips)
+Seat 5: e0728a2a (7,085 in chips)
+Seat 6: 8e6e8bfd (9,445 in chips)
+Seat 8: 3c4a8984 (9,725 in chips)
+96b7d08b: posts the ante 30
+e0728a2a: posts the ante 30
+9d4722f9: posts the ante 30
+3961f3c4: posts the ante 30
+8e6e8bfd: posts the ante 30
+Hero: posts the ante 30
+3c4a8984: posts the ante 30
+e0728a2a: posts small blind 150
+8e6e8bfd: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to 3961f3c4 
+Dealt to 96b7d08b 
+Dealt to Hero [Td Qc]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to 3c4a8984 
+3c4a8984: raises 600 to 900
+9d4722f9: calls 900
+3961f3c4: calls 900
+96b7d08b: folds
+Hero: folds
+e0728a2a: folds
+8e6e8bfd: folds
+*** FLOP *** [Ts 5c 4d]
+3c4a8984: checks
+9d4722f9: checks
+3961f3c4: bets 3,360
+3c4a8984: folds
+9d4722f9: folds
+Uncalled bet (3,360) returned to 3961f3c4
+*** SHOWDOWN ***
+3961f3c4 collected 3,360 from pot
+*** SUMMARY ***
+Total pot 3,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 5c 4d]
+Seat 1: 9d4722f9 folded on the Flop
+Seat 2: 3961f3c4 won (3,360)
+Seat 3: 96b7d08b folded before Flop
+Seat 4: Hero (button) folded before Flop
+Seat 5: e0728a2a (small blind) folded before Flop
+Seat 6: 8e6e8bfd (big blind) folded before Flop
+Seat 8: 3c4a8984 folded on the Flop
+
+
+Poker Hand #TM91628822: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level6(150/300) - 2026/01/15 13:50:41
+Table '4' 8-max Seat #3 is the button
+Seat 1: 9d4722f9 (6,826 in chips)
+Seat 3: 96b7d08b (20,516 in chips)
+Seat 4: Hero (17,514 in chips)
+Seat 5: e0728a2a (10,280 in chips)
+Seat 6: 8e6e8bfd (9,475 in chips)
+Seat 8: 3c4a8984 (6,260 in chips)
+96b7d08b: posts the ante 30
+e0728a2a: posts the ante 30
+9d4722f9: posts the ante 30
+8e6e8bfd: posts the ante 30
+Hero: posts the ante 30
+3c4a8984: posts the ante 30
+Hero: posts small blind 150
+e0728a2a: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to 96b7d08b 
+Dealt to Hero [2c 2d]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to 3c4a8984 
+8e6e8bfd: folds
+3c4a8984: raises 600 to 900
+9d4722f9: folds
+96b7d08b: folds
+Hero: folds
+e0728a2a: calls 600
+*** FLOP *** [5c 6d Qd]
+e0728a2a: checks
+3c4a8984: bets 1,065
+e0728a2a: calls 1,065
+*** TURN *** [5c 6d Qd] [5d]
+e0728a2a: checks
+3c4a8984: checks
+*** RIVER *** [5c 6d Qd 5d] [8c]
+e0728a2a: bets 1,200
+3c4a8984: calls 1,200
+e0728a2a: shows [Kd 9s] (a pair of Fives)
+3c4a8984: shows [5h Ah] (three of a kind, Fives)
+*** SHOWDOWN ***
+3c4a8984 collected 6,660 from pot
+*** SUMMARY ***
+Total pot 6,660 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 6d Qd 5d 8c]
+Seat 1: 9d4722f9 folded before Flop
+Seat 3: 96b7d08b (button) folded before Flop
+Seat 4: Hero (small blind) folded before Flop
+Seat 5: e0728a2a (big blind) showed [Kd 9s] and lost with a pair of Fives
+Seat 6: 8e6e8bfd folded before Flop
+Seat 8: 3c4a8984 showed [5h Ah] and won (6,660) with three of a kind, Fives
+
+
+Poker Hand #TM91628818: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level6(150/300) - 2026/01/15 13:50:14
+Table '4' 8-max Seat #1 is the button
+Seat 1: 9d4722f9 (6,856 in chips)
+Seat 3: 96b7d08b (21,746 in chips)
+Seat 4: Hero (16,164 in chips)
+Seat 5: e0728a2a (10,310 in chips)
+Seat 6: 8e6e8bfd (9,505 in chips)
+Seat 8: 3c4a8984 (6,290 in chips)
+96b7d08b: posts the ante 30
+e0728a2a: posts the ante 30
+9d4722f9: posts the ante 30
+8e6e8bfd: posts the ante 30
+Hero: posts the ante 30
+3c4a8984: posts the ante 30
+96b7d08b: posts small blind 150
+Hero: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to 96b7d08b 
+Dealt to Hero [3h 3s]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to 3c4a8984 
+e0728a2a: folds
+8e6e8bfd: folds
+3c4a8984: folds
+9d4722f9: folds
+96b7d08b: raises 900 to 1,200
+Hero: calls 900
+*** FLOP *** [Kc 5s 8h]
+96b7d08b: checks
+Hero: bets 1,394
+96b7d08b: folds
+Uncalled bet (1,394) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,580 from pot
+*** SUMMARY ***
+Total pot 2,580 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 5s 8h]
+Seat 1: 9d4722f9 (button) folded before Flop
+Seat 3: 96b7d08b (small blind) folded on the Flop
+Seat 4: Hero (big blind) won (2,580)
+Seat 5: e0728a2a folded before Flop
+Seat 6: 8e6e8bfd folded before Flop
+Seat 8: 3c4a8984 folded before Flop
+
+
+Poker Hand #TM91628803: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level6(150/300) - 2026/01/15 13:49:10
+Table '4' 8-max Seat #8 is the button
+Seat 1: 9d4722f9 (7,036 in chips)
+Seat 2: d386829f (2,175 in chips)
+Seat 3: 96b7d08b (17,126 in chips)
+Seat 4: Hero (16,194 in chips)
+Seat 5: e0728a2a (12,485 in chips)
+Seat 6: 8e6e8bfd (9,535 in chips)
+Seat 8: 3c4a8984 (6,320 in chips)
+96b7d08b: posts the ante 30
+e0728a2a: posts the ante 30
+9d4722f9: posts the ante 30
+d386829f: posts the ante 30
+8e6e8bfd: posts the ante 30
+Hero: posts the ante 30
+3c4a8984: posts the ante 30
+9d4722f9: posts small blind 150
+d386829f: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [Tc 9d]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to 3c4a8984 
+96b7d08b: raises 900 to 1,200
+Hero: folds
+e0728a2a: calls 1,200
+8e6e8bfd: folds
+3c4a8984: folds
+9d4722f9: folds
+d386829f: raises 945 to 2,145 and is all-in
+96b7d08b: calls 945
+e0728a2a: calls 945
+*** FLOP *** [8s Ah 2s]
+96b7d08b: checks
+e0728a2a: checks
+*** TURN *** [8s Ah 2s] [As]
+96b7d08b: bets 2,243
+e0728a2a: folds
+Uncalled bet (2,243) returned to 96b7d08b
+96b7d08b: shows [7h 8h] (two pair, Aces and Eights)
+d386829f: shows [Qc Kc] (a pair of Aces)
+*** RIVER *** [8s Ah 2s As] [Td]
+*** SHOWDOWN ***
+96b7d08b collected 6,795 from pot
+*** SUMMARY ***
+Total pot 6,795 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s Ah 2s As Td]
+Seat 1: 9d4722f9 (small blind) folded before Flop
+Seat 2: d386829f (big blind) showed [Qc Kc] and lost with a pair of Aces
+Seat 3: 96b7d08b showed [7h 8h] and won (6,795) with two pair, Aces and Eights
+Seat 4: Hero folded before Flop
+Seat 5: e0728a2a folded on the Turn
+Seat 6: 8e6e8bfd folded before Flop
+Seat 8: 3c4a8984 (button) folded before Flop
+
+
+Poker Hand #TM91628793: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level6(150/300) - 2026/01/15 13:48:23
+Table '4' 8-max Seat #6 is the button
+Seat 1: 9d4722f9 (7,366 in chips)
+Seat 2: d386829f (2,205 in chips)
+Seat 3: 96b7d08b (14,846 in chips)
+Seat 4: Hero (16,224 in chips)
+Seat 5: e0728a2a (13,415 in chips)
+Seat 6: 8e6e8bfd (9,565 in chips)
+Seat 8: 3c4a8984 (7,250 in chips)
+96b7d08b: posts the ante 30
+e0728a2a: posts the ante 30
+9d4722f9: posts the ante 30
+d386829f: posts the ante 30
+8e6e8bfd: posts the ante 30
+Hero: posts the ante 30
+3c4a8984: posts the ante 30
+3c4a8984: posts small blind 150
+9d4722f9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [7h 4h]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to 3c4a8984 
+d386829f: folds
+96b7d08b: raises 600 to 900
+Hero: folds
+e0728a2a: calls 900
+8e6e8bfd: folds
+3c4a8984: calls 750
+9d4722f9: folds
+*** FLOP *** [Jh 9s Qs]
+3c4a8984: checks
+96b7d08b: bets 13,916 and is all-in
+e0728a2a: folds
+3c4a8984: folds
+Uncalled bet (13,916) returned to 96b7d08b
+*** SHOWDOWN ***
+96b7d08b collected 3,210 from pot
+*** SUMMARY ***
+Total pot 3,210 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 9s Qs]
+Seat 1: 9d4722f9 (big blind) folded before Flop
+Seat 2: d386829f folded before Flop
+Seat 3: 96b7d08b won (3,210)
+Seat 4: Hero folded before Flop
+Seat 5: e0728a2a folded on the Flop
+Seat 6: 8e6e8bfd (button) folded before Flop
+Seat 8: 3c4a8984 (small blind) folded on the Flop
+
+
+Poker Hand #TM91628778: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level6(150/300) - 2026/01/15 13:47:10
+Table '4' 8-max Seat #5 is the button
+Seat 1: 9d4722f9 (7,996 in chips)
+Seat 2: d386829f (8,728 in chips)
+Seat 3: 96b7d08b (6,523 in chips)
+Seat 4: Hero (16,254 in chips)
+Seat 5: e0728a2a (14,045 in chips)
+Seat 6: 8e6e8bfd (9,745 in chips)
+Seat 8: 3c4a8984 (7,580 in chips)
+96b7d08b: posts the ante 30
+e0728a2a: posts the ante 30
+9d4722f9: posts the ante 30
+d386829f: posts the ante 30
+8e6e8bfd: posts the ante 30
+Hero: posts the ante 30
+3c4a8984: posts the ante 30
+8e6e8bfd: posts small blind 150
+3c4a8984: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [4d Ac]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to 3c4a8984 
+9d4722f9: raises 300 to 600
+d386829f: calls 600
+96b7d08b: calls 600
+Hero: folds
+e0728a2a: calls 600
+8e6e8bfd: folds
+3c4a8984: folds
+*** FLOP *** [Jd Qs Ks]
+9d4722f9: checks
+d386829f: bets 1,530
+96b7d08b: raises 4,363 to 5,893 and is all-in
+e0728a2a: folds
+9d4722f9: folds
+d386829f: calls 4,363
+96b7d08b: shows [Tc 9s] (a straight, King to Nine)
+d386829f: shows [Jh Kc] (two pair, Kings and Jacks)
+*** TURN *** [Jd Qs Ks] [As]
+*** RIVER *** [Jd Qs Ks As] [6c]
+*** SHOWDOWN ***
+96b7d08b collected 14,846 from pot
+*** SUMMARY ***
+Total pot 14,846 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd Qs Ks As 6c]
+Seat 1: 9d4722f9 folded on the Flop
+Seat 2: d386829f showed [Jh Kc] and lost with two pair, Kings and Jacks
+Seat 3: 96b7d08b showed [Tc 9s] and won (14,846) with a straight, Ace to Ten
+Seat 4: Hero folded before Flop
+Seat 5: e0728a2a (button) folded on the Flop
+Seat 6: 8e6e8bfd (small blind) folded before Flop
+Seat 8: 3c4a8984 (big blind) folded before Flop
+
+
+Poker Hand #TM91628768: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level6(150/300) - 2026/01/15 13:46:09
+Table '4' 8-max Seat #4 is the button
+Seat 1: 9d4722f9 (8,026 in chips)
+Seat 2: d386829f (8,758 in chips)
+Seat 3: 96b7d08b (6,553 in chips)
+Seat 4: Hero (16,284 in chips)
+Seat 5: e0728a2a (16,175 in chips)
+Seat 6: 8e6e8bfd (10,075 in chips)
+Seat 8: 3c4a8984 (5,000 in chips)
+96b7d08b: posts the ante 30
+e0728a2a: posts the ante 30
+9d4722f9: posts the ante 30
+d386829f: posts the ante 30
+8e6e8bfd: posts the ante 30
+Hero: posts the ante 30
+3c4a8984: posts the ante 30
+e0728a2a: posts small blind 150
+8e6e8bfd: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [Td 4c]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to 3c4a8984 
+3c4a8984: raises 900 to 1,200
+9d4722f9: folds
+d386829f: folds
+96b7d08b: folds
+Hero: folds
+e0728a2a: calls 1,050
+8e6e8bfd: folds
+*** FLOP *** [3c Kc 6h]
+e0728a2a: checks
+3c4a8984: checks
+*** TURN *** [3c Kc 6h] [9c]
+e0728a2a: bets 900
+3c4a8984: calls 900
+*** RIVER *** [3c Kc 6h 9c] [7c]
+e0728a2a: checks
+3c4a8984: bets 2,870 and is all-in
+e0728a2a: folds
+Uncalled bet (2,870) returned to 3c4a8984
+*** SHOWDOWN ***
+3c4a8984 collected 4,710 from pot
+*** SUMMARY ***
+Total pot 4,710 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c Kc 6h 9c 7c]
+Seat 1: 9d4722f9 folded before Flop
+Seat 2: d386829f folded before Flop
+Seat 3: 96b7d08b folded before Flop
+Seat 4: Hero (button) folded before Flop
+Seat 5: e0728a2a (small blind) folded on the River
+Seat 6: 8e6e8bfd (big blind) folded before Flop
+Seat 8: 3c4a8984 won (4,710)
+
+
+Poker Hand #TM91628762: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level5(125/250) - 2026/01/15 13:45:41
+Table '4' 8-max Seat #3 is the button
+Seat 1: 9d4722f9 (8,051 in chips)
+Seat 2: d386829f (8,783 in chips)
+Seat 3: 96b7d08b (6,578 in chips)
+Seat 4: Hero (16,434 in chips)
+Seat 5: e0728a2a (15,275 in chips)
+Seat 6: 8e6e8bfd (10,725 in chips)
+Seat 7: c2abc954 (30,433 in chips)
+96b7d08b: posts the ante 25
+e0728a2a: posts the ante 25
+9d4722f9: posts the ante 25
+d386829f: posts the ante 25
+8e6e8bfd: posts the ante 25
+c2abc954: posts the ante 25
+Hero: posts the ante 25
+Hero: posts small blind 125
+e0728a2a: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [5d Jh]
+Dealt to e0728a2a 
+Dealt to 8e6e8bfd 
+Dealt to c2abc954 
+8e6e8bfd: raises 375 to 625
+c2abc954: folds
+9d4722f9: folds
+d386829f: folds
+96b7d08b: folds
+Hero: folds
+e0728a2a: calls 375
+*** FLOP *** [Qd 5h 8c]
+e0728a2a: bets 500
+8e6e8bfd: folds
+Uncalled bet (500) returned to e0728a2a
+*** SHOWDOWN ***
+e0728a2a collected 1,550 from pot
+*** SUMMARY ***
+Total pot 1,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 5h 8c]
+Seat 1: 9d4722f9 folded before Flop
+Seat 2: d386829f folded before Flop
+Seat 3: 96b7d08b (button) folded before Flop
+Seat 4: Hero (small blind) folded before Flop
+Seat 5: e0728a2a (big blind) won (1,550)
+Seat 6: 8e6e8bfd folded on the Flop
+Seat 7: c2abc954 folded before Flop
+
+
+Poker Hand #TM91628754: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level5(125/250) - 2026/01/15 13:45:01
+Table '4' 8-max Seat #2 is the button
+Seat 1: 9d4722f9 (8,076 in chips)
+Seat 2: d386829f (9,308 in chips)
+Seat 3: 96b7d08b (7,103 in chips)
+Seat 4: Hero (15,309 in chips)
+Seat 5: e0728a2a (15,300 in chips)
+Seat 7: c2abc954 (30,458 in chips)
+96b7d08b: posts the ante 25
+e0728a2a: posts the ante 25
+9d4722f9: posts the ante 25
+d386829f: posts the ante 25
+c2abc954: posts the ante 25
+Hero: posts the ante 25
+96b7d08b: posts small blind 125
+Hero: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [Ts Td]
+Dealt to e0728a2a 
+Dealt to c2abc954 
+e0728a2a: folds
+c2abc954: folds
+9d4722f9: folds
+d386829f: raises 250 to 500
+96b7d08b: calls 375
+Hero: raises 1,125 to 1,625
+d386829f: folds
+96b7d08b: folds
+Uncalled bet (1,125) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,650 from pot
+*** SUMMARY ***
+Total pot 1,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 9d4722f9 folded before Flop
+Seat 2: d386829f (button) folded before Flop
+Seat 3: 96b7d08b (small blind) folded before Flop
+Seat 4: Hero (big blind) collected (1,650)
+Seat 5: e0728a2a folded before Flop
+Seat 7: c2abc954 folded before Flop
+
+
+Poker Hand #TM91628745: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level5(125/250) - 2026/01/15 13:44:07
+Table '4' 8-max Seat #1 is the button
+Seat 1: 9d4722f9 (8,101 in chips)
+Seat 2: d386829f (9,458 in chips)
+Seat 3: 96b7d08b (7,378 in chips)
+Seat 4: Hero (18,584 in chips)
+Seat 5: e0728a2a (15,325 in chips)
+Seat 7: c2abc954 (26,708 in chips)
+96b7d08b: posts the ante 25
+e0728a2a: posts the ante 25
+9d4722f9: posts the ante 25
+d386829f: posts the ante 25
+c2abc954: posts the ante 25
+Hero: posts the ante 25
+d386829f: posts small blind 125
+96b7d08b: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [Ah Qh]
+Dealt to e0728a2a 
+Dealt to c2abc954 
+Hero: raises 375 to 625
+e0728a2a: folds
+c2abc954: calls 625
+9d4722f9: folds
+d386829f: folds
+96b7d08b: folds
+*** FLOP *** [7c 8s Jc]
+Hero: bets 515
+c2abc954: raises 2,110 to 2,625
+Hero: calls 2,110
+*** TURN *** [7c 8s Jc] [2h]
+Hero: checks
+c2abc954: bets 5,375
+Hero: folds
+Uncalled bet (5,375) returned to c2abc954
+*** SHOWDOWN ***
+c2abc954 collected 7,025 from pot
+*** SUMMARY ***
+Total pot 7,025 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 8s Jc 2h]
+Seat 1: 9d4722f9 (button) folded before Flop
+Seat 2: d386829f (small blind) folded before Flop
+Seat 3: 96b7d08b (big blind) folded before Flop
+Seat 4: Hero folded on the Turn
+Seat 5: e0728a2a folded before Flop
+Seat 7: c2abc954 won (7,025)
+
+
+Poker Hand #TM91628732: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level5(125/250) - 2026/01/15 13:43:05
+Table '4' 8-max Seat #7 is the button
+Seat 1: 9d4722f9 (8,251 in chips)
+Seat 2: d386829f (9,733 in chips)
+Seat 3: 96b7d08b (4,281 in chips)
+Seat 4: Hero (18,609 in chips)
+Seat 5: e0728a2a (15,350 in chips)
+Seat 6: a14d7064 (2,597 in chips)
+Seat 7: c2abc954 (26,733 in chips)
+96b7d08b: posts the ante 25
+e0728a2a: posts the ante 25
+a14d7064: posts the ante 25
+9d4722f9: posts the ante 25
+d386829f: posts the ante 25
+c2abc954: posts the ante 25
+Hero: posts the ante 25
+9d4722f9: posts small blind 125
+d386829f: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [Th 6s]
+Dealt to e0728a2a 
+Dealt to a14d7064 
+Dealt to c2abc954 
+96b7d08b: calls 250
+Hero: folds
+e0728a2a: folds
+a14d7064: raises 2,322 to 2,572 and is all-in
+c2abc954: folds
+9d4722f9: folds
+d386829f: folds
+96b7d08b: calls 2,322
+a14d7064: shows [Ad 6c]
+96b7d08b: shows [Qd Jc]
+*** FLOP *** [7h Kc 4c]
+*** TURN *** [7h Kc 4c] [8c]
+*** RIVER *** [7h Kc 4c 8c] [Js]
+*** SHOWDOWN ***
+96b7d08b collected 5,694 from pot
+*** SUMMARY ***
+Total pot 5,694 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Kc 4c 8c Js]
+Seat 1: 9d4722f9 (small blind) folded before Flop
+Seat 2: d386829f (big blind) folded before Flop
+Seat 3: 96b7d08b showed [Qd Jc] and won (5,694) with a pair of Jacks
+Seat 4: Hero folded before Flop
+Seat 5: e0728a2a folded before Flop
+Seat 6: a14d7064 showed [Ad 6c] and lost with Ace high
+Seat 7: c2abc954 (button) folded before Flop
+
+
+Poker Hand #TM91628722: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level5(125/250) - 2026/01/15 13:42:07
+Table '4' 8-max Seat #6 is the button
+Seat 1: 9d4722f9 (8,526 in chips)
+Seat 2: d386829f (9,758 in chips)
+Seat 3: 96b7d08b (4,306 in chips)
+Seat 4: Hero (18,634 in chips)
+Seat 5: e0728a2a (5,000 in chips)
+Seat 6: a14d7064 (7,597 in chips)
+Seat 7: c2abc954 (31,733 in chips)
+96b7d08b: posts the ante 25
+e0728a2a: posts the ante 25
+a14d7064: posts the ante 25
+9d4722f9: posts the ante 25
+d386829f: posts the ante 25
+c2abc954: posts the ante 25
+Hero: posts the ante 25
+c2abc954: posts small blind 125
+9d4722f9: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [4h 2s]
+Dealt to e0728a2a 
+Dealt to a14d7064 
+Dealt to c2abc954 
+d386829f: folds
+96b7d08b: folds
+Hero: folds
+e0728a2a: calls 250
+a14d7064: raises 1,050 to 1,300
+c2abc954: calls 1,175
+9d4722f9: folds
+e0728a2a: calls 1,050
+*** FLOP *** [Td 5h 4c]
+c2abc954: checks
+e0728a2a: bets 3,675 and is all-in
+a14d7064: calls 3,675
+c2abc954: calls 3,675
+*** TURN *** [Td 5h 4c] [Th]
+c2abc954: checks
+a14d7064: checks
+*** RIVER *** [Td 5h 4c Th] [8d]
+c2abc954: checks
+a14d7064: checks
+c2abc954: shows [2h Ah] (a pair of Tens)
+e0728a2a: shows [Ts Qc] (three of a kind, Tens)
+a14d7064: shows [Ac Kh] (a pair of Tens)
+*** SHOWDOWN ***
+e0728a2a collected 15,350 from pot
+*** SUMMARY ***
+Total pot 15,350 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 5h 4c Th 8d]
+Seat 1: 9d4722f9 (big blind) folded before Flop
+Seat 2: d386829f folded before Flop
+Seat 3: 96b7d08b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: e0728a2a showed [Ts Qc] and won (15,350) with three of a kind, Tens
+Seat 6: a14d7064 (button) showed [Ac Kh] and lost with a pair of Tens
+Seat 7: c2abc954 (small blind) showed [2h Ah] and lost with a pair of Tens
+
+
+Poker Hand #TM91628711: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level5(125/250) - 2026/01/15 13:40:52
+Table '4' 8-max Seat #4 is the button
+Seat 1: 9d4722f9 (9,097 in chips)
+Seat 2: d386829f (9,783 in chips)
+Seat 3: 96b7d08b (4,877 in chips)
+Seat 4: Hero (15,754 in chips)
+Seat 6: a14d7064 (8,168 in chips)
+Seat 7: c2abc954 (32,304 in chips)
+Seat 8: 363a4d57 (571 in chips)
+96b7d08b: posts the ante 25
+363a4d57: posts the ante 25
+a14d7064: posts the ante 25
+9d4722f9: posts the ante 25
+d386829f: posts the ante 25
+c2abc954: posts the ante 25
+Hero: posts the ante 25
+a14d7064: posts small blind 125
+c2abc954: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [Ah 4h]
+Dealt to a14d7064 
+Dealt to c2abc954 
+Dealt to 363a4d57 
+363a4d57: raises 296 to 546 and is all-in
+9d4722f9: calls 546
+d386829f: folds
+96b7d08b: calls 546
+Hero: calls 546
+a14d7064: calls 421
+c2abc954: calls 296
+*** FLOP *** [Qd Qh 4c]
+a14d7064: checks
+c2abc954: checks
+9d4722f9: checks
+96b7d08b: checks
+Hero: bets 1,864
+a14d7064: folds
+c2abc954: folds
+9d4722f9: folds
+96b7d08b: folds
+Uncalled bet (1,864) returned to Hero
+Hero: shows [Ah 4h] (two pair, Queens and Fours)
+363a4d57: shows [8d 7h] (a pair of Queens)
+*** TURN *** [Qd Qh 4c] [2s]
+*** RIVER *** [Qd Qh 4c 2s] [6h]
+*** SHOWDOWN ***
+Hero collected 3,451 from pot
+*** SUMMARY ***
+Total pot 3,451 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd Qh 4c 2s 6h]
+Seat 1: 9d4722f9 folded on the Flop
+Seat 2: d386829f folded before Flop
+Seat 3: 96b7d08b folded on the Flop
+Seat 4: Hero (button) showed [Ah 4h] and won (3,451) with two pair, Queens and Fours
+Seat 6: a14d7064 (small blind) folded on the Flop
+Seat 7: c2abc954 (big blind) folded on the Flop
+Seat 8: 363a4d57 showed [8d 7h] and lost with a pair of Queens
+
+
+Poker Hand #TM91628706: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level5(125/250) - 2026/01/15 13:40:29
+Table '4' 8-max Seat #3 is the button
+Seat 1: 9d4722f9 (8,572 in chips)
+Seat 2: d386829f (9,808 in chips)
+Seat 3: 96b7d08b (4,902 in chips)
+Seat 4: Hero (15,904 in chips)
+Seat 6: a14d7064 (8,443 in chips)
+Seat 7: c2abc954 (32,329 in chips)
+Seat 8: 363a4d57 (596 in chips)
+96b7d08b: posts the ante 25
+363a4d57: posts the ante 25
+a14d7064: posts the ante 25
+9d4722f9: posts the ante 25
+d386829f: posts the ante 25
+c2abc954: posts the ante 25
+Hero: posts the ante 25
+Hero: posts small blind 125
+a14d7064: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [Jd 6h]
+Dealt to a14d7064 
+Dealt to c2abc954 
+Dealt to 363a4d57 
+c2abc954: folds
+363a4d57: folds
+9d4722f9: raises 300 to 550
+d386829f: folds
+96b7d08b: folds
+Hero: folds
+a14d7064: folds
+Uncalled bet (300) returned to 9d4722f9
+*** SHOWDOWN ***
+9d4722f9 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 9d4722f9 collected (800)
+Seat 2: d386829f folded before Flop
+Seat 3: 96b7d08b (button) folded before Flop
+Seat 4: Hero (small blind) folded before Flop
+Seat 6: a14d7064 (big blind) folded before Flop
+Seat 7: c2abc954 folded before Flop
+Seat 8: 363a4d57 folded before Flop
+
+
+Poker Hand #TM91628695: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level5(125/250) - 2026/01/15 13:39:41
+Table '4' 8-max Seat #2 is the button
+Seat 1: 9d4722f9 (9,097 in chips)
+Seat 2: d386829f (4,404 in chips)
+Seat 3: 96b7d08b (5,052 in chips)
+Seat 4: Hero (16,179 in chips)
+Seat 6: a14d7064 (8,468 in chips)
+Seat 7: c2abc954 (32,354 in chips)
+Seat 8: 363a4d57 (5,000 in chips)
+96b7d08b: posts the ante 25
+363a4d57: posts the ante 25
+a14d7064: posts the ante 25
+9d4722f9: posts the ante 25
+d386829f: posts the ante 25
+c2abc954: posts the ante 25
+Hero: posts the ante 25
+96b7d08b: posts small blind 125
+Hero: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to d386829f 
+Dealt to 96b7d08b 
+Dealt to Hero [4h 3c]
+Dealt to a14d7064 
+Dealt to c2abc954 
+Dealt to 363a4d57 
+a14d7064: folds
+c2abc954: folds
+363a4d57: raises 250 to 500
+9d4722f9: calls 500
+d386829f: raises 3,879 to 4,379 and is all-in
+96b7d08b: folds
+Hero: folds
+363a4d57: raises 596 to 4,975 and is all-in
+9d4722f9: folds
+Uncalled bet (596) returned to 363a4d57
+363a4d57: shows [Qd Qh]
+d386829f: shows [Ad Ac]
+*** FLOP *** [Jd 8d 7s]
+*** TURN *** [Jd 8d 7s] [3d]
+*** RIVER *** [Jd 8d 7s 3d] [Th]
+*** SHOWDOWN ***
+d386829f collected 9,808 from pot
+*** SUMMARY ***
+Total pot 9,808 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 8d 7s 3d Th]
+Seat 1: 9d4722f9 folded before Flop
+Seat 2: d386829f (button) showed [Ad Ac] and won (9,808) with a pair of Aces
+Seat 3: 96b7d08b (small blind) folded before Flop
+Seat 4: Hero (big blind) folded before Flop
+Seat 6: a14d7064 folded before Flop
+Seat 7: c2abc954 folded before Flop
+Seat 8: 363a4d57 showed [Qd Qh] and lost with a pair of Queens
+
+
+Poker Hand #TM91628678: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:37:56
+Table '5' 8-max Seat #1 is the button
+Seat 1: 8a879b8a (15,934 in chips)
+Seat 2: 982e042f (13,104 in chips)
+Seat 3: 3961f3c4 (9,456 in chips)
+Seat 4: da729222 (4,542 in chips)
+Seat 5: Hero (16,199 in chips)
+Seat 6: 8e2cd76b (5,730 in chips)
+Seat 8: da30ceb4 (5,317 in chips)
+8a879b8a: posts the ante 20
+da30ceb4: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+8e2cd76b: posts the ante 20
+Hero: posts the ante 20
+da729222: posts the ante 20
+982e042f: posts small blind 100
+3961f3c4: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to da729222 
+Dealt to Hero [5c 3h]
+Dealt to 8e2cd76b 
+Dealt to da30ceb4 
+da729222: calls 200
+Hero: folds
+8e2cd76b: folds
+da30ceb4: folds
+8a879b8a: raises 840 to 1,040
+982e042f: folds
+3961f3c4: folds
+da729222: calls 840
+*** FLOP *** [9c 8c 7h]
+da729222: checks
+8a879b8a: bets 1,890
+da729222: calls 1,890
+*** TURN *** [9c 8c 7h] [Ac]
+da729222: bets 1,592 and is all-in
+8a879b8a: calls 1,592
+da729222: shows [Ts 6s] (a straight, Ten to Six)
+8a879b8a: shows [Tc Th] (a pair of Tens)
+*** RIVER *** [9c 8c 7h Ac] [Ad]
+*** SHOWDOWN ***
+da729222 collected 9,484 from pot
+*** SUMMARY ***
+Total pot 9,484 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c 8c 7h Ac Ad]
+Seat 1: 8a879b8a (button) showed [Tc Th] and lost with two pair, Aces and Tens
+Seat 2: 982e042f (small blind) folded before Flop
+Seat 3: 3961f3c4 (big blind) folded before Flop
+Seat 4: da729222 showed [Ts 6s] and won (9,484) with a straight, Ten to Six
+Seat 5: Hero folded before Flop
+Seat 6: 8e2cd76b folded before Flop
+Seat 8: da30ceb4 folded before Flop
+
+
+Poker Hand #TM91628667: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:36:54
+Table '5' 8-max Seat #8 is the button
+Seat 1: 8a879b8a (15,414 in chips)
+Seat 2: 982e042f (13,324 in chips)
+Seat 3: 3961f3c4 (9,476 in chips)
+Seat 4: da729222 (4,762 in chips)
+Seat 5: Hero (16,219 in chips)
+Seat 6: 8e2cd76b (5,750 in chips)
+Seat 8: da30ceb4 (5,337 in chips)
+da30ceb4: posts the ante 20
+8a879b8a: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+8e2cd76b: posts the ante 20
+Hero: posts the ante 20
+da729222: posts the ante 20
+8a879b8a: posts small blind 100
+982e042f: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to da729222 
+Dealt to Hero [4h Ks]
+Dealt to 8e2cd76b 
+Dealt to da30ceb4 
+3961f3c4: folds
+da729222: calls 200
+Hero: folds
+8e2cd76b: folds
+da30ceb4: folds
+8a879b8a: calls 100
+982e042f: checks
+*** FLOP *** [7d 6c 5d]
+8a879b8a: checks
+982e042f: checks
+da729222: checks
+*** TURN *** [7d 6c 5d] [7h]
+8a879b8a: checks
+982e042f: checks
+da729222: checks
+*** RIVER *** [7d 6c 5d 7h] [3s]
+8a879b8a: bets 555
+982e042f: folds
+da729222: folds
+Uncalled bet (555) returned to 8a879b8a
+*** SHOWDOWN ***
+8a879b8a collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d 6c 5d 7h 3s]
+Seat 1: 8a879b8a (small blind) showed [7c] and won (740)
+Seat 2: 982e042f (big blind) folded on the River
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: da729222 folded on the River
+Seat 5: Hero folded before Flop
+Seat 6: 8e2cd76b folded before Flop
+Seat 8: da30ceb4 (button) folded before Flop
+
+
+Poker Hand #TM91628664: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:36:37
+Table '5' 8-max Seat #5 is the button
+Seat 1: 8a879b8a (15,214 in chips)
+Seat 2: 982e042f (13,344 in chips)
+Seat 3: 3961f3c4 (9,496 in chips)
+Seat 4: da729222 (4,782 in chips)
+Seat 5: Hero (16,239 in chips)
+Seat 8: da30ceb4 (5,457 in chips)
+8a879b8a: posts the ante 20
+da30ceb4: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+Hero: posts the ante 20
+da729222: posts the ante 20
+da30ceb4: posts small blind 100
+8a879b8a: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to da729222 
+Dealt to Hero [4c Ks]
+Dealt to da30ceb4 
+982e042f: folds
+3961f3c4: folds
+da729222: folds
+Hero: folds
+da30ceb4: folds
+Uncalled bet (100) returned to 8a879b8a
+*** SHOWDOWN ***
+8a879b8a collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8a879b8a (big blind) collected (320)
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: da729222 folded before Flop
+Seat 5: Hero (button) folded before Flop
+Seat 8: da30ceb4 (small blind) folded before Flop
+
+
+Poker Hand #TM91628659: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:36:15
+Table '5' 8-max Seat #3 is the button
+Seat 1: 8a879b8a (15,234 in chips)
+Seat 2: 982e042f (13,364 in chips)
+Seat 3: 3961f3c4 (9,716 in chips)
+Seat 5: Hero (15,759 in chips)
+Seat 8: da30ceb4 (5,677 in chips)
+8a879b8a: posts the ante 20
+da30ceb4: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+Hero: posts the ante 20
+Hero: posts small blind 100
+da30ceb4: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to Hero [Ks Jc]
+Dealt to da30ceb4 
+8a879b8a: folds
+982e042f: folds
+3961f3c4: calls 200
+Hero: raises 800 to 1,000
+da30ceb4: folds
+3961f3c4: folds
+Uncalled bet (800) returned to Hero
+*** SHOWDOWN ***
+Hero collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8a879b8a folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 (button) folded before Flop
+Seat 5: Hero (small blind) collected (700)
+Seat 8: da30ceb4 (big blind) folded before Flop
+
+
+Poker Hand #TM91628644: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:35:02
+Table '5' 8-max Seat #2 is the button
+Seat 1: 8a879b8a (15,254 in chips)
+Seat 2: 982e042f (13,384 in chips)
+Seat 3: 3961f3c4 (9,836 in chips)
+Seat 5: Hero (10,559 in chips)
+Seat 6: 5f4b8899 (5,000 in chips)
+Seat 7: d386829f (5,289 in chips)
+Seat 8: da30ceb4 (5,697 in chips)
+8a879b8a: posts the ante 20
+da30ceb4: posts the ante 20
+d386829f: posts the ante 20
+5f4b8899: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+Hero: posts the ante 20
+3961f3c4: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to Hero [8c 9s]
+Dealt to 5f4b8899 
+Dealt to d386829f 
+Dealt to da30ceb4 
+5f4b8899: raises 400 to 600
+d386829f: folds
+da30ceb4: folds
+8a879b8a: folds
+982e042f: folds
+3961f3c4: folds
+Hero: calls 400
+*** FLOP *** [2d 9h 5h]
+Hero: checks
+5f4b8899: bets 720
+Hero: raises 1,080 to 1,800
+5f4b8899: calls 1,080
+*** TURN *** [2d 9h 5h] [8d]
+Hero: bets 2,722
+5f4b8899: calls 2,580 and is all-in
+Uncalled bet (142) returned to Hero
+Hero: shows [8c 9s] (two pair, Nines and Eights)
+5f4b8899: shows [Jc Kc] (King high)
+*** RIVER *** [2d 9h 5h 8d] [Qs]
+*** SHOWDOWN ***
+Hero collected 10,200 from pot
+*** SUMMARY ***
+Total pot 10,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d 9h 5h 8d Qs]
+Seat 1: 8a879b8a folded before Flop
+Seat 2: 982e042f (button) folded before Flop
+Seat 3: 3961f3c4 (small blind) folded before Flop
+Seat 5: Hero (big blind) showed [8c 9s] and won (10,200) with two pair, Nines and Eights
+Seat 6: 5f4b8899 showed [Jc Kc] and lost with King high
+Seat 7: d386829f folded before Flop
+Seat 8: da30ceb4 folded before Flop
+
+
+Poker Hand #TM91628637: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:34:17
+Table '5' 8-max Seat #1 is the button
+Seat 1: 8a879b8a (15,674 in chips)
+Seat 2: 982e042f (13,504 in chips)
+Seat 3: 3961f3c4 (10,056 in chips)
+Seat 4: 63e43ebf (8,402 in chips)
+Seat 5: Hero (10,579 in chips)
+Seat 7: d386829f (5,309 in chips)
+Seat 8: da30ceb4 (4,877 in chips)
+8a879b8a: posts the ante 20
+da30ceb4: posts the ante 20
+63e43ebf: posts the ante 20
+d386829f: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+Hero: posts the ante 20
+982e042f: posts small blind 100
+3961f3c4: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [6s 4d]
+Dealt to d386829f 
+Dealt to da30ceb4 
+63e43ebf: folds
+Hero: folds
+d386829f: folds
+da30ceb4: raises 200 to 400
+8a879b8a: calls 400
+982e042f: folds
+3961f3c4: folds
+*** FLOP *** [6c Kc 9d]
+da30ceb4: bets 410
+8a879b8a: folds
+Uncalled bet (410) returned to da30ceb4
+*** SHOWDOWN ***
+da30ceb4 collected 1,240 from pot
+*** SUMMARY ***
+Total pot 1,240 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c Kc 9d]
+Seat 1: 8a879b8a (button) folded on the Flop
+Seat 2: 982e042f (small blind) folded before Flop
+Seat 3: 3961f3c4 (big blind) folded before Flop
+Seat 4: 63e43ebf folded before Flop
+Seat 5: Hero folded before Flop
+Seat 7: d386829f folded before Flop
+Seat 8: da30ceb4 won (1,240)
+
+
+Poker Hand #TM91628630: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:33:37
+Table '5' 8-max Seat #8 is the button
+Seat 1: 8a879b8a (15,154 in chips)
+Seat 2: 982e042f (13,724 in chips)
+Seat 3: 3961f3c4 (10,276 in chips)
+Seat 4: 63e43ebf (8,422 in chips)
+Seat 5: Hero (10,599 in chips)
+Seat 7: d386829f (5,329 in chips)
+Seat 8: da30ceb4 (4,897 in chips)
+da30ceb4: posts the ante 20
+8a879b8a: posts the ante 20
+63e43ebf: posts the ante 20
+d386829f: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+Hero: posts the ante 20
+8a879b8a: posts small blind 100
+982e042f: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [6h 4d]
+Dealt to d386829f 
+Dealt to da30ceb4 
+3961f3c4: calls 200
+63e43ebf: folds
+Hero: folds
+d386829f: folds
+da30ceb4: folds
+8a879b8a: raises 1,000 to 1,200
+982e042f: folds
+3961f3c4: folds
+Uncalled bet (1,000) returned to 8a879b8a
+*** SHOWDOWN ***
+8a879b8a collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8a879b8a (small blind) collected (740)
+Seat 2: 982e042f (big blind) folded before Flop
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 63e43ebf folded before Flop
+Seat 5: Hero folded before Flop
+Seat 7: d386829f folded before Flop
+Seat 8: da30ceb4 (button) folded before Flop
+
+
+Poker Hand #TM91628620: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:32:45
+Table '5' 8-max Seat #7 is the button
+Seat 1: 8a879b8a (15,374 in chips)
+Seat 2: 982e042f (13,744 in chips)
+Seat 3: 3961f3c4 (9,856 in chips)
+Seat 4: 63e43ebf (8,442 in chips)
+Seat 5: Hero (10,619 in chips)
+Seat 7: d386829f (5,349 in chips)
+Seat 8: da30ceb4 (5,017 in chips)
+8a879b8a: posts the ante 20
+da30ceb4: posts the ante 20
+63e43ebf: posts the ante 20
+d386829f: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+Hero: posts the ante 20
+da30ceb4: posts small blind 100
+8a879b8a: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [7c 8s]
+Dealt to d386829f 
+Dealt to da30ceb4 
+982e042f: folds
+3961f3c4: calls 200
+63e43ebf: folds
+Hero: folds
+d386829f: folds
+da30ceb4: folds
+8a879b8a: checks
+*** FLOP *** [3c Ah Qc]
+8a879b8a: checks
+3961f3c4: checks
+*** TURN *** [3c Ah Qc] [Ac]
+8a879b8a: checks
+3961f3c4: checks
+*** RIVER *** [3c Ah Qc Ac] [Js]
+8a879b8a: checks
+3961f3c4: bets 640
+8a879b8a: folds
+Uncalled bet (640) returned to 3961f3c4
+*** SHOWDOWN ***
+3961f3c4 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c Ah Qc Ac Js]
+Seat 1: 8a879b8a (big blind) folded on the River
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 won (640)
+Seat 4: 63e43ebf folded before Flop
+Seat 5: Hero folded before Flop
+Seat 7: d386829f (button) folded before Flop
+Seat 8: da30ceb4 (small blind) folded before Flop
+
+
+Poker Hand #TM91628613: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:32:01
+Table '5' 8-max Seat #5 is the button
+Seat 1: 8a879b8a (15,394 in chips)
+Seat 2: 982e042f (13,764 in chips)
+Seat 3: 3961f3c4 (9,876 in chips)
+Seat 4: 63e43ebf (8,462 in chips)
+Seat 5: Hero (9,999 in chips)
+Seat 7: d386829f (5,469 in chips)
+Seat 8: da30ceb4 (5,437 in chips)
+8a879b8a: posts the ante 20
+da30ceb4: posts the ante 20
+63e43ebf: posts the ante 20
+d386829f: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+Hero: posts the ante 20
+d386829f: posts small blind 100
+da30ceb4: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [5c Ad]
+Dealt to d386829f 
+Dealt to da30ceb4 
+8a879b8a: folds
+982e042f: folds
+3961f3c4: folds
+63e43ebf: folds
+Hero: raises 200 to 400
+d386829f: folds
+da30ceb4: calls 200
+*** FLOP *** [5h 3s 4d]
+da30ceb4: checks
+Hero: bets 302
+da30ceb4: folds
+Uncalled bet (302) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,040 from pot
+*** SUMMARY ***
+Total pot 1,040 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 3s 4d]
+Seat 1: 8a879b8a folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 63e43ebf folded before Flop
+Seat 5: Hero (button) won (1,040)
+Seat 7: d386829f (small blind) folded before Flop
+Seat 8: da30ceb4 (big blind) folded on the Flop
+
+
+Poker Hand #TM91628602: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:31:02
+Table '5' 8-max Seat #4 is the button
+Seat 1: 8a879b8a (15,414 in chips)
+Seat 2: 982e042f (13,784 in chips)
+Seat 3: 3961f3c4 (9,896 in chips)
+Seat 4: 63e43ebf (8,482 in chips)
+Seat 5: Hero (10,119 in chips)
+Seat 7: d386829f (6,266 in chips)
+Seat 8: da30ceb4 (4,440 in chips)
+8a879b8a: posts the ante 20
+da30ceb4: posts the ante 20
+63e43ebf: posts the ante 20
+d386829f: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+Hero: posts the ante 20
+Hero: posts small blind 100
+d386829f: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [4c 5d]
+Dealt to d386829f 
+Dealt to da30ceb4 
+da30ceb4: raises 220 to 420
+8a879b8a: folds
+982e042f: folds
+3961f3c4: folds
+63e43ebf: folds
+Hero: folds
+d386829f: calls 220
+*** FLOP *** [Ts 9d 7c]
+d386829f: checks
+da30ceb4: bets 357
+d386829f: calls 357
+*** TURN *** [Ts 9d 7c] [Ad]
+d386829f: checks
+da30ceb4: checks
+*** RIVER *** [Ts 9d 7c Ad] [2s]
+d386829f: checks
+da30ceb4: checks
+d386829f: shows [Jh Kc] (Ace high)
+da30ceb4: shows [8d 8c] (a pair of Eights)
+*** SHOWDOWN ***
+da30ceb4 collected 1,794 from pot
+*** SUMMARY ***
+Total pot 1,794 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 9d 7c Ad 2s]
+Seat 1: 8a879b8a folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 63e43ebf (button) folded before Flop
+Seat 5: Hero (small blind) folded before Flop
+Seat 7: d386829f (big blind) showed [Jh Kc] and lost with Ace high
+Seat 8: da30ceb4 showed [8d 8c] and won (1,794) with a pair of Eights
+
+
+Poker Hand #TM91628594: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level4(100/200) - 2026/01/15 13:30:21
+Table '5' 8-max Seat #3 is the button
+Seat 1: 8a879b8a (14,033 in chips)
+Seat 2: 982e042f (14,745 in chips)
+Seat 3: 3961f3c4 (9,916 in chips)
+Seat 4: 63e43ebf (8,602 in chips)
+Seat 5: Hero (10,339 in chips)
+Seat 6: 53735a49 (5,000 in chips)
+Seat 7: d386829f (6,286 in chips)
+Seat 8: da30ceb4 (4,460 in chips)
+8a879b8a: posts the ante 20
+da30ceb4: posts the ante 20
+53735a49: posts the ante 20
+63e43ebf: posts the ante 20
+d386829f: posts the ante 20
+3961f3c4: posts the ante 20
+982e042f: posts the ante 20
+Hero: posts the ante 20
+63e43ebf: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [6s 2h]
+Dealt to 53735a49 
+Dealt to d386829f 
+Dealt to da30ceb4 
+53735a49: folds
+d386829f: folds
+da30ceb4: folds
+8a879b8a: raises 200 to 400
+982e042f: raises 541 to 941
+3961f3c4: folds
+63e43ebf: folds
+Hero: folds
+8a879b8a: calls 541
+*** FLOP *** [Qd Jd 5c]
+8a879b8a: bets 1,171
+982e042f: folds
+Uncalled bet (1,171) returned to 8a879b8a
+*** SHOWDOWN ***
+8a879b8a collected 2,342 from pot
+*** SUMMARY ***
+Total pot 2,342 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd Jd 5c]
+Seat 1: 8a879b8a won (2,342)
+Seat 2: 982e042f folded on the Flop
+Seat 3: 3961f3c4 (button) folded before Flop
+Seat 4: 63e43ebf (small blind) folded before Flop
+Seat 5: Hero (big blind) folded before Flop
+Seat 6: 53735a49 folded before Flop
+Seat 7: d386829f folded before Flop
+Seat 8: da30ceb4 folded before Flop
+
+
+Poker Hand #TM91628583: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level3(75/150) - 2026/01/15 13:29:02
+Table '5' 8-max Seat #2 is the button
+Seat 1: 8a879b8a (12,188 in chips)
+Seat 2: 982e042f (14,760 in chips)
+Seat 3: 3961f3c4 (11,536 in chips)
+Seat 4: 63e43ebf (8,767 in chips)
+Seat 5: Hero (10,354 in chips)
+Seat 7: d386829f (6,301 in chips)
+Seat 8: da30ceb4 (4,475 in chips)
+8a879b8a: posts the ante 15
+da30ceb4: posts the ante 15
+63e43ebf: posts the ante 15
+d386829f: posts the ante 15
+3961f3c4: posts the ante 15
+982e042f: posts the ante 15
+Hero: posts the ante 15
+3961f3c4: posts small blind 75
+63e43ebf: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [8d Qd]
+Dealt to d386829f 
+Dealt to da30ceb4 
+Hero: folds
+d386829f: folds
+da30ceb4: folds
+8a879b8a: raises 300 to 450
+982e042f: folds
+3961f3c4: calls 375
+63e43ebf: folds
+*** FLOP *** [Js Ac 7c]
+3961f3c4: bets 1,155
+8a879b8a: raises 10,568 to 11,723 and is all-in
+3961f3c4: folds
+Uncalled bet (10,568) returned to 8a879b8a
+*** SHOWDOWN ***
+8a879b8a collected 3,465 from pot
+*** SUMMARY ***
+Total pot 3,465 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js Ac 7c]
+Seat 1: 8a879b8a won (3,465)
+Seat 2: 982e042f (button) folded before Flop
+Seat 3: 3961f3c4 (small blind) folded on the Flop
+Seat 4: 63e43ebf (big blind) folded before Flop
+Seat 5: Hero folded before Flop
+Seat 7: d386829f folded before Flop
+Seat 8: da30ceb4 folded before Flop
+
+
+Poker Hand #TM91628575: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level3(75/150) - 2026/01/15 13:28:01
+Table '5' 8-max Seat #1 is the button
+Seat 1: 8a879b8a (17,140 in chips)
+Seat 2: 982e042f (14,850 in chips)
+Seat 3: 3961f3c4 (11,851 in chips)
+Seat 4: 63e43ebf (8,782 in chips)
+Seat 5: Hero (4,952 in chips)
+Seat 7: d386829f (6,316 in chips)
+Seat 8: da30ceb4 (4,490 in chips)
+8a879b8a: posts the ante 15
+da30ceb4: posts the ante 15
+63e43ebf: posts the ante 15
+d386829f: posts the ante 15
+3961f3c4: posts the ante 15
+982e042f: posts the ante 15
+Hero: posts the ante 15
+982e042f: posts small blind 75
+3961f3c4: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [Td Kd]
+Dealt to d386829f 
+Dealt to da30ceb4 
+63e43ebf: folds
+Hero: raises 150 to 300
+d386829f: folds
+da30ceb4: folds
+8a879b8a: calls 300
+982e042f: folds
+3961f3c4: calls 150
+*** FLOP *** [Ks 9d Qd]
+3961f3c4: checks
+Hero: bets 584
+8a879b8a: calls 584
+3961f3c4: folds
+*** TURN *** [Ks 9d Qd] [2d]
+Hero: bets 1,214
+8a879b8a: raises 3,507 to 4,721
+Hero: calls 2,839 and is all-in
+Uncalled bet (668) returned to 8a879b8a
+8a879b8a: shows [4d 8d] (a flush Queen high)
+Hero: shows [Td Kd] (a flush King high)
+*** RIVER *** [Ks 9d Qd 2d] [4s]
+*** SHOWDOWN ***
+Hero collected 10,354 from pot
+*** SUMMARY ***
+Total pot 10,354 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 9d Qd 2d 4s]
+Seat 1: 8a879b8a (button) showed [4d 8d] and lost with a flush Queen high
+Seat 2: 982e042f (small blind) folded before Flop
+Seat 3: 3961f3c4 (big blind) folded on the Flop
+Seat 4: 63e43ebf folded before Flop
+Seat 5: Hero showed [Td Kd] and won (10,354) with a flush King high
+Seat 7: d386829f folded before Flop
+Seat 8: da30ceb4 folded before Flop
+
+
+Poker Hand #TM91628568: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level3(75/150) - 2026/01/15 13:26:58
+Table '5' 8-max Seat #8 is the button
+Seat 1: 8a879b8a (18,677 in chips)
+Seat 2: 982e042f (15,015 in chips)
+Seat 3: 3961f3c4 (11,866 in chips)
+Seat 4: 63e43ebf (8,797 in chips)
+Seat 5: Hero (4,967 in chips)
+Seat 7: d386829f (4,554 in chips)
+Seat 8: da30ceb4 (4,505 in chips)
+da30ceb4: posts the ante 15
+8a879b8a: posts the ante 15
+63e43ebf: posts the ante 15
+d386829f: posts the ante 15
+3961f3c4: posts the ante 15
+982e042f: posts the ante 15
+Hero: posts the ante 15
+8a879b8a: posts small blind 75
+982e042f: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [Ts 5d]
+Dealt to d386829f 
+Dealt to da30ceb4 
+3961f3c4: folds
+63e43ebf: folds
+Hero: folds
+d386829f: raises 150 to 300
+da30ceb4: folds
+8a879b8a: calls 225
+982e042f: folds
+*** FLOP *** [9d As Qh]
+8a879b8a: checks
+d386829f: bets 283
+8a879b8a: raises 283 to 566
+d386829f: calls 283
+*** TURN *** [9d As Qh] [Ac]
+8a879b8a: checks
+d386829f: bets 656
+8a879b8a: calls 656
+*** RIVER *** [9d As Qh Ac] [Tc]
+8a879b8a: checks
+d386829f: checks
+8a879b8a: shows [9s Qd] (two pair, Aces and Queens)
+d386829f: shows [Js Qs] (two pair, Aces and Queens)
+*** SHOWDOWN ***
+d386829f collected 3,299 from pot
+*** SUMMARY ***
+Total pot 3,299 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d As Qh Ac Tc]
+Seat 1: 8a879b8a (small blind) showed [9s Qd] and lost with two pair, Aces and Queens
+Seat 2: 982e042f (big blind) folded before Flop
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 63e43ebf folded before Flop
+Seat 5: Hero folded before Flop
+Seat 7: d386829f showed [Js Qs] and won (3,299) with two pair, Aces and Queens
+Seat 8: da30ceb4 (button) folded before Flop
+
+
+Poker Hand #TM91628561: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level3(75/150) - 2026/01/15 13:26:12
+Table '5' 8-max Seat #7 is the button
+Seat 1: 8a879b8a (17,822 in chips)
+Seat 2: 982e042f (15,030 in chips)
+Seat 3: 3961f3c4 (11,881 in chips)
+Seat 4: 63e43ebf (9,502 in chips)
+Seat 5: Hero (4,982 in chips)
+Seat 7: d386829f (4,569 in chips)
+Seat 8: da30ceb4 (4,595 in chips)
+8a879b8a: posts the ante 15
+da30ceb4: posts the ante 15
+63e43ebf: posts the ante 15
+d386829f: posts the ante 15
+3961f3c4: posts the ante 15
+982e042f: posts the ante 15
+Hero: posts the ante 15
+da30ceb4: posts small blind 75
+8a879b8a: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [Tc 7d]
+Dealt to d386829f 
+Dealt to da30ceb4 
+982e042f: folds
+3961f3c4: folds
+63e43ebf: raises 150 to 300
+Hero: folds
+d386829f: folds
+da30ceb4: folds
+8a879b8a: calls 150
+*** FLOP *** [8d 6d 7h]
+8a879b8a: checks
+63e43ebf: checks
+*** TURN *** [8d 6d 7h] [3c]
+8a879b8a: checks
+63e43ebf: checks
+*** RIVER *** [8d 6d 7h 3c] [6s]
+8a879b8a: bets 390
+63e43ebf: calls 390
+8a879b8a: shows [3d 2h] (two pair, Sixes and Threes)
+63e43ebf: shows [Ah Kd] (a pair of Sixes)
+*** SHOWDOWN ***
+8a879b8a collected 1,560 from pot
+*** SUMMARY ***
+Total pot 1,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 6d 7h 3c 6s]
+Seat 1: 8a879b8a (big blind) showed [3d 2h] and won (1,560) with two pair, Sixes and Threes
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 63e43ebf showed [Ah Kd] and lost with a pair of Sixes
+Seat 5: Hero folded before Flop
+Seat 7: d386829f (button) folded before Flop
+Seat 8: da30ceb4 (small blind) folded before Flop
+
+
+Poker Hand #TM91628558: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level3(75/150) - 2026/01/15 13:25:44
+Table '5' 8-max Seat #5 is the button
+Seat 1: 8a879b8a (17,837 in chips)
+Seat 2: 982e042f (15,045 in chips)
+Seat 3: 3961f3c4 (11,896 in chips)
+Seat 4: 63e43ebf (9,517 in chips)
+Seat 5: Hero (4,442 in chips)
+Seat 7: d386829f (4,659 in chips)
+Seat 8: da30ceb4 (4,985 in chips)
+8a879b8a: posts the ante 15
+da30ceb4: posts the ante 15
+63e43ebf: posts the ante 15
+d386829f: posts the ante 15
+3961f3c4: posts the ante 15
+982e042f: posts the ante 15
+Hero: posts the ante 15
+d386829f: posts small blind 75
+da30ceb4: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [Kd Kc]
+Dealt to d386829f 
+Dealt to da30ceb4 
+8a879b8a: folds
+982e042f: folds
+3961f3c4: folds
+63e43ebf: folds
+Hero: raises 225 to 375
+d386829f: folds
+da30ceb4: calls 225
+*** FLOP *** [3c 7s Ah]
+da30ceb4: checks
+Hero: bets 503
+da30ceb4: folds
+Uncalled bet (503) returned to Hero
+*** SHOWDOWN ***
+Hero collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 7s Ah]
+Seat 1: 8a879b8a folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 63e43ebf folded before Flop
+Seat 5: Hero (button) won (930)
+Seat 7: d386829f (small blind) folded before Flop
+Seat 8: da30ceb4 (big blind) folded on the Flop
+
+
+Poker Hand #TM91628547: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level3(75/150) - 2026/01/15 13:24:49
+Table '5' 8-max Seat #4 is the button
+Seat 1: 8a879b8a (17,852 in chips)
+Seat 2: 982e042f (15,060 in chips)
+Seat 3: 3961f3c4 (11,184 in chips)
+Seat 4: 63e43ebf (9,532 in chips)
+Seat 5: Hero (4,768 in chips)
+Seat 7: d386829f (4,985 in chips)
+Seat 8: da30ceb4 (5,000 in chips)
+8a879b8a: posts the ante 15
+da30ceb4: posts the ante 15
+63e43ebf: posts the ante 15
+d386829f: posts the ante 15
+3961f3c4: posts the ante 15
+982e042f: posts the ante 15
+Hero: posts the ante 15
+Hero: posts small blind 75
+d386829f: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [6s Ad]
+Dealt to d386829f 
+Dealt to da30ceb4 
+da30ceb4: folds
+8a879b8a: folds
+982e042f: folds
+3961f3c4: calls 150
+63e43ebf: folds
+Hero: calls 75
+d386829f: checks
+*** FLOP *** [Ac Tc 4d]
+Hero: bets 161
+d386829f: calls 161
+3961f3c4: calls 161
+*** TURN *** [Ac Tc 4d] [9d]
+Hero: checks
+d386829f: checks
+3961f3c4: bets 1,038
+Hero: folds
+d386829f: folds
+Uncalled bet (1,038) returned to 3961f3c4
+*** SHOWDOWN ***
+3961f3c4 collected 1,038 from pot
+*** SUMMARY ***
+Total pot 1,038 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac Tc 4d 9d]
+Seat 1: 8a879b8a folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 won (1,038)
+Seat 4: 63e43ebf (button) folded before Flop
+Seat 5: Hero (small blind) folded on the Turn
+Seat 7: d386829f (big blind) folded on the Turn
+Seat 8: da30ceb4 folded before Flop
+
+
+Poker Hand #TM91628544: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level3(75/150) - 2026/01/15 13:24:33
+Table '5' 8-max Seat #3 is the button
+Seat 1: 8a879b8a (17,867 in chips)
+Seat 2: 982e042f (15,075 in chips)
+Seat 3: 3961f3c4 (11,199 in chips)
+Seat 4: 63e43ebf (9,622 in chips)
+Seat 5: Hero (4,603 in chips)
+Seat 6: 3e0c37dd (5,479 in chips)
+Seat 7: d386829f (5,000 in chips)
+8a879b8a: posts the ante 15
+63e43ebf: posts the ante 15
+d386829f: posts the ante 15
+3961f3c4: posts the ante 15
+982e042f: posts the ante 15
+Hero: posts the ante 15
+3e0c37dd: posts the ante 15
+63e43ebf: posts small blind 75
+Hero: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [7c 5s]
+Dealt to 3e0c37dd 
+Dealt to d386829f 
+3e0c37dd: folds
+d386829f: folds
+8a879b8a: folds
+982e042f: folds
+3961f3c4: folds
+63e43ebf: folds
+Uncalled bet (75) returned to Hero
+*** SHOWDOWN ***
+Hero collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8a879b8a folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 (button) folded before Flop
+Seat 4: 63e43ebf (small blind) folded before Flop
+Seat 5: Hero (big blind) collected (255)
+Seat 6: 3e0c37dd folded before Flop
+Seat 7: d386829f folded before Flop
+
+
+Poker Hand #TM91628537: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level3(75/150) - 2026/01/15 13:23:45
+Table '5' 8-max Seat #2 is the button
+Seat 1: 8a879b8a (18,182 in chips)
+Seat 2: 982e042f (14,025 in chips)
+Seat 3: 3961f3c4 (11,289 in chips)
+Seat 4: 63e43ebf (9,937 in chips)
+Seat 5: Hero (4,918 in chips)
+Seat 6: 3e0c37dd (5,494 in chips)
+8a879b8a: posts the ante 15
+63e43ebf: posts the ante 15
+3961f3c4: posts the ante 15
+982e042f: posts the ante 15
+Hero: posts the ante 15
+3e0c37dd: posts the ante 15
+3961f3c4: posts small blind 75
+63e43ebf: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8a879b8a 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [Qc Kh]
+Dealt to 3e0c37dd 
+Hero: raises 150 to 300
+3e0c37dd: folds
+8a879b8a: calls 300
+982e042f: calls 300
+3961f3c4: folds
+63e43ebf: calls 150
+*** FLOP *** [Js 5s 7s]
+63e43ebf: checks
+Hero: checks
+8a879b8a: checks
+982e042f: bets 369
+63e43ebf: folds
+Hero: folds
+8a879b8a: folds
+Uncalled bet (369) returned to 982e042f
+*** SHOWDOWN ***
+982e042f collected 1,365 from pot
+*** SUMMARY ***
+Total pot 1,365 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js 5s 7s]
+Seat 1: 8a879b8a folded on the Flop
+Seat 2: 982e042f (button) won (1,365)
+Seat 3: 3961f3c4 (small blind) folded before Flop
+Seat 4: 63e43ebf (big blind) folded on the Flop
+Seat 5: Hero folded on the Flop
+Seat 6: 3e0c37dd folded before Flop
+
+
+Poker Hand #TM91628527: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level3(75/150) - 2026/01/15 13:23:01
+Table '5' 8-max Seat #6 is the button
+Seat 2: 982e042f (14,190 in chips)
+Seat 3: 3961f3c4 (11,079 in chips)
+Seat 4: 63e43ebf (9,952 in chips)
+Seat 5: Hero (4,933 in chips)
+Seat 6: 3e0c37dd (5,509 in chips)
+63e43ebf: posts the ante 15
+3961f3c4: posts the ante 15
+982e042f: posts the ante 15
+Hero: posts the ante 15
+3e0c37dd: posts the ante 15
+982e042f: posts small blind 75
+3961f3c4: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [6h Ac]
+Dealt to 3e0c37dd 
+63e43ebf: folds
+Hero: folds
+3e0c37dd: folds
+982e042f: calls 75
+3961f3c4: checks
+*** FLOP *** [2h 5d Ks]
+982e042f: checks
+3961f3c4: checks
+*** TURN *** [2h 5d Ks] [Kh]
+982e042f: checks
+3961f3c4: checks
+*** RIVER *** [2h 5d Ks Kh] [8c]
+982e042f: checks
+3961f3c4: bets 150
+982e042f: folds
+Uncalled bet (150) returned to 3961f3c4
+*** SHOWDOWN ***
+3961f3c4 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 5d Ks Kh 8c]
+Seat 2: 982e042f (small blind) folded on the River
+Seat 3: 3961f3c4 (big blind) won (375)
+Seat 4: 63e43ebf folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: 3e0c37dd (button) folded before Flop
+
+
+Poker Hand #TM91628520: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level3(75/150) - 2026/01/15 13:22:11
+Table '5' 8-max Seat #5 is the button
+Seat 2: 982e042f (8,730 in chips)
+Seat 3: 3961f3c4 (11,094 in chips)
+Seat 4: 63e43ebf (10,282 in chips)
+Seat 5: Hero (4,948 in chips)
+Seat 6: 3e0c37dd (5,599 in chips)
+Seat 7: 8c6a6932 (5,010 in chips)
+63e43ebf: posts the ante 15
+3961f3c4: posts the ante 15
+982e042f: posts the ante 15
+8c6a6932: posts the ante 15
+Hero: posts the ante 15
+3e0c37dd: posts the ante 15
+3e0c37dd: posts small blind 75
+8c6a6932: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 63e43ebf 
+Dealt to Hero [Jd 2c]
+Dealt to 3e0c37dd 
+Dealt to 8c6a6932 
+982e042f: raises 165 to 315
+3961f3c4: folds
+63e43ebf: calls 315
+Hero: folds
+3e0c37dd: folds
+8c6a6932: raises 833 to 1,148
+982e042f: calls 833
+63e43ebf: folds
+*** FLOP *** [8d 7d 5h]
+8c6a6932: bets 1,388
+982e042f: raises 1,388 to 2,776
+8c6a6932: calls 1,388
+*** TURN *** [8d 7d 5h] [7s]
+8c6a6932: bets 1,071 and is all-in
+982e042f: calls 1,071
+8c6a6932: shows [9h Qh] (a pair of Sevens)
+982e042f: shows [Td Kd] (a pair of Sevens)
+*** RIVER *** [8d 7d 5h 7s] [5c]
+*** SHOWDOWN ***
+982e042f collected 10,470 from pot
+*** SUMMARY ***
+Total pot 10,470 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 7d 5h 7s 5c]
+Seat 2: 982e042f showed [Td Kd] and won (10,470) with two pair, Sevens and Fives
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 63e43ebf folded before Flop
+Seat 5: Hero (button) folded before Flop
+Seat 6: 3e0c37dd (small blind) folded before Flop
+Seat 7: 8c6a6932 (big blind) showed [9h Qh] and lost with two pair, Sevens and Fives
+
+
+Poker Hand #TM91628517: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level2(50/100) - 2026/01/15 13:21:51
+Table '5' 8-max Seat #3 is the button
+Seat 1: 9d4722f9 (5,887 in chips)
+Seat 2: 982e042f (8,530 in chips)
+Seat 3: 3961f3c4 (11,104 in chips)
+Seat 5: Hero (5,008 in chips)
+Seat 6: 3e0c37dd (5,709 in chips)
+Seat 7: 8c6a6932 (5,020 in chips)
+9d4722f9: posts the ante 10
+3961f3c4: posts the ante 10
+982e042f: posts the ante 10
+8c6a6932: posts the ante 10
+Hero: posts the ante 10
+3e0c37dd: posts the ante 10
+Hero: posts small blind 50
+3e0c37dd: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 9d4722f9 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to Hero [2d Qs]
+Dealt to 3e0c37dd 
+Dealt to 8c6a6932 
+8c6a6932: folds
+9d4722f9: folds
+982e042f: raises 150 to 250
+3961f3c4: folds
+Hero: folds
+3e0c37dd: folds
+Uncalled bet (150) returned to 982e042f
+*** SHOWDOWN ***
+982e042f collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 9d4722f9 folded before Flop
+Seat 2: 982e042f collected (310)
+Seat 3: 3961f3c4 (button) folded before Flop
+Seat 5: Hero (small blind) folded before Flop
+Seat 6: 3e0c37dd (big blind) folded before Flop
+Seat 7: 8c6a6932 folded before Flop
+
+
+Poker Hand #TM91628509: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level2(50/100) - 2026/01/15 13:20:56
+Table '5' 8-max Seat #2 is the button
+Seat 2: 982e042f (8,750 in chips)
+Seat 3: 3961f3c4 (5,805 in chips)
+Seat 4: 94f16ed2 (5,049 in chips)
+Seat 5: Hero (5,018 in chips)
+Seat 6: 3e0c37dd (5,719 in chips)
+Seat 7: 8c6a6932 (5,030 in chips)
+94f16ed2: posts the ante 10
+3961f3c4: posts the ante 10
+982e042f: posts the ante 10
+8c6a6932: posts the ante 10
+Hero: posts the ante 10
+3e0c37dd: posts the ante 10
+3961f3c4: posts small blind 50
+94f16ed2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 94f16ed2 
+Dealt to Hero [Ks 6s]
+Dealt to 3e0c37dd 
+Dealt to 8c6a6932 
+Hero: folds
+3e0c37dd: folds
+8c6a6932: folds
+982e042f: raises 110 to 210
+3961f3c4: calls 160
+94f16ed2: raises 518 to 728
+982e042f: folds
+3961f3c4: raises 5,067 to 5,795 and is all-in
+94f16ed2: calls 4,311 and is all-in
+Uncalled bet (756) returned to 3961f3c4
+3961f3c4: shows [Qd Ac]
+94f16ed2: shows [9h 9d]
+*** FLOP *** [2c 6c 8h]
+*** TURN *** [2c 6c 8h] [3s]
+*** RIVER *** [2c 6c 8h 3s] [Qc]
+*** SHOWDOWN ***
+3961f3c4 collected 10,348 from pot
+*** SUMMARY ***
+Total pot 10,348 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 6c 8h 3s Qc]
+Seat 2: 982e042f (button) folded before Flop
+Seat 3: 3961f3c4 (small blind) showed [Qd Ac] and won (10,348) with a pair of Queens
+Seat 4: 94f16ed2 (big blind) showed [9h 9d] and lost with a pair of Nines
+Seat 5: Hero folded before Flop
+Seat 6: 3e0c37dd folded before Flop
+Seat 7: 8c6a6932 folded before Flop
+
+
+Poker Hand #TM91628502: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level2(50/100) - 2026/01/15 13:20:02
+Table '5' 8-max Seat #7 is the button
+Seat 1: cf5171b3 (1,500 in chips)
+Seat 2: 982e042f (8,860 in chips)
+Seat 3: 3961f3c4 (5,815 in chips)
+Seat 4: 94f16ed2 (5,059 in chips)
+Seat 5: Hero (3,368 in chips)
+Seat 6: 3e0c37dd (5,729 in chips)
+Seat 7: 8c6a6932 (5,040 in chips)
+94f16ed2: posts the ante 10
+cf5171b3: posts the ante 10
+3961f3c4: posts the ante 10
+982e042f: posts the ante 10
+8c6a6932: posts the ante 10
+Hero: posts the ante 10
+3e0c37dd: posts the ante 10
+cf5171b3: posts small blind 50
+982e042f: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cf5171b3 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 94f16ed2 
+Dealt to Hero [Jd Qd]
+Dealt to 3e0c37dd 
+Dealt to 8c6a6932 
+3961f3c4: folds
+94f16ed2: folds
+Hero: raises 100 to 200
+3e0c37dd: folds
+8c6a6932: folds
+cf5171b3: raises 1,290 to 1,490 and is all-in
+982e042f: folds
+Hero: calls 1,290
+cf5171b3: shows [5d Ad]
+Hero: shows [Jd Qd]
+*** FLOP *** [Ks 9h As]
+*** TURN *** [Ks 9h As] [Qc]
+*** RIVER *** [Ks 9h As Qc] [Qs]
+*** SHOWDOWN ***
+Hero collected 3,150 from pot
+*** SUMMARY ***
+Total pot 3,150 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 9h As Qc Qs]
+Seat 1: cf5171b3 (small blind) showed [5d Ad] and lost with two pair, Aces and Queens
+Seat 2: 982e042f (big blind) folded before Flop
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 94f16ed2 folded before Flop
+Seat 5: Hero showed [Jd Qd] and won (3,150) with three of a kind, Queens
+Seat 6: 3e0c37dd folded before Flop
+Seat 7: 8c6a6932 (button) folded before Flop
+
+
+Poker Hand #TM91628491: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level2(50/100) - 2026/01/15 13:19:09
+Table '5' 8-max Seat #6 is the button
+Seat 1: cf5171b3 (970 in chips)
+Seat 2: 982e042f (9,080 in chips)
+Seat 3: 3961f3c4 (5,825 in chips)
+Seat 4: 94f16ed2 (5,279 in chips)
+Seat 5: Hero (3,378 in chips)
+Seat 6: 3e0c37dd (5,739 in chips)
+Seat 7: 8c6a6932 (5,100 in chips)
+94f16ed2: posts the ante 10
+cf5171b3: posts the ante 10
+3961f3c4: posts the ante 10
+982e042f: posts the ante 10
+8c6a6932: posts the ante 10
+Hero: posts the ante 10
+3e0c37dd: posts the ante 10
+8c6a6932: posts small blind 50
+cf5171b3: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cf5171b3 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 94f16ed2 
+Dealt to Hero [Jd 6d]
+Dealt to 3e0c37dd 
+Dealt to 8c6a6932 
+982e042f: raises 110 to 210
+3961f3c4: folds
+94f16ed2: calls 210
+Hero: folds
+3e0c37dd: folds
+8c6a6932: folds
+cf5171b3: calls 110
+*** FLOP *** [8c 7d 2s]
+cf5171b3: checks
+982e042f: checks
+94f16ed2: checks
+*** TURN *** [8c 7d 2s] [5d]
+cf5171b3: checks
+982e042f: checks
+94f16ed2: checks
+*** RIVER *** [8c 7d 2s 5d] [3c]
+cf5171b3: bets 750 and is all-in
+982e042f: folds
+94f16ed2: folds
+Uncalled bet (750) returned to cf5171b3
+*** SHOWDOWN ***
+cf5171b3 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 7d 2s 5d 3c]
+Seat 1: cf5171b3 (big blind) won (750)
+Seat 2: 982e042f folded on the River
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 94f16ed2 folded on the River
+Seat 5: Hero folded before Flop
+Seat 6: 3e0c37dd (button) folded before Flop
+Seat 7: 8c6a6932 (small blind) folded before Flop
+
+
+Poker Hand #TM91628488: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level2(50/100) - 2026/01/15 13:18:48
+Table '5' 8-max Seat #5 is the button
+Seat 1: cf5171b3 (980 in chips)
+Seat 2: 982e042f (9,090 in chips)
+Seat 3: 3961f3c4 (5,835 in chips)
+Seat 4: 94f16ed2 (5,289 in chips)
+Seat 5: Hero (3,388 in chips)
+Seat 6: 3e0c37dd (5,799 in chips)
+Seat 7: 8c6a6932 (4,990 in chips)
+94f16ed2: posts the ante 10
+cf5171b3: posts the ante 10
+3961f3c4: posts the ante 10
+982e042f: posts the ante 10
+8c6a6932: posts the ante 10
+Hero: posts the ante 10
+3e0c37dd: posts the ante 10
+3e0c37dd: posts small blind 50
+8c6a6932: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cf5171b3 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 94f16ed2 
+Dealt to Hero [8s 7d]
+Dealt to 3e0c37dd 
+Dealt to 8c6a6932 
+cf5171b3: folds
+982e042f: folds
+3961f3c4: folds
+94f16ed2: folds
+Hero: folds
+3e0c37dd: folds
+Uncalled bet (50) returned to 8c6a6932
+*** SHOWDOWN ***
+8c6a6932 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: cf5171b3 folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 94f16ed2 folded before Flop
+Seat 5: Hero (button) folded before Flop
+Seat 6: 3e0c37dd (small blind) folded before Flop
+Seat 7: 8c6a6932 (big blind) collected (170)
+
+
+Poker Hand #TM91628482: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level2(50/100) - 2026/01/15 13:18:22
+Table '5' 8-max Seat #4 is the button
+Seat 1: cf5171b3 (990 in chips)
+Seat 2: 982e042f (9,100 in chips)
+Seat 3: 3961f3c4 (5,845 in chips)
+Seat 4: 94f16ed2 (5,079 in chips)
+Seat 5: Hero (3,448 in chips)
+Seat 6: 3e0c37dd (5,909 in chips)
+Seat 7: 8c6a6932 (5,000 in chips)
+94f16ed2: posts the ante 10
+cf5171b3: posts the ante 10
+3961f3c4: posts the ante 10
+982e042f: posts the ante 10
+8c6a6932: posts the ante 10
+Hero: posts the ante 10
+3e0c37dd: posts the ante 10
+Hero: posts small blind 50
+3e0c37dd: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cf5171b3 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 94f16ed2 
+Dealt to Hero [8h 3h]
+Dealt to 3e0c37dd 
+Dealt to 8c6a6932 
+8c6a6932: folds
+cf5171b3: folds
+982e042f: folds
+3961f3c4: folds
+94f16ed2: raises 200 to 300
+Hero: folds
+3e0c37dd: folds
+Uncalled bet (200) returned to 94f16ed2
+*** SHOWDOWN ***
+94f16ed2 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: cf5171b3 folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 folded before Flop
+Seat 4: 94f16ed2 (button) collected (320)
+Seat 5: Hero (small blind) folded before Flop
+Seat 6: 3e0c37dd (big blind) folded before Flop
+Seat 7: 8c6a6932 folded before Flop
+
+
+Poker Hand #TM91628477: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level2(50/100) - 2026/01/15 13:17:55
+Table '5' 8-max Seat #3 is the button
+Seat 1: cf5171b3 (1,000 in chips)
+Seat 2: 982e042f (9,110 in chips)
+Seat 3: 3961f3c4 (5,855 in chips)
+Seat 4: 94f16ed2 (5,389 in chips)
+Seat 5: Hero (3,098 in chips)
+Seat 6: 3e0c37dd (5,919 in chips)
+cf5171b3: posts the ante 10
+94f16ed2: posts the ante 10
+3961f3c4: posts the ante 10
+982e042f: posts the ante 10
+Hero: posts the ante 10
+3e0c37dd: posts the ante 10
+94f16ed2: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cf5171b3 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 94f16ed2 
+Dealt to Hero [Jc Ah]
+Dealt to 3e0c37dd 
+3e0c37dd: folds
+cf5171b3: folds
+982e042f: folds
+3961f3c4: folds
+94f16ed2: calls 50
+Hero: raises 200 to 300
+94f16ed2: calls 200
+*** FLOP *** [4d Jh 4c]
+94f16ed2: checks
+Hero: bets 357
+94f16ed2: folds
+Uncalled bet (357) returned to Hero
+*** SHOWDOWN ***
+Hero collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d Jh 4c]
+Seat 1: cf5171b3 folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: 3961f3c4 (button) folded before Flop
+Seat 4: 94f16ed2 (small blind) folded on the Flop
+Seat 5: Hero (big blind) won (660)
+Seat 6: 3e0c37dd folded before Flop
+
+
+Poker Hand #TM91628470: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level2(50/100) - 2026/01/15 13:17:00
+Table '5' 8-max Seat #2 is the button
+Seat 1: cf5171b3 (1,010 in chips)
+Seat 2: 982e042f (9,120 in chips)
+Seat 3: 3961f3c4 (5,915 in chips)
+Seat 4: 94f16ed2 (5,499 in chips)
+Seat 5: Hero (4,140 in chips)
+Seat 6: 3e0c37dd (4,687 in chips)
+cf5171b3: posts the ante 10
+94f16ed2: posts the ante 10
+3961f3c4: posts the ante 10
+982e042f: posts the ante 10
+Hero: posts the ante 10
+3e0c37dd: posts the ante 10
+3961f3c4: posts small blind 50
+94f16ed2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cf5171b3 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 94f16ed2 
+Dealt to Hero [8s Ks]
+Dealt to 3e0c37dd 
+Hero: raises 100 to 200
+3e0c37dd: calls 200
+cf5171b3: folds
+982e042f: folds
+3961f3c4: folds
+94f16ed2: folds
+*** FLOP *** [4c Qs Jh]
+Hero: bets 150
+3e0c37dd: calls 150
+*** TURN *** [4c Qs Jh] [Tc]
+Hero: bets 264
+3e0c37dd: calls 264
+*** RIVER *** [4c Qs Jh Tc] [7h]
+Hero: bets 418
+3e0c37dd: calls 418
+Hero: shows [8s Ks] (King high)
+3e0c37dd: shows [Qd Ah] (a pair of Queens)
+*** SHOWDOWN ***
+3e0c37dd collected 2,274 from pot
+*** SUMMARY ***
+Total pot 2,274 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Qs Jh Tc 7h]
+Seat 1: cf5171b3 folded before Flop
+Seat 2: 982e042f (button) folded before Flop
+Seat 3: 3961f3c4 (small blind) folded before Flop
+Seat 4: 94f16ed2 (big blind) folded before Flop
+Seat 5: Hero showed [8s Ks] and lost with King high
+Seat 6: 3e0c37dd showed [Qd Ah] and won (2,274) with a pair of Queens
+
+
+Poker Hand #TM91628465: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level2(50/100) - 2026/01/15 13:16:19
+Table '5' 8-max Seat #1 is the button
+Seat 1: cf5171b3 (410 in chips)
+Seat 2: 982e042f (9,180 in chips)
+Seat 3: 3961f3c4 (6,025 in chips)
+Seat 4: 94f16ed2 (5,509 in chips)
+Seat 5: Hero (4,550 in chips)
+Seat 6: 3e0c37dd (4,697 in chips)
+cf5171b3: posts the ante 10
+94f16ed2: posts the ante 10
+3961f3c4: posts the ante 10
+982e042f: posts the ante 10
+Hero: posts the ante 10
+3e0c37dd: posts the ante 10
+982e042f: posts small blind 50
+3961f3c4: posts big blind 100
+*** HOLE CARDS ***
+Dealt to cf5171b3 
+Dealt to 982e042f 
+Dealt to 3961f3c4 
+Dealt to 94f16ed2 
+Dealt to Hero [Ac Js]
+Dealt to 3e0c37dd 
+94f16ed2: folds
+Hero: raises 100 to 200
+3e0c37dd: folds
+cf5171b3: raises 200 to 400 and is all-in
+982e042f: folds
+3961f3c4: folds
+Hero: calls 200
+cf5171b3: shows [7h 8h]
+Hero: shows [Ac Js]
+*** FLOP *** [6s 5h 4d]
+*** TURN *** [6s 5h 4d] [Kh]
+*** RIVER *** [6s 5h 4d Kh] [2s]
+*** SHOWDOWN ***
+cf5171b3 collected 1,010 from pot
+*** SUMMARY ***
+Total pot 1,010 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s 5h 4d Kh 2s]
+Seat 1: cf5171b3 (button) showed [7h 8h] and won (1,010) with a straight, Eight to Four
+Seat 2: 982e042f (small blind) folded before Flop
+Seat 3: 3961f3c4 (big blind) folded before Flop
+Seat 4: 94f16ed2 folded before Flop
+Seat 5: Hero showed [Ac Js] and lost with Ace high
+Seat 6: 3e0c37dd folded before Flop
+
+
+Poker Hand #TM91628451: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level2(50/100) - 2026/01/15 13:15:17
+Table '2' 8-max Seat #8 is the button
+Seat 1: da729222 (4,793 in chips)
+Seat 2: 215f109f (5,000 in chips)
+Seat 3: e4c88fec (4,623 in chips)
+Seat 4: Hero (4,760 in chips)
+Seat 5: 3e0c37dd (4,707 in chips)
+Seat 6: 35be9939 (5,033 in chips)
+Seat 7: 8a879b8a (11,966 in chips)
+Seat 8: c8db0d87 (4,333 in chips)
+8a879b8a: posts the ante 10
+c8db0d87: posts the ante 10
+35be9939: posts the ante 10
+Hero: posts the ante 10
+3e0c37dd: posts the ante 10
+e4c88fec: posts the ante 10
+215f109f: posts the ante 10
+da729222: posts the ante 10
+da729222: posts small blind 50
+215f109f: posts big blind 100
+*** HOLE CARDS ***
+Dealt to da729222 
+Dealt to 215f109f 
+Dealt to e4c88fec 
+Dealt to Hero [As 2s]
+Dealt to 3e0c37dd 
+Dealt to 35be9939 
+Dealt to 8a879b8a 
+Dealt to c8db0d87 
+e4c88fec: folds
+Hero: raises 100 to 200
+3e0c37dd: folds
+35be9939: calls 200
+8a879b8a: folds
+c8db0d87: raises 557 to 757
+da729222: folds
+215f109f: folds
+Hero: folds
+35be9939: calls 557
+*** FLOP *** [Th 4s 6d]
+35be9939: checks
+c8db0d87: bets 778
+35be9939: calls 778
+*** TURN *** [Th 4s 6d] [Tc]
+35be9939: checks
+c8db0d87: bets 2,788 and is all-in
+35be9939: folds
+Uncalled bet (2,788) returned to c8db0d87
+*** SHOWDOWN ***
+c8db0d87 collected 3,500 from pot
+*** SUMMARY ***
+Total pot 3,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th 4s 6d Tc]
+Seat 1: da729222 (small blind) folded before Flop
+Seat 2: 215f109f (big blind) folded before Flop
+Seat 3: e4c88fec folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 3e0c37dd folded before Flop
+Seat 6: 35be9939 folded on the Turn
+Seat 7: 8a879b8a folded before Flop
+Seat 8: c8db0d87 (button) won (3,500)
+
+
+Poker Hand #TM91628431: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level1(25/50) - 2026/01/15 13:13:24
+Table '2' 8-max Seat #7 is the button
+Seat 1: da729222 (5,135 in chips)
+Seat 2: 982e042f (4,765 in chips)
+Seat 3: e4c88fec (4,965 in chips)
+Seat 4: Hero (4,765 in chips)
+Seat 5: 3e0c37dd (4,712 in chips)
+Seat 6: 35be9939 (5,375 in chips)
+Seat 7: 8a879b8a (10,583 in chips)
+Seat 8: c8db0d87 (4,675 in chips)
+8a879b8a: posts the ante 5
+c8db0d87: posts the ante 5
+35be9939: posts the ante 5
+982e042f: posts the ante 5
+Hero: posts the ante 5
+3e0c37dd: posts the ante 5
+e4c88fec: posts the ante 5
+da729222: posts the ante 5
+c8db0d87: posts small blind 25
+da729222: posts big blind 50
+*** HOLE CARDS ***
+Dealt to da729222 
+Dealt to 982e042f 
+Dealt to e4c88fec 
+Dealt to Hero [7d 2c]
+Dealt to 3e0c37dd 
+Dealt to 35be9939 
+Dealt to 8a879b8a 
+Dealt to c8db0d87 
+982e042f: folds
+e4c88fec: raises 50 to 100
+Hero: folds
+3e0c37dd: folds
+35be9939: raises 237 to 337
+8a879b8a: calls 337
+c8db0d87: calls 312
+da729222: calls 287
+e4c88fec: calls 237
+*** FLOP *** [5c 6d 4c]
+c8db0d87: checks
+da729222: checks
+e4c88fec: checks
+35be9939: checks
+8a879b8a: checks
+*** TURN *** [5c 6d 4c] [As]
+c8db0d87: checks
+da729222: checks
+e4c88fec: checks
+35be9939: checks
+8a879b8a: bets 570
+c8db0d87: folds
+da729222: folds
+e4c88fec: folds
+35be9939: folds
+Uncalled bet (570) returned to 8a879b8a
+*** SHOWDOWN ***
+8a879b8a collected 1,725 from pot
+*** SUMMARY ***
+Total pot 1,725 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 6d 4c As]
+Seat 1: da729222 (big blind) folded on the Turn
+Seat 2: 982e042f folded before Flop
+Seat 3: e4c88fec folded on the Turn
+Seat 4: Hero folded before Flop
+Seat 5: 3e0c37dd folded before Flop
+Seat 6: 35be9939 folded on the Turn
+Seat 7: 8a879b8a (button) won (1,725)
+Seat 8: c8db0d87 (small blind) folded on the Turn
+
+
+Poker Hand #TM91628417: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level1(25/50) - 2026/01/15 13:11:34
+Table '2' 8-max Seat #6 is the button
+Seat 1: da729222 (3,810 in chips)
+Seat 2: 982e042f (4,770 in chips)
+Seat 3: e4c88fec (4,970 in chips)
+Seat 4: Hero (4,770 in chips)
+Seat 5: 3e0c37dd (4,717 in chips)
+Seat 6: 35be9939 (6,250 in chips)
+Seat 7: 8a879b8a (10,688 in chips)
+Seat 8: c8db0d87 (5,000 in chips)
+8a879b8a: posts the ante 5
+c8db0d87: posts the ante 5
+35be9939: posts the ante 5
+982e042f: posts the ante 5
+Hero: posts the ante 5
+3e0c37dd: posts the ante 5
+e4c88fec: posts the ante 5
+da729222: posts the ante 5
+8a879b8a: posts small blind 25
+c8db0d87: posts big blind 50
+*** HOLE CARDS ***
+Dealt to da729222 
+Dealt to 982e042f 
+Dealt to e4c88fec 
+Dealt to Hero [8s 5s]
+Dealt to 3e0c37dd 
+Dealt to 35be9939 
+Dealt to 8a879b8a 
+Dealt to c8db0d87 
+da729222: calls 50
+982e042f: folds
+e4c88fec: folds
+Hero: folds
+3e0c37dd: folds
+35be9939: calls 50
+8a879b8a: raises 50 to 100
+c8db0d87: calls 50
+da729222: calls 50
+35be9939: calls 50
+*** FLOP *** [Tc 5h 4s]
+8a879b8a: checks
+c8db0d87: checks
+da729222: bets 220
+35be9939: calls 220
+8a879b8a: folds
+c8db0d87: calls 220
+*** TURN *** [Tc 5h 4s] [9h]
+c8db0d87: checks
+da729222: bets 550
+35be9939: calls 550
+c8db0d87: folds
+*** RIVER *** [Tc 5h 4s 9h] [Ts]
+da729222: bets 2,935 and is all-in
+35be9939: folds
+Uncalled bet (2,935) returned to da729222
+*** SHOWDOWN ***
+da729222 collected 2,200 from pot
+*** SUMMARY ***
+Total pot 2,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 5h 4s 9h Ts]
+Seat 1: da729222 won (2,200)
+Seat 2: 982e042f folded before Flop
+Seat 3: e4c88fec folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 3e0c37dd folded before Flop
+Seat 6: 35be9939 (button) folded on the River
+Seat 7: 8a879b8a (small blind) folded on the Flop
+Seat 8: c8db0d87 (big blind) folded on the Turn
+
+
+Poker Hand #TM91628410: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level1(25/50) - 2026/01/15 13:10:43
+Table '2' 8-max Seat #5 is the button
+Seat 1: da729222 (3,815 in chips)
+Seat 2: 982e042f (4,775 in chips)
+Seat 3: e4c88fec (4,975 in chips)
+Seat 4: Hero (4,775 in chips)
+Seat 5: 3e0c37dd (4,950 in chips)
+Seat 6: 35be9939 (6,280 in chips)
+Seat 7: 8a879b8a (10,405 in chips)
+8a879b8a: posts the ante 5
+35be9939: posts the ante 5
+982e042f: posts the ante 5
+Hero: posts the ante 5
+3e0c37dd: posts the ante 5
+e4c88fec: posts the ante 5
+da729222: posts the ante 5
+35be9939: posts small blind 25
+8a879b8a: posts big blind 50
+*** HOLE CARDS ***
+Dealt to da729222 
+Dealt to 982e042f 
+Dealt to e4c88fec 
+Dealt to Hero [6s 8h]
+Dealt to 3e0c37dd 
+Dealt to 35be9939 
+Dealt to 8a879b8a 
+da729222: folds
+982e042f: folds
+e4c88fec: folds
+Hero: folds
+3e0c37dd: raises 75 to 125
+35be9939: folds
+8a879b8a: raises 103 to 228
+3e0c37dd: calls 103
+*** FLOP *** [8s Qh 2d]
+8a879b8a: checks
+3e0c37dd: checks
+*** TURN *** [8s Qh 2d] [5d]
+8a879b8a: bets 171
+3e0c37dd: folds
+Uncalled bet (171) returned to 8a879b8a
+*** SHOWDOWN ***
+8a879b8a collected 516 from pot
+*** SUMMARY ***
+Total pot 516 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s Qh 2d 5d]
+Seat 1: da729222 folded before Flop
+Seat 2: 982e042f folded before Flop
+Seat 3: e4c88fec folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 3e0c37dd (button) folded on the Turn
+Seat 6: 35be9939 (small blind) folded before Flop
+Seat 7: 8a879b8a (big blind) won (516)
+
+
+Poker Hand #TM91628400: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level1(25/50) - 2026/01/15 13:09:43
+Table '2' 8-max Seat #4 is the button
+Seat 1: da729222 (4,720 in chips)
+Seat 2: 982e042f (4,780 in chips)
+Seat 4: Hero (4,930 in chips)
+Seat 5: 3e0c37dd (4,980 in chips)
+Seat 6: 35be9939 (5,180 in chips)
+Seat 7: 8a879b8a (10,410 in chips)
+8a879b8a: posts the ante 5
+35be9939: posts the ante 5
+982e042f: posts the ante 5
+Hero: posts the ante 5
+da729222: posts the ante 5
+3e0c37dd: posts the ante 5
+3e0c37dd: posts small blind 25
+35be9939: posts big blind 50
+*** HOLE CARDS ***
+Dealt to da729222 
+Dealt to 982e042f 
+Dealt to Hero [9d 9c]
+Dealt to 3e0c37dd 
+Dealt to 35be9939 
+Dealt to 8a879b8a 
+8a879b8a: folds
+da729222: raises 100 to 150
+982e042f: folds
+Hero: calls 150
+3e0c37dd: folds
+35be9939: calls 100
+*** FLOP *** [Kd Ts 5c]
+35be9939: checks
+da729222: bets 250
+Hero: folds
+35be9939: calls 250
+*** TURN *** [Kd Ts 5c] [Ks]
+35be9939: checks
+da729222: bets 500
+35be9939: calls 500
+*** RIVER *** [Kd Ts 5c Ks] [Qd]
+35be9939: checks
+da729222: checks
+35be9939: shows [4h Kh] (three of a kind, Kings)
+da729222: shows [9s Ad] (a pair of Kings)
+*** SHOWDOWN ***
+35be9939 collected 2,005 from pot
+*** SUMMARY ***
+Total pot 2,005 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd Ts 5c Ks Qd]
+Seat 1: da729222 showed [9s Ad] and lost with a pair of Kings
+Seat 2: 982e042f folded before Flop
+Seat 4: Hero (button) folded on the Flop
+Seat 5: 3e0c37dd (small blind) folded before Flop
+Seat 6: 35be9939 (big blind) showed [4h Kh] and won (2,005) with three of a kind, Kings
+Seat 7: 8a879b8a folded before Flop
+
+
+Poker Hand #TM91628395: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level1(25/50) - 2026/01/15 13:08:58
+Table '2' 8-max Seat #2 is the button
+Seat 1: da729222 (4,725 in chips)
+Seat 2: 982e042f (4,785 in chips)
+Seat 3: 33113717 (135 in chips)
+Seat 4: Hero (4,985 in chips)
+Seat 5: 3e0c37dd (4,985 in chips)
+Seat 6: 35be9939 (5,185 in chips)
+Seat 7: 8a879b8a (10,200 in chips)
+8a879b8a: posts the ante 5
+35be9939: posts the ante 5
+982e042f: posts the ante 5
+33113717: posts the ante 5
+Hero: posts the ante 5
+da729222: posts the ante 5
+3e0c37dd: posts the ante 5
+33113717: posts small blind 25
+Hero: posts big blind 50
+*** HOLE CARDS ***
+Dealt to da729222 
+Dealt to 982e042f 
+Dealt to 33113717 
+Dealt to Hero [8c Th]
+Dealt to 3e0c37dd 
+Dealt to 35be9939 
+Dealt to 8a879b8a 
+3e0c37dd: folds
+35be9939: folds
+8a879b8a: raises 50 to 100
+da729222: folds
+982e042f: folds
+33113717: raises 30 to 130 and is all-in
+Hero: folds
+8a879b8a: calls 30
+33113717: shows [Qd 7c]
+8a879b8a: shows [Kc 9c]
+*** FLOP *** [Js Qc 3c]
+*** TURN *** [Js Qc 3c] [Ks]
+*** RIVER *** [Js Qc 3c Ks] [2h]
+*** SHOWDOWN ***
+8a879b8a collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js Qc 3c Ks 2h]
+Seat 1: da729222 folded before Flop
+Seat 2: 982e042f (button) folded before Flop
+Seat 3: 33113717 (small blind) showed [Qd 7c] and lost with a pair of Queens
+Seat 4: Hero (big blind) folded before Flop
+Seat 5: 3e0c37dd folded before Flop
+Seat 6: 35be9939 folded before Flop
+Seat 7: 8a879b8a showed [Kc 9c] and won (345) with a pair of Kings
+
+
+Poker Hand #TM91628385: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level1(25/50) - 2026/01/15 13:07:58
+Table '2' 8-max Seat #1 is the button
+Seat 1: da729222 (4,840 in chips)
+Seat 2: 982e042f (4,815 in chips)
+Seat 3: 33113717 (5,100 in chips)
+Seat 4: Hero (4,990 in chips)
+Seat 5: 3e0c37dd (4,990 in chips)
+Seat 6: 35be9939 (5,300 in chips)
+Seat 7: 8a879b8a (4,965 in chips)
+8a879b8a: posts the ante 5
+35be9939: posts the ante 5
+982e042f: posts the ante 5
+33113717: posts the ante 5
+Hero: posts the ante 5
+da729222: posts the ante 5
+3e0c37dd: posts the ante 5
+982e042f: posts small blind 25
+33113717: posts big blind 50
+*** HOLE CARDS ***
+Dealt to da729222 
+Dealt to 982e042f 
+Dealt to 33113717 
+Dealt to Hero [8c 6s]
+Dealt to 3e0c37dd 
+Dealt to 35be9939 
+Dealt to 8a879b8a 
+Hero: folds
+3e0c37dd: folds
+35be9939: raises 60 to 110
+8a879b8a: calls 110
+da729222: calls 110
+982e042f: folds
+33113717: raises 4,985 to 5,095 and is all-in
+35be9939: folds
+8a879b8a: calls 4,850 and is all-in
+da729222: folds
+Uncalled bet (135) returned to 33113717
+33113717: shows [9s 9c]
+8a879b8a: shows [Kd Qc]
+*** FLOP *** [Qs Ah 4d]
+*** TURN *** [Qs Ah 4d] [6d]
+*** RIVER *** [Qs Ah 4d 6d] [4h]
+*** SHOWDOWN ***
+8a879b8a collected 10,200 from pot
+*** SUMMARY ***
+Total pot 10,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs Ah 4d 6d 4h]
+Seat 1: da729222 (button) folded before Flop
+Seat 2: 982e042f (small blind) folded before Flop
+Seat 3: 33113717 (big blind) showed [9s 9c] and lost with two pair, Nines and Fours
+Seat 4: Hero folded before Flop
+Seat 5: 3e0c37dd folded before Flop
+Seat 6: 35be9939 folded before Flop
+Seat 7: 8a879b8a showed [Kd Qc] and won (10,200) with two pair, Queens and Fours
+
+
+Poker Hand #TM91628383: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level1(25/50) - 2026/01/15 13:07:33
+Table '2' 8-max Seat #7 is the button
+Seat 1: da729222 (4,870 in chips)
+Seat 2: 982e042f (4,870 in chips)
+Seat 3: 33113717 (4,995 in chips)
+Seat 4: Hero (4,995 in chips)
+Seat 5: 3e0c37dd (4,995 in chips)
+Seat 6: 35be9939 (5,305 in chips)
+Seat 7: 8a879b8a (4,970 in chips)
+8a879b8a: posts the ante 5
+35be9939: posts the ante 5
+982e042f: posts the ante 5
+33113717: posts the ante 5
+Hero: posts the ante 5
+3e0c37dd: posts the ante 5
+da729222: posts the ante 5
+da729222: posts small blind 25
+982e042f: posts big blind 50
+*** HOLE CARDS ***
+Dealt to da729222 
+Dealt to 982e042f 
+Dealt to 33113717 
+Dealt to Hero [5d Qh]
+Dealt to 3e0c37dd 
+Dealt to 35be9939 
+Dealt to 8a879b8a 
+33113717: raises 50 to 100
+Hero: folds
+3e0c37dd: folds
+35be9939: folds
+8a879b8a: folds
+da729222: folds
+982e042f: folds
+Uncalled bet (50) returned to 33113717
+*** SHOWDOWN ***
+33113717 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: da729222 (small blind) folded before Flop
+Seat 2: 982e042f (big blind) folded before Flop
+Seat 3: 33113717 collected (160)
+Seat 4: Hero folded before Flop
+Seat 5: 3e0c37dd folded before Flop
+Seat 6: 35be9939 folded before Flop
+Seat 7: 8a879b8a (button) folded before Flop
+
+
+Poker Hand #TM91628374: Tournament #5573135, $8 Satellite to #33: $84 Crystal Ball [Mystery], 2 Seats Hold'em No Limit - Level1(25/50) - 2026/01/15 13:06:02
+Table '2' 8-max Seat #6 is the button
+Seat 1: da729222 (5,000 in chips)
+Seat 2: 982e042f (5,000 in chips)
+Seat 3: 33113717 (5,000 in chips)
+Seat 4: Hero (5,000 in chips)
+Seat 5: 3e0c37dd (5,000 in chips)
+Seat 6: 35be9939 (5,000 in chips)
+Seat 7: 8a879b8a (5,000 in chips)
+8a879b8a: posts the ante 5
+35be9939: posts the ante 5
+982e042f: posts the ante 5
+33113717: posts the ante 5
+Hero: posts the ante 5
+3e0c37dd: posts the ante 5
+da729222: posts the ante 5
+8a879b8a: posts small blind 25
+da729222: posts big blind 50
+*** HOLE CARDS ***
+Dealt to da729222 
+Dealt to 982e042f 
+Dealt to 33113717 
+Dealt to Hero [5h 8d]
+Dealt to 3e0c37dd 
+Dealt to 35be9939 
+Dealt to 8a879b8a 
+982e042f: raises 75 to 125
+33113717: folds
+Hero: folds
+3e0c37dd: folds
+35be9939: calls 125
+8a879b8a: folds
+da729222: calls 75
+*** FLOP *** [Kc Ks Qc]
+da729222: checks
+982e042f: checks
+35be9939: checks
+*** TURN *** [Kc Ks Qc] [9c]
+da729222: checks
+982e042f: checks
+35be9939: checks
+*** RIVER *** [Kc Ks Qc 9c] [2c]
+da729222: checks
+982e042f: checks
+35be9939: bets 327
+da729222: folds
+982e042f: folds
+Uncalled bet (327) returned to 35be9939
+*** SHOWDOWN ***
+35be9939 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc Ks Qc 9c 2c]
+Seat 1: da729222 (big blind) folded on the River
+Seat 2: 982e042f folded on the River
+Seat 3: 33113717 folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: 3e0c37dd folded before Flop
+Seat 6: 35be9939 (button) won (435)
+Seat 7: 8a879b8a (small blind) folded before Flop
+
+
