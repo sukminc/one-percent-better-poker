@@ -55,6 +55,11 @@ class Hand(Base):
     river_action = Column(String, nullable=True)              # hero river action
     river_bet_pct = Column(Float, nullable=True)
 
+    # ── Showdown ────────────────────────────────────────────────────────────────
+    hero_cards = Column(String, nullable=True)                # hero's hole cards, e.g. "As Kd"
+    showdown_hands = Column(JSON, nullable=True)              # dict of player: cards shown
+    showdown_winner = Column(String, nullable=True)           # player who won the pot
+
     # ── Result ───────────────────────────────────────────────────────────────────
     pot_size_bb = Column(Float, nullable=True)                # pot at start of hand in BBs
     result_bb = Column(Float, nullable=True)                  # net +/- BBs for this hand

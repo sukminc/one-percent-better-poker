@@ -83,7 +83,8 @@ async def ingest_hand_history(
         if already:
             continue
 
-        hand_row = models.Hand(tournament_id=tourney.id, **h)
+        db_fields = {k: v for k, v in h.items() if not k.startswith("_")}
+        hand_row = models.Hand(tournament_id=tourney.id, **db_fields)
         db.add(hand_row)
         parsed_hands.append(h)
         inserted += 1
@@ -151,6 +152,7 @@ def update_tournament(
     finish_position: Optional[int] = None,
     total_players: Optional[int] = None,
     net_result: Optional[float] = None,
+    date: Optional[str] = None,
     db: Session = Depends(get_db),
 ):
     t = db.query(models.Tournament).filter_by(id=tournament_id).first()
@@ -162,6 +164,9 @@ def update_tournament(
         t.total_players = total_players
     if net_result is not None:
         t.net_result = net_result
+    if date is not None:
+        from datetime import datetime
+        t.date = datetime.fromisoformat(date)
     db.commit()
     return {"updated": tournament_id}
 
@@ -206,6 +211,36 @@ def pnl_over_time(db: Session = Depends(get_db)):
 @app.get("/analytics/growth", summary="Exploit signal trends by week")
 def growth_timeline(hero_name: Optional[str] = None, db: Session = Depends(get_db)):
     return analytics.get_growth_timeline(db, hero_name)
+
+
+@app.get("/analytics/stage", summary="Exploit signals by tournament stage (stack depth)")
+def stage_stats(hero_name: Optional[str] = None, db: Session = Depends(get_db)):
+    return analytics.get_stage_stats(db, hero_name)
+
+
+@app.get("/analytics/fish-report", summary="Per-tournament fish density + exploitation score")
+def fish_report(hero_name: Optional[str] = None, db: Session = Depends(get_db)):
+    return analytics.get_fish_report(db, hero_name)
+
+
+@app.get("/analytics/reckless-allin", summary="Reckless all-in patterns detection")
+def reckless_allin_signals(hero_name: Optional[str] = None, db: Session = Depends(get_db)):
+    return analytics.get_reckless_allin_signals(db, hero_name)
+
+
+@app.get("/analytics/bad-hand-selection", summary="Bad hand selection in showdowns")
+def bad_hand_selection(hero_name: Optional[str] = None, db: Session = Depends(get_db)):
+    return analytics.get_bad_hand_selection(db, hero_name)
+
+
+@app.get("/analytics/luck-score", summary="Luck factor score")
+def luck_score(hero_name: Optional[str] = None, db: Session = Depends(get_db)):
+    return analytics.get_luck_score(db, hero_name)
+
+
+@app.get("/analytics/non-ideal-wins", summary="Non-ideal range wins")
+def non_ideal_range_wins(hero_name: Optional[str] = None, db: Session = Depends(get_db)):
+    return analytics.get_non_ideal_range_wins(db, hero_name)
 
 
 # ── Helpers ────────────────────────────────────────────────────────────────────

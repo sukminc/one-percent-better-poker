@@ -86,9 +86,10 @@ def test_split_hands_ignores_leading_garbage():
 
 # ── parse_hand ─────────────────────────────────────────────────────────────────
 
-HAND_TEMPLATE = """Poker Hand #RC1234-{num}: Tournament #999, $1/$2 No Limit Hold'em - 2026/01/02 01:22:00
+HAND_TEMPLATE = """Poker Hand #RC1234-{num}: Tournament #999, Hold'em No Limit - 2026/01/02 01:22:00
 Table '999 1' {seats}-max
-#1 is the button
+Seat #1 is the button
+Level1(1/1)
 {seat_lines}
 *** HOLE CARDS ***
 Dealt to {hero} [Ah Kd]
@@ -99,8 +100,8 @@ Dealt to {hero} [Ah Kd]
 
 
 def _make_hand(num="56789", seats=2, seat_names=None, hero="Hero",
-               actions="Villain: raises $200 to $400\nHero: folds",
-               summary="Villain collected $200"):
+               actions="Villain: raises 200 to 400\nHero: folds",
+               summary="Villain collected 200"):
     if seat_names is None:
         seat_names = ["Hero", "Villain"][:seats]
     seat_lines = "\n".join(
@@ -118,7 +119,7 @@ def test_parse_hand_basic():
     hand = parse_hand(text, hero_name="Hero")
     assert hand is not None
     assert hand["hero_name"] == "Hero"
-    assert hand["action"] == "folds"
+    assert hand["action"] == "fold"
     assert hand["action_street"] == "preflop"
 
 
@@ -140,46 +141,47 @@ def test_parse_hand_returns_none_for_invalid_block():
 
 
 def test_parse_hand_call_action():
-    actions = "Villain: raises $200 to $400\nHero: calls $400"
+    actions = "Villain: raises 200 to 400\nHero: calls 400"
     hand = parse_hand(_make_hand(actions=actions), hero_name="Hero")
-    assert hand["action"] == "calls"
+    assert hand["action"] == "call"
 
 
 def test_parse_hand_raise_action():
-    actions = "Hero: raises $200 to $400"
+    actions = "Hero: raises 200 to 400"
     hand = parse_hand(_make_hand(actions=actions), hero_name="Hero")
-    assert hand["action"] == "raises"
+    assert hand["action"] == "raise"
 
 
 def test_parse_hand_check_action():
     actions = "Hero: checks"
     hand = parse_hand(_make_hand(actions=actions), hero_name="Hero")
-    assert hand["action"] == "checks"
+    assert hand["action"] == "check"
 
 
 def test_parse_hand_flop_action():
     actions = (
-        "Villain: raises $200 to $400\n"
-        "Hero: calls $400\n"
+        "Villain: raises 200 to 400\n"
+        "Hero: calls 400\n"
         "*** FLOP *** [Ac 2d 7h]\n"
         "Hero: checks\n"
-        "Villain: bets $300\n"
+        "Villain: bets 300\n"
         "Hero: folds"
     )
     hand = parse_hand(_make_hand(actions=actions), hero_name="Hero")
     # Hero's first action is preflop call
-    assert hand["action"] == "calls"
+    assert hand["action"] == "call"
     assert hand["action_street"] == "preflop"
 
 
 def test_parse_hand_hero_first_action_is_postflop():
+    # Hero never acts preflop (e.g. checks BB option) → first action is on flop
     actions = (
-        "Villain: raises $200 to $400\n"
+        "Villain: raises 200 to 400\n"
         "*** FLOP *** [Ac 2d 7h]\n"
-        "Hero: bets $300"
+        "Hero: bets 300"
     )
     hand = parse_hand(_make_hand(actions=actions), hero_name="Hero")
-    assert hand["action"] == "bets"
+    assert hand["action"] == "bet"
     assert hand["action_street"] == "flop"
 
 
@@ -236,6 +238,55 @@ def test_parse_hand_position_bb():
     assert hand["position"] == "BB"
 
 
+# ── Donk bet detection ─────────────────────────────────────────────────────────
+
+def test_donk_bet_true_when_hero_raised_preflop_and_opponent_leads_flop():
+    """Opponent leads into hero who was preflop aggressor = donk bet."""
+    # Hero is BTN (IP), raises preflop. BB calls. BB donks the flop.
+    actions = (
+        "Hero: raises 200 to 400\n"
+        "Villain: calls 400\n"
+        "*** FLOP *** [Ac 2d 7h]\n"
+        "Villain: bets 300\n"
+        "Hero: folds"
+    )
+    hand = parse_hand(_make_hand(actions=actions), hero_name="Hero")
+    assert hand["facing_donk_bet"] is True
+
+
+def test_donk_bet_false_when_hero_called_preflop_and_opponent_cbets():
+    """Opponent c-bets after being the preflop raiser = NOT a donk bet."""
+    # 3-seat: Btn(seat1), Villain(seat2/SB), Hero(seat3/BB)
+    # Hero is BB (OOP), calls Villain's raise. Villain (IP) c-bets flop.
+    actions = (
+        "Villain: raises 200 to 400\n"
+        "Hero: calls 400\n"
+        "*** FLOP *** [Ac 2d 7h]\n"
+        "Villain: bets 300\n"
+        "Hero: folds"
+    )
+    hand = parse_hand(
+        _make_hand(seats=3, seat_names=["Btn", "Villain", "Hero"], actions=actions,
+                   summary="Villain collected 700"),
+        hero_name="Hero",
+    )
+    assert hand["facing_donk_bet"] is False
+
+
+def test_donk_bet_flop_action_captured():
+    """When facing a real donk bet, hero's flop response is recorded."""
+    actions = (
+        "Hero: raises 200 to 400\n"
+        "Villain: calls 400\n"
+        "*** FLOP *** [Ac 2d 7h]\n"
+        "Villain: bets 300\n"
+        "Hero: calls 300"
+    )
+    hand = parse_hand(_make_hand(actions=actions), hero_name="Hero")
+    assert hand["facing_donk_bet"] is True
+    assert hand["flop_action"] == "call"
+
+
 def test_parse_hand_position_utg():
     # 4-player, button is #1, Hero is seat 4 → UTG (rel=3)
     hand = parse_hand(
@@ -243,3 +294,64 @@ def test_parse_hand_position_utg():
         hero_name="Hero",
     )
     assert hand["position"] == "UTG"
+
+
+# ── Opponent sizing inconsistency (limp vs raise tell) ─────────────────────────
+
+from app.parser import compute_session_context
+
+
+def _make_parsed_hand(opener_name=None, opener_size_bb=None, limper_names=None):
+    """Minimal parsed hand dict for compute_session_context tests."""
+    return {
+        "hand_number": f"HN-{id(object())}",
+        "opponent_limped": bool(limper_names),
+        "facing_open_size_bb": opener_size_bb,
+        "facing_oversize_cbet": False,
+        "facing_donk_bet": False,
+        "_limper_names": limper_names or [],
+        "_opener_name": opener_name,
+    }
+
+
+def test_session_context_inconsistent_sizer_limp_then_raise():
+    """PlayerA limps in hand 1, raises big in hand 2 → flagged as inconsistent."""
+    hands = [
+        _make_parsed_hand(limper_names=["PlayerA"]),           # hand 1: PlayerA limps
+        _make_parsed_hand(opener_name="PlayerA", opener_size_bb=6.0),  # hand 2: PlayerA raises 6x
+    ]
+    ctx = compute_session_context(hands)
+    assert ctx["inconsistent_sizer_count"] >= 1
+    assert ctx["inconsistent_sizer_pct"] > 0
+
+
+def test_session_context_inconsistent_sizer_raise_then_limp():
+    """PlayerB raises consistently, then suddenly limps → flagged."""
+    hands = [
+        _make_parsed_hand(opener_name="PlayerB", opener_size_bb=4.0),
+        _make_parsed_hand(opener_name="PlayerB", opener_size_bb=4.0),
+        _make_parsed_hand(limper_names=["PlayerB"]),  # suddenly limps
+    ]
+    ctx = compute_session_context(hands)
+    assert ctx["inconsistent_sizer_count"] >= 1
+
+
+def test_session_context_consistent_raiser_not_flagged():
+    """PlayerC always raises 3BB → NOT flagged as inconsistent."""
+    hands = [
+        _make_parsed_hand(opener_name="PlayerC", opener_size_bb=3.0),
+        _make_parsed_hand(opener_name="PlayerC", opener_size_bb=3.0),
+        _make_parsed_hand(opener_name="PlayerC", opener_size_bb=3.5),
+    ]
+    ctx = compute_session_context(hands)
+    assert ctx["inconsistent_sizer_count"] == 0
+
+
+def test_session_context_consistent_limper_not_flagged():
+    """PlayerD always limps → NOT flagged (that's just their style, readable but consistent)."""
+    hands = [
+        _make_parsed_hand(limper_names=["PlayerD"]),
+        _make_parsed_hand(limper_names=["PlayerD"]),
+    ]
+    ctx = compute_session_context(hands)
+    assert ctx["inconsistent_sizer_count"] == 0

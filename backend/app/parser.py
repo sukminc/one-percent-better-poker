@@ -193,6 +193,19 @@ def parse_hand(hand_text: str, hero_name: Optional[str] = None) -> Optional[dict
         hero_ip=hero_ip,
     )
 
+    # ── Action resolution ──────────────────────────────────────────────────────
+    # If hero never acted preflop, use first postflop action (e.g. limped in as BB).
+    hero_pf_action = preflop.get("hero_first_action")
+    action, action_street = "fold", "preflop"
+    if hero_pf_action is not None:
+        action = hero_pf_action
+    else:
+        for s_name, s_data in [("flop", flop), ("turn", turn), ("river", river)]:
+            if s_data.get("hero_action") is not None:
+                action = s_data["hero_action"]
+                action_street = s_name
+                break
+
     # ── Result ─────────────────────────────────────────────────────────────────
     total_invested = (
         antes.get(hero, 0)
@@ -203,6 +216,9 @@ def parse_hand(hand_text: str, hero_name: Optional[str] = None) -> Optional[dict
     )
     result_bb = _detect_result_bb(hand_text, hero, big_blind, total_invested)
 
+    # ── Showdown parsing ───────────────────────────────────────────────────────
+    showdown = _parse_showdown(hand_text, hero)
+
     return {
         "hand_number": hand_number,
         "hero_name": hero,
@@ -211,8 +227,8 @@ def parse_hand(hand_text: str, hero_name: Optional[str] = None) -> Optional[dict
         "stack_bb": stack_bb,
 
         # Preflop
-        "action_street": preflop.get("hero_street", "preflop"),
-        "action": preflop.get("hero_first_action", "fold"),
+        "action_street": action_street,
+        "action": action,
         "hero_raise_bb": preflop.get("hero_raise_bb"),
         "opponent_limped": preflop.get("opponent_limped", False),
         "facing_limp": preflop.get("facing_limp", False),
@@ -230,9 +246,18 @@ def parse_hand(hand_text: str, hero_name: Optional[str] = None) -> Optional[dict
         "river_action": river.get("hero_action"),
         "river_bet_pct": river.get("hero_bet_pct"),
 
+        # Showdown
+        "hero_cards": showdown.get("hero_cards"),
+        "showdown_hands": showdown.get("showdown_hands", {}),
+        "showdown_winner": showdown.get("winner"),
+
         # Result
         "pot_size_bb": round(preflop["pot"] / big_blind, 1),
         "result_bb": result_bb,
+
+        # Session context fields (not stored in DB — stripped in main.py before insertion)
+        "_limper_names": preflop.get("_limper_names", []),
+        "_opener_name": preflop.get("_opener_name"),
     }
 
 
@@ -322,6 +347,8 @@ def _parse_preflop(
     facing_open_size_bb = None
     hero_invested = committed.get(hero, 0)  # already committed (blind/ante-related)
     hero_street = "preflop"
+    limper_names: list[str] = []
+    opener_name: Optional[str] = None
 
     for m in ACTION_LINE_RE.finditer(preflop_text):
         player = m.group(1)
@@ -342,6 +369,8 @@ def _parse_preflop(
                     opponent_limped = True
                     if not hero_acted:
                         facing_limp = True
+                    if player not in limper_names:
+                        limper_names.append(player)
                 committed[player] = prev + amount
                 pot += amount
 
@@ -353,6 +382,7 @@ def _parse_preflop(
                 if not has_raise:
                     # Open raise by opponent (before hero acts)
                     has_raise = True
+                    opener_name = player
                     if not hero_acted:
                         facing_open_size_bb = round(total / big_blind, 1)
                 current_bet = total
@@ -404,7 +434,7 @@ def _parse_preflop(
 
     return {
         "pot": max(pot, 0),
-        "hero_first_action": hero_first_action or "fold",
+        "hero_first_action": hero_first_action,   # None if hero never acted preflop
         "hero_raise_bb": hero_raise_bb,
         "hero_invested": hero_invested,
         "hero_street": "preflop",
@@ -413,6 +443,8 @@ def _parse_preflop(
         "hero_iso_raised": hero_iso_raised,
         "hero_3bet": hero_3bet,
         "facing_open_size_bb": facing_open_size_bb,
+        "_limper_names": limper_names,
+        "_opener_name": opener_name,
     }
 
 
@@ -487,8 +519,8 @@ def _parse_postflop_street(
                     bet_pct = round(amount / pot * 100) if pot > 0 else 0
                     if bet_pct > 75:
                         facing_oversize_cbet = True
-                    # Donk bet: opponent leads when hero was aggressor (or IP player leads OOP)
-                    if hero_was_aggressor or (not hero_ip):
+                    # Donk bet: opponent leads into hero who was the preflop aggressor
+                    if hero_was_aggressor:
                         facing_donk_bet = True
                 pot += amount
                 committed[player] = committed.get(player, 0) + amount
@@ -518,6 +550,30 @@ def _parse_postflop_street(
         "hero_invested": hero_invested,
         "facing_oversize_cbet": facing_oversize_cbet,
         "facing_donk_bet": facing_donk_bet,
+    }
+
+
+def _parse_showdown(showdown_text: str, hero: str) -> dict:
+    """
+    Parse showdown from the entire hand text.
+    Returns hero_cards, showdown_hands (dict player: cards), winner.
+    """
+    # Find all shows in the hand
+    shows = SHOWDOWN_RE.findall(showdown_text)
+    showdown_hands = {player: cards for player, cards in shows}
+    hero_cards = showdown_hands.get(hero)
+    
+    # Find winner from collected
+    collected_re = re.compile(r"(\S+) collected ([\d,]+) from pot", re.MULTILINE)
+    winner = None
+    for m in collected_re.finditer(showdown_text):
+        winner = m.group(1)
+        break
+
+    return {
+        "hero_cards": hero_cards,
+        "showdown_hands": showdown_hands,
+        "winner": winner,
     }
 
 
@@ -551,6 +607,32 @@ def compute_session_context(hands: list[dict]) -> dict:
     oversize_cbet_hands = sum(1 for h in hands if h.get("facing_oversize_cbet"))
     donk_bet_hands = sum(1 for h in hands if h.get("facing_donk_bet"))
 
+    # Table dynamics: fish vs reg signal per hand
+    fish_hands = sum(1 for h in hands if _session_is_fish(h))
+    reg_hands = sum(1 for h in hands if _session_is_reg(h))
+    fish_pct = round(fish_hands / total * 100, 1)
+    reg_pct = round(reg_hands / total * 100, 1)
+
+    if fish_pct >= 40.0:
+        table_dynamic = "fishy"
+    elif reg_pct >= 50.0:
+        table_dynamic = "reg"
+    else:
+        table_dynamic = "mixed"
+
+    # Sizing inconsistency: players who showed BOTH limps AND raises in this session
+    # These players have a readable tell (limp-trap or open-then-limp-trap)
+    player_limped: set[str] = set()
+    player_raised: set[str] = set()
+    for h in hands:
+        for name in h.get("_limper_names", []):
+            player_limped.add(name)
+        opener = h.get("_opener_name")
+        if opener:
+            player_raised.add(opener)
+    inconsistent_sizers = player_limped & player_raised  # showed both behaviors
+    inconsistent_count = len(inconsistent_sizers)
+
     return {
         "total_hands": total,
         "opponent_limp_count": limp_hands,
@@ -561,9 +643,29 @@ def compute_session_context(hands: list[dict]) -> dict:
         "oversize_cbet_pct": round(oversize_cbet_hands / total * 100, 1),
         "donk_bet_count": donk_bet_hands,
         "donk_bet_pct": round(donk_bet_hands / total * 100, 1),
+        "fish_pct": fish_pct,
+        "reg_pct": reg_pct,
+        "table_dynamic": table_dynamic,
+        # Inconsistent sizers: players who showed both limp AND raise in same session
+        # → readable tell (trap limp or open-then-limp trap)
+        "inconsistent_sizer_count": inconsistent_count,
+        "inconsistent_sizer_pct": round(inconsistent_count / total * 100, 1),
         # Bingo play: opponents going all-in preflop relative to stack depth
-        # Approximated by oversize opens (≥10BB) as chaotic play indicator
         "bingo_play_index": round(
             sum(1 for h in hands if (h.get("facing_open_size_bb") or 0) >= 10) / total * 100, 1
         ),
     }
+
+
+def _session_is_fish(h: dict) -> bool:
+    if h.get("opponent_limped") or h.get("facing_donk_bet") or h.get("facing_oversize_cbet"):
+        return True
+    open_bb = h.get("facing_open_size_bb")
+    return open_bb is not None and open_bb >= 4.0
+
+
+def _session_is_reg(h: dict) -> bool:
+    if _session_is_fish(h):
+        return False
+    open_bb = h.get("facing_open_size_bb")
+    return open_bb is not None and 2.0 <= open_bb <= 3.5
