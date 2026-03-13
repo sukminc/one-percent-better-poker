@@ -199,7 +199,9 @@ def get_growth_timeline(db: Session, hero_name: Optional[str] = None) -> list[di
             "hero_iso_raised": hand.hero_iso_raised or False,
             "facing_open": hand.facing_open_size_bb is not None,
             "hero_3bet": hand.hero_3bet or False,
-            "raiser_saw_flop": hand.action == "raise" and hand.flop_action is not None,
+            "raiser_saw_flop": (
+                hand.action == "raise" and hand.flop_action is not None
+            ),
             "cbet": hand.flop_action == "bet" if hand.action == "raise" else False,
             "turn_barrel": hand.turn_action == "bet" if hand.flop_action == "bet" else False,
         })
@@ -270,7 +272,9 @@ def get_stage_stats(db: Session, hero_name: Optional[str] = None) -> list[dict]:
         iso = [h for h in limp_sit if h.hero_iso_raised]
         facing_raise = [h for h in grp if h.facing_open_size_bb is not None]
         three_bets = [h for h in facing_raise if h.hero_3bet]
-        cbet_opps = [h for h in grp if h.action == "raise" and h.flop_action is not None]
+        cbet_opps = [
+            h for h in grp if h.action == "raise" and h.flop_action is not None
+        ]
         cbets = [h for h in cbet_opps if h.flop_action == "bet"]
         result.append({
             "stage": stage,
@@ -290,9 +294,11 @@ def get_fish_report(db: Session, hero_name: Optional[str] = None) -> list[dict]:
     """
     Per-tournament fish density + hero exploitation score.
 
-    Fish density: how fishy the field was (limps, donk bets, oversize opens).
+    Fish density: how fishy the field was
+    (limps, donk bets, oversize opens).
     Exploit score (0-100): how well hero exploited the fish patterns.
-      = weighted avg of limp_iso_rate (40%), cbet_freq (35%), three_bet_rate (25%).
+      = weighted avg of limp_iso_rate (40%), cbet_freq (35%),
+        three_bet_rate (25%).
     """
     tournaments = db.query(models.Tournament).order_by(models.Tournament.date.desc()).all()
     if not tournaments:
@@ -331,7 +337,9 @@ def get_fish_report(db: Session, hero_name: Optional[str] = None) -> list[dict]:
             sum(1 for h in facing_raise if h.hero_3bet), len(facing_raise)
         ) or 0.0
 
-        cbet_opps = [h for h in hands if h.action == "raise" and h.flop_action is not None]
+        cbet_opps = [
+            h for h in hands if h.action == "raise" and h.flop_action is not None
+        ]
         cbet_r = _pct(
             sum(1 for h in cbet_opps if h.flop_action == "bet"), len(cbet_opps)
         ) or 0.0
@@ -512,7 +520,7 @@ def _is_weak_hand(cards: str) -> bool:
     """Simple weak hand detector: no pair, not suited connectors."""
     if not cards:
         return True
-    ranks = {'2':2, '3':3, '4':4, '5':5, '6':6, '7':7, '8':8, '9':9, 'T':10, 'J':11, 'Q':12, 'K':13, 'A':14}
+    ranks = {'2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, 'T': 10, 'J': 11, 'Q': 12, 'K': 13, 'A': 14}
     suits = set()
     card_ranks = []
     for card in cards.split():
@@ -524,7 +532,7 @@ def _is_weak_hand(cards: str) -> bool:
         return False
     if len(suits) == 1:  # suited
         return False
-    return True  # weak if not pair, not connectors, not suited
+    return True  # weak if not pair/connector/suited
 
 
 def _empty_signals() -> dict:
