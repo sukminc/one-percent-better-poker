@@ -1,39 +1,32 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
-import { Roboto_Mono } from "next/font/google";
 import "./globals.css";
-
-const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
-  display: "swap",
-});
-
-const robotoMono = Roboto_Mono({
-  variable: "--font-roboto-mono",
-  subsets: ["latin"],
-  display: "swap",
-});
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://onepercentbetter.poker"),
-  title: "onepercentbetter.poker — GTO Defends. We Exploit.",
+  title: "1% Better Poker",
   description:
-    "I built a full-stack poker analytics platform using AI. It parses GGPoker hand histories, quantifies opponent GTO deviations, and surfaces actionable bb/100 exploit edges. Built by Sukmin Yoon.",
+    "Exploit Better is a poker analysis tool built to help you find leaks, map fish patterns, and get 1% better than yesterday.",
+  icons: {
+    icon: [
+      { url: "/icon", sizes: "512x512", type: "image/png" },
+    ],
+    shortcut: "/icon",
+    apple: "/apple-icon",
+  },
   openGraph: {
-    title: "onepercentbetter.poker — GTO Defends. We Exploit.",
+    title: "1% Better Poker",
     description:
-      "Full-stack poker exploit engine built with AI. Parses GGPoker hand histories to quantify GTO deviations and surface bb/100 edges. Built by Sukmin Yoon.",
+      "Find the leak. Exploit it. Get 1% better than yesterday.",
     url: "https://onepercentbetter.poker",
-    siteName: "onepercentbetter.poker",
+    siteName: "1% Better Poker",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "onepercentbetter.poker — GTO Defends. We Exploit.",
+    title: "1% Better Poker",
     description:
-      "Full-stack poker exploit engine built with AI. Parses GGPoker hand histories to quantify GTO deviations and surface bb/100 edges.",
+      "Find the leak. Exploit it. Get 1% better than yesterday.",
   },
 };
 
@@ -44,9 +37,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="scroll-smooth">
-      <body className={`${inter.variable} ${robotoMono.variable} antialiased`}>
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }

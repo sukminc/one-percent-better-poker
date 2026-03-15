@@ -15,6 +15,9 @@ node_modules/
 # Next.js
 .next/
 out/
+frontend/.design-previews/
+frontend/playwright-report/
+frontend/test-results/
 
 # Environment
 .venv/
