@@ -1,6 +1,13 @@
 # one-percent-better-poker
 
-GGPoker tournament hand history analyzer. Fish exploitation tracking + player growth scoring.
+Backend and product engine for `Exploit Better`.
+
+This repo supports the main poker commercial experiment.
+Keep the product loop narrow:
+
+- one tournament
+- three habits
+- one adjustment
 
 ## Tech Stack
 
@@ -24,6 +31,7 @@ cd backend && python3 -m pytest tests/ -v
 - **No Claude AI in MVP** (cost). Analytics only.
 - GGPoker Ontario anonymizes usernames — no cross-session opponent tracking.
 - Stack depth = tournament stage proxy: early >30BB, mid 15-30BB, late <15BB.
+- The repo should support monetizable report clarity before broader platform scope.
 
 ## Completed Work
 

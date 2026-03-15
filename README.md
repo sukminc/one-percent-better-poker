@@ -1,15 +1,32 @@
-# One Percent Better Poker
+# 1% Better - Exploit Better
 
-GGPoker tournament hand history analyzer. Fish exploitation tracking + player growth scoring.
+Product engine for the main poker commercial experiment.
+
+The product promise is intentionally narrow:
+
+- one tournament review
+- three repeated habits
+- one next-session adjustment
+
+This repo contains the analysis engine behind that promise. It should stay grounded in a clear paid-use case, not expand into a broad poker platform before the core loop earns it.
 
 ## Features
 
-- **Hand History Parsing**: Full GGPoker .txt file parsing with preflop/postflop multi-street analysis
-- **Exploit Signal Tracking**: VPIP, PFR, 3-bet rates, c-bet frequencies, barreling patterns
-- **Fish Detection**: Automatic identification of weak players and table dynamics
+- **Hand History Parsing**: Full GGPoker `.txt` parsing with preflop and postflop multi-street analysis
+- **Exploit Signal Tracking**: VPIP, PFR, 3-bet rates, c-bet frequencies, and barreling patterns
+- **Fish Detection**: Identification of weak-player patterns and table dynamics
 - **Growth Analytics**: Weekly trends in exploit signals to track improvement
-- **Advanced Metrics**: Reckless all-in detection, bad hand selection analysis, luck factor scoring
+- **Advanced Metrics**: Reckless all-in detection, bad hand selection analysis, and luck-factor scoring
 - **Tournament Summary**: P&L tracking and cumulative performance over time
+
+## Repo Role
+
+Use this repo to sharpen product clarity for `Exploit Better`:
+
+- make the single-tournament review feel valuable
+- produce insight that a player would pay for
+- avoid turning the MVP into a theory-heavy study suite
+- keep monetization tied to a believable first report
 
 ## Tech Stack
 
@@ -58,7 +75,3 @@ Once the server is running, visit `http://localhost:8000/docs` for interactive A
 ## Development
 
 This project follows TDD (Test-Driven Development) principles. Always write failing tests first, then implement the feature.
-
-## License
-
-MIT License
